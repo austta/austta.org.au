@@ -15,4 +15,3 @@ markdown: kramdown
 
 exclude:
 - README.md
-- LICENSE
