@@ -15,3 +15,4 @@ markdown: kramdown
 
 exclude:
 - README.md
+- fixups_sh

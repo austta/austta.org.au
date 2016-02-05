@@ -17,6 +17,7 @@ There are a number of ways:
     $ git clone https://github.com/austta/austta.org.au.git
     $ cd austta.org.au
     $ jekyll build
+    $ sh fixups_sh
 The website is built for you in the _site directory
 
 ## Installing the website

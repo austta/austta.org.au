@@ -1,0 +1,15 @@
+set -u
+# Jekyll creates .html files, the site uses .htm apart from index.html
+# for the moment
+for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
+   do
+     TRUNC_PATH=${THIS_FILE#_site/}
+     # Look for a MarkDown file
+     if [ -f ${TRUNC_PATH/%.html/.md} ] 
+      then
+        mv $THIS_FILE ${THIS_FILE/%.html/.htm}
+      fi
+  done
+# copy in and rename PDFs
+cp ../mailouts/"ATA DL Feb16.pdf" _site
+cp ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
