@@ -11,5 +11,599 @@ for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
       fi
   done
 # copy in and rename PDFs
-cp ../mailouts/"ATA DL Feb16.pdf" _site
-cp ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
+cp -p ../mailouts/"ATA DL Feb16.pdf" _site
+cp -p ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
+# bulk load of old PDFs and Gifs etc
+while IFS= read -r line; do
+  cp -p ../old_site/"$line" _site
+done <<END_OLD
+2014 April.pdf
+AATTC Annual Report 2011-2012.pdf
+AATTC Australian Railways TT list.pdf
+ATA Auction 72 Catalogue Dec 2015.pdf
+ATA DL Dec 15.pdf
+ATA DL Jan16.pdf
+ATA Table Talk 2014 August.pdf
+ATA Table Talk 2014 December.pdf
+ATA Table Talk 2014 July.pdf
+ATA Table Talk 2014 June.pdf
+ATA Table Talk 2014 May.pdf
+ATA Table Talk 2014 Nov.pdf
+ATA Table Talk 2014 Oct.pdf
+ATA Table Talk 2014 Sept.pdf
+ATA Table Talk 201501 January.pdf
+ATA Table Talk 201502 February.pdf
+ATA Table Talk 201503 March.pdf
+ATA Table Talk 201504 April.pdf
+ATA Table Talk 201505 May.pdf
+ATA Table Talk 201506 June.pdf
+ATA Table Talk 201507 July.pdf
+ATA Table Talk 201508 August.pdf
+ATA Table Talk 201509 September.pdf
+ATA Table Talk 201510 October.pdf
+ATAAUCTION.pdf
+ATAAnnualReport2014-2015.pdf
+ATADL.pdf
+Auction Catalogue 73 Jan 2016.pdf
+Author guide for ATA The Times.pdf
+Members News December 2015.pdf
+Members Newsletter June 06.pdf
+Membershipform.pdf
+Modelrules.pdf
+Table Talk 200401 final2.pdf
+Table Talk 200402 final.pdf
+Table Talk 200403 final1.pdf
+Table Talk 200404 final.pdf
+Table Talk 200405.pdf
+Table Talk 200406 v2.pdf
+Table Talk 200407 final.pdf
+Table Talk 200408 final.pdf
+Table Talk 200409.pdf
+Table Talk 200410.pdf
+Table Talk 200411.pdf
+Table Talk 2009 April.pdf
+Table Talk 2009 August.pdf
+Table Talk 2009 July.pdf
+Table Talk 2009 June.pdf
+Table Talk 2009 May.pdf
+Table Talk 2009 November.pdf
+Table Talk 2009 October.pdf
+Table Talk 2009 Sept.pdf
+Table Talk 2010 August.pdf
+Table Talk 2010 December.pdf
+Table Talk 2010 Feb.pdf
+Table Talk 2010 January.pdf
+Table Talk 2010 July.pdf
+Table Talk 2010 November.pdf
+Table Talk 2010 October.pdf
+Table Talk 2010 Sept.pdf
+Table Talk 2011 April.pdf
+Table Talk 2011 August.pdf
+Table Talk 2011 December.pdf
+Table Talk 2011 February.pdf
+Table Talk 2011 July.pdf
+Table Talk 2011 June.pdf
+Table Talk 2011 March.pdf
+Table Talk 2011 May.pdf
+Table Talk 2011 Nov.pdf
+Table Talk 2011 Oct.pdf
+Table Talk 2011 Sept.pdf
+Table Talk 2012 April.pdf
+Table Talk 2012 August.pdf
+Table Talk 2012 December.pdf
+Table Talk 2012 February.pdf
+Table Talk 2012 January.pdf
+Table Talk 2012 June.pdf
+Table Talk 2012 May.pdf
+Table Talk 2012 November.pdf
+Table Talk 2012 October.pdf
+Table Talk 2012 Sept.pdf
+Table Talk 2013 April.pdf
+Table Talk 2013 August.pdf
+Table Talk 2013 December.pdf
+Table Talk 2013 January.pdf
+Table Talk 2013 July.pdf
+Table Talk 2013 June.pdf
+Table Talk 2013 March.pdf
+Table Talk 2013 May.pdf
+Table Talk 2013 November.pdf
+Table Talk 2013 October.pdf
+Table Talk 2013 Sept.pdf
+Table Talk 2014 February.pdf
+Table Talk 2014 January.pdf
+Table Talk 2014 March.pdf
+Table Talk April 2003.pdf
+Table Talk April 2005.pdf
+Table Talk April 2006.pdf
+Table Talk April 2007.pdf
+Table Talk April 2008.pdf
+Table Talk Aug 2005.pdf
+Table Talk August 2003A.pdf
+Table Talk August 2006.pdf
+Table Talk August 2007.pdf
+Table Talk August 2008.pdf
+Table Talk Dec 2005.pdf
+Table Talk Dec 2006.pdf
+Table Talk Dec 2008.pdf
+Table Talk December 2007.pdf
+Table Talk Feb 2003A.pdf
+Table Talk Feb 2005.pdf
+Table Talk Feb 2006.pdf
+Table Talk Feb 2008.pdf
+Table Talk Feb 2009.pdf
+Table Talk February 2007.pdf
+Table Talk Jan 2005.pdf
+Table Talk Jan 2006.pdf
+Table Talk Jan 2008.pdf
+Table Talk Jan 2009.pdf
+Table Talk January 2007.pdf
+Table Talk January 2011.pdf
+Table Talk Jul 2005.pdf
+Table Talk July 2006.pdf
+Table Talk July 2008.pdf
+Table Talk July2007.pdf
+Table Talk June 2003.pdf
+Table Talk June 2005.pdf
+Table Talk June 2006.pdf
+Table Talk June 2008.pdf
+Table Talk June 2010.pdf
+Table Talk Mar 2005.pdf
+Table Talk Mar 2009.pdf
+Table Talk March 2003.pdf
+Table Talk March 2006.pdf
+Table Talk March 2007.pdf
+Table Talk March 2008.pdf
+Table Talk March 2012.pdf
+Table Talk May 2003.pdf
+Table Talk May 2005.pdf
+Table Talk May 2006.pdf
+Table Talk May 2007.pdf
+Table Talk May 2008.pdf
+Table Talk Nov 2005.pdf
+Table Talk Nov 2008.pdf
+Table Talk November 2006.pdf
+Table Talk November 2007.pdf
+Table Talk Oct 2008.pdf
+Table Talk October 2005.pdf
+Table Talk October 2006.pdf
+Table Talk October 2007.pdf
+Table Talk Sep 2005.pdf
+Table Talk Sept 2006.pdf
+Table Talk Sept 2008.pdf
+Table talk 2013 February.pdf
+Table talk April 2010.pdf
+Table talk March 2010.pdf
+TableTalk 2012 July.pdf
+TableTalk May 2010.pdf
+Table_Talk_2009_December.pdf
+The Times April 2004W.pdf
+The Times April 2005W.pdf
+The Times April 2006W.pdf
+The Times April 2007.pdf
+The Times April 2008.pdf
+The Times April 2009w.pdf
+The Times April 2010.pdf
+The Times April 2011.pdf
+The Times August 2003S.pdf
+The Times August 2004W.pdf
+The Times August 2005.pdf
+The Times August 2006.pdf
+The Times August 2007.pdf
+The Times August 2008A.pdf
+The Times August 2009w.pdf
+The Times August 2010.pdf
+The Times August 2011.pdf
+The Times December 2003S.pdf
+The Times December 2005W.pdf
+The Times December 2006.pdf
+The Times December 2007.pdf
+The Times December 2008w.pdf
+The Times December 2009.pdf
+The Times December 2010.pdf
+The Times December 2011.pdf
+The Times Feb 2009w.pdf
+The Times February 2004S.pdf
+The Times February 2005W.pdf
+The Times February 2006W.pdf
+The Times February 2007.pdf
+The Times February 2008.pdf
+The Times February 2010.pdf
+The Times February 2011A.pdf
+The Times January 2004S.pdf
+The Times January 2005W.pdf
+The Times January 2006W.pdf
+The Times January 2007.pdf
+The Times January 2008.pdf
+The Times January 2009w.pdf
+The Times January 2010.pdf
+The Times January 2011.pdf
+The Times July 2003S.pdf
+The Times July 2004W.pdf
+The Times July 2005.pdf
+The Times July 2006W.pdf
+The Times July 2007.pdf
+The Times July 2008.pdf
+The Times July 2009w.pdf
+The Times July 2010.pdf
+The Times July 2011.pdf
+The Times June 2004W.pdf
+The Times June 2005.pdf
+The Times June 2006W.pdf
+The Times June 2007.pdf
+The Times June 2008w.pdf
+The Times June 2009w.pdf
+The Times June 2010.pdf
+The Times June 2011.pdf
+The Times March 2004S.pdf
+The Times March 2005W.pdf
+The Times March 2006W.pdf
+The Times March 2007.pdf
+The Times March 2008.pdf
+The Times March 2009w.pdf
+The Times March 2010.pdf
+The Times March 2011.pdf
+The Times May 2004W.pdf
+The Times May 2005.pdf
+The Times May 2006W.pdf
+The Times May 2007.pdf
+The Times May 2008.pdf
+The Times May 2009w.pdf
+The Times May 2010.pdf
+The Times May 2011.pdf
+The Times November 2003S.pdf
+The Times November 2004W.pdf
+The Times November 2005W.pdf
+The Times November 2006.pdf
+The Times November 2007.pdf
+The Times November 2008w.pdf
+The Times November 2009.pdf
+The Times November 2010.pdf
+The Times November 2011.pdf
+The Times October 2003S.pdf
+The Times October 2004W.pdf
+The Times October 2005W.pdf
+The Times October 2006.pdf
+The Times October 2007.pdf
+The Times October 2008w.pdf
+The Times October 2009.pdf
+The Times October 2010.pdf
+The Times October 2011.pdf
+The Times September 2003S.pdf
+The Times September 2004W.pdf
+The Times September 2005.pdf
+The Times September 2006.pdf
+The Times September 2007.pdf
+The Times September 2008.pdf
+The Times September 2009.pdf
+The Times September 2010.pdf
+The Times September 2011.pdf
+Times April 2000W.pdf
+Times April 2001A.pdf
+Times April 2002A.pdf
+Times April 2003 Web.pdf
+Times August 2000A.pdf
+Times August 2001W.pdf
+Times August 2002A.pdf
+Times December 1999W.pdf
+Times December 2000W.pdf
+Times December 2001A.pdf
+Times December 2002A.pdf
+Times February 2000A.pdf
+Times February 2001W.pdf
+Times February 2002W.pdf
+Times February 2003 Web.pdf
+Times January 2000A.pdf
+Times January 2001W.pdf
+Times January 2002W.pdf
+Times January 2003A.pdf
+Times July 2000A.pdf
+Times July 2001W.pdf
+Times July 2002A.pdf
+Times June 2000W.pdf
+Times June 2001W.pdf
+Times June 2002A.pdf
+Times June 2003 Web.pdf
+Times March 2000W.pdf
+Times March 2001W.pdf
+Times March 2002A.pdf
+Times March 2003 Web.pdf
+Times May 2000W.pdf
+Times May 2001A.pdf
+Times May 2002A.pdf
+Times May 2003 Web.pdf
+Times November 1999W.pdf
+Times November 2000W.pdf
+Times November 2001W.pdf
+Times November 2002A.pdf
+Times October 2000W.pdf
+Times October 2001W.pdf
+Times October 2002A.pdf
+Times September 2000W.pdf
+Times September 2001W.pdf
+Times September 2002A.pdf
+Timetable History Eastern.pdf
+Timetable History In#BAC8C9.pdf
+Timetable History No#BAC8D4.pdf
+Timetable History Northern.pdf
+Timetable History Pr#BAC8DE.pdf
+Timetable History Warringah.pdf
+Timetable History Western.pdf
+catalogue17.pdf
+newsletter.pdf
+BRISBANE.htm
+Coachtrantim.htm
+Greyhound.htm
+MVC list.htm
+McCaffertystim.htm
+NSW.htm
+Nationaltim.htm
+Pioneertim.htm
+SYDNEY.htm
+Timetable History Index.htm
+VICTORIA.htm
+VIP list.htm
+actiontimes.htm
+adelaidetim.htm
+bidform.htm
+brisbanepriv.htm
+chat.htm
+christmas.htm
+christmas2004.htm
+christmas2007.htm
+current.htm
+dates.htm
+fireflytim.htm
+histairlines.htm
+m7000.htm
+maychanges.htm
+melbchanges.htm
+melbourne.htm
+melbpocketTTlist.htm
+membship_old.htm
+newbustt.htm
+news.htm
+news2.htm
+northernt.htm
+otherexpress.htm
+perthchange.htm
+perthtims.htm
+qcountry.htm
+sacountry.htm
+stats.htm
+survey.htm
+sydtratt.htm
+tasmantims.htm
+test.htm
+times.htm
+times097.htm
+times197.htm
+times198.htm
+times199.htm
+times2.htm
+times298.htm
+times299.htm
+times397.htm
+times398.htm
+times399.htm
+times496.htm
+times497.htm
+times498.htm
+times499.htm
+times596.htm
+times597.htm
+times598.htm
+times696.htm
+times697.htm
+times698.htm
+times796.htm
+times798.htm
+times897.htm
+times898.htm
+times997.htm
+times998.htm
+timesd96.htm
+timesd98.htm
+timesn98.htm
+timeso98.htm
+timeso99.htm
+ttalk.htm
+wacountry.htm
+MVC_2.html
+2014 AATTC logo- no palaver-small.gif
+2014 AATTC logo.gif
+2014 ATA logo- no palaver-small.gif
+2014 ATA logo.gif
+AATTClogo.gif
+ATAlogo.gif
+Image1.gif
+Image22.gif
+Image23.gif
+Image28.gif
+Image29.gif
+Image30.gif
+Image31.gif
+Image32.gif
+Image33.gif
+Image34.gif
+Image36.gif
+Image37.gif
+Image39.gif
+Insig43a.gif
+Insig43b.gif
+Insig43c.gif
+Insig43d.gif
+anjet.gif
+banner.gif
+banner1.gif
+bullback.gif
+gardiner.gif
+gl1.gif
+gl2.gif
+gl3.gif
+gl4.gif
+gl5.gif
+insigh16.gif
+insigh17.gif
+insigh20.gif
+insigh21.gif
+insigh23.gif
+insigh24.gif
+insigh31.gif
+insigh32.gif
+insigh33.gif
+insigh34.gif
+insigh35.gif
+insigh36.gif
+insigh37.gif
+insigh40.gif
+insigh41.gif
+insigh44.gif
+insigh45.gif
+insigh53.gif
+insight8.gif
+insight9.gif
+lilydale.gif
+logo.gif
+logosmll.gif
+new.gif
+thetimes.gif
+tim19901.GIF
+tim19902.GIF
+tim19903.GIF
+tim19904.GIF
+tim19905.GIF
+tim19906.GIF
+tim19907.GIF
+tim19908.GIF
+tim19909.GIF
+tim19910.GIF
+tim19911.GIF
+tim19912.GIF
+tim19913.GIF
+tim19914.GIF
+tim29901.GIF
+tim29902.GIF
+tim29903.GIF
+tim29904.GIF
+tim29905.GIF
+tim29906.GIF
+tim39901.gif
+tim39902.gif
+tim39903.gif
+tim39904.gif
+tim39905.gif
+tim39906.gif
+tim39907.gif
+tim39908.gif
+tim39909.gif
+tim79801.gif
+tim79802.gif
+tim79803.gif
+tim79804.gif
+tim79805.gif
+tim79806.gif
+tim79807.gif
+tim79808.gif
+tim79809.gif
+tim79810.gif
+tim79811.gif
+tim79812.gif
+tim89801.gif
+tim89802.gif
+tim89803.gif
+tim89804.gif
+tim89805.gif
+tim99801.gif
+tim99802.gif
+tim99803.gif
+tim99804.gif
+timd9801.gif
+timd9802.gif
+timd9803.gif
+timd9804.gif
+timd9805.gif
+timd9806.gif
+timd9807.gif
+timd9808.gif
+timd9809.gif
+timd9810.gif
+timd9811.gif
+timeicon.gif
+times698.gif
+times897.gif
+timex698.gif
+timn9801.gif
+timn9803.gif
+timn9804.gif
+timo9801.gif
+timo9802.gif
+timo9803.gif
+timo9804.gif
+timo9805.gif
+timo9806.gif
+timo9807.gif
+timo9902.gif
+timo9915.gif
+timo9917.gif
+timo9918.gif
+timo9924.gif
+timo9926.gif
+tk980801.GIF
+tk980802.GIF
+tk980803.GIF
+tk980804.GIF
+tk980805.GIF
+tk980806.GIF
+tk980807.GIF
+tk980808.GIF
+tk980809.GIF
+tk980810.GIF
+tk980811.GIF
+tk980812.GIF
+tk980813.GIF
+tk980814.GIF
+tk980901.GIF
+tk980902.GIF
+tk980903.GIF
+tk980904.GIF
+tk980905.GIF
+tk980906.GIF
+tk980907.GIF
+tk981001.gif
+tk981002.gif
+tk981003.gif
+tk981004.gif
+tk981005.gif
+tk981006.gif
+tk981007.gif
+tk981101.gif
+tk981102.gif
+tk981103.gif
+tk981104.gif
+tk981105.gif
+tk981106.gif
+tk981201.gif
+tk981202.gif
+tk981203.gif
+tk981204.gif
+tk981209.gif
+tk990201.gif
+tk990202.gif
+tk990203.gif
+tk990204.gif
+tk990205.gif
+tk990206.gif
+tk990207.gif
+tk990208.gif
+tk990209.gif
+tk990301.gif
+tk990401.gif
+ttalk.gif
+Image38.jpg
+Image4.jpg
+back.jpg
+io_logo.jpg
+rp_logo.jpg
+austrail.mht
+insigh35.doc
+END_OLD
