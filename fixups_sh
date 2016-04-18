@@ -18,6 +18,7 @@ for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
   done
 # Make the epubs
 pandoc --ascii -o _site/ttalk201601.epub ttalk201601.md
+pandoc --ascii -o _site/ttalk201602.epub ttalk201602.md
 # copy in and rename PDFs
 cp -np ../mailouts/"ATA DL Feb16.pdf" _site
 cp -np ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
