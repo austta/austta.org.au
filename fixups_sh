@@ -1,21 +1,35 @@
-set -u
+#!/usr/bin/env bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+# set -o xtrace
+
 # Jekyll creates .html files, the site uses .htm apart from index.html
 # for the moment
 for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
    do
      TRUNC_PATH=${THIS_FILE#_site/}
      # Look for a MarkDown file
-     if [ -f ${TRUNC_PATH/%.html/.md} ] 
+     if [ -f ${TRUNC_PATH/%.html/.md} ]
       then
         mv $THIS_FILE ${THIS_FILE/%.html/.htm}
       fi
   done
 # copy in and rename PDFs
-cp -p ../mailouts/"ATA DL Feb16.pdf" _site
-cp -p ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
+cp -np ../mailouts/"ATA DL Feb16.pdf" _site
+cp -np ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
+cp -np ../mailouts/"ATA 2015 November Table Talk.pdf" \
+            _site/"ATA Table Talk 201511 November.pdf"
+cp -np ../mailouts/"ATA 2015 December Table Talk.pdf" \
+            _site/"ATA Table Talk 201512 December.pdf"
+cp -np ../mailouts/"ATA 2016 January Table talk.pdf" \
+            _site/"ATA Table Talk 201601 January.pdf"
+cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
+            _site/"ATA Table Talk 201602 February.pdf"
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
-  cp -p ../old_site/"$line" _site
+  cp -np ../old_site/"$line" _site
 done <<END_OLD
 2014 April.pdf
 AATTC Annual Report 2011-2012.pdf

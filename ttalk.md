@@ -6,6 +6,10 @@ The latest available news of timetable and transport happenings from within Aust
 
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.htm#membership).
 
+* February 2016 [667K PDF](ATA%20Table%20Talk%20201602%20February.pdf)
+* January 2016 [878K PDF](ATA%20Table%20Talk%20201601%20January.pdf)
+* December 2015 [143K PDF](ATA%20Table%20Talk%20201512%20December.pdf)
+* November 2015 [5100K PDF](ATA%20Table%20Talk%20201511%20November.pdf)
 * October 2015 [478K PDF](ATA%20Table%20Talk%20201510%20October.pdf)
 * September 2015 [139K PDF](ATA%20Table%20Talk%20201509%20September.pdf)
 * August 2015 [426K PDF](ATA%20Table%20Talk%20201508%20August.pdf)
