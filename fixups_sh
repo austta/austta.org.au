@@ -18,10 +18,12 @@ for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
   done
 # Make the epubs
 pandoc --ascii -o _site/ttalk201601.epub ttalk201601.md
+touch -r ttalk201601.md _site/ttalk201601.epub
 pandoc --ascii -o _site/ttalk201602.epub ttalk201602.md
+touch -r ttalk201602.md _site/ttalk201602.epub
 # copy in and rename PDFs
-cp -np ../mailouts/"ATA DL Feb16.pdf" _site
-cp -np ../mailouts/"ATA Auction 74 Feb 16 Catalogue.pdf" _site
+cp -np ../mailouts/"ATA DL Apr16.pdf" _site
+cp -np ../mailouts/"Auction 76 Catalogue Apr 16.pdf" _site
 cp -np ../mailouts/"ATA 2015 November Table Talk.pdf" \
             _site/"ATA Table Talk 201511 November.pdf"
 cp -np ../mailouts/"ATA 2015 December Table Talk.pdf" \
@@ -37,9 +39,6 @@ done <<END_OLD
 2014 April.pdf
 AATTC Annual Report 2011-2012.pdf
 AATTC Australian Railways TT list.pdf
-ATA Auction 72 Catalogue Dec 2015.pdf
-ATA DL Dec 15.pdf
-ATA DL Jan16.pdf
 ATA Table Talk 2014 August.pdf
 ATA Table Talk 2014 December.pdf
 ATA Table Talk 2014 July.pdf
