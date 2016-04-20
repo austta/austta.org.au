@@ -34,7 +34,12 @@ cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
             _site/"ATA Table Talk 201602 February.pdf"
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
-  cp -np ../old_site/"$line" _site
+  if [ ! -f _site/"$line" ]
+    then
+      cp -np ../old_site/"$line" _site
+    else
+      echo New file $line already exists!
+  fi
 done <<END_OLD
 2014 April.pdf
 AATTC Annual Report 2011-2012.pdf
@@ -366,7 +371,6 @@ chat.htm
 christmas.htm
 christmas2004.htm
 christmas2007.htm
-current.htm
 dates.htm
 fireflytim.htm
 histairlines.htm
@@ -378,7 +382,6 @@ melbpocketTTlist.htm
 membship_old.htm
 newbustt.htm
 news.htm
-news2.htm
 northernt.htm
 otherexpress.htm
 perthchange.htm
