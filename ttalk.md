@@ -4,11 +4,11 @@ title: Table Talk
 ---
 The latest available news of timetable and transport happenings from within Australia and around the world.
 
-Copies of Table Talk are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.htm#membership).
+Copies of Table Talk are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
-* February 2016 [as a web page, single column, suitable for most uses](ttalk201602.htm),
+* February 2016 [as a web page, single column, suitable for most uses](ttalk201602.html),
 as an [ePub for book readers and tablets](ttalk201602.epub), exactly as printed [667K PDF](ATA%20Table%20Talk%20201602%20February.pdf)
-* January 2016, [as a web page, single column, suitable for most uses](ttalk201601.htm),
+* January 2016, [as a web page, single column, suitable for most uses](ttalk201601.html),
 as an [ePub for book readers and tablets](ttalk201601.epub), exactly as printed
 [878K PDF](ATA%20Table%20Talk%20201601%20January.pdf)
 * December 2015 [143K PDF](ATA%20Table%20Talk%20201512%20December.pdf)

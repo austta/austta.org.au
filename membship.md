@@ -10,8 +10,8 @@ The ATA was founded in 1983 as the AATTC to promote interest in transport timeta
 The constitution of the Association is [available online](Modelrules.pdf).
 
 # Magazines
-* [<span class="TimesLogo">The Times</span>](times.htm): Articles of research into and review of historical timetables and current transport scheduling trends. [Have a read now!](times.htm)
-* [<span class="TableTalkLogo">Table Talk</span>](ttalk.htm): The latest available news of timetable and transport happenings from within Australia and around the world. [Have a read now!](ttalk.htm)
+* [<span class="TimesLogo">The Times</span>](times.html): Articles of research into and review of historical timetables and current transport scheduling trends. [Have a read now!](times.html)
+* [<span class="TableTalkLogo">Table Talk</span>](ttalk.html): The latest available news of timetable and transport happenings from within Australia and around the world. [Have a read now!](ttalk.html)
 
 These magazines not only provide news, but enable members to keep in contact through "Letters to the Editor" and the "Traders Items" column.
 

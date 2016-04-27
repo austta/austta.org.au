@@ -5,15 +5,14 @@ set -o pipefail
 set -o nounset
 # set -o xtrace
 
-# Jekyll creates .html files, the site uses .htm apart from index.html
+# Make the generated .html files have the same time as the source
 # for the moment
-for THIS_FILE in $(find _site -name "*.html" ! -name index.html )
+for THIS_FILE in *.md
    do
-     TRUNC_PATH=${THIS_FILE#_site/}
-     # Look for a MarkDown file
-     if [ -f ${TRUNC_PATH/%.html/.md} ]
+     # Look for a generated file
+     if [ -f "_site/${THIS_FILE/%.md/.html}" ]
       then
-        mv $THIS_FILE ${THIS_FILE/%.html/.htm}
+        touch -r "$THIS_FILE" "_site/${THIS_FILE/%.md/.html}"
       fi
   done
 # Make the epubs
@@ -351,81 +350,81 @@ Timetable History Warringah.pdf
 Timetable History Western.pdf
 catalogue17.pdf
 newsletter.pdf
-BRISBANE.htm
-Coachtrantim.htm
-Greyhound.htm
-MVC list.htm
-McCaffertystim.htm
-NSW.htm
-Nationaltim.htm
-Pioneertim.htm
-SYDNEY.htm
-Timetable History Index.htm
-VICTORIA.htm
-VIP list.htm
-actiontimes.htm
-adelaidetim.htm
-bidform.htm
-brisbanepriv.htm
-chat.htm
-christmas.htm
-christmas2004.htm
-christmas2007.htm
-dates.htm
-fireflytim.htm
-histairlines.htm
-m7000.htm
-maychanges.htm
-melbchanges.htm
-melbourne.htm
-melbpocketTTlist.htm
-membship_old.htm
-newbustt.htm
-news.htm
-northernt.htm
-otherexpress.htm
-perthchange.htm
-perthtims.htm
-qcountry.htm
-sacountry.htm
-stats.htm
-survey.htm
-sydtratt.htm
-tasmantims.htm
-test.htm
-times.htm
-times097.htm
-times197.htm
-times198.htm
-times199.htm
-times2.htm
-times298.htm
-times299.htm
-times397.htm
-times398.htm
-times399.htm
-times496.htm
-times497.htm
-times498.htm
-times499.htm
-times596.htm
-times597.htm
-times598.htm
-times696.htm
-times697.htm
-times698.htm
-times796.htm
-times798.htm
-times897.htm
-times898.htm
-times997.htm
-times998.htm
-timesd96.htm
-timesd98.htm
-timesn98.htm
-timeso98.htm
-timeso99.htm
-wacountry.htm
+BRISBANE.html
+Coachtrantim.html
+Greyhound.html
+MVC list.html
+McCaffertystim.html
+NSW.html
+Nationaltim.html
+Pioneertim.html
+SYDNEY.html
+Timetable History Index.html
+VICTORIA.html
+VIP list.html
+actiontimes.html
+adelaidetim.html
+bidform.html
+brisbanepriv.html
+chat.html
+christmas.html
+christmas2004.html
+christmas2007.html
+dates.html
+fireflytim.html
+histairlines.html
+m7000.html
+maychanges.html
+melbchanges.html
+melbourne.html
+melbpocketTTlist.html
+membship_old.html
+newbustt.html
+news.html
+northernt.html
+otherexpress.html
+perthchange.html
+perthtims.html
+qcountry.html
+sacountry.html
+stats.html
+survey.html
+sydtratt.html
+tasmantims.html
+test.html
+times.html
+times097.html
+times197.html
+times198.html
+times199.html
+times2.html
+times298.html
+times299.html
+times397.html
+times398.html
+times399.html
+times496.html
+times497.html
+times498.html
+times499.html
+times596.html
+times597.html
+times598.html
+times696.html
+times697.html
+times698.html
+times796.html
+times798.html
+times897.html
+times898.html
+times997.html
+times998.html
+timesd96.html
+timesd98.html
+timesn98.html
+timeso98.html
+timeso99.html
+wacountry.html
 MVC_2.html
 2014 AATTC logo- no palaver-small.gif
 2014 AATTC logo.gif
