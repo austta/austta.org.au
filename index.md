@@ -15,7 +15,7 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 * [Posting or Reading of Timetable News](news2.html)
 * [Lists of Current and Historic Australian Timetables](current.html)
 * [Link to Train Times Passenger Trains of Australia and New Zealand](http://www.traintimes.net.au)
-* [December 2015 Members News](Members News December 2015.pdf)
+* [April 2016 Members News](Members News April 2016.pdf)
 * [Association Membership Information and Magazine Subscription details](membship.html#membership)
 * [2014 - 2015 Annual Report](ATAAnnualReport2014-2015.pdf)
 * [Links to On-Line Transport Timetables](ttlinks.html)

@@ -31,6 +31,8 @@ cp -np ../mailouts/"ATA 2016 January Table talk.pdf" \
             _site/"ATA Table Talk 201601 January.pdf"
 cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
             _site/"ATA Table Talk 201602 February.pdf"
+cp -np ../mailouts/"ATA 2016 April Members News.pdf" \
+            _site/"Members News April 2016.pdf"
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
   if [ ! -f _site/"$line" ]
@@ -392,7 +394,6 @@ survey.html
 sydtratt.html
 tasmantims.html
 test.html
-times.html
 times097.html
 times197.html
 times198.html
