@@ -21,8 +21,9 @@ touch -r ttalk201601.md _site/ttalk201601.epub
 pandoc --ascii -o _site/ttalk201602.epub ttalk201602.md
 touch -r ttalk201602.md _site/ttalk201602.epub
 # copy in and rename PDFs
-cp -np ../mailouts/"ATA DL Apr16.pdf" _site
-cp -np ../mailouts/"Auction 76 Catalogue Apr 16.pdf" _site
+cp -np ../mailouts/"ATA DL May16.pdf" _site
+cp -np ../mailouts/"Auction 77 Catalogue May16.pdf" \
+            _site/"Auction 77 Catalogue May 16.pdf"
 cp -np ../mailouts/"ATA 2015 November Table Talk.pdf" \
             _site/"ATA Table Talk 201511 November.pdf"
 cp -np ../mailouts/"ATA 2015 December Table Talk.pdf" \
