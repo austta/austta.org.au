@@ -4,7 +4,7 @@ title: The Times
 ---
 The Times contains articles of interest to students of transport timetable history. The magazine has been published monthly since 1983.
 
-Current hard copy issues of The Times, along with the current news magazine [Table Talk](ttalk.html) are available to [members](membship.html#membership).
+Copies of The Times are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
 ## Writing for <span class="TimesLogo">The Times</span>
 Have your say in print on any transport timetable matter. The Times includes letters to the editor.
