@@ -32,6 +32,8 @@ cp -np ../mailouts/"ATA 2016 January Table talk.pdf" \
             _site/"ATA Table Talk 201601 January.pdf"
 cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
             _site/"ATA Table Talk 201602 February.pdf"
+cp -np ../mailouts/"2016 March ATA Table Talk.pdf" \
+            _site/"ATA Table Talk 201603 March.pdf"
 cp -np ../mailouts/"ATA 2016 April Members News.pdf" \
             _site/"Members News April 2016.pdf"
 # bulk load of old PDFs and Gifs etc
