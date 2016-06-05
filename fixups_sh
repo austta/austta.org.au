@@ -15,11 +15,12 @@ for THIS_FILE in *.md
         touch -r "$THIS_FILE" "_site/${THIS_FILE/%.md/.html}"
       fi
   done
-# Make the epubs
-pandoc --ascii -o _site/ttalk201601.epub ttalk201601.md
-touch -r ttalk201601.md _site/ttalk201601.epub
-pandoc --ascii -o _site/ttalk201602.epub ttalk201602.md
-touch -r ttalk201602.md _site/ttalk201602.epub
+# Make the Table Talk epubs
+for TABLE_TALK in 201601 201602 201603
+  do
+    pandoc --ascii -o _site/ttalk${TABLE_TALK}.epub ttalk${TABLE_TALK}.md
+    touch -r ttalk${TABLE_TALK}.md _site/ttalk${TABLE_TALK}.epub
+  done
 # copy in and rename PDFs
 cp -np ../mailouts/"ATA DL May16.pdf" _site
 cp -np ../mailouts/"Auction 77 Catalogue May16.pdf" \
@@ -34,8 +35,10 @@ cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
             _site/"ATA Table Talk 201602 February.pdf"
 cp -np ../mailouts/"2016 March ATA Table Talk.pdf" \
             _site/"ATA Table Talk 201603 March.pdf"
-cp -np ../mailouts/"ATA 2016 April Members News.pdf" \
-            _site/"Members News April 2016.pdf"
+cp -np ../mailouts/"ATA 2016 May Members News.pdf" \
+            _site/"Members News May 2016.pdf"
+cp -np ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
+            _site/"ATA 20162017 Renewal Form.pdf"
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
   if [ ! -f _site/"$line" ]
