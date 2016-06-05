@@ -6,6 +6,8 @@ The latest available news of timetable and transport happenings from within Aust
 
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
+* April 2016 [as a web page, single column, suitable for most uses](ttalk201604.html),
+as an [ePub for book readers and tablets](ttalk201604.epub), exactly as printed [744K PDF](ATA%20Table%20Talk%20201604%20April.pdf)
 * March 2016 [as a web page, single column, suitable for most uses](ttalk201603.html),
 as an [ePub for book readers and tablets](ttalk201603.epub), exactly as printed [240K PDF](ATA%20Table%20Talk%20201603%20March.pdf)
 * February 2016 [as a web page, single column, suitable for most uses](ttalk201602.html),

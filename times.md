@@ -17,6 +17,10 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* April 2016 [5,687KB PDF](ATA%20The%20Times%20201604%20April.pdf)
+
+### Pre 2012 Issues
+
 * December 2011 [2,735kB PDF](The%20Times%20December%202011.pdf)
 * November 2011 [2,827kB PDF](The%20Times%20November%202011.pdf)
 * October 2011 [5,401kB PDF](The%20Times%20October%202011.pdf)

@@ -9,8 +9,8 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 
 ## Timetables
 
-* [May 2016 Distribution List](ATA%20DL%20May16.pdf)
-* [Auction 77 Catalogue.](Auction%2077%20Catalogue%20May%2016.pdf) (bids close Wednesday 20 May 2016)
+* [June 2016 Distribution List](ATA%20DL%20Jun16.pdf)
+* [Auction 78 Catalogue.](Auction%2078%20Catalogue%20Jun%2016.pdf) (bids close Monday 20 June 2016)
 * [Lists of Current and Historic Australian Timetables](current.html)
 * [Links to On-Line Transport Timetables](ttlinks.html)
 * [Link to Train Times Passenger Trains of Australia and New Zealand](http://www.traintimes.net.au)
