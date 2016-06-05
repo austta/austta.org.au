@@ -6,6 +6,8 @@ The latest available news of timetable and transport happenings from within Aust
 
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
+ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
+
 * April 2016 [as a web page, single column, suitable for most uses](ttalk201604.html),
 as an [ePub for book readers and tablets](ttalk201604.epub), exactly as printed [744K PDF](ATA%20Table%20Talk%20201604%20April.pdf)
 * March 2016 [as a web page, single column, suitable for most uses](ttalk201603.html),
