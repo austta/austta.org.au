@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 set -o errexit
 set -o pipefail
 set -o nounset
@@ -23,39 +22,41 @@ for TABLE_TALK in 201601 201602 201603 201604
   done
 # copy in and rename PDFs
 # The distribtuion list
-cp -np ../mailouts/"ATA DL Jun16.pdf" _site
+cp -ip ../mailouts/"ATA DL Jun16.pdf" _site
 # The auction catalogue
-cp -np ../mailouts/"Auction 78 Catalogue Jun16.pdf" \
+cp -ip ../mailouts/"Auction 78 Catalogue Jun16.pdf" \
             _site/"Auction 78 Catalogue Jun 16.pdf"
 # Back issues of Table Talk
-cp -np ../mailouts/"ATA 2015 November Table Talk.pdf" \
+cp -ip ../mailouts/"ATA 2015 November Table Talk.pdf" \
             _site/"ATA Table Talk 201511 November.pdf"
-cp -np ../mailouts/"ATA 2015 December Table Talk.pdf" \
+cp -ip ../mailouts/"ATA 2015 December Table Talk.pdf" \
             _site/"ATA Table Talk 201512 December.pdf"
-cp -np ../mailouts/"ATA 2016 January Table talk.pdf" \
+cp -ip ../mailouts/"ATA 2016 January Table talk.pdf" \
             _site/"ATA Table Talk 201601 January.pdf"
-cp -np ../mailouts/"ATA 2016 February Table Talk.pdf" \
+cp -ip ../mailouts/"ATA 2016 February Table Talk.pdf" \
             _site/"ATA Table Talk 201602 February.pdf"
-cp -np ../mailouts/"2016 March ATA Table Talk.pdf" \
+cp -ip ../mailouts/"2016 March ATA Table Talk.pdf" \
             _site/"ATA Table Talk 201603 March.pdf"
-cp -np ../mailouts/"ATA 2016 April Table Talk.pdf" \
+cp -ip ../mailouts/"ATA 2016 April Table Talk.pdf" \
             _site/"ATA Table Talk 201604 April.pdf"
 # Back issues of The Times
-cp -np ../mailouts/"1604 The Times  April 2016a.pdf"\
+cp -ip ../mailouts/"1604 The Times  April 2016a.pdf"\
             _site/"ATA The Times 201604 April.pdf"
 # The members news
-cp -np ../mailouts/"ATA 2016 May Members News.pdf" \
+cp -ip ../mailouts/"ATA 2016 May Members News.pdf" \
             _site/"Members News May 2016.pdf"
 # The renewal form
-cp -np ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
+cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"
+# The automated renewal form
+cp -ip ../mailouts/Membershipform.pdf _site
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
   if [ ! -f _site/"$line" ]
     then
-      cp -np ../old_site/"$line" _site
+      cp -ip ../old_site/"$line" _site
     else
-      echo New file $line already exists!
+      echo New file $line already exists! >&2 
   fi
 done <<END_OLD
 2014 April.pdf
@@ -79,14 +80,8 @@ ATA Table Talk 201507 July.pdf
 ATA Table Talk 201508 August.pdf
 ATA Table Talk 201509 September.pdf
 ATA Table Talk 201510 October.pdf
-ATAAUCTION.pdf
 ATAAnnualReport2014-2015.pdf
-ATADL.pdf
-Auction Catalogue 73 Jan 2016.pdf
 Author guide for ATA The Times.pdf
-Members News December 2015.pdf
-Members Newsletter June 06.pdf
-Membershipform.pdf
 Modelrules.pdf
 Table Talk 200401 final2.pdf
 Table Talk 200402 final.pdf
@@ -366,8 +361,6 @@ Timetable History Northern.pdf
 Timetable History Pr#BAC8DE.pdf
 Timetable History Warringah.pdf
 Timetable History Western.pdf
-catalogue17.pdf
-newsletter.pdf
 BRISBANE.html
 Coachtrantim.html
 Greyhound.html
@@ -382,34 +375,26 @@ VICTORIA.html
 VIP list.html
 actiontimes.html
 adelaidetim.html
-bidform.html
 brisbanepriv.html
-chat.html
 christmas.html
 christmas2004.html
 christmas2007.html
 dates.html
 fireflytim.html
 histairlines.html
-m7000.html
 maychanges.html
 melbchanges.html
 melbourne.html
 melbpocketTTlist.html
-membship_old.html
 newbustt.html
-news.html
 northernt.html
 otherexpress.html
 perthchange.html
 perthtims.html
 qcountry.html
 sacountry.html
-stats.html
-survey.html
 sydtratt.html
 tasmantims.html
-test.html
 times097.html
 times197.html
 times198.html
