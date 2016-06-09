@@ -1,10 +1,19 @@
-# enable expirations
+# Enable expirations
+<ifmodule mod_expires.c>
 ExpiresActive On
 # expire images, after a month in the client's cache
-ExpiresByType image/jpeg A2592000
-ExpiresByType image/gif A2592000
-ExpiresByType image/x-icon A2592000
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/x-icon "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType application/pdf "access plus 1 month"
+ExpiresDefault "access plus 2 days"
+</ifmodule>
+
 # Catch references to old pages that were .htm
+<ifModule mod_rewrite.c>
 RewriteEngine on
 RewriteBase /
 RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
+</ifmodule>
