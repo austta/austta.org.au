@@ -42,9 +42,6 @@ cp -ip ../mailouts/"ATA 2016 April Table Talk.pdf" \
 # Back issues of The Times
 cp -ip ../mailouts/"1604 The Times  April 2016a.pdf"\
             _site/"ATA The Times 201604 April.pdf"
-# The members news
-cp -ip ../mailouts/"ATA 2016 May Members News.pdf" \
-            _site/"Members News May 2016.pdf"
 # The renewal form
 cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"
@@ -56,7 +53,7 @@ while IFS= read -r line; do
     then
       cp -ip ../old_site/"$line" _site
     else
-      echo New file $line already exists! >&2 
+      echo New file $line already exists! >&2
   fi
 done <<END_OLD
 2014 April.pdf
