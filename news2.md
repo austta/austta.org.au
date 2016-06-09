@@ -13,5 +13,3 @@ News on this board is retained for a number of weeks after the last reply to the
 * Alternatively any news to update any of the timetable lists in this website may be [emailed to us](mailto:webmaster@austta.org.au) or to any email address which may be shown on the list concerned.
 
 Items posted on the board above or emailed may be used in the Association's timetable news magazine *Table Talk*.
-
-[Return to the ATA Home Page](http://www.austta.org.au)

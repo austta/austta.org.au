@@ -7,7 +7,7 @@ The ATA was founded in 1983 as the AATTC to promote interest in transport timeta
 **We are a non-profit organisation**.
 
 # Constitution:
-The constitution of the Association is [available online](Modelrules.pdf).
+The constitution of the Association is [available online](Modelrules.pdf). (86kB ![PDF](pdficon.svg))
 
 # Magazines
 * [<span class="TimesLogo">The Times</span>](times.html): Articles of research into and review of historical timetables and current transport scheduling trends. [Have a read now!](times.html)
@@ -22,13 +22,13 @@ The Association runs a **_Timetable Distribution service_**. This is an excellen
 Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some rare and historic timetable and related material. A link to the most recent Auction Catalogue is shown on the home page.
 
 # Meetings
-Semi-regular ATA [meetings](newsletter.pdf) held in Adelaide, Brisbane, Canberra, Melbourne and 
-Sydney, offer members the opportunity to meet others who share an interest in 
+Semi-regular ATA [meetings](meetings.html) held in Adelaide, Brisbane, Canberra, Melbourne and
+Sydney, offer members the opportunity to meet others who share an interest in
 Timetable matters, and to catch up with the latest news. These meetings usually
 include the opportunity to take home interesting timetables from "**_grab boxes_**" to which many members contribute.
 
 # Newsletters
-The President publishes [newsletters](newsletter.pdf) from time to time - the most recent issue is available on line.
+The President publishes [newsletters](membnews.html) from time to time - the most recent issue is available on line.
 
 # Membership
 If any of the material on this site interests you, we would be delighted to have you as an ATA member.
@@ -43,6 +43,6 @@ Overseas membership is available as follows:
 * $79 Asia-Pacific region (monthly mailouts by post), or $60 (monthly mailouts by email).
 * $90 Rest of the World (monthly mailouts by post), or $60 (monthly mailouts by email).
 
-If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf), then send it to the Membership Officer as set out in the form.
+If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (1067kB  ![PDF](pdficon.svg)), then send it to the Membership Officer as set out in the form.
 
 You can contact the Membership Officer, Len Regan, on [lenregan.ata@gmail.com](mailto:lenregan.ata@gmail.com), or [0409 209 114](tel:+61409209114).
