@@ -15,17 +15,17 @@ for THIS_FILE in *.md
       fi
   done
 # Make the Table Talk epubs
-for TABLE_TALK in 201601 201602 201603 201604
+for TABLE_TALK in 201601 201602 201603 201604 201605
   do
     pandoc --ascii -o _site/ttalk${TABLE_TALK}.epub ttalk${TABLE_TALK}.md
     touch -r ttalk${TABLE_TALK}.md _site/ttalk${TABLE_TALK}.epub
   done
 # copy in and rename PDFs
 # The distribtuion list
-cp -ip ../mailouts/"ATA DL Jun16.pdf" _site
+cp -ip ../mailouts/"ATA DL Jul16.pdf" _site/"Distribution List 201607.pdf"
 # The auction catalogue
-cp -ip ../mailouts/"Auction 78 Catalogue Jun16.pdf" \
-            _site/"Auction 78 Catalogue Jun 16.pdf"
+cp -ip ../mailouts/"ATA Auction 79 Catalogue Jul16.pdf" \
+            _site/"Auction 79 Catalogue Jul 16.pdf"
 # Back issues of Table Talk
 cp -ip ../mailouts/"ATA 2015 November Table Talk.pdf" \
             _site/"ATA Table Talk 201511 November.pdf"
@@ -39,9 +39,13 @@ cp -ip ../mailouts/"2016 March ATA Table Talk.pdf" \
             _site/"ATA Table Talk 201603 March.pdf"
 cp -ip ../mailouts/"ATA 2016 April Table Talk.pdf" \
             _site/"ATA Table Talk 201604 April.pdf"
+cp -ip ../mailouts/"ATA 2016 May Table Talk.pdf" \
+            _site/"ATA Table Talk 201605 May.pdf"
 # Back issues of The Times
 cp -ip ../mailouts/"1604 The Times  April 2016a.pdf"\
-            _site/"ATA The Times 201604 April.pdf"
+            _site/"The Times 201604 April.pdf"
+cp -ip ../mailouts/"1605 The Times May 2016 388 Std.pdf"\
+            _site/"The Times 201605 May.pdf"
 # The renewal form
 cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"
