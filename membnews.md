@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Members News - June 2016
+title: Members News
 ---
 
-## Committee Meeting
-The next ATA Committee Meeting will be on 4th August, just before the AGM. If you have material which you wish to put before the Committee, please contact the ATA Secretary, Victor Isaacs on <abvi@iinet.net.au>.
+## Membership renewal and AGM
+If you are reading this, it means you have successfully renewed your Membership for the 2016- 2017 year. Thankyou. You will be able to vote at the AGM in a couple of weeks time! This year, the ATA AGM will be held at 1400, Saturday 13 August 2016 at the Brisbane Tramway Museum, Tramway St, FERNY GROVE QLD 4055. You should receive the ATA Annual Report by e-mail a few days before this. Would those attending the ATA AGM in Brisbane on Sat 13 August please note the following: The Museum is a two-block walk south from the Ferny Grove station level crossing and east across Cedar Creek to the site. It is hoped you will join the Brisbane members for a lunch at the Ferny Grove Tavern situated in the north-east corner of the station car park; meeting time about Noon after the arrival of a train. Whilst there are several travel options you may wish to travel on the 10.52AM or 11.22am ex Roma Street all stations to Ferny Grove [terminus] services. After the AGM the Museum will be offering rides on preserved trams and an inspection guided by ATA and BTMS member [and Tram Driver] Ian Martin. A light afternoon tea will be provided. It would be appreciated if attendees could advise bwebber@tpg.com.au so we can organise catering. On the day please contact Brian Webber on 0427 723 704 if you need advice/help.
 
-## Annual General Meeting
-This year, the ATA AGM will be held in Brisbane on 13th August. On this weekend, the Brisbane Ekka will be taking place, which means more intense Public Transport to observe. It also means that travel and accommodation bookings will be harder to get – so book early. The Brisbane Division is in the process of organizing a number of tours and visits in association with this meeting. More details and official documents will be included in the July mail-out.
-
-## Membership renewal
-Last month we dispatched renewal notices for the 2016-2017 Financial Year. Many members have already renewed, but it would help to get more in sooner rather than later, to allow our National Treasurer to properly frame his budget. The deadline is 30th June and members who have not renewed by the 23rd of June will receive and e-mail reminder. We will print the July magazines for everyone on the assumption that they will renew. Only those who have paid by June 30th will actually receive the full mail-out as usual.
+## Mailing Dates for ATA
+From earlier this year, the mailing dates for ATA have been the first Monday of the month. Electronic mailing dates are 2-3 days later to ensure everything lands at your house on the same day. Deadlines for contributions are at least 8 days before the mailing Monday.

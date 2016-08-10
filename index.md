@@ -25,7 +25,7 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 
 * [About the ATA](membship.html)
 * [Association Membership Information and Magazine Subscription details](membship.html#membership)
-* [Members News](membnews.html) - June 2016
+* [Members News](membnews.html) - August 2016
 * [Division (state based) Meetings](meetings.html)
 * [Members Renewal Form 2016 - 2017](ATA 20162017 Renewal Form.pdf) (156kB ![PDF](pdficon.svg))
 * [2014 - 2015 Annual Report](ATAAnnualReport2014-2015.pdf) (1280kB ![PDF](pdficon.svg))
