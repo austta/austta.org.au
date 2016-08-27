@@ -17,6 +17,7 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* June 2016 [7,759kB ![PDF](http://cdn.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes201606issue.pdf)
 * May 2016 [2,697kB ![PDF](pdficon.svg)](The%20Times%20201605%20May.pdf)
 * April 2016 [5,687kB ![PDF](pdficon.svg)](The%20Times%20201604%20April.pdf)
 
