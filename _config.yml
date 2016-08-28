@@ -10,8 +10,11 @@ url: "http://austta.org.au" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+gems:
+  - jekyll-pandoc
+
 # Build settings
-markdown: kramdown
+markdown: Pandoc
 
 exclude:
 - README.md

@@ -15,7 +15,7 @@ for THIS_FILE in *.md
       fi
   done
 # Make the Table Talk epubs
-for TABLE_TALK in 201601 201602 201603 201604 201605
+for TABLE_TALK in 201601 201602 201603 201604 201605 201606
   do
     pandoc --ascii -o _site/ttalk${TABLE_TALK}.epub ttalk${TABLE_TALK}.md
     touch -r ttalk${TABLE_TALK}.md _site/ttalk${TABLE_TALK}.epub
