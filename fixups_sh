@@ -21,14 +21,6 @@ for TABLE_TALK in 201601 201602 201603 201604 201605 201606
     touch -r ttalk${TABLE_TALK}.md _site/ttalk${TABLE_TALK}.epub
   done
 # copy in and rename PDFs
-# The distribtuion lists
-cp -ip ../mailouts/"ATA DL Jul16.pdf" _site/"Distribution List 201607.pdf"
-cp -ip ../mailouts/"ATA DL Aug16.pdf" _site/"Distribution List 201608.pdf"
-# The auction catalogues
-cp -ip ../mailouts/"ATA Auction 80 Catalogue Aug16.pdf" \
-            _site/"Auction 80 Catalogue Aug 16.pdf"
-cp -ip ../mailouts/"ATA Auction 79 Catalogue Jul16.pdf" \
-            _site/"Auction 79 Catalogue Jul 16.pdf"
 # The renewal form
 cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"

@@ -317,4 +317,16 @@ Redirect 301 "/The Times November 2011.pdf" http://cdnb.austta.org.au/thetimes20
 Redirect 301 "/The Times December 2011.pdf" http://cdnb.austta.org.au/thetimes201112issue.pdf
 Redirect 301 "/The Times 201604 April.pdf" http://cdnb.austta.org.au/thetimes201604issue.pdf
 Redirect 301 "/The Times 201605 May.pdf" http://cdnb.austta.org.au/thetimes201605issue.pdf
+Redirect 301 "/Auction 80 Catalogue Aug 16.pdf" http://cdnb.austta.org.au/auctioncatalog201608issue.pdf
+Redirect 301 "/Auction 79 Catalogue Jul 16.pdf" http://cdnb.austta.org.au/auctioncatalog201607issue.pdf
+Redirect 301 "/Auction 78 Catalogue Jun 16.pdf" http://cdnb.austta.org.au/auctioncatalog201606issue.pdf
+Redirect 301 "/Auction 77 Catalogue May 16.pdf" http://cdnb.austta.org.au/auctioncatalog201605issue.pdf
+Redirect 301 "/Auction 76 Catalogue Apr 16.pdf" http://cdnb.austta.org.au/auctioncatalog201604issue.pdf
+Redirect 301 "/Auction 74 Catalogue Feb 16.pdf" http://cdnb.austta.org.au/auctioncatalog201602issue.pdf
+Redirect 301 "/Distribution List 201608.pdf" http://cdnb.austta.org.au/distributionlist201608issue.pdf
+Redirect 301 "/Distribution List 201607.pdf" http://cdnb.austta.org.au/distributionlist201607issue.pdf
+Redirect 301 "/ATA DL Jun16.pdf" http://cdnb.austta.org.au/distributionlist201606issue.pdf
+Redirect 301 "/ATA DL May16.pdf" http://cdnb.austta.org.au/distributionlist201605issue.pdf
+Redirect 301 "/ATA DL Apr16.pdf" http://cdnb.austta.org.au/distributionlist201604issue.pdf
+Redirect 301 "/ATA DL Feb16.pdf" http://cdnb.austta.org.au/distributionlist201602issue.pdf
 </ifmodule>

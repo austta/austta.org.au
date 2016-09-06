@@ -5,7 +5,13 @@ title: Auctions
 Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some rare and historic timetable and related material.
 
 ## Current catalog
-[Auction 80](Auction%2080%20Catalogue%20Aug%2016.pdf) (36kB ![PDF](pdficon.svg)) (bids close Saturday 20 August 2016)
+* [Auction 81 September 2016](http://cdnb.austta.org.au/auctioncatalog201609issue.pdf) (34kB ![PDF](pdficon.svg)) (bids close Tuesday 20 September 2016)
 
 ## Previous catalogues
-* [Auction 79](Auction%2079%20Catalogue%20Jul%2016.pdf) (73kB ![PDF](pdficon.svg)) (bids closed Wednesday 20 July 2016)
+* [Auction 80 August 2016](http://cdnb.austta.org.au/auctioncatalog201608issue.pdf) (37kB ![PDF](pdficon.svg))
+* [Auction 79 July 2016](http://cdnb.austta.org.au/auctioncatalog201607issue.pdf) (72kB ![PDF](pdficon.svg))
+* [Auction 78 June 2016](http://cdnb.austta.org.au/auctioncatalog201606issue.pdf) (36kB ![PDF](pdficon.svg))
+* [Auction 77 May 2016](http://cdnb.austta.org.au/auctioncatalog201605issue.pdf) (45kB ![PDF](pdficon.svg))
+* [Auction 76 April 2016](http://cdnb.austta.org.au/auctioncatalog201604issue.pdf) (33kB ![PDF](pdficon.svg))
+* Auction 75 March 2016
+* [Auction 74 February 2016](http://cdnb.austta.org.au/auctioncatalog201602issue.pdf) (43kB ![PDF](pdficon.svg))
