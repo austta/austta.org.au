@@ -3,8 +3,22 @@ layout: page
 title: Members News
 ---
 
-## Membership renewal and AGM
-If you are reading this, it means you have successfully renewed your Membership for the 2016- 2017 year. Thankyou. You will be able to vote at the AGM in a couple of weeks time! This year, the ATA AGM will be held at 1400, Saturday 13 August 2016 at the Brisbane Tramway Museum, Tramway St, FERNY GROVE QLD 4055. You should receive the ATA Annual Report by e-mail a few days before this. Would those attending the ATA AGM in Brisbane on Sat 13 August please note the following: The Museum is a two-block walk south from the Ferny Grove station level crossing and east across Cedar Creek to the site. It is hoped you will join the Brisbane members for a lunch at the Ferny Grove Tavern situated in the north-east corner of the station car park; meeting time about Noon after the arrival of a train. Whilst there are several travel options you may wish to travel on the 10.52AM or 11.22am ex Roma Street all stations to Ferny Grove [terminus] services. After the AGM the Museum will be offering rides on preserved trams and an inspection guided by ATA and BTMS member [and Tram Driver] Ian Martin. A light afternoon tea will be provided. It would be appreciated if attendees could advise bwebber@tpg.com.au so we can organise catering. On the day please contact Brian Webber on 0427 723 704 if you need advice/help.
+## Report of 2016 AGM
+The AGM was held at the Brisbane Tramway Museum Ferny Grove on Saturday August 13, 2016. About twenty people where present including museum staff and family members. Following the meeting tram rides were enjoyed. Our thanks to Brisbane Convener Brian Webber and Brisbane members for hosting the AGM. The new committee comprises President: Hilaire Fraser, Vice President: Victor Issacs, Secretary: Geoff Lambert, Treasurer: Len Regan and Committee Members Nicole Buckley, Geoff Hassall, Alex Sims, Michael Smith and Roger Wheaton. The committee members come from Sydney, Newcastle, Adelaide, Canberra and Yea. Peter Hobbis did not seek re-election. However, Peter continues as the Distribution List Manager. We thank Peter for his contribution to the committee. Geoff Hassall no longer wishes to act as auctioneer but will receive and process bids until a new auctioneer is found. Len Regan will dispatch items to successful bidders for the time being. We thank Geoff for being our auctioneer for several years. We welcome Alex Sims to the committee. The Adelaide Division have been invited to host the AGM and Roger Wheaton is to consult with other Adelaide members, otherwise the next AGM will be in Sydney as per the usual rotation.
+
+## ATA Facebook
+ATA is on Facebook at [www.facebook.com/AustralianTimetableAssociation](http://www.facebook.com/AustralianTimetableAssociation) Paul Brown keeps this up- to-date with association and timetable news. Once you have connected to our Facebook page ATA information appears in your news feed. Our thanks to Paul Brown.
 
 ## Mailing Dates for ATA
-From earlier this year, the mailing dates for ATA have been the first Monday of the month. Electronic mailing dates are 2-3 days later to ensure everything lands at your house on the same day. Deadlines for contributions are at least 8 days before the mailing Monday.
+Since earlier in 2016, the mailing dates for ATA have been the first Monday of the month. Electronic mailing dates are 2-3 days later to ensure everything lands at your house on the same day. Variations are due in:
+
+* October 2016 - Tuesday 4th October 2016.
+* January 2017 - Monday 16th January 2017.
+
+Rules for variations are:
+
+* January - delayed by printers' holidays
+* NSW Public holiday on the mailing date, delay to the next working day.
+
+## Deadlines for contributions for ATA mailouts
+Deadlines for print ready material to the production manager are the Sunday at least 8 days before the Mailing date, e.g. November 2016 mailing date is Monday, 7th November, so print ready magazines are due by Sunday 30th October. Editors of individual publications (The Times, Table Talk) will set their own earlier deadlines prior to this date.

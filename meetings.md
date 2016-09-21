@@ -19,7 +19,7 @@ Meetings are held on the first Wednesday of odd months from March to November. A
 Sydney meetings are held on the third Saturday of February, May, August and November.
 All members and non-members are welcome.
 The next Sydney meeting will be held at
-1400 on Saturday 20th August 2016
+1400 on Saturday 19th November 2016
 at Level 5, Room 5040, Abercrombie Building (H70), The University of Sydney Business School, Corner Codrington and Abercrombie Streets, Darlington.
 This is a fantastic meeting place.
 Chocolate cake is on offer.
