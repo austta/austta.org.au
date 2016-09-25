@@ -19,3 +19,4 @@ markdown: Pandoc
 exclude:
 - README.md
 - fixups_sh
+- cdnb.robots.txt

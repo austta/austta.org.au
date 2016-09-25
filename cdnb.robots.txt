@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: tabletalk201601issue.pdf
+Disallow: tabletalk201602issue.pdf
+Disallow: tabletalk201603issue.pdf
+Disallow: tabletalk201604issue.pdf
+Disallow: tabletalk201605issue.pdf
+Disallow: tabletalk201606issue.pdf
+Disallow: tabletalk201607issue.pdf

@@ -15,10 +15,10 @@ for THIS_FILE in *.md
       fi
   done
 # Make the Table Talk epubs
-for TABLE_TALK in 201601 201602 201603 201604 201605 201606
+for TABLE_TALK in ttalk201???.md
   do
-    pandoc --ascii -o _site/ttalk${TABLE_TALK}.epub ttalk${TABLE_TALK}.md
-    touch -r ttalk${TABLE_TALK}.md _site/ttalk${TABLE_TALK}.epub
+    pandoc --ascii -o _site/$(basename $TABLE_TALK .md).epub $TABLE_TALK
+    touch -r $TABLE_TALK _site/$(basename $TABLE_TALK .md).epub
   done
 # copy in and rename PDFs
 # The renewal form
@@ -26,6 +26,8 @@ cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"
 # The automated renewal form
 cp -ip ../mailouts/Membershipform.pdf _site
+# Robots.txt for CDN
+cp -p cdnb.robots.txt ../cdnb/robots.txt
 # bulk load of old PDFs and Gifs etc
 while IFS= read -r line; do
   if [ ! -f _site/"$line" ]
