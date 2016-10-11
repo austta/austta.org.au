@@ -17,6 +17,29 @@ RewriteEngine on
 RewriteBase /
 RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
 
+# Dismiss the robots looking for vulnerabilities
+Redirect 403 /wordpress/
+Redirect 403 /wordpress/wp-admin/
+Redirect 403 /wp-login.php
+Redirect 403 /wp/
+Redirect 403 /xmlrpc.php
+
+# Redirect from really old mistypings at least 10 404 errors every 6 weeks
+Redirect 301 "/table talk 2012 january.pdf" http://cdnb.austta.org.au/tabletalk201201issue.pdf
+Redirect 301 "/table talk 2014 january.pdf" http://cdnb.austta.org.au/tabletalk201401issue.pdf
+Redirect 301 "/table talk march 2012.pdf" http://cdnb.austta.org.au/tabletalk201203issue.pdf
+Redirect 301 "/the times october 2003s.pdf" http://cdnb.austta.org.au/thetimes200310issue.pdf
+Redirect 301 "/mvc list.html" "/MVC list.html"
+Redirect 301 "/ATADL.pdf" /distlist.html
+Redirect 301 "/greyhound.html" /Greyhound.html
+Redirect 301 "/pioneertim.html" /Pioneertim.html
+Redirect 301 "/mccaffertystim.html" /McCaffertystim.html
+Redirect 301 "/victoria.html" /VICTORIA.html 
+Redirect 301 "/nsw.html" /NSW.html
+Redirect 301 "/brisbane.html" /BRISBANE.html
+Redirect 301 "/sydney.html" /SYDNEY.html
+Redirect 301 "/nationaltim.html" /Nationaltim.html
+
 # Redirect to CDN and standardise names
 Redirect 301 "/Table Talk Feb 2003A.pdf" http://cdnb.austta.org.au/tabletalk200302issue.pdf
 Redirect 301 "/Table Talk March 2003.pdf" http://cdnb.austta.org.au/tabletalk200303issue.pdf
