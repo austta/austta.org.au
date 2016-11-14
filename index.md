@@ -10,8 +10,7 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 ## Timetables
 
 * [Distribution Lists](distlist.html) - Timetables, maps, brochures and related material gathered by members and sent to our Distribution Service are made available to members at a nominal charge to cover postage and administration.
-* [Auction Catalogues](auction.html) - Monthly  Auctions offer members the opportunity to buy and sell some rare and historic timetable and related material. \
-This month (October 2016), [the auction is of 62 Australian railway working timetables](auction201610.html), some of which are extremely rare.
+* [Auction Catalogues](auction.html) - Monthly  Auctions offer members the opportunity to buy and sell some rare and historic timetable and related material.
 * [Lists of Current and Historic Australian Timetables](current.html)
 * [Links to On-Line Transport Timetables](ttlinks.html)
 * [Link to Train Times Passenger Trains of Australia and New Zealand](http://www.traintimes.net.au)
