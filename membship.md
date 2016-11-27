@@ -45,4 +45,4 @@ Overseas membership is available as follows:
 
 If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (1067kB  ![PDF](pdficon.svg)), then send it to the Membership Officer as set out in the form.
 
-You can contact the Membership Officer, Len Regan, on [lenregan.ata@gmail.com](mailto:lenregan.ata@gmail.com), or [0409 209 114](tel:+61409209114).
+You can contact the Membership Officer, Len Regan, on [membership@austta.org.au](mailto:membership@austta.org.au), or [0409 209 114](tel:+61409209114).
