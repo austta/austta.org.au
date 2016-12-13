@@ -3,6 +3,35 @@ layout: page
 title: Members News
 ---
 
+## E-mail Contact List for ATA
+
+At its most recent Committee Meeting, ATA adopted new e-mail addresses for our contact list. These addresses are “depersonalised”, but our Webmaster has arranged for all e-mail to these new addresses to be re-directed to the personal e-mails of the persons concerned. This will give continuity over the years. If and when a “position” changes hands, the Webmaster will ensure that the redirection is altered accordingly.
+
+The new addresses will replace the old ones formerly appearing in all of our publications – Table Talk, The Times, Distribution List, Members News, Auction Catalogue, Membership renewal and application forms, official notices such as those for the AGM and on the web-site itself. [The Times and our Treasurer have been using their new addresses for some months now- so we know it works!]
+
+This change takes effect from December 1st 2016 — as you can see from this month’s mail-out. Please use these new addresses for all of your communications to ATA.
+
+The individuals behind these new addresses still have their personal e-mail addresses of course. Continue to use those for your personal e-mail correspondence with them.
+
+| Recipient | E-mail address |
+|:-:|:-:|
+| Times Editor | <thetimes@austta.org.au>
+| ATA Treasurer | <treasurer@austta.org.au>
+| ATA President | <president@austta.org.au>
+| Table Talk Editor | <tabletalk@austta.org.au>
+| Membership Officer | <membership@austta.org.au>
+| Distribution List Manager | <distribution@austta.org.au>
+| Auctioneer | <auction@austta.org.au>
+| Webmaster | <webmaster@austta.org.au>
+| ATA Secretary | <secretary@austtta.org.au>
+
+*Geoff Lambert For Hilaire Fraser - President (December 2016)*
+
+## Changes to ATA Auction
+Currently, Geoff Hassall receives and processes bids and Len Regan prepares the catalogue, manages the finances and dispatches items to successful bidders. This is only an interim arrangement until a new auctioneer can be found. We would encourage one of our members to take up the role of auctioneer and the format of the auction can be negotiated with them. Len Regan, <lenregan.ata@gmail.com> or [0409 209 114](tel:+61409209114) can outline the job description to any interested members. As we don’t have a permanent auctioneer our committee at its November meeting decided that auctions would take place as required, rather than monthly. Auctions would concentrate on vendor material and quality donations. Recent experience has found that some items passed over at auctions readily receive buyers when listed as limited stock items on the Distribution List and some donated material will be listed on the Distribution List rather than the auction, thus a partial merger of the auction and Distribution List will take place. Also we expect that some donated material will go to the National Timetable Collection. Len or Geoff <geoffrey.hassall@gmail.com> or [02 4955 9013](tel:+61249559013) can assist if you have material for the auction.
+
+*Hilaire Fraser, President (December 2016)*
+
 ## Distribution Service
 The Distribution Service is an important function of the ATA. A number of members obtain items and I prepare the list each month with the assistance of Len Regan who handles the majority of items. Peter Hobbis receives orders and emails those who have various items to send out. Len does the massive job of handling the financial side with many having accounts so that more money or refunds are not required when an account is adjusted, such as for limited items. This year we have found bulk supplies difficult to obtain as transport authorities often only provide operators with limited numbers of timetables. Consequently some current timetables have become limited items on the Distribution List. Also many timetables only appear in electronic form. Some operators have completely ignored mail or email requests. We are thankful to regular contributors such as Paul Brown, Scott Ferris, Frank Goldthorpe, Stephen Gray, Michael Marshall, John Mikita, Len Regan, Peter Walhouse and David Whiteford among others. Townsville member Les Hyland was in Adelaide and obtained sets of the new January 2016 timetables for Peter Hobbis to distribute.
 
