@@ -14,14 +14,20 @@ There are a number of ways:
 * Modify the code and submit a pull request on Github
 
 ## Building the website locally
+
+### Prerequsites
+* Ruby
+* The jekyll gem
+* The jekyll-panddoc gem
+
+### Commands
     $ git clone https://github.com/austta/austta.org.au.git
     $ cd austta.org.au
     $ jekyll build
     $ sh fixups_sh
-The website is built for you in the _site directory
+The website is built for you in the \_site directory
 
 ## Installing the website
 
 * Build it on your local pc
-* Rename any .html files to .htm
 * Copy to the public_html directory on the server    
