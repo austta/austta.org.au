@@ -1,9 +1,9 @@
-Operator,Description,Routes,Effective
+Operator,Description,Routes,Effective,RevNumber,RevDate
  ,Network Map (website only), ,20/07/14
  ,Adelaide Oval Footy Express Guide, ,2014
- ,City Connector,"98,99",27/01/14
- ,Arndale-Glen Osmond & Flinders Uni,100101,27/01/14
- ,City-West Lakes/Pt Adelaide via Crittenden Rd,115117118,27/01/14
+ ,City Connector,"98, 99",27/01/14
+ ,Arndale-Glen Osmond & Flinders Uni,"100, 101",27/01/14
+ ,City-West Lakes/Pt Adelaide via Crittenden Rd,"115, 117, 118",27/01/14
  ,City-Glen Osmond/Beaumont,"140, 144, 147, 148",27/01/14
  ,City-Stonyfell/Burnside,"141, 142",27/01/14
  ,"City-Osborne, Largs Bay-West Lakes, Port Adelaide-Semaphore","150, 350, 352, 353",27/01/14
@@ -11,7 +11,7 @@ Operator,Description,Routes,Effective
  ,City-Marleston & Glenelg via Richmond Rd,"167, 168, 169",27/01/14
  ,City-Urrbrae/Kingswood via Duthy St,"170, 172",27/01/14
  ,City-Mitcham Square & Blackwood via Fullarton Rd,"171, 173",27/01/14
- ,City-Paradise /Newton via Payneham Rd,"174,  N178",27/01/14
+ ,City-Paradise /Newton via Payneham Rd,"174, N178",27/01/14
  ,City-Athelstone/Paradise via Payneham Rd,"177, 178, 179, 579, N178",12/05/13
  ,City-Glenelg via Raglan Av,190,27/01/14
  ,City-Blackwood via Unley Rd,"195, 196, 197X",27/01/14
@@ -89,8 +89,8 @@ Operator,Description,Routes,Effective
  ,West Lakes-Marion,"J7, J8, 371,372",27/01/14
  ,Marion-Golden Grove,M44,27/01/14
  ,Marion Centre Interchange - Marden,"W90, W91",27/01/14
-TransAdelaide ,Glenelg Tram,n/a,27/01/14
-TransAdelaide,Belair Train,n/a,17/02/14
-TransAdelaide,Gawler Central Train,n/a,04/02/13
-TransAdelaide,Seaford & Tonsley Train,n/a,20/07/14
-TransAdelaide,Grange & Outer Harbor ,n/a,23/02/14
+TransAdelaide,Glenelg Tram,Glenelg to Entertainment Centre via city,26/1/2016,7,January 2016
+TransAdelaide,Belair,"Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood",12/10/14,4,October 2014
+TransAdelaide,Gawler Central,"Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes",04/02/13,2,February 2013
+TransAdelaide,Seaford & Tonsley,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood.",16/2/2015,5,February 2015
+TransAdelaide,Outer Harbor & Grange,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.",23/02/14,2,February 2014
