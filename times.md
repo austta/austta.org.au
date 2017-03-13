@@ -17,6 +17,7 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* January 2017 [2,732kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes201701issue.pdf)
 * December 2016 [2,715kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes201612issue.pdf)
 * November 2016 [2,720kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes201611issue.pdf)
 * October 2016 [3,355kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes201610issue.pdf)
@@ -174,11 +175,11 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 * January 2004 [857kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200401issue.pdf)
 * December 2003 [3,758kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200312issue.pdf)
 * November 2003 [729kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200311issue.pdf)
-* October 2003 [1,327kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes2003110issue.pdf)
-* September 2003 [954kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes2003089issue.pdf)
+* October 2003 [1,327kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200310issue.pdf)
+* September 2003 [954kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200309issue.pdf)
 * August 2003 [445kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200308issue.pdf)
 * July 2003 [770kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200307issue.pdf)
-* June 2003 [1,210kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes20036issue.pdf)
+* June 2003 [1,210kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200306issue.pdf)
 * May 2003 [978kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200305issue.pdf)
 * April 2003 [589kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200304issue.pdf)
 * March 2003 [1,194kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)](http://cdnb.austta.org.au/thetimes200303issue.pdf)

@@ -29,3 +29,6 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 * [Division (state based) Meetings](meetings.html)
 * [Members Renewal Form 2016 - 2017](ATA 20162017 Renewal Form.pdf) (156kB ![PDF](pdficon.svg))
 * [2014 - 2015 Annual Report](ATAAnnualReport2014-2015.pdf) (1280kB ![PDF](pdficon.svg))
+
+## What to do with old timetables
+Old timetables can be a valuable asset for the ATA auctions, Distribution Service or the National Timetable Collection. If you have old timetables that you want to discard, don't! Please contact the Australian Timetable Associaiton first. Len Regan, [0409 209 114](tel:61409209114),  <archives@austta.org> will help you decide where best your old timetables can be deposited.

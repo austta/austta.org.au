@@ -8,6 +8,8 @@ Copies of Table Talk are not placed on this site until they are two months old. 
 
 ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
 
+* January 2017 [as a web page, single column, suitable for most uses](ttalk201701.html),
+as an [ePub for book readers and tablets ![ePub](epubicon.svg)](ttalk201701.epub), exactly as printed [934kB ![PDF](pdficon.svg)](http://cdnb.austta.org.au/tabletalk201701issue.pdf)
 * December 2016 [as a web page, single column, suitable for most uses](ttalk201612.html),
 as an [ePub for book readers and tablets ![ePub](epubicon.svg)](ttalk201612.epub), exactly as printed [934kB ![PDF](pdficon.svg)](http://cdnb.austta.org.au/tabletalk201612issue.pdf)
 * November 2016 [as a web page, single column, suitable for most uses](ttalk201611.html),
