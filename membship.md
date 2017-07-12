@@ -7,7 +7,7 @@ The ATA was founded in 1983 as the AATTC to promote interest in transport timeta
 **We are a non-profit organisation**.
 
 # Constitution:
-The constitution of the Association is [available online](Modelrules.pdf). (86kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
+The constitution of the Association is [available online](Modelrules.pdf). (86kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 
 # Magazines
 * [<span class="TimesLogo">The Times</span>](times.html): Articles of research into and review of historical timetables and current transport scheduling trends. [Have a read now!](times.html)
