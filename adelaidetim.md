@@ -15,16 +15,15 @@ Last Updated 17th August 2014 (Buses) 2 February 2016 (Rail)
 <th style="align:left">Routes</td>
 <th>Effective</td>
 <th>Revision Number</td>
-<th>Revision Date</td>
 </tr>
 {% for timetable in site.data.adelaide %}
 <tr>
-<td style="align:left">{{timetable.Description}}</td>
-<td style="align:left">{{timetable.Routes}}</td>
-<td>{{timetable.Effective}}</td>
-<td>{{timetable.RevNumber}}</td>
-<td>{{timetable.RevDate}}</td>
+<td style="align:left">{{timetable.RouteDescription}}</td>
+<td style="align:left">{{timetable.RouteNumbers}}</td>
+<td>{{timetable.EffectiveDates}}</td>
+<td>{{timetable.VersionNumber}}</td>
 </tr>
 {% endfor %}
 </tbody>
 </table>
+This table is derived from [this CSV file](https://github.com/austta/austta.org.au/blob/master/_data/adelaide.csv) which is in the same format as the National TimeTable Collection. Feel free to download, modify and submit changes!
