@@ -15,6 +15,8 @@ ExpiresDefault "access plus 2 days"
 <ifModule mod_rewrite.c>
 RewriteEngine on
 RewriteBase /
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
 
 # Dismiss the robots looking for vulnerabilities
@@ -26,10 +28,14 @@ Redirect 403 /xmlrpc.php
 
 # Redirect all http www or without to https://www.austta.org.au
 RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule (.*) https://www.austta.org.au%{REQUEST_URI} [R=301,L]
 # Redirect all https without www to https://www.austta.org.au
 RewriteCond %{HTTPS} on
 RewriteCond %{HTTP_HOST} ^austta.org.au$ [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule (.*) https://www.austta.org.au/$1 [R=301,L]
 
 # Redirect from really old mistypings at least 10 404 errors every 6 weeks
