@@ -5,6 +5,7 @@ title: Distribution Lists
 The Association runs a **_Timetable Distribution service_**. This is an excellent way to get copies of transport timetables from around the world. Timetables, maps, brochures and related material gathered by members and sent to our Distribution Service are made available to members at a nominal charge to cover postage and administration. The monthly members mailout contains a Distribution List which itemises the material available that month. These items are usually current timetables, but occasionally historic items appear also.
 
 ## Current and previous lists
+* [September 2017](http://cdnb.austta.org.au/distributionlist201709issue.pdf) (104kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [August    2017](http://cdnb.austta.org.au/distributionlist201708issue.pdf) (168kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [July      2017](http://cdnb.austta.org.au/distributionlist201707issue.pdf) (112kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [June      2017](http://cdnb.austta.org.au/distributionlist201706issue.pdf) (205kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
