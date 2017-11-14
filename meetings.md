@@ -19,11 +19,10 @@ Meetings are held on the first Wednesday of odd months from March to November. A
 Sydney meetings are held on the third Saturday of February, May, August and November.
 All members and non-members are welcome.
 The next Sydney meeting will be held at
-1400 on Saturday 18th Februay 2017
-at Level 3 <strike>5</strike>, Room 3120 <strike>5040</strike>,
+1400 on Saturday 18th November 2017
+at Level 3, Room 3120,
 Abercrombie Building (H70), The University of Sydney Business School, Corner Codrington and Abercrombie Streets, Darlington.
-This is a fantastic meeting place.
-Chocolate cake is on offer.
+At this meeting Duncan MacAuslan will be doing a presentation on Sydney’s horse buses. His book <i>Ryle’wy How the horse buses transformed Sydney</i> was recently published.
 
-**How to get there:** Bus to City Road near Butlin Avenue (400 metres) or train to Redfern Station (800 metres), enter up ramp on Codrington Street then take lift or stairs (the lift is not always available) to level
-3 <strike>5</strike>,  <Geoffrey.Clifton@sydney.edu.au>.
+**How to get there:** 422, 423, 426, 428 bus to City Road near Butlin Avenue (400 metres) or train to Redfern Station (800 metres along Abercrombie St or Wilson St), enter up ramp on Codrington Street then take lift or stairs (the lift is not always available) to level
+3,  <Geoffrey.Clifton@sydney.edu.au>.
