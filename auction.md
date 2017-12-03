@@ -7,9 +7,10 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalog
-* [Auction 95 November  2017](http://cdnb.austta.org.au/auctioncatalog201711issue.pdf) (72kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
+* [Auction 96 December  2017](http://cdnb.austta.org.au/auctioncatalog201712issue.pdf) (56kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 
 ## Previous catalogues
+* [Auction 95 November  2017](http://cdnb.austta.org.au/auctioncatalog201711issue.pdf) (72kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [Auction 94 October   2017](http://cdnb.austta.org.au/auctioncatalog201710issue.pdf) (44kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [Auction 93 September 2017](http://cdnb.austta.org.au/auctioncatalog201709issue.pdf) (112kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [Auction 92 August   2017](http://cdnb.austta.org.au/auctioncatalog201708issue.pdf) (84kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
