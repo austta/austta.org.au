@@ -1,18 +1,12 @@
 ---
 layout: page
-title: List of Current Adelaide Public Transport Timetables
+title: List of Historical Adelaide Public Transport Timetables
 ---
 
-This is a list of current timetables for
+This is a list of historical timetables for
 [Adelaide Metro](https://www.adelaidemetro.com.au). Each row
 in the table represents either an individual paper or PDF timetable.
-
-Adelaide  Buses  are  operated   by:
-
-* LIGHT  STREET  BUSES  Contract  areas     NORTH-SOUTH    and    OUTER  NORTH  EAST
-* SOUTHLINK       BUSES  Contract  areas    OUTER   NORTH   and     OUTER  SOUTH
-* TORRENS   TRANSIT     Contract  area       EAST  -  WEST
-
+	
 Last Updated  December  2017
 
 <table>
@@ -21,14 +15,16 @@ Last Updated  December  2017
 <th style="align:left">Description</td>
 <th style="align:left">Routes</td>
 <th>Effective</td>
+<th>Superceded</td>
 <th>Revision Number</td>
 </tr>
 {% for timetable in site.data.adelaide %}
-{% if timetable.SupercededDate == nil %}
+{% if timetable.SupercededDate != nil %}
 <tr>
 <td style="align:left">{{timetable.RouteDescription}}</td>
 <td style="align:left">{{timetable.RouteNumbers}}</td>
 <td>{{timetable.EffectiveDates}}</td>
+<td>{{timetable.SupercededDate}}</td>
 <td>{{timetable.VersionNumber}}</td>
 </tr>
 {% endif %}

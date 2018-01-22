@@ -10,7 +10,7 @@ have been compiled by members of the ATA as shown below.
 | Area  | Compiled by | Last Updated |
 | :---- | ----------- | -: |
 | [ACTION Canberra Bus Timetables](actiontimes.html)  | Daniel Clinton | 14/2/2014 |
-| [Adelaide Public Transport Timetables](adelaidetim.html)  | Daniel Clinton  | 17/8/2014 |
+| [Adelaide Public Transport Timetables](adelaidetim.html)  | Alan Gray | 17/12/2017 |
 | [Newcastle Buses](newbustt.html) | Geoff Hassall | 18/9/2014 |
 | [Sydney Private Buses](SYDNEY.html) | Robert Henderson | 18/9/2014 |
 | [Sydney Buses, Ferries and Trains](sydtratt.html) | Duncan MacAuslan | 18/9/2014 |
@@ -31,6 +31,7 @@ have been compiled by members of the ATA as shown below.
 
 | Operator | Compiled By | Last Updated |
 |:--|---|--:|
+| [Adelaide Public Transport Timetables](adelaidehistory.html)  | Various | 22/1/2017 |
 | [List of when various Australian Rail timetables were issued](AATTC%20Australian%20Railways%20TT%20list.pdf) (pdf format) | Geoff Lambert | 23/3/2004 |
 | [Coachtrans](Coachtrantim.html) | Steven Haby | 7/7/2003 |
 | [Firefly](fireflytim.html) | Steven Haby | 27/8/2003 |
