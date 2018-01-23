@@ -12,8 +12,8 @@ Last Updated  December  2017
 <table>
 <tbody>
 <tr>
-<th style="align:left">Description</td>
-<th style="align:left">Routes</td>
+<th style="text-align:left">Description</td>
+<th style="text-align:left">Routes</td>
 <th>Effective</td>
 <th>Superceded</td>
 <th>Revision Number</td>
@@ -21,11 +21,11 @@ Last Updated  December  2017
 {% for timetable in site.data.adelaide %}
 {% if timetable.SupercededDate != nil %}
 <tr>
-<td style="align:left">{{timetable.RouteDescription}}</td>
-<td style="align:left">{{timetable.RouteNumbers}}</td>
+<td style="text-align:left">{{timetable.RouteDescription}}</td>
+<td style="text-align:left">{{timetable.RouteNumbers}}</td>
 <td>{{timetable.EffectiveDates}}</td>
 <td>{{timetable.SupercededDate}}</td>
-<td>{{timetable.VersionNumber}}</td>
+<td style="text-align:center">{{timetable.VersionNumber}}</td>
 </tr>
 {% endif %}
 {% endfor %}
