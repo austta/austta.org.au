@@ -17,6 +17,10 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* January 2018 (Members only)
+* December 2017 (Members only)
+* November 2017 [4,504kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)](http://cdnb.austta.org.au/thetimes201711issue.pdf)
+* October 2017 (Not yet available)
 * September 2017 [8,320kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)](http://cdnb.austta.org.au/thetimes201709issue.pdf)
 * August 2017 [2,844kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)](http://cdnb.austta.org.au/thetimes201708issue.pdf)
 * July 2017 [2,364kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)](http://cdnb.austta.org.au/thetimes201707issue.pdf)
