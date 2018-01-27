@@ -22,6 +22,7 @@ Last Updated  December  2017
 <th style="text-align:left">Routes</td>
 <th>Effective</td>
 <th>Revision Number</td>
+<th>Distribution List</td>
 </tr>
 {% for timetable in site.data.adelaide %}
 {% if timetable.SupercededDate == nil %}
@@ -30,6 +31,7 @@ Last Updated  December  2017
 <td style="text-align:left">{{timetable.RouteNumbers}}</td>
 <td>{{timetable.EffectiveDates}}</td>
 <td style="text-align:center">{{timetable.VersionNumber}}</td>
+<td style="text-align:center">{{timetable.DistributionList}}</td>
 </tr>
 {% endif %}
 {% endfor %}
