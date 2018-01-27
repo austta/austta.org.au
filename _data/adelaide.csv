@@ -71,7 +71,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,361,Tea Tree Plaza-Port Adelaide,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,361,Tea Tree Plaza-Port Adelaide,17/12/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,1/7/12,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,26/1/16,6,,,,,,,,,,
+,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,26/1/16,6,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,1/7/12,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,23/7/17,2,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,24/7/14,,,,,,,,,23/7/17,,
@@ -80,11 +80,11 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,411,Salisbury-Mawson Interchange via Parafield Gardens,7/10/12,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,411,Salisbury-Mawson Interchange via Parafield Gardens,23/7/17,,,,,,,,,,,
 ,,,,,,,Bus,,,,,,415  415V  430,Salisbury-Greenwith/Hillbank,26/1/26,,,,,,,,,24/7/14,,
-,,,,,,,Bus,,,,,,"415, 415H, 415V, 430",Salisbury-Greenwith/Hillbank,24/7/14,5,,,,,,,,,,
+,,,,,,,Bus,,,,,,"415, 415H, 415V, 430",Salisbury-Greenwith/Hillbank,24/7/14,5,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"440, 441, 442, 443",Elizabeth-Munno Para/Smithfield,7/10/12,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"440, 441, 442, 443",Elizabeth-Munno Para/Smithfield,26/1/16,7,,,,,,,,,,
+,,,,,,,Bus,,,,,,"440, 441, 442, 443",Elizabeth-Munno Para/Smithfield,26/1/16,7,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"451, 452, 461, 462",Elizabeth-Munno Para,20/7/14,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"451, 452, 461, 462",Elizabeth-Munno Para,26/1/16,5,,,,,,,,,,
+,,,,,,,Bus,,,,,,"451, 452, 461, 462",Elizabeth-Munno Para,26/1/16,5,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,491  492A  492C  493  494  495,Gawler Local Services,17/12/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"491, 492, 493, 494",Gawler Local Services,20/7/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"500, 501, 502, N502",City-Elizabeth/Mawson Lakes,20/7/14,,,,,,,,,17/12/17,,
@@ -106,7 +106,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"556, 557, 559",City-Tea Tree Plaza via St Agnes/Tea Tree Gully,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"556, 557, 559",City-Tea Tree Plaza via St Agnes/Tea Tree Gully,17/12/17,7,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"560, 565",Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm,7/10/12,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"560, 565",Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm,26/1/16,5,,,,,,,,,,
+,,,,,,,Bus,,,,,,"560, 565",Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm,26/1/16,5,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"591, 592, 593",Golden Grove-Petworth Lakes/Greenwith,27/1/14,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,600  601  605  G30F,Aberfoyle Hub-Marion & Darlington-Blackwood,17/12/17,14,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"600, 601, 605, 694, G30",Aberfoyle Hub-Marion & Darlington-Blackwood,27/1/14,,,,,,,,,17/12/17,,
@@ -115,7 +115,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"645, 646",Marion-Seaview Downs/Seacombe Hts,20/7/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"645, 646",Marion-Seaview Downs/Seacombe Hts,17/12/17,8,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"681, 682, 683",Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk,20/7/14,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"681, 682, 683",Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk,26/1/16,7,,,,,,,,,,
+,,,,,,,Bus,,,,,,"681, 682, 683",Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk,26/1/16,7,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,1/12/13,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,23/7/17,,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,1/12/13,,,,,,,,,23/7/17,,
@@ -123,13 +123,13 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,1/12/13,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,23/7/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,1/12/13,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,26/1/16,,,,,,,,,,,
+,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,26/1/16,,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,725,City-Noarlunga Centre Interchange via Acre Av,1/12/13,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,725,City-Noarlunga Centre Interchange via Acre Av,26/1/16,8,,,,,,,,,,
+,,,,,,,Bus,,,,,,725,City-Noarlunga Centre Interchange via Acre Av,26/1/16,8,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,737,Chanders Hill-Old Reynolds Interchange,1/12/13,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,737,Chanders Hill-Old Reynolds Interchange,17/12/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"740, 741, 750, 751, 752, 755, 756",Seaford to Aldinga/Sellicks Beach,20/7/14,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,741  750  751  752  755  756,Seaford to Aldinga/Sellicks Beach,26/1/16,7,,,,,,,,,,
+,,,,,,,Bus,,,,,,741  750  751  752  755  756,Seaford to Aldinga/Sellicks Beach,26/1/16,7,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,"743, 744",Noarlunga Centre Interchange to Huntfield Heights ,20/7/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"743, 744",Noarlunga Centre Interchange to Huntfield Heights,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"745, 747",Seaford Circuit,20/7/14,,,,,,,,,17/12/17,,
@@ -145,7 +145,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"838, 839",Mt Barker East & West,20/7/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"838, 839",Mt Barker East & West,17/12/17,8,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"850, 852",Macclesfield/Strathalbyn/Echunga,20/7/14,,,,,,,,,17/12/17,,
-,,,,,,,Bus,,,,,,"850, 852",Macclesfield/Strathalbyn/Echunga,26/1/16,5,,,,,,,,,,
+,,,,,,,Bus,,,,,,"850, 852",Macclesfield/Strathalbyn/Echunga,26/1/16,5,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"861, N864",City-Glen Osmond,20/7/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"861, N864",City-Glen Osmond,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,865  866,City-Aldgate & Crafers-Stirling,17/12/17,7,,,,,,,,,,Jan-18
@@ -184,4 +184,4 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,TransAdelaide,,Train,,,,,,"Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes",Gawler Central,4/2/13,2,,,,,,,,,,
 ,,,,,TransAdelaide,,Train,,,,,,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.",Outer Harbor & Grange,23/2/14,2,,,,,,,,,,
 ,,,,,TransAdelaide,,Train,,,,,,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood.",Seaford & Tonsley,16/2/15,5,,,,,,,,,,
-,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city,Glenelg Tram,26/1/16,7,,,,,,,,,,
+,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city,Glenelg Tram,26/1/16,7,,,,,,,,,,Feb-16
