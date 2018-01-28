@@ -7,7 +7,7 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalog
-* [Auction 98 February 2018](http://cdnb.austta.org.au/auctioncatalog201801issue.pdf) (92kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
+* [Auction 98 February 2018](http://cdnb.austta.org.au/auctioncatalog201802issue.pdf) (92kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg))
 * [Auction 97 January  2018](http://cdnb.austta.org.au/auctioncatalog201801issue.pdf) (156kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)) Note: closes 5pm Friday 2 February 2018, later than usual.
 
 ## Previous catalogues
