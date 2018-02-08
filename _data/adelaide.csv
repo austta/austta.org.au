@@ -3,6 +3,8 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,,,,,,,,Network Map (website only),17/12/17,,,,,,,,,,,
 ,,,,,,,,,,,,,,Adelaide Oval Footy Express Guide,2014,,,,,,,,,2017,,
 ,,,,,,,,,,,,,,Adelaide Oval Footy Express Guide,2017,,,,,,,,,2017,,
+,,,,,,,Bus,,,,,,97A   98A/C   99A/C,City Connector,17/12/17,,,,,,,,,,,Feb-18
+,,,,,,,Bus,,,,,,"98, 99",City Connector,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"100, 101",Arndale-Glen Osmond & Flinders Uni,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"100, 101",Arndale-Glen Osmond & Flinders Uni,17/12/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"115, 117, 118",City-West Lakes/Pt Adelaide via Crittenden Rd,27/1/14,,,,,,,,,17/12/17,,
@@ -50,8 +52,8 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"230, 232",City-Port Adelaide/West Lakes via Croydon Park,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"235, 238, 239",City-Kilburn/Valley View/Mawson Lakes/Arndale,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"235, 238, 239",City-Kilburn/Valley View/Mawson Lakes/Arndale,17/12/17,10,,,,,,,,,,Jan-18
-,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,27/1/14,,,,,,,,,17/12/17,,
-,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,10/9/17,8,,,,,,,,,,Jan-18
+,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,27/1/14,,,,,,,,,10/9/17,,
+,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,10/9/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"251, 252",City-Mansfield Pk/Pt Adelaide via Liberty Grove,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"251, 252",City-Mansfield Pk/Pt Adelaide via Liberty Grove,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,253  254  N254,City-Mansfield Pk/Pt Adelaide via Hanson Rd,17/12/17,9,,,,,,,,,,Jan-18
@@ -65,22 +67,23 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,286  287  288,City-Henley Beach/West Lakes via Ashley St,17/12/17,11,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"287, 288",City-Henley Beach/West Lakes via Ashley St,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,300,Suburban Connector,27/1/14,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,300,Suburban Connector,23/7/17,,,,,,,,,,,
+,,,,,,,Bus,,,,,,300,Suburban Connector,23/7/17,18,,,,,,,,,,
 ,,,,,,,Bus,,,,,,333,Outer Harbor-Port Adelaide,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,333,Outer Harbor-Port Adelaide,17/12/17,6,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,361,Tea Tree Plaza-Port Adelaide,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,361,Tea Tree Plaza-Port Adelaide,17/12/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,1/7/12,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,26/1/16,6,,,,,,,,,,Apr-16
+,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,26/1/16,7,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,1/7/12,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,23/7/17,2,,,,,,,,,,
+,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,26/1/16,2,,,,,,,,,,Apr-16
+,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia (Website Only),23/7/17,4,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,24/7/14,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,23/7/17,5,,,,,,,,,,
+,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,23/7/17,7,,,,,,,,,,
 ,,,,,,,Bus,,,,,,407,Waterloo Corner - Elizabeth Interchange,1/7/12,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,411,Salisbury-Mawson Interchange via Parafield Gardens,7/10/12,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,411,Salisbury-Mawson Interchange via Parafield Gardens,23/7/17,,,,,,,,,,,
-,,,,,,,Bus,,,,,,415  415V  430,Salisbury-Greenwith/Hillbank,26/1/26,,,,,,,,,24/7/14,,
-,,,,,,,Bus,,,,,,"415, 415H, 415V, 430",Salisbury-Greenwith/Hillbank,24/7/14,5,,,,,,,,,,Apr-16
+,,,,,,,Bus,,,,,,411,Salisbury-Mawson Interchange via Parafield Gardens,23/7/17,7,,,,,,,,,,
+,,,,,,,Bus,,,,,,415  415V  430,Salisbury-Greenwith/Hillbank,26/1/16,5,,,,,,,,,,Apr-16
+,,,,,,,Bus,,,,,,"415, 415H, 415V, 430",Salisbury-Greenwith/Hillbank,24/7/14,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,"440, 441, 442, 443",Elizabeth-Munno Para/Smithfield,7/10/12,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,"440, 441, 442, 443",Elizabeth-Munno Para/Smithfield,26/1/16,7,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"451, 452, 461, 462",Elizabeth-Munno Para,20/7/14,,,,,,,,,26/1/16,,
@@ -117,13 +120,13 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"681, 682, 683",Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk,20/7/14,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,"681, 682, 683",Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk,26/1/16,7,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,1/12/13,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,23/7/17,,,,,,,,,,,
+,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,23/7/17,8,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,1/12/13,,,,,,,,,23/7/17,,
-,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,23/7/17,11,,,,,,,,,,Jan-18
+,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,23/7/17,12,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,1/12/13,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,23/7/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,1/12/13,,,,,,,,,26/1/16,,
-,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,26/1/16,,,,,,,,,,,Mar-16
+,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,26/1/16,7,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,725,City-Noarlunga Centre Interchange via Acre Av,1/12/13,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,725,City-Noarlunga Centre Interchange via Acre Av,26/1/16,8,,,,,,,,,,Mar-16
 ,,,,,,,Bus,,,,,,737,Chanders Hill-Old Reynolds Interchange,1/12/13,,,,,,,,,17/12/17,,
@@ -152,8 +155,6 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"865, 866, 867, 868",City-Aldgate & Crafers-Stirling,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"892, 893, 894",Aldgate-Blackwood Stn,27/1/14,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,"892, 893, 894",Aldgate-Blackwood Stn,26/1/16,7,,,,,,,,,,
-,,,,,,,Bus,,,,,,97A   98A/C   99A/C,City Connector,17/12/17,,,,,,,,,,,
-,,,,,,,Bus,,,,,,"98, 99",City Connector,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,B10  B11,"Magill-West Lakes, Tennyson via Grange Rd",17/12/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"B10, B11, B12, 312","Magill-West Lakes, Tennyson via Grange Rd",27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,C1  C2  N1,City to Greenwith/Elizabeth Interchange,17/12/17,15,,,,,,,,,,Jan-18
