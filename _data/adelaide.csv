@@ -51,8 +51,10 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"230, 232",City-Port Adelaide/West Lakes via Croydon Park,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"230, 232",City-Port Adelaide/West Lakes via Croydon Park,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"235, 238, 239",City-Kilburn/Valley View/Mawson Lakes/Arndale,27/1/14,,,,,,,,,17/12/17,,
+,,,,,,,Bus,,,,,,"235, 238, 239",City-Kilburn/Valley View/Mawson Lakes/Arndale,17/12/17,10,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"235, 238, 239",City-Kilburn/Valley View/Mawson Lakes/Arndale,17/12/17,11,,,,,,,,,,Jan-18
-,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,27/1/14,,,,,,,,,10/9/17,,
+,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,27/1/14,,,,,,,,,26/1/16,,
+,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,26/1/16,8,,,,,,,,10/9/17,,
 ,,,,,,,Bus,,,,,,"241, 245, 248",City-Warradale/Marion,10/9/17,9,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"251, 252",City-Mansfield Pk/Pt Adelaide via Liberty Grove,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"251, 252",City-Mansfield Pk/Pt Adelaide via Liberty Grove,17/12/17,10,,,,,,,,,,Jan-18
@@ -102,6 +104,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"542, 542X, N541",City-Fairview Pk,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,543,City-Surrey Downs,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,543,City-Surrey Downs,17/12/17,7,,,,,,,,,,Jan-18
+,,,,,,,Bus,,,,,,544  M44,City-Golden Grove  Village,17/12/17,13,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,544  M44,City-Golden Grove  Village,17/12/17,14,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,545,City-Golden Grove via McIntyre Rd,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,545,City-Golden Grove via McIntyre Rd,17/12/17,6,,,,,,,,,,Jan-18
