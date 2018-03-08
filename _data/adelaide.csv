@@ -31,10 +31,10 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,190,City-Glenelg via Raglan Av,17/12/17,10,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"195, 196, 197X",City-Blackwood via Unley Rd,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"195, 196, 197X",City-Blackwood via Unley Rd,17/12/17,11,,,,,,,,,,Jan-18
-,,,,,,,Bus,,,,,,,Hyde Park and Westbourne Park Bus Service,13/11/55,,,,,,,,,1/1/80,,
+,,,,,,,Bus,,,,,,,Hyde Park and Westbourne Park Bus Service,13/11/55,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,"200, 200B",City-Marion via Clapham,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"200, 200B",City-Marion via Clapham,17/12/17,12,,,,,,,,,,Jan-18
-,,,,,,,Bus,,,,,,,"North Walkerville, Northfield and Gilles Plains Bus Service",13/11/55,,,,,,,,,1/1/80,,
+,,,,,,,Bus,,,,,,,"North Walkerville, Northfield and Gilles Plains Bus Service",13/11/55,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,"202, 203, 209F, N202",City-Tea Tree Plaza via Hampstead Rd,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"202, 203, 209F, N202",City-Tea Tree Plaza via Hampstead Rd,17/12/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"204, 208, 528",City-Northgate/Paradise,27/1/14,,,,,,,,,17/12/17,,
@@ -161,6 +161,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"865, 866, 867, 868",City-Aldgate & Crafers-Stirling,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"892, 893, 894",Aldgate-Blackwood Stn,27/1/14,,,,,,,,,26/1/16,,
 ,,,,,,,Bus,,,,,,"892, 893, 894",Aldgate-Blackwood Stn,26/1/16,7,,,,,,,,,,Jan-18
+,,,,,,,Bus,,,,,,,Findon Motor Bus Service,11/12/55,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,B10  B11,"Magill-West Lakes, Tennyson via Grange Rd",17/12/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"B10, B11, B12, 312","Magill-West Lakes, Tennyson via Grange Rd",27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,C1  C2  N1,City to Greenwith/Elizabeth Interchange,17/12/17,16,,,,,,,,,,Jan-18
@@ -192,3 +193,4 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,TransAdelaide,,Train,,,,,,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.",Outer Harbor & Grange,23/2/14,2,,,,,,,,,,
 ,,,,,TransAdelaide,,Train,,,,,,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood.",Seaford & Tonsley,16/2/15,5,,,,,,,,,,
 ,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city,Glenelg Tram,26/1/16,7,,,,,,,,,,Feb-16
+,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city (website only),Glenelg Tram,22/1/18,8,,,,,,,,,,
