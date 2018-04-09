@@ -5,7 +5,7 @@ title: ATA Ted Downs Memorial Auction 82 - October 2016	- Railway Working Timeta
 
 This auction is of 62 Australian railway working timetables, some of which are extremely rare.
 
-Lots are listed below. To bid on this material see the [Auction Catalogue with bidding form and instructions](http://cdnb.austta.org.au/auctioncatalog201610issue.pdf) (90  kB ![PDF](http://cdnb.austta.org.au/pdficon.svg)). Bids close Thursday 20th October 2016.
+Lots are listed below. To bid on this material see the [Auction Catalogue with bidding form and instructions](http://cdn.timetable.org.au/auctioncatalog201610issue.pdf) (90  kB ![PDF](http://cdn.timetable.org.au/pdficon.svg)). Bids close Thursday 20th October 2016.
 
 Abbreviations used are listed at the [bottom of the page](#abbreviations-used).
 

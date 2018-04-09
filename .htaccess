@@ -47,10 +47,10 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ 
 RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
 
 # Redirect from really old mistypings at least 10 404 errors every 6 weeks
-Redirect 301 "/table talk 2012 january.pdf" http://cdnb.austta.org.au/tabletalk201201issue.pdf
-Redirect 301 "/table talk 2014 january.pdf" http://cdnb.austta.org.au/tabletalk201401issue.pdf
-Redirect 301 "/table talk march 2012.pdf" http://cdnb.austta.org.au/tabletalk201203issue.pdf
-Redirect 301 "/the times october 2003s.pdf" http://cdnb.austta.org.au/thetimes200310issue.pdf
+Redirect 301 "/table talk 2012 january.pdf" http://cdn.timetable.org.au/tabletalk201201issue.pdf
+Redirect 301 "/table talk 2014 january.pdf" http://cdn.timetable.org.au/tabletalk201401issue.pdf
+Redirect 301 "/table talk march 2012.pdf" http://cdn.timetable.org.au/tabletalk201203issue.pdf
+Redirect 301 "/the times october 2003s.pdf" http://cdn.timetable.org.au/thetimes200310issue.pdf
 Redirect 301 "/mvc list.html" "/MVC list.html"
 Redirect 301 "/ATADL.pdf" /distlist.html
 Redirect 301 "/greyhound.html" /Greyhound.html
@@ -63,315 +63,315 @@ Redirect 301 "/sydney.html" /SYDNEY.html
 Redirect 301 "/nationaltim.html" /Nationaltim.html
 
 # Redirect to CDN and standardise names
-Redirect 301 "/Table Talk Feb 2003A.pdf" http://cdnb.austta.org.au/tabletalk200302issue.pdf
-Redirect 301 "/Table Talk March 2003.pdf" http://cdnb.austta.org.au/tabletalk200303issue.pdf
-Redirect 301 "/Table Talk April 2003.pdf" http://cdnb.austta.org.au/tabletalk200304issue.pdf
-Redirect 301 "/Table Talk May 2003.pdf" http://cdnb.austta.org.au/tabletalk200305issue.pdf
-Redirect 301 "/Table Talk June 2003.pdf" http://cdnb.austta.org.au/tabletalk200306issue.pdf
-Redirect 301 "/Table Talk August 2003A.pdf" http://cdnb.austta.org.au/tabletalk200308issue.pdf
-Redirect 301 "/Table Talk 200401 final2.pdf" http://cdnb.austta.org.au/tabletalk200401issue.pdf
-Redirect 301 "/Table Talk 200402 final.pdf" http://cdnb.austta.org.au/tabletalk200402issue.pdf
-Redirect 301 "/Table Talk 200403 final1.pdf" http://cdnb.austta.org.au/tabletalk200403issue.pdf
-Redirect 301 "/Table Talk 200404 final.pdf" http://cdnb.austta.org.au/tabletalk200404issue.pdf
-Redirect 301 "/Table Talk 200405.pdf" http://cdnb.austta.org.au/tabletalk200405issue.pdf
-Redirect 301 "/Table Talk 200406 v2.pdf" http://cdnb.austta.org.au/tabletalk200406issue.pdf
-Redirect 301 "/Table Talk 200407 final.pdf" http://cdnb.austta.org.au/tabletalk200407issue.pdf
-Redirect 301 "/Table Talk 200408 final.pdf" http://cdnb.austta.org.au/tabletalk200408issue.pdf
-Redirect 301 "/Table Talk 200409.pdf" http://cdnb.austta.org.au/tabletalk200409issue.pdf
-Redirect 301 "/Table Talk 200410.pdf" http://cdnb.austta.org.au/tabletalk200410issue.pdf
-Redirect 301 "/Table Talk 200411.pdf" http://cdnb.austta.org.au/tabletalk200411issue.pdf
-Redirect 301 "/Table Talk Jan 2005.pdf" http://cdnb.austta.org.au/tabletalk200501issue.pdf
-Redirect 301 "/Table Talk Feb 2005.pdf" http://cdnb.austta.org.au/tabletalk200502issue.pdf
-Redirect 301 "/Table Talk Mar 2005.pdf" http://cdnb.austta.org.au/tabletalk200503issue.pdf
-Redirect 301 "/Table Talk April 2005.pdf" http://cdnb.austta.org.au/tabletalk200504issue.pdf
-Redirect 301 "/Table Talk May 2005.pdf" http://cdnb.austta.org.au/tabletalk200505issue.pdf
-Redirect 301 "/Table Talk June 2005.pdf" http://cdnb.austta.org.au/tabletalk200506issue.pdf
-Redirect 301 "/Table Talk Jul 2005.pdf" http://cdnb.austta.org.au/tabletalk200507issue.pdf
-Redirect 301 "/Table Talk Aug 2005.pdf" http://cdnb.austta.org.au/tabletalk200508issue.pdf
-Redirect 301 "/Table Talk Sep 2005.pdf" http://cdnb.austta.org.au/tabletalk200510issue.pdf
-Redirect 301 "/Table Talk October 2005.pdf" http://cdnb.austta.org.au/tabletalk200510issue.pdf
-Redirect 301 "/Table Talk Nov 2005.pdf" http://cdnb.austta.org.au/tabletalk200511issue.pdf
-Redirect 301 "/Table Talk Dec 2005.pdf" http://cdnb.austta.org.au/tabletalk200512issue.pdf
-Redirect 301 "/Table Talk Jan 2006.pdf" http://cdnb.austta.org.au/tabletalk200601issue.pdf
-Redirect 301 "/Table Talk Feb 2006.pdf" http://cdnb.austta.org.au/tabletalk200602issue.pdf
-Redirect 301 "/Table Talk March 2006.pdf" http://cdnb.austta.org.au/tabletalk200603issue.pdf
-Redirect 301 "/Table Talk April 2006.pdf" http://cdnb.austta.org.au/tabletalk200604issue.pdf
-Redirect 301 "/Table Talk May 2006.pdf" http://cdnb.austta.org.au/tabletalk200605issue.pdf
-Redirect 301 "/Table Talk June 2006.pdf" http://cdnb.austta.org.au/tabletalk200606issue.pdf
-Redirect 301 "/Table Talk July 2006.pdf" http://cdnb.austta.org.au/tabletalk200607issue.pdf
-Redirect 301 "/Table Talk August 2006.pdf" http://cdnb.austta.org.au/tabletalk200608issue.pdf
-Redirect 301 "/Table Talk Sept 2006.pdf" http://cdnb.austta.org.au/tabletalk200609issue.pdf
-Redirect 301 "/Table Talk October 2006.pdf" http://cdnb.austta.org.au/tabletalk200610issue.pdf
-Redirect 301 "/Table Talk November 2006.pdf" http://cdnb.austta.org.au/tabletalk200611issue.pdf
-Redirect 301 "/Table Talk Dec 2006.pdf" http://cdnb.austta.org.au/tabletalk200612issue.pdf
-Redirect 301 "/Table Talk January 2007.pdf" http://cdnb.austta.org.au/tabletalk200701issue.pdf
-Redirect 301 "/Table Talk February 2007.pdf" http://cdnb.austta.org.au/tabletalk200702issue.pdf
-Redirect 301 "/Table Talk March 2007.pdf" http://cdnb.austta.org.au/tabletalk200703issue.pdf
-Redirect 301 "/Table Talk April 2007.pdf" http://cdnb.austta.org.au/tabletalk200704issue.pdf
-Redirect 301 "/Table Talk May 2007.pdf" http://cdnb.austta.org.au/tabletalk200705issue.pdf
-Redirect 301 "/Table Talk July2007.pdf" http://cdnb.austta.org.au/tabletalk200707issue.pdf
-Redirect 301 "/Table Talk August 2007.pdf" http://cdnb.austta.org.au/tabletalk200708issue.pdf
-Redirect 301 "/Table Talk October 2007.pdf" http://cdnb.austta.org.au/tabletalk200710issue.pdf
-Redirect 301 "/Table Talk November 2007.pdf" http://cdnb.austta.org.au/tabletalk200711issue.pdf
-Redirect 301 "/Table Talk December 2007.pdf" http://cdnb.austta.org.au/tabletalk200712issue.pdf
-Redirect 301 "/Table Talk Jan 2008.pdf" http://cdnb.austta.org.au/tabletalk200801issue.pdf
-Redirect 301 "/Table Talk Feb 2008.pdf" http://cdnb.austta.org.au/tabletalk200802issue.pdf
-Redirect 301 "/Table Talk March 2008.pdf" http://cdnb.austta.org.au/tabletalk200803issue.pdf
-Redirect 301 "/Table Talk April 2008.pdf" http://cdnb.austta.org.au/tabletalk200804issue.pdf
-Redirect 301 "/Table Talk May 2008.pdf" http://cdnb.austta.org.au/tabletalk200805issue.pdf
-Redirect 301 "/Table Talk June 2008.pdf" http://cdnb.austta.org.au/tabletalk200806issue.pdf
-Redirect 301 "/Table Talk July 2008.pdf" http://cdnb.austta.org.au/tabletalk200807issue.pdf
-Redirect 301 "/Table Talk August 2008.pdf" http://cdnb.austta.org.au/tabletalk200808issue.pdf
-Redirect 301 "/Table Talk Sept 2008.pdf" http://cdnb.austta.org.au/tabletalk200809issue.pdf
-Redirect 301 "/Table Talk Oct 2008.pdf" http://cdnb.austta.org.au/tabletalk200810issue.pdf
-Redirect 301 "/Table Talk Nov 2008.pdf" http://cdnb.austta.org.au/tabletalk200811issue.pdf
-Redirect 301 "/Table Talk Dec 2008.pdf" http://cdnb.austta.org.au/tabletalk200812issue.pdf
-Redirect 301 "/Table Talk Jan 2009.pdf" http://cdnb.austta.org.au/tabletalk200901issue.pdf
-Redirect 301 "/Table Talk Feb 2009.pdf" http://cdnb.austta.org.au/tabletalk200902issue.pdf
-Redirect 301 "/Table Talk Mar 2009.pdf" http://cdnb.austta.org.au/tabletalk200903issue.pdf
-Redirect 301 "/Table Talk 2009 April.pdf" http://cdnb.austta.org.au/tabletalk200904issue.pdf
-Redirect 301 "/Table Talk 2009 May.pdf" http://cdnb.austta.org.au/tabletalk200905issue.pdf
-Redirect 301 "/Table Talk 2009 June.pdf" http://cdnb.austta.org.au/tabletalk200906issue.pdf
-Redirect 301 "/Table Talk 2009 July.pdf" http://cdnb.austta.org.au/tabletalk200907issue.pdf
-Redirect 301 "/Table Talk 2009 August.pdf" http://cdnb.austta.org.au/tabletalk200908issue.pdf
-Redirect 301 "/Table Talk 2009 Sept.pdf" http://cdnb.austta.org.au/tabletalk200909issue.pdf
-Redirect 301 "/Table Talk 2009 October.pdf" http://cdnb.austta.org.au/tabletalk200910issue.pdf
-Redirect 301 "/Table Talk 2009 November.pdf" http://cdnb.austta.org.au/tabletalk200911issue.pdf
-Redirect 301 "/Table_Talk_2009_December.pdf" http://cdnb.austta.org.au/tabletalk200912issue.pdf
-Redirect 301 "/Table Talk 2010 January.pdf" http://cdnb.austta.org.au/tabletalk201001issue.pdf
-Redirect 301 "/Table Talk 2010 Feb.pdf" http://cdnb.austta.org.au/tabletalk201002issue.pdf
-Redirect 301 "/Table talk March 2010.pdf" http://cdnb.austta.org.au/tabletalk201003issue.pdf
-Redirect 301 "/Table talk April 2010.pdf" http://cdnb.austta.org.au/tabletalk201004issue.pdf
-Redirect 301 "/TableTalk May 2010.pdf" http://cdnb.austta.org.au/tabletalk201005issue.pdf
-Redirect 301 "/Table Talk June 2010.pdf" http://cdnb.austta.org.au/tabletalk201006issue.pdf
-Redirect 301 "/Table Talk 2010 July.pdf" http://cdnb.austta.org.au/tabletalk201007issue.pdf
-Redirect 301 "/Table Talk 2010 August.pdf" http://cdnb.austta.org.au/tabletalk201008issue.pdf
-Redirect 301 "/Table Talk 2010 Sept.pdf" http://cdnb.austta.org.au/tabletalk201009issue.pdf
-Redirect 301 "/Table Talk 2010 October.pdf" http://cdnb.austta.org.au/tabletalk201010issue.pdf
-Redirect 301 "/Table Talk 2010 November.pdf" http://cdnb.austta.org.au/tabletalk201011issue.pdf
-Redirect 301 "/Table Talk 2010 December.pdf" http://cdnb.austta.org.au/tabletalk201012issue.pdf
-Redirect 301 "/Table Talk January 2011.pdf" http://cdnb.austta.org.au/tabletalk201101issue.pdf
-Redirect 301 "/Table Talk 2011 February.pdf" http://cdnb.austta.org.au/tabletalk201102issue.pdf
-Redirect 301 "/Table Talk 2011 March.pdf" http://cdnb.austta.org.au/tabletalk201103issue.pdf
-Redirect 301 "/Table Talk 2011 April.pdf" http://cdnb.austta.org.au/tabletalk201104issue.pdf
-Redirect 301 "/Table Talk 2011 May.pdf" http://cdnb.austta.org.au/tabletalk201105issue.pdf
-Redirect 301 "/Table Talk 2011 June.pdf" http://cdnb.austta.org.au/tabletalk201106issue.pdf
-Redirect 301 "/Table Talk 2011 July.pdf" http://cdnb.austta.org.au/tabletalk201107issue.pdf
-Redirect 301 "/Table Talk 2011 August.pdf" http://cdnb.austta.org.au/tabletalk201108issue.pdf
-Redirect 301 "/Table Talk 2011 Sept.pdf" http://cdnb.austta.org.au/tabletalk201109issue.pdf
-Redirect 301 "/Table Talk 2011 Oct.pdf" http://cdnb.austta.org.au/tabletalk201110issue.pdf
-Redirect 301 "/Table Talk 2011 Nov.pdf" http://cdnb.austta.org.au/tabletalk201111issue.pdf
-Redirect 301 "/Table Talk 2011 December.pdf" http://cdnb.austta.org.au/tabletalk201112issue.pdf
-Redirect 301 "/Table Talk 2012 January.pdf" http://cdnb.austta.org.au/tabletalk201201issue.pdf
-Redirect 301 "/Table Talk 2012 February.pdf" http://cdnb.austta.org.au/tabletalk201202issue.pdf
-Redirect 301 "/Table Talk March 2012.pdf" http://cdnb.austta.org.au/tabletalk201203issue.pdf
-Redirect 301 "/Table Talk 2012 April.pdf" http://cdnb.austta.org.au/tabletalk201204issue.pdf
-Redirect 301 "/Table Talk 2012 May.pdf" http://cdnb.austta.org.au/tabletalk201205issue.pdf
-Redirect 301 "/Table Talk 2012 June.pdf" http://cdnb.austta.org.au/tabletalk201206issue.pdf
-Redirect 301 "/TableTalk 2012 July.pdf" http://cdnb.austta.org.au/tabletalk201207issue.pdf
-Redirect 301 "/Table Talk 2012 August.pdf" http://cdnb.austta.org.au/tabletalk201208issue.pdf
-Redirect 301 "/Table Talk 2012 Sept.pdf" http://cdnb.austta.org.au/tabletalk201209issue.pdf
-Redirect 301 "/Table Talk 2012 October.pdf" http://cdnb.austta.org.au/tabletalk201210issue.pdf
-Redirect 301 "/Table Talk 2012 November.pdf" http://cdnb.austta.org.au/tabletalk201211issue.pdf
-Redirect 301 "/Table Talk 2012 December.pdf" http://cdnb.austta.org.au/tabletalk201212issue.pdf
-Redirect 301 "/Table Talk 2013 January.pdf" http://cdnb.austta.org.au/tabletalk201301issue.pdf
-Redirect 301 "/Table talk 2013 February.pdf" http://cdnb.austta.org.au/tabletalk201302issue.pdf
-Redirect 301 "/Table Talk 2013 March.pdf" http://cdnb.austta.org.au/tabletalk201303issue.pdf
-Redirect 301 "/Table Talk 2013 April.pdf" http://cdnb.austta.org.au/tabletalk201304issue.pdf
-Redirect 301 "/Table Talk 2013 May.pdf" http://cdnb.austta.org.au/tabletalk201305issue.pdf
-Redirect 301 "/Table Talk 2013 June.pdf" http://cdnb.austta.org.au/tabletalk201306issue.pdf
-Redirect 301 "/Table Talk 2013 July.pdf" http://cdnb.austta.org.au/tabletalk201307issue.pdf
-Redirect 301 "/Table Talk 2013 August.pdf" http://cdnb.austta.org.au/tabletalk201308issue.pdf
-Redirect 301 "/Table Talk 2013 Sept.pdf" http://cdnb.austta.org.au/tabletalk201309issue.pdf
-Redirect 301 "/Table Talk 2013 October.pdf" http://cdnb.austta.org.au/tabletalk201310issue.pdf
-Redirect 301 "/Table Talk 2013 November.pdf" http://cdnb.austta.org.au/tabletalk201311issue.pdf
-Redirect 301 "/Table Talk 2013 December.pdf" http://cdnb.austta.org.au/tabletalk201312issue.pdf
-Redirect 301 "/Table Talk 2014 January.pdf" http://cdnb.austta.org.au/tabletalk201401issue.pdf
-Redirect 301 "/Table Talk 2014 February.pdf" http://cdnb.austta.org.au/tabletalk201402issue.pdf
-Redirect 301 "/Table Talk 2014 March.pdf" http://cdnb.austta.org.au/tabletalk201403issue.pdf
-Redirect 301 "/2014 April.pdf" http://cdnb.austta.org.au/tabletalk201404issue.pdf
-Redirect 301 "/ATA Table Talk 2014 May.pdf" http://cdnb.austta.org.au/tabletalk201405issue.pdf
-Redirect 301 "/ATA Table Talk 2014 June.pdf" http://cdnb.austta.org.au/tabletalk201406issue.pdf
-Redirect 301 "/ATA Table Talk 2014 July.pdf" http://cdnb.austta.org.au/tabletalk201407issue.pdf
-Redirect 301 "/ATA Table Talk 2014 August.pdf" http://cdnb.austta.org.au/tabletalk201408issue.pdf
-Redirect 301 "/ATA Table Talk 2014 Sept.pdf" http://cdnb.austta.org.au/tabletalk201409issue.pdf
-Redirect 301 "/ATA Table Talk 2014 Oct.pdf" http://cdnb.austta.org.au/tabletalk201410issue.pdf
-Redirect 301 "/ATA Table Talk 2014 Nov.pdf" http://cdnb.austta.org.au/tabletalk201411issue.pdf
-Redirect 301 "/ATA Table Talk 2014 December.pdf" http://cdnb.austta.org.au/tabletalk201412issue.pdf
-Redirect 301 "/ATA Table Talk 201501 January.pdf" http://cdnb.austta.org.au/tabletalk201501issue.pdf
-Redirect 301 "/ATA Table Talk 201502 February.pdf" http://cdnb.austta.org.au/tabletalk201502issue.pdf
-Redirect 301 "/ATA Table Talk 201503 March.pdf" http://cdnb.austta.org.au/tabletalk201503issue.pdf
-Redirect 301 "/ATA Table Talk 201504 April.pdf" http://cdnb.austta.org.au/tabletalk201504issue.pdf
-Redirect 301 "/ATA Table Talk 201505 May.pdf" http://cdnb.austta.org.au/tabletalk201505issue.pdf
-Redirect 301 "/ATA Table Talk 201506 June.pdf" http://cdnb.austta.org.au/tabletalk201506issue.pdf
-Redirect 301 "/ATA Table Talk 201507 July.pdf" http://cdnb.austta.org.au/tabletalk201507issue.pdf
-Redirect 301 "/ATA Table Talk 201508 August.pdf" http://cdnb.austta.org.au/tabletalk201508issue.pdf
-Redirect 301 "/ATA Table Talk 201509 September.pdf" http://cdnb.austta.org.au/tabletalk201509issue.pdf
-Redirect 301 "/ATA Table Talk 201510 October.pdf" http://cdnb.austta.org.au/tabletalk201510issue.pdf
-Redirect 301 "/ATA Table Talk 201511 November.pdf" http://cdnb.austta.org.au/tabletalk201511issue.pdf
-Redirect 301 "/ATA Table Talk 201512 December.pdf" http://cdnb.austta.org.au/tabletalk201512issue.pdf
-Redirect 301 "/ATA Table Talk 201601 January.pdf" http://cdnb.austta.org.au/tabletalk201601issue.pdf
-Redirect 301 "/ATA Table Talk 201602 February.pdf" http://cdnb.austta.org.au/tabletalk201602issue.pdf
-Redirect 301 "/ATA Table Talk 201603 March.pdf" http://cdnb.austta.org.au/tabletalk201603issue.pdf
-Redirect 301 "/ATA Table Talk 201604 April.pdf" http://cdnb.austta.org.au/tabletalk201604issue.pdf
-Redirect 301 "/ATA Table Talk 201605 May.pdf" http://cdnb.austta.org.au/tabletalk201605issue.pdf
-Redirect 301 "/Times November 1999W.pdf" http://cdnb.austta.org.au/thetimes199911issue.pdf
-Redirect 301 "/Times December 1999W.pdf" http://cdnb.austta.org.au/thetimes199912issue.pdf
-Redirect 301 "/Times January 2000A.pdf" http://cdnb.austta.org.au/thetimes200001issue.pdf
-Redirect 301 "/Times February 2000A.pdf" http://cdnb.austta.org.au/thetimes200002issue.pdf
-Redirect 301 "/Times March 2000W.pdf" http://cdnb.austta.org.au/thetimes200003issue.pdf
-Redirect 301 "/Times April 2000W.pdf" http://cdnb.austta.org.au/thetimes200004issue.pdf
-Redirect 301 "/Times May 2000W.pdf" http://cdnb.austta.org.au/thetimes200005issue.pdf
-Redirect 301 "/Times June 2000W.pdf" http://cdnb.austta.org.au/thetimes200006issue.pdf
-Redirect 301 "/Times July 2000A.pdf" http://cdnb.austta.org.au/thetimes200007issue.pdf
-Redirect 301 "/Times August 2000A.pdf" http://cdnb.austta.org.au/thetimes200008issue.pdf
-Redirect 301 "/Times September 2000W.pdf" http://cdnb.austta.org.au/thetimes200009issue.pdf
-Redirect 301 "/Times October 2000W.pdf" http://cdnb.austta.org.au/thetimes200010issue.pdf
-Redirect 301 "/Times November 2000W.pdf" http://cdnb.austta.org.au/thetimes200011issue.pdf
-Redirect 301 "/Times December 2000W.pdf" http://cdnb.austta.org.au/thetimes200012issue.pdf
-Redirect 301 "/Times January 2001W.pdf" http://cdnb.austta.org.au/thetimes200101issue.pdf
-Redirect 301 "/Times February 2001W.pdf" http://cdnb.austta.org.au/thetimes200102issue.pdf
-Redirect 301 "/Times March 2001W.pdf" http://cdnb.austta.org.au/thetimes200103issue.pdf
-Redirect 301 "/Times April 2001A.pdf" http://cdnb.austta.org.au/thetimes200104issue.pdf
-Redirect 301 "/Times May 2001A.pdf" http://cdnb.austta.org.au/thetimes200105issue.pdf
-Redirect 301 "/Times June 2001W.pdf" http://cdnb.austta.org.au/thetimes200106issue.pdf
-Redirect 301 "/Times July 2001W.pdf" http://cdnb.austta.org.au/thetimes200107issue.pdf
-Redirect 301 "/Times August 2001W.pdf" http://cdnb.austta.org.au/thetimes200108issue.pdf
-Redirect 301 "/Times September 2001W.pdf" http://cdnb.austta.org.au/thetimes200109issue.pdf
-Redirect 301 "/Times October 2001W.pdf" http://cdnb.austta.org.au/thetimes200110issue.pdf
-Redirect 301 "/Times November 2001W.pdf" http://cdnb.austta.org.au/thetimes200111issue.pdf
-Redirect 301 "/Times December 2001A.pdf" http://cdnb.austta.org.au/thetimes200112issue.pdf
-Redirect 301 "/Times January 2002W.pdf" http://cdnb.austta.org.au/thetimes200201issue.pdf
-Redirect 301 "/Times February 2002W.pdf" http://cdnb.austta.org.au/thetimes200202issue.pdf
-Redirect 301 "/Times March 2002A.pdf" http://cdnb.austta.org.au/thetimes200203issue.pdf
-Redirect 301 "/Times April 2002A.pdf" http://cdnb.austta.org.au/thetimes200204issue.pdf
-Redirect 301 "/Times May 2002A.pdf" http://cdnb.austta.org.au/thetimes200205issue.pdf
-Redirect 301 "/Times June 2002A.pdf" http://cdnb.austta.org.au/thetimes200206issue.pdf
-Redirect 301 "/Times July 2002A.pdf" http://cdnb.austta.org.au/thetimes200207issue.pdf
-Redirect 301 "/Times August 2002A.pdf" http://cdnb.austta.org.au/thetimes200208issue.pdf
-Redirect 301 "/Times September 2002A.pdf" http://cdnb.austta.org.au/thetimes200209issue.pdf
-Redirect 301 "/Times October 2002A.pdf" http://cdnb.austta.org.au/thetimes200210issue.pdf
-Redirect 301 "/Times November 2002A.pdf" http://cdnb.austta.org.au/thetimes200211issue.pdf
-Redirect 301 "/Times December 2002A.pdf" http://cdnb.austta.org.au/thetimes200212issue.pdf
-Redirect 301 "/Times January 2003A.pdf" http://cdnb.austta.org.au/thetimes200301issue.pdf
-Redirect 301 "/Times February 2003 Web.pdf" http://cdnb.austta.org.au/thetimes200302issue.pdf
-Redirect 301 "/Times March 2003 Web.pdf" http://cdnb.austta.org.au/thetimes200303issue.pdf
-Redirect 301 "/Times April 2003 Web.pdf" http://cdnb.austta.org.au/thetimes200304issue.pdf
-Redirect 301 "/Times May 2003 Web.pdf" http://cdnb.austta.org.au/thetimes200305issue.pdf
-Redirect 301 "/Times June 2003 Web.pdf" http://cdnb.austta.org.au/thetimes200306issue.pdf
-Redirect 301 "/The Times July 2003S.pdf" http://cdnb.austta.org.au/thetimes200307issue.pdf
-Redirect 301 "/The Times August 2003S.pdf" http://cdnb.austta.org.au/thetimes200308issue.pdf
-Redirect 301 "/The Times September 2003S.pdf" http://cdnb.austta.org.au/thetimes200309issue.pdf
-Redirect 301 "/The Times October 2003S.pdf" http://cdnb.austta.org.au/thetimes200310issue.pdf
-Redirect 301 "/The Times November 2003S.pdf" http://cdnb.austta.org.au/thetimes200311issue.pdf
-Redirect 301 "/The Times December 2003S.pdf" http://cdnb.austta.org.au/thetimes200312issue.pdf
-Redirect 301 "/The Times January 2004S.pdf" http://cdnb.austta.org.au/thetimes200401issue.pdf
-Redirect 301 "/The Times February 2004S.pdf" http://cdnb.austta.org.au/thetimes200402issue.pdf
-Redirect 301 "/The Times March 2004S.pdf" http://cdnb.austta.org.au/thetimes200403issue.pdf
-Redirect 301 "/The Times April 2004W.pdf" http://cdnb.austta.org.au/thetimes200404issue.pdf
-Redirect 301 "/The Times May 2004W.pdf" http://cdnb.austta.org.au/thetimes200405issue.pdf
-Redirect 301 "/The Times June 2004W.pdf" http://cdnb.austta.org.au/thetimes200406issue.pdf
-Redirect 301 "/The Times July 2004W.pdf" http://cdnb.austta.org.au/thetimes200407issue.pdf
-Redirect 301 "/The Times August 2004W.pdf" http://cdnb.austta.org.au/thetimes200408issue.pdf
-Redirect 301 "/The Times September 2004W.pdf" http://cdnb.austta.org.au/thetimes200409issue.pdf
-Redirect 301 "/The Times October 2004W.pdf" http://cdnb.austta.org.au/thetimes200410issue.pdf
-Redirect 301 "/The Times November 2004W.pdf" http://cdnb.austta.org.au/thetimes200411issue.pdf
-Redirect 301 "/The Times January 2005W.pdf" http://cdnb.austta.org.au/thetimes200501issue.pdf
-Redirect 301 "/The Times February 2005W.pdf" http://cdnb.austta.org.au/thetimes200502issue.pdf
-Redirect 301 "/The Times March 2005W.pdf" http://cdnb.austta.org.au/thetimes200503issue.pdf
-Redirect 301 "/The Times April 2005W.pdf" http://cdnb.austta.org.au/thetimes200504issue.pdf
-Redirect 301 "/The Times May 2005.pdf" http://cdnb.austta.org.au/thetimes200505issue.pdf
-Redirect 301 "/The Times June 2005.pdf" http://cdnb.austta.org.au/thetimes200506issue.pdf
-Redirect 301 "/The Times July 2005.pdf" http://cdnb.austta.org.au/thetimes200507issue.pdf
-Redirect 301 "/The Times August 2005.pdf" http://cdnb.austta.org.au/thetimes200508issue.pdf
-Redirect 301 "/The Times September 2005.pdf" http://cdnb.austta.org.au/thetimes200509issue.pdf
-Redirect 301 "/The Times October 2005W.pdf" http://cdnb.austta.org.au/thetimes200510issue.pdf
-Redirect 301 "/The Times November 2005W.pdf" http://cdnb.austta.org.au/thetimes200511issue.pdf
-Redirect 301 "/The Times December 2005W.pdf" http://cdnb.austta.org.au/thetimes200512issue.pdf
-Redirect 301 "/The Times January 2006W.pdf" http://cdnb.austta.org.au/thetimes200601issue.pdf
-Redirect 301 "/The Times February 2006W.pdf" http://cdnb.austta.org.au/thetimes200602issue.pdf
-Redirect 301 "/The Times March 2006W.pdf" http://cdnb.austta.org.au/thetimes200603issue.pdf
-Redirect 301 "/The Times April 2006W.pdf" http://cdnb.austta.org.au/thetimes200604issue.pdf
-Redirect 301 "/The Times May 2006W.pdf" http://cdnb.austta.org.au/thetimes200605issue.pdf
-Redirect 301 "/The Times June 2006W.pdf" http://cdnb.austta.org.au/thetimes200606issue.pdf
-Redirect 301 "/The Times July 2006W.pdf" http://cdnb.austta.org.au/thetimes200607issue.pdf
-Redirect 301 "/The Times August 2006.pdf" http://cdnb.austta.org.au/thetimes200608issue.pdf
-Redirect 301 "/The Times September 2006.pdf" http://cdnb.austta.org.au/thetimes200609issue.pdf
-Redirect 301 "/The Times October 2006.pdf" http://cdnb.austta.org.au/thetimes200610issue.pdf
-Redirect 301 "/The Times November 2006.pdf" http://cdnb.austta.org.au/thetimes200611issue.pdf
-Redirect 301 "/The Times December 2006.pdf" http://cdnb.austta.org.au/thetimes200612issue.pdf
-Redirect 301 "/The Times January 2007.pdf" http://cdnb.austta.org.au/thetimes200701issue.pdf
-Redirect 301 "/The Times February 2007.pdf" http://cdnb.austta.org.au/thetimes200702issue.pdf
-Redirect 301 "/The Times March 2007.pdf" http://cdnb.austta.org.au/thetimes200703issue.pdf
-Redirect 301 "/The Times April 2007.pdf" http://cdnb.austta.org.au/thetimes200704issue.pdf
-Redirect 301 "/The Times May 2007.pdf" http://cdnb.austta.org.au/thetimes200705issue.pdf
-Redirect 301 "/The Times June 2007.pdf" http://cdnb.austta.org.au/thetimes200706issue.pdf
-Redirect 301 "/The Times July 2007.pdf" http://cdnb.austta.org.au/thetimes200707issue.pdf
-Redirect 301 "/The Times August 2007.pdf" http://cdnb.austta.org.au/thetimes200708issue.pdf
-Redirect 301 "/The Times September 2007.pdf" http://cdnb.austta.org.au/thetimes200709issue.pdf
-Redirect 301 "/The Times October 2007.pdf" http://cdnb.austta.org.au/thetimes200710issue.pdf
-Redirect 301 "/The Times November 2007.pdf" http://cdnb.austta.org.au/thetimes200711issue.pdf
-Redirect 301 "/The Times December 2007.pdf" http://cdnb.austta.org.au/thetimes200712issue.pdf
-Redirect 301 "/The Times January 2008.pdf" http://cdnb.austta.org.au/thetimes200801issue.pdf
-Redirect 301 "/The Times February 2008.pdf" http://cdnb.austta.org.au/thetimes200802issue.pdf
-Redirect 301 "/The Times March 2008.pdf" http://cdnb.austta.org.au/thetimes200803issue.pdf
-Redirect 301 "/The Times April 2008.pdf" http://cdnb.austta.org.au/thetimes200804issue.pdf
-Redirect 301 "/The Times May 2008.pdf" http://cdnb.austta.org.au/thetimes200805issue.pdf
-Redirect 301 "/The Times June 2008w.pdf" http://cdnb.austta.org.au/thetimes200806issue.pdf
-Redirect 301 "/The Times July 2008.pdf" http://cdnb.austta.org.au/thetimes200807issue.pdf
-Redirect 301 "/The Times August 2008A.pdf" http://cdnb.austta.org.au/thetimes200808issue.pdf
-Redirect 301 "/The Times September 2008.pdf" http://cdnb.austta.org.au/thetimes200809issue.pdf
-Redirect 301 "/The Times October 2008w.pdf" http://cdnb.austta.org.au/thetimes200810issue.pdf
-Redirect 301 "/The Times November 2008w.pdf" http://cdnb.austta.org.au/thetimes200811issue.pdf
-Redirect 301 "/The Times December 2008w.pdf" http://cdnb.austta.org.au/thetimes200812issue.pdf
-Redirect 301 "/The Times January 2009w.pdf" http://cdnb.austta.org.au/thetimes200901issue.pdf
-Redirect 301 "/The Times Feb 2009w.pdf" http://cdnb.austta.org.au/thetimes200902issue.pdf
-Redirect 301 "/The Times March 2009w.pdf" http://cdnb.austta.org.au/thetimes200903issue.pdf
-Redirect 301 "/The Times April 2009w.pdf" http://cdnb.austta.org.au/thetimes200904issue.pdf
-Redirect 301 "/The Times May 2009w.pdf" http://cdnb.austta.org.au/thetimes200905issue.pdf
-Redirect 301 "/The Times June 2009w.pdf" http://cdnb.austta.org.au/thetimes200906issue.pdf
-Redirect 301 "/The Times July 2009w.pdf" http://cdnb.austta.org.au/thetimes200907issue.pdf
-Redirect 301 "/The Times August 2009w.pdf" http://cdnb.austta.org.au/thetimes200908issue.pdf
-Redirect 301 "/The Times September 2009.pdf" http://cdnb.austta.org.au/thetimes200909issue.pdf
-Redirect 301 "/The Times October 2009.pdf" http://cdnb.austta.org.au/thetimes200910issue.pdf
-Redirect 301 "/The Times November 2009.pdf" http://cdnb.austta.org.au/thetimes200911issue.pdf
-Redirect 301 "/The Times December 2009.pdf" http://cdnb.austta.org.au/thetimes200912issue.pdf
-Redirect 301 "/The Times January 2010.pdf" http://cdnb.austta.org.au/thetimes201001issue.pdf
-Redirect 301 "/The Times February 2010.pdf" http://cdnb.austta.org.au/thetimes201002issue.pdf
-Redirect 301 "/The Times March 2010.pdf" http://cdnb.austta.org.au/thetimes201003issue.pdf
-Redirect 301 "/The Times April 2010.pdf" http://cdnb.austta.org.au/thetimes201004issue.pdf
-Redirect 301 "/The Times May 2010.pdf" http://cdnb.austta.org.au/thetimes201005issue.pdf
-Redirect 301 "/The Times June 2010.pdf" http://cdnb.austta.org.au/thetimes201006issue.pdf
-Redirect 301 "/The Times July 2010.pdf" http://cdnb.austta.org.au/thetimes201007issue.pdf
-Redirect 301 "/The Times August 2010.pdf" http://cdnb.austta.org.au/thetimes201008issue.pdf
-Redirect 301 "/The Times September 2010.pdf" http://cdnb.austta.org.au/thetimes201009issue.pdf
-Redirect 301 "/The Times October 2010.pdf" http://cdnb.austta.org.au/thetimes201010issue.pdf
-Redirect 301 "/The Times November 2010.pdf" http://cdnb.austta.org.au/thetimes201011issue.pdf
-Redirect 301 "/The Times December 2010.pdf" http://cdnb.austta.org.au/thetimes201012issue.pdf
-Redirect 301 "/The Times January 2011.pdf" http://cdnb.austta.org.au/thetimes201101issue.pdf
-Redirect 301 "/The Times February 2011A.pdf" http://cdnb.austta.org.au/thetimes201102issue.pdf
-Redirect 301 "/The Times March 2011.pdf" http://cdnb.austta.org.au/thetimes201103issue.pdf
-Redirect 301 "/The Times April 2011.pdf" http://cdnb.austta.org.au/thetimes201104issue.pdf
-Redirect 301 "/The Times May 2011.pdf" http://cdnb.austta.org.au/thetimes201105issue.pdf
-Redirect 301 "/The Times June 2011.pdf" http://cdnb.austta.org.au/thetimes201106issue.pdf
-Redirect 301 "/The Times July 2011.pdf" http://cdnb.austta.org.au/thetimes201107issue.pdf
-Redirect 301 "/The Times August 2011.pdf" http://cdnb.austta.org.au/thetimes201108issue.pdf
-Redirect 301 "/The Times September 2011.pdf" http://cdnb.austta.org.au/thetimes201109issue.pdf
-Redirect 301 "/The Times October 2011.pdf" http://cdnb.austta.org.au/thetimes201110issue.pdf
-Redirect 301 "/The Times November 2011.pdf" http://cdnb.austta.org.au/thetimes201111issue.pdf
-Redirect 301 "/The Times December 2011.pdf" http://cdnb.austta.org.au/thetimes201112issue.pdf
-Redirect 301 "/The Times 201604 April.pdf" http://cdnb.austta.org.au/thetimes201604issue.pdf
-Redirect 301 "/The Times 201605 May.pdf" http://cdnb.austta.org.au/thetimes201605issue.pdf
-Redirect 301 "/Auction 80 Catalogue Aug 16.pdf" http://cdnb.austta.org.au/auctioncatalog201608issue.pdf
-Redirect 301 "/Auction 79 Catalogue Jul 16.pdf" http://cdnb.austta.org.au/auctioncatalog201607issue.pdf
-Redirect 301 "/Auction 78 Catalogue Jun 16.pdf" http://cdnb.austta.org.au/auctioncatalog201606issue.pdf
-Redirect 301 "/Auction 77 Catalogue May 16.pdf" http://cdnb.austta.org.au/auctioncatalog201605issue.pdf
-Redirect 301 "/Auction 76 Catalogue Apr 16.pdf" http://cdnb.austta.org.au/auctioncatalog201604issue.pdf
-Redirect 301 "/Auction 74 Catalogue Feb 16.pdf" http://cdnb.austta.org.au/auctioncatalog201602issue.pdf
-Redirect 301 "/Distribution List 201608.pdf" http://cdnb.austta.org.au/distributionlist201608issue.pdf
-Redirect 301 "/Distribution List 201607.pdf" http://cdnb.austta.org.au/distributionlist201607issue.pdf
-Redirect 301 "/ATA DL Jun16.pdf" http://cdnb.austta.org.au/distributionlist201606issue.pdf
-Redirect 301 "/ATA DL May16.pdf" http://cdnb.austta.org.au/distributionlist201605issue.pdf
-Redirect 301 "/ATA DL Apr16.pdf" http://cdnb.austta.org.au/distributionlist201604issue.pdf
-Redirect 301 "/ATA DL Feb16.pdf" http://cdnb.austta.org.au/distributionlist201602issue.pdf
+Redirect 301 "/Table Talk Feb 2003A.pdf" http://cdn.timetable.org.au/tabletalk200302issue.pdf
+Redirect 301 "/Table Talk March 2003.pdf" http://cdn.timetable.org.au/tabletalk200303issue.pdf
+Redirect 301 "/Table Talk April 2003.pdf" http://cdn.timetable.org.au/tabletalk200304issue.pdf
+Redirect 301 "/Table Talk May 2003.pdf" http://cdn.timetable.org.au/tabletalk200305issue.pdf
+Redirect 301 "/Table Talk June 2003.pdf" http://cdn.timetable.org.au/tabletalk200306issue.pdf
+Redirect 301 "/Table Talk August 2003A.pdf" http://cdn.timetable.org.au/tabletalk200308issue.pdf
+Redirect 301 "/Table Talk 200401 final2.pdf" http://cdn.timetable.org.au/tabletalk200401issue.pdf
+Redirect 301 "/Table Talk 200402 final.pdf" http://cdn.timetable.org.au/tabletalk200402issue.pdf
+Redirect 301 "/Table Talk 200403 final1.pdf" http://cdn.timetable.org.au/tabletalk200403issue.pdf
+Redirect 301 "/Table Talk 200404 final.pdf" http://cdn.timetable.org.au/tabletalk200404issue.pdf
+Redirect 301 "/Table Talk 200405.pdf" http://cdn.timetable.org.au/tabletalk200405issue.pdf
+Redirect 301 "/Table Talk 200406 v2.pdf" http://cdn.timetable.org.au/tabletalk200406issue.pdf
+Redirect 301 "/Table Talk 200407 final.pdf" http://cdn.timetable.org.au/tabletalk200407issue.pdf
+Redirect 301 "/Table Talk 200408 final.pdf" http://cdn.timetable.org.au/tabletalk200408issue.pdf
+Redirect 301 "/Table Talk 200409.pdf" http://cdn.timetable.org.au/tabletalk200409issue.pdf
+Redirect 301 "/Table Talk 200410.pdf" http://cdn.timetable.org.au/tabletalk200410issue.pdf
+Redirect 301 "/Table Talk 200411.pdf" http://cdn.timetable.org.au/tabletalk200411issue.pdf
+Redirect 301 "/Table Talk Jan 2005.pdf" http://cdn.timetable.org.au/tabletalk200501issue.pdf
+Redirect 301 "/Table Talk Feb 2005.pdf" http://cdn.timetable.org.au/tabletalk200502issue.pdf
+Redirect 301 "/Table Talk Mar 2005.pdf" http://cdn.timetable.org.au/tabletalk200503issue.pdf
+Redirect 301 "/Table Talk April 2005.pdf" http://cdn.timetable.org.au/tabletalk200504issue.pdf
+Redirect 301 "/Table Talk May 2005.pdf" http://cdn.timetable.org.au/tabletalk200505issue.pdf
+Redirect 301 "/Table Talk June 2005.pdf" http://cdn.timetable.org.au/tabletalk200506issue.pdf
+Redirect 301 "/Table Talk Jul 2005.pdf" http://cdn.timetable.org.au/tabletalk200507issue.pdf
+Redirect 301 "/Table Talk Aug 2005.pdf" http://cdn.timetable.org.au/tabletalk200508issue.pdf
+Redirect 301 "/Table Talk Sep 2005.pdf" http://cdn.timetable.org.au/tabletalk200510issue.pdf
+Redirect 301 "/Table Talk October 2005.pdf" http://cdn.timetable.org.au/tabletalk200510issue.pdf
+Redirect 301 "/Table Talk Nov 2005.pdf" http://cdn.timetable.org.au/tabletalk200511issue.pdf
+Redirect 301 "/Table Talk Dec 2005.pdf" http://cdn.timetable.org.au/tabletalk200512issue.pdf
+Redirect 301 "/Table Talk Jan 2006.pdf" http://cdn.timetable.org.au/tabletalk200601issue.pdf
+Redirect 301 "/Table Talk Feb 2006.pdf" http://cdn.timetable.org.au/tabletalk200602issue.pdf
+Redirect 301 "/Table Talk March 2006.pdf" http://cdn.timetable.org.au/tabletalk200603issue.pdf
+Redirect 301 "/Table Talk April 2006.pdf" http://cdn.timetable.org.au/tabletalk200604issue.pdf
+Redirect 301 "/Table Talk May 2006.pdf" http://cdn.timetable.org.au/tabletalk200605issue.pdf
+Redirect 301 "/Table Talk June 2006.pdf" http://cdn.timetable.org.au/tabletalk200606issue.pdf
+Redirect 301 "/Table Talk July 2006.pdf" http://cdn.timetable.org.au/tabletalk200607issue.pdf
+Redirect 301 "/Table Talk August 2006.pdf" http://cdn.timetable.org.au/tabletalk200608issue.pdf
+Redirect 301 "/Table Talk Sept 2006.pdf" http://cdn.timetable.org.au/tabletalk200609issue.pdf
+Redirect 301 "/Table Talk October 2006.pdf" http://cdn.timetable.org.au/tabletalk200610issue.pdf
+Redirect 301 "/Table Talk November 2006.pdf" http://cdn.timetable.org.au/tabletalk200611issue.pdf
+Redirect 301 "/Table Talk Dec 2006.pdf" http://cdn.timetable.org.au/tabletalk200612issue.pdf
+Redirect 301 "/Table Talk January 2007.pdf" http://cdn.timetable.org.au/tabletalk200701issue.pdf
+Redirect 301 "/Table Talk February 2007.pdf" http://cdn.timetable.org.au/tabletalk200702issue.pdf
+Redirect 301 "/Table Talk March 2007.pdf" http://cdn.timetable.org.au/tabletalk200703issue.pdf
+Redirect 301 "/Table Talk April 2007.pdf" http://cdn.timetable.org.au/tabletalk200704issue.pdf
+Redirect 301 "/Table Talk May 2007.pdf" http://cdn.timetable.org.au/tabletalk200705issue.pdf
+Redirect 301 "/Table Talk July2007.pdf" http://cdn.timetable.org.au/tabletalk200707issue.pdf
+Redirect 301 "/Table Talk August 2007.pdf" http://cdn.timetable.org.au/tabletalk200708issue.pdf
+Redirect 301 "/Table Talk October 2007.pdf" http://cdn.timetable.org.au/tabletalk200710issue.pdf
+Redirect 301 "/Table Talk November 2007.pdf" http://cdn.timetable.org.au/tabletalk200711issue.pdf
+Redirect 301 "/Table Talk December 2007.pdf" http://cdn.timetable.org.au/tabletalk200712issue.pdf
+Redirect 301 "/Table Talk Jan 2008.pdf" http://cdn.timetable.org.au/tabletalk200801issue.pdf
+Redirect 301 "/Table Talk Feb 2008.pdf" http://cdn.timetable.org.au/tabletalk200802issue.pdf
+Redirect 301 "/Table Talk March 2008.pdf" http://cdn.timetable.org.au/tabletalk200803issue.pdf
+Redirect 301 "/Table Talk April 2008.pdf" http://cdn.timetable.org.au/tabletalk200804issue.pdf
+Redirect 301 "/Table Talk May 2008.pdf" http://cdn.timetable.org.au/tabletalk200805issue.pdf
+Redirect 301 "/Table Talk June 2008.pdf" http://cdn.timetable.org.au/tabletalk200806issue.pdf
+Redirect 301 "/Table Talk July 2008.pdf" http://cdn.timetable.org.au/tabletalk200807issue.pdf
+Redirect 301 "/Table Talk August 2008.pdf" http://cdn.timetable.org.au/tabletalk200808issue.pdf
+Redirect 301 "/Table Talk Sept 2008.pdf" http://cdn.timetable.org.au/tabletalk200809issue.pdf
+Redirect 301 "/Table Talk Oct 2008.pdf" http://cdn.timetable.org.au/tabletalk200810issue.pdf
+Redirect 301 "/Table Talk Nov 2008.pdf" http://cdn.timetable.org.au/tabletalk200811issue.pdf
+Redirect 301 "/Table Talk Dec 2008.pdf" http://cdn.timetable.org.au/tabletalk200812issue.pdf
+Redirect 301 "/Table Talk Jan 2009.pdf" http://cdn.timetable.org.au/tabletalk200901issue.pdf
+Redirect 301 "/Table Talk Feb 2009.pdf" http://cdn.timetable.org.au/tabletalk200902issue.pdf
+Redirect 301 "/Table Talk Mar 2009.pdf" http://cdn.timetable.org.au/tabletalk200903issue.pdf
+Redirect 301 "/Table Talk 2009 April.pdf" http://cdn.timetable.org.au/tabletalk200904issue.pdf
+Redirect 301 "/Table Talk 2009 May.pdf" http://cdn.timetable.org.au/tabletalk200905issue.pdf
+Redirect 301 "/Table Talk 2009 June.pdf" http://cdn.timetable.org.au/tabletalk200906issue.pdf
+Redirect 301 "/Table Talk 2009 July.pdf" http://cdn.timetable.org.au/tabletalk200907issue.pdf
+Redirect 301 "/Table Talk 2009 August.pdf" http://cdn.timetable.org.au/tabletalk200908issue.pdf
+Redirect 301 "/Table Talk 2009 Sept.pdf" http://cdn.timetable.org.au/tabletalk200909issue.pdf
+Redirect 301 "/Table Talk 2009 October.pdf" http://cdn.timetable.org.au/tabletalk200910issue.pdf
+Redirect 301 "/Table Talk 2009 November.pdf" http://cdn.timetable.org.au/tabletalk200911issue.pdf
+Redirect 301 "/Table_Talk_2009_December.pdf" http://cdn.timetable.org.au/tabletalk200912issue.pdf
+Redirect 301 "/Table Talk 2010 January.pdf" http://cdn.timetable.org.au/tabletalk201001issue.pdf
+Redirect 301 "/Table Talk 2010 Feb.pdf" http://cdn.timetable.org.au/tabletalk201002issue.pdf
+Redirect 301 "/Table talk March 2010.pdf" http://cdn.timetable.org.au/tabletalk201003issue.pdf
+Redirect 301 "/Table talk April 2010.pdf" http://cdn.timetable.org.au/tabletalk201004issue.pdf
+Redirect 301 "/TableTalk May 2010.pdf" http://cdn.timetable.org.au/tabletalk201005issue.pdf
+Redirect 301 "/Table Talk June 2010.pdf" http://cdn.timetable.org.au/tabletalk201006issue.pdf
+Redirect 301 "/Table Talk 2010 July.pdf" http://cdn.timetable.org.au/tabletalk201007issue.pdf
+Redirect 301 "/Table Talk 2010 August.pdf" http://cdn.timetable.org.au/tabletalk201008issue.pdf
+Redirect 301 "/Table Talk 2010 Sept.pdf" http://cdn.timetable.org.au/tabletalk201009issue.pdf
+Redirect 301 "/Table Talk 2010 October.pdf" http://cdn.timetable.org.au/tabletalk201010issue.pdf
+Redirect 301 "/Table Talk 2010 November.pdf" http://cdn.timetable.org.au/tabletalk201011issue.pdf
+Redirect 301 "/Table Talk 2010 December.pdf" http://cdn.timetable.org.au/tabletalk201012issue.pdf
+Redirect 301 "/Table Talk January 2011.pdf" http://cdn.timetable.org.au/tabletalk201101issue.pdf
+Redirect 301 "/Table Talk 2011 February.pdf" http://cdn.timetable.org.au/tabletalk201102issue.pdf
+Redirect 301 "/Table Talk 2011 March.pdf" http://cdn.timetable.org.au/tabletalk201103issue.pdf
+Redirect 301 "/Table Talk 2011 April.pdf" http://cdn.timetable.org.au/tabletalk201104issue.pdf
+Redirect 301 "/Table Talk 2011 May.pdf" http://cdn.timetable.org.au/tabletalk201105issue.pdf
+Redirect 301 "/Table Talk 2011 June.pdf" http://cdn.timetable.org.au/tabletalk201106issue.pdf
+Redirect 301 "/Table Talk 2011 July.pdf" http://cdn.timetable.org.au/tabletalk201107issue.pdf
+Redirect 301 "/Table Talk 2011 August.pdf" http://cdn.timetable.org.au/tabletalk201108issue.pdf
+Redirect 301 "/Table Talk 2011 Sept.pdf" http://cdn.timetable.org.au/tabletalk201109issue.pdf
+Redirect 301 "/Table Talk 2011 Oct.pdf" http://cdn.timetable.org.au/tabletalk201110issue.pdf
+Redirect 301 "/Table Talk 2011 Nov.pdf" http://cdn.timetable.org.au/tabletalk201111issue.pdf
+Redirect 301 "/Table Talk 2011 December.pdf" http://cdn.timetable.org.au/tabletalk201112issue.pdf
+Redirect 301 "/Table Talk 2012 January.pdf" http://cdn.timetable.org.au/tabletalk201201issue.pdf
+Redirect 301 "/Table Talk 2012 February.pdf" http://cdn.timetable.org.au/tabletalk201202issue.pdf
+Redirect 301 "/Table Talk March 2012.pdf" http://cdn.timetable.org.au/tabletalk201203issue.pdf
+Redirect 301 "/Table Talk 2012 April.pdf" http://cdn.timetable.org.au/tabletalk201204issue.pdf
+Redirect 301 "/Table Talk 2012 May.pdf" http://cdn.timetable.org.au/tabletalk201205issue.pdf
+Redirect 301 "/Table Talk 2012 June.pdf" http://cdn.timetable.org.au/tabletalk201206issue.pdf
+Redirect 301 "/TableTalk 2012 July.pdf" http://cdn.timetable.org.au/tabletalk201207issue.pdf
+Redirect 301 "/Table Talk 2012 August.pdf" http://cdn.timetable.org.au/tabletalk201208issue.pdf
+Redirect 301 "/Table Talk 2012 Sept.pdf" http://cdn.timetable.org.au/tabletalk201209issue.pdf
+Redirect 301 "/Table Talk 2012 October.pdf" http://cdn.timetable.org.au/tabletalk201210issue.pdf
+Redirect 301 "/Table Talk 2012 November.pdf" http://cdn.timetable.org.au/tabletalk201211issue.pdf
+Redirect 301 "/Table Talk 2012 December.pdf" http://cdn.timetable.org.au/tabletalk201212issue.pdf
+Redirect 301 "/Table Talk 2013 January.pdf" http://cdn.timetable.org.au/tabletalk201301issue.pdf
+Redirect 301 "/Table talk 2013 February.pdf" http://cdn.timetable.org.au/tabletalk201302issue.pdf
+Redirect 301 "/Table Talk 2013 March.pdf" http://cdn.timetable.org.au/tabletalk201303issue.pdf
+Redirect 301 "/Table Talk 2013 April.pdf" http://cdn.timetable.org.au/tabletalk201304issue.pdf
+Redirect 301 "/Table Talk 2013 May.pdf" http://cdn.timetable.org.au/tabletalk201305issue.pdf
+Redirect 301 "/Table Talk 2013 June.pdf" http://cdn.timetable.org.au/tabletalk201306issue.pdf
+Redirect 301 "/Table Talk 2013 July.pdf" http://cdn.timetable.org.au/tabletalk201307issue.pdf
+Redirect 301 "/Table Talk 2013 August.pdf" http://cdn.timetable.org.au/tabletalk201308issue.pdf
+Redirect 301 "/Table Talk 2013 Sept.pdf" http://cdn.timetable.org.au/tabletalk201309issue.pdf
+Redirect 301 "/Table Talk 2013 October.pdf" http://cdn.timetable.org.au/tabletalk201310issue.pdf
+Redirect 301 "/Table Talk 2013 November.pdf" http://cdn.timetable.org.au/tabletalk201311issue.pdf
+Redirect 301 "/Table Talk 2013 December.pdf" http://cdn.timetable.org.au/tabletalk201312issue.pdf
+Redirect 301 "/Table Talk 2014 January.pdf" http://cdn.timetable.org.au/tabletalk201401issue.pdf
+Redirect 301 "/Table Talk 2014 February.pdf" http://cdn.timetable.org.au/tabletalk201402issue.pdf
+Redirect 301 "/Table Talk 2014 March.pdf" http://cdn.timetable.org.au/tabletalk201403issue.pdf
+Redirect 301 "/2014 April.pdf" http://cdn.timetable.org.au/tabletalk201404issue.pdf
+Redirect 301 "/ATA Table Talk 2014 May.pdf" http://cdn.timetable.org.au/tabletalk201405issue.pdf
+Redirect 301 "/ATA Table Talk 2014 June.pdf" http://cdn.timetable.org.au/tabletalk201406issue.pdf
+Redirect 301 "/ATA Table Talk 2014 July.pdf" http://cdn.timetable.org.au/tabletalk201407issue.pdf
+Redirect 301 "/ATA Table Talk 2014 August.pdf" http://cdn.timetable.org.au/tabletalk201408issue.pdf
+Redirect 301 "/ATA Table Talk 2014 Sept.pdf" http://cdn.timetable.org.au/tabletalk201409issue.pdf
+Redirect 301 "/ATA Table Talk 2014 Oct.pdf" http://cdn.timetable.org.au/tabletalk201410issue.pdf
+Redirect 301 "/ATA Table Talk 2014 Nov.pdf" http://cdn.timetable.org.au/tabletalk201411issue.pdf
+Redirect 301 "/ATA Table Talk 2014 December.pdf" http://cdn.timetable.org.au/tabletalk201412issue.pdf
+Redirect 301 "/ATA Table Talk 201501 January.pdf" http://cdn.timetable.org.au/tabletalk201501issue.pdf
+Redirect 301 "/ATA Table Talk 201502 February.pdf" http://cdn.timetable.org.au/tabletalk201502issue.pdf
+Redirect 301 "/ATA Table Talk 201503 March.pdf" http://cdn.timetable.org.au/tabletalk201503issue.pdf
+Redirect 301 "/ATA Table Talk 201504 April.pdf" http://cdn.timetable.org.au/tabletalk201504issue.pdf
+Redirect 301 "/ATA Table Talk 201505 May.pdf" http://cdn.timetable.org.au/tabletalk201505issue.pdf
+Redirect 301 "/ATA Table Talk 201506 June.pdf" http://cdn.timetable.org.au/tabletalk201506issue.pdf
+Redirect 301 "/ATA Table Talk 201507 July.pdf" http://cdn.timetable.org.au/tabletalk201507issue.pdf
+Redirect 301 "/ATA Table Talk 201508 August.pdf" http://cdn.timetable.org.au/tabletalk201508issue.pdf
+Redirect 301 "/ATA Table Talk 201509 September.pdf" http://cdn.timetable.org.au/tabletalk201509issue.pdf
+Redirect 301 "/ATA Table Talk 201510 October.pdf" http://cdn.timetable.org.au/tabletalk201510issue.pdf
+Redirect 301 "/ATA Table Talk 201511 November.pdf" http://cdn.timetable.org.au/tabletalk201511issue.pdf
+Redirect 301 "/ATA Table Talk 201512 December.pdf" http://cdn.timetable.org.au/tabletalk201512issue.pdf
+Redirect 301 "/ATA Table Talk 201601 January.pdf" http://cdn.timetable.org.au/tabletalk201601issue.pdf
+Redirect 301 "/ATA Table Talk 201602 February.pdf" http://cdn.timetable.org.au/tabletalk201602issue.pdf
+Redirect 301 "/ATA Table Talk 201603 March.pdf" http://cdn.timetable.org.au/tabletalk201603issue.pdf
+Redirect 301 "/ATA Table Talk 201604 April.pdf" http://cdn.timetable.org.au/tabletalk201604issue.pdf
+Redirect 301 "/ATA Table Talk 201605 May.pdf" http://cdn.timetable.org.au/tabletalk201605issue.pdf
+Redirect 301 "/Times November 1999W.pdf" http://cdn.timetable.org.au/thetimes199911issue.pdf
+Redirect 301 "/Times December 1999W.pdf" http://cdn.timetable.org.au/thetimes199912issue.pdf
+Redirect 301 "/Times January 2000A.pdf" http://cdn.timetable.org.au/thetimes200001issue.pdf
+Redirect 301 "/Times February 2000A.pdf" http://cdn.timetable.org.au/thetimes200002issue.pdf
+Redirect 301 "/Times March 2000W.pdf" http://cdn.timetable.org.au/thetimes200003issue.pdf
+Redirect 301 "/Times April 2000W.pdf" http://cdn.timetable.org.au/thetimes200004issue.pdf
+Redirect 301 "/Times May 2000W.pdf" http://cdn.timetable.org.au/thetimes200005issue.pdf
+Redirect 301 "/Times June 2000W.pdf" http://cdn.timetable.org.au/thetimes200006issue.pdf
+Redirect 301 "/Times July 2000A.pdf" http://cdn.timetable.org.au/thetimes200007issue.pdf
+Redirect 301 "/Times August 2000A.pdf" http://cdn.timetable.org.au/thetimes200008issue.pdf
+Redirect 301 "/Times September 2000W.pdf" http://cdn.timetable.org.au/thetimes200009issue.pdf
+Redirect 301 "/Times October 2000W.pdf" http://cdn.timetable.org.au/thetimes200010issue.pdf
+Redirect 301 "/Times November 2000W.pdf" http://cdn.timetable.org.au/thetimes200011issue.pdf
+Redirect 301 "/Times December 2000W.pdf" http://cdn.timetable.org.au/thetimes200012issue.pdf
+Redirect 301 "/Times January 2001W.pdf" http://cdn.timetable.org.au/thetimes200101issue.pdf
+Redirect 301 "/Times February 2001W.pdf" http://cdn.timetable.org.au/thetimes200102issue.pdf
+Redirect 301 "/Times March 2001W.pdf" http://cdn.timetable.org.au/thetimes200103issue.pdf
+Redirect 301 "/Times April 2001A.pdf" http://cdn.timetable.org.au/thetimes200104issue.pdf
+Redirect 301 "/Times May 2001A.pdf" http://cdn.timetable.org.au/thetimes200105issue.pdf
+Redirect 301 "/Times June 2001W.pdf" http://cdn.timetable.org.au/thetimes200106issue.pdf
+Redirect 301 "/Times July 2001W.pdf" http://cdn.timetable.org.au/thetimes200107issue.pdf
+Redirect 301 "/Times August 2001W.pdf" http://cdn.timetable.org.au/thetimes200108issue.pdf
+Redirect 301 "/Times September 2001W.pdf" http://cdn.timetable.org.au/thetimes200109issue.pdf
+Redirect 301 "/Times October 2001W.pdf" http://cdn.timetable.org.au/thetimes200110issue.pdf
+Redirect 301 "/Times November 2001W.pdf" http://cdn.timetable.org.au/thetimes200111issue.pdf
+Redirect 301 "/Times December 2001A.pdf" http://cdn.timetable.org.au/thetimes200112issue.pdf
+Redirect 301 "/Times January 2002W.pdf" http://cdn.timetable.org.au/thetimes200201issue.pdf
+Redirect 301 "/Times February 2002W.pdf" http://cdn.timetable.org.au/thetimes200202issue.pdf
+Redirect 301 "/Times March 2002A.pdf" http://cdn.timetable.org.au/thetimes200203issue.pdf
+Redirect 301 "/Times April 2002A.pdf" http://cdn.timetable.org.au/thetimes200204issue.pdf
+Redirect 301 "/Times May 2002A.pdf" http://cdn.timetable.org.au/thetimes200205issue.pdf
+Redirect 301 "/Times June 2002A.pdf" http://cdn.timetable.org.au/thetimes200206issue.pdf
+Redirect 301 "/Times July 2002A.pdf" http://cdn.timetable.org.au/thetimes200207issue.pdf
+Redirect 301 "/Times August 2002A.pdf" http://cdn.timetable.org.au/thetimes200208issue.pdf
+Redirect 301 "/Times September 2002A.pdf" http://cdn.timetable.org.au/thetimes200209issue.pdf
+Redirect 301 "/Times October 2002A.pdf" http://cdn.timetable.org.au/thetimes200210issue.pdf
+Redirect 301 "/Times November 2002A.pdf" http://cdn.timetable.org.au/thetimes200211issue.pdf
+Redirect 301 "/Times December 2002A.pdf" http://cdn.timetable.org.au/thetimes200212issue.pdf
+Redirect 301 "/Times January 2003A.pdf" http://cdn.timetable.org.au/thetimes200301issue.pdf
+Redirect 301 "/Times February 2003 Web.pdf" http://cdn.timetable.org.au/thetimes200302issue.pdf
+Redirect 301 "/Times March 2003 Web.pdf" http://cdn.timetable.org.au/thetimes200303issue.pdf
+Redirect 301 "/Times April 2003 Web.pdf" http://cdn.timetable.org.au/thetimes200304issue.pdf
+Redirect 301 "/Times May 2003 Web.pdf" http://cdn.timetable.org.au/thetimes200305issue.pdf
+Redirect 301 "/Times June 2003 Web.pdf" http://cdn.timetable.org.au/thetimes200306issue.pdf
+Redirect 301 "/The Times July 2003S.pdf" http://cdn.timetable.org.au/thetimes200307issue.pdf
+Redirect 301 "/The Times August 2003S.pdf" http://cdn.timetable.org.au/thetimes200308issue.pdf
+Redirect 301 "/The Times September 2003S.pdf" http://cdn.timetable.org.au/thetimes200309issue.pdf
+Redirect 301 "/The Times October 2003S.pdf" http://cdn.timetable.org.au/thetimes200310issue.pdf
+Redirect 301 "/The Times November 2003S.pdf" http://cdn.timetable.org.au/thetimes200311issue.pdf
+Redirect 301 "/The Times December 2003S.pdf" http://cdn.timetable.org.au/thetimes200312issue.pdf
+Redirect 301 "/The Times January 2004S.pdf" http://cdn.timetable.org.au/thetimes200401issue.pdf
+Redirect 301 "/The Times February 2004S.pdf" http://cdn.timetable.org.au/thetimes200402issue.pdf
+Redirect 301 "/The Times March 2004S.pdf" http://cdn.timetable.org.au/thetimes200403issue.pdf
+Redirect 301 "/The Times April 2004W.pdf" http://cdn.timetable.org.au/thetimes200404issue.pdf
+Redirect 301 "/The Times May 2004W.pdf" http://cdn.timetable.org.au/thetimes200405issue.pdf
+Redirect 301 "/The Times June 2004W.pdf" http://cdn.timetable.org.au/thetimes200406issue.pdf
+Redirect 301 "/The Times July 2004W.pdf" http://cdn.timetable.org.au/thetimes200407issue.pdf
+Redirect 301 "/The Times August 2004W.pdf" http://cdn.timetable.org.au/thetimes200408issue.pdf
+Redirect 301 "/The Times September 2004W.pdf" http://cdn.timetable.org.au/thetimes200409issue.pdf
+Redirect 301 "/The Times October 2004W.pdf" http://cdn.timetable.org.au/thetimes200410issue.pdf
+Redirect 301 "/The Times November 2004W.pdf" http://cdn.timetable.org.au/thetimes200411issue.pdf
+Redirect 301 "/The Times January 2005W.pdf" http://cdn.timetable.org.au/thetimes200501issue.pdf
+Redirect 301 "/The Times February 2005W.pdf" http://cdn.timetable.org.au/thetimes200502issue.pdf
+Redirect 301 "/The Times March 2005W.pdf" http://cdn.timetable.org.au/thetimes200503issue.pdf
+Redirect 301 "/The Times April 2005W.pdf" http://cdn.timetable.org.au/thetimes200504issue.pdf
+Redirect 301 "/The Times May 2005.pdf" http://cdn.timetable.org.au/thetimes200505issue.pdf
+Redirect 301 "/The Times June 2005.pdf" http://cdn.timetable.org.au/thetimes200506issue.pdf
+Redirect 301 "/The Times July 2005.pdf" http://cdn.timetable.org.au/thetimes200507issue.pdf
+Redirect 301 "/The Times August 2005.pdf" http://cdn.timetable.org.au/thetimes200508issue.pdf
+Redirect 301 "/The Times September 2005.pdf" http://cdn.timetable.org.au/thetimes200509issue.pdf
+Redirect 301 "/The Times October 2005W.pdf" http://cdn.timetable.org.au/thetimes200510issue.pdf
+Redirect 301 "/The Times November 2005W.pdf" http://cdn.timetable.org.au/thetimes200511issue.pdf
+Redirect 301 "/The Times December 2005W.pdf" http://cdn.timetable.org.au/thetimes200512issue.pdf
+Redirect 301 "/The Times January 2006W.pdf" http://cdn.timetable.org.au/thetimes200601issue.pdf
+Redirect 301 "/The Times February 2006W.pdf" http://cdn.timetable.org.au/thetimes200602issue.pdf
+Redirect 301 "/The Times March 2006W.pdf" http://cdn.timetable.org.au/thetimes200603issue.pdf
+Redirect 301 "/The Times April 2006W.pdf" http://cdn.timetable.org.au/thetimes200604issue.pdf
+Redirect 301 "/The Times May 2006W.pdf" http://cdn.timetable.org.au/thetimes200605issue.pdf
+Redirect 301 "/The Times June 2006W.pdf" http://cdn.timetable.org.au/thetimes200606issue.pdf
+Redirect 301 "/The Times July 2006W.pdf" http://cdn.timetable.org.au/thetimes200607issue.pdf
+Redirect 301 "/The Times August 2006.pdf" http://cdn.timetable.org.au/thetimes200608issue.pdf
+Redirect 301 "/The Times September 2006.pdf" http://cdn.timetable.org.au/thetimes200609issue.pdf
+Redirect 301 "/The Times October 2006.pdf" http://cdn.timetable.org.au/thetimes200610issue.pdf
+Redirect 301 "/The Times November 2006.pdf" http://cdn.timetable.org.au/thetimes200611issue.pdf
+Redirect 301 "/The Times December 2006.pdf" http://cdn.timetable.org.au/thetimes200612issue.pdf
+Redirect 301 "/The Times January 2007.pdf" http://cdn.timetable.org.au/thetimes200701issue.pdf
+Redirect 301 "/The Times February 2007.pdf" http://cdn.timetable.org.au/thetimes200702issue.pdf
+Redirect 301 "/The Times March 2007.pdf" http://cdn.timetable.org.au/thetimes200703issue.pdf
+Redirect 301 "/The Times April 2007.pdf" http://cdn.timetable.org.au/thetimes200704issue.pdf
+Redirect 301 "/The Times May 2007.pdf" http://cdn.timetable.org.au/thetimes200705issue.pdf
+Redirect 301 "/The Times June 2007.pdf" http://cdn.timetable.org.au/thetimes200706issue.pdf
+Redirect 301 "/The Times July 2007.pdf" http://cdn.timetable.org.au/thetimes200707issue.pdf
+Redirect 301 "/The Times August 2007.pdf" http://cdn.timetable.org.au/thetimes200708issue.pdf
+Redirect 301 "/The Times September 2007.pdf" http://cdn.timetable.org.au/thetimes200709issue.pdf
+Redirect 301 "/The Times October 2007.pdf" http://cdn.timetable.org.au/thetimes200710issue.pdf
+Redirect 301 "/The Times November 2007.pdf" http://cdn.timetable.org.au/thetimes200711issue.pdf
+Redirect 301 "/The Times December 2007.pdf" http://cdn.timetable.org.au/thetimes200712issue.pdf
+Redirect 301 "/The Times January 2008.pdf" http://cdn.timetable.org.au/thetimes200801issue.pdf
+Redirect 301 "/The Times February 2008.pdf" http://cdn.timetable.org.au/thetimes200802issue.pdf
+Redirect 301 "/The Times March 2008.pdf" http://cdn.timetable.org.au/thetimes200803issue.pdf
+Redirect 301 "/The Times April 2008.pdf" http://cdn.timetable.org.au/thetimes200804issue.pdf
+Redirect 301 "/The Times May 2008.pdf" http://cdn.timetable.org.au/thetimes200805issue.pdf
+Redirect 301 "/The Times June 2008w.pdf" http://cdn.timetable.org.au/thetimes200806issue.pdf
+Redirect 301 "/The Times July 2008.pdf" http://cdn.timetable.org.au/thetimes200807issue.pdf
+Redirect 301 "/The Times August 2008A.pdf" http://cdn.timetable.org.au/thetimes200808issue.pdf
+Redirect 301 "/The Times September 2008.pdf" http://cdn.timetable.org.au/thetimes200809issue.pdf
+Redirect 301 "/The Times October 2008w.pdf" http://cdn.timetable.org.au/thetimes200810issue.pdf
+Redirect 301 "/The Times November 2008w.pdf" http://cdn.timetable.org.au/thetimes200811issue.pdf
+Redirect 301 "/The Times December 2008w.pdf" http://cdn.timetable.org.au/thetimes200812issue.pdf
+Redirect 301 "/The Times January 2009w.pdf" http://cdn.timetable.org.au/thetimes200901issue.pdf
+Redirect 301 "/The Times Feb 2009w.pdf" http://cdn.timetable.org.au/thetimes200902issue.pdf
+Redirect 301 "/The Times March 2009w.pdf" http://cdn.timetable.org.au/thetimes200903issue.pdf
+Redirect 301 "/The Times April 2009w.pdf" http://cdn.timetable.org.au/thetimes200904issue.pdf
+Redirect 301 "/The Times May 2009w.pdf" http://cdn.timetable.org.au/thetimes200905issue.pdf
+Redirect 301 "/The Times June 2009w.pdf" http://cdn.timetable.org.au/thetimes200906issue.pdf
+Redirect 301 "/The Times July 2009w.pdf" http://cdn.timetable.org.au/thetimes200907issue.pdf
+Redirect 301 "/The Times August 2009w.pdf" http://cdn.timetable.org.au/thetimes200908issue.pdf
+Redirect 301 "/The Times September 2009.pdf" http://cdn.timetable.org.au/thetimes200909issue.pdf
+Redirect 301 "/The Times October 2009.pdf" http://cdn.timetable.org.au/thetimes200910issue.pdf
+Redirect 301 "/The Times November 2009.pdf" http://cdn.timetable.org.au/thetimes200911issue.pdf
+Redirect 301 "/The Times December 2009.pdf" http://cdn.timetable.org.au/thetimes200912issue.pdf
+Redirect 301 "/The Times January 2010.pdf" http://cdn.timetable.org.au/thetimes201001issue.pdf
+Redirect 301 "/The Times February 2010.pdf" http://cdn.timetable.org.au/thetimes201002issue.pdf
+Redirect 301 "/The Times March 2010.pdf" http://cdn.timetable.org.au/thetimes201003issue.pdf
+Redirect 301 "/The Times April 2010.pdf" http://cdn.timetable.org.au/thetimes201004issue.pdf
+Redirect 301 "/The Times May 2010.pdf" http://cdn.timetable.org.au/thetimes201005issue.pdf
+Redirect 301 "/The Times June 2010.pdf" http://cdn.timetable.org.au/thetimes201006issue.pdf
+Redirect 301 "/The Times July 2010.pdf" http://cdn.timetable.org.au/thetimes201007issue.pdf
+Redirect 301 "/The Times August 2010.pdf" http://cdn.timetable.org.au/thetimes201008issue.pdf
+Redirect 301 "/The Times September 2010.pdf" http://cdn.timetable.org.au/thetimes201009issue.pdf
+Redirect 301 "/The Times October 2010.pdf" http://cdn.timetable.org.au/thetimes201010issue.pdf
+Redirect 301 "/The Times November 2010.pdf" http://cdn.timetable.org.au/thetimes201011issue.pdf
+Redirect 301 "/The Times December 2010.pdf" http://cdn.timetable.org.au/thetimes201012issue.pdf
+Redirect 301 "/The Times January 2011.pdf" http://cdn.timetable.org.au/thetimes201101issue.pdf
+Redirect 301 "/The Times February 2011A.pdf" http://cdn.timetable.org.au/thetimes201102issue.pdf
+Redirect 301 "/The Times March 2011.pdf" http://cdn.timetable.org.au/thetimes201103issue.pdf
+Redirect 301 "/The Times April 2011.pdf" http://cdn.timetable.org.au/thetimes201104issue.pdf
+Redirect 301 "/The Times May 2011.pdf" http://cdn.timetable.org.au/thetimes201105issue.pdf
+Redirect 301 "/The Times June 2011.pdf" http://cdn.timetable.org.au/thetimes201106issue.pdf
+Redirect 301 "/The Times July 2011.pdf" http://cdn.timetable.org.au/thetimes201107issue.pdf
+Redirect 301 "/The Times August 2011.pdf" http://cdn.timetable.org.au/thetimes201108issue.pdf
+Redirect 301 "/The Times September 2011.pdf" http://cdn.timetable.org.au/thetimes201109issue.pdf
+Redirect 301 "/The Times October 2011.pdf" http://cdn.timetable.org.au/thetimes201110issue.pdf
+Redirect 301 "/The Times November 2011.pdf" http://cdn.timetable.org.au/thetimes201111issue.pdf
+Redirect 301 "/The Times December 2011.pdf" http://cdn.timetable.org.au/thetimes201112issue.pdf
+Redirect 301 "/The Times 201604 April.pdf" http://cdn.timetable.org.au/thetimes201604issue.pdf
+Redirect 301 "/The Times 201605 May.pdf" http://cdn.timetable.org.au/thetimes201605issue.pdf
+Redirect 301 "/Auction 80 Catalogue Aug 16.pdf" http://cdn.timetable.org.au/auctioncatalog201608issue.pdf
+Redirect 301 "/Auction 79 Catalogue Jul 16.pdf" http://cdn.timetable.org.au/auctioncatalog201607issue.pdf
+Redirect 301 "/Auction 78 Catalogue Jun 16.pdf" http://cdn.timetable.org.au/auctioncatalog201606issue.pdf
+Redirect 301 "/Auction 77 Catalogue May 16.pdf" http://cdn.timetable.org.au/auctioncatalog201605issue.pdf
+Redirect 301 "/Auction 76 Catalogue Apr 16.pdf" http://cdn.timetable.org.au/auctioncatalog201604issue.pdf
+Redirect 301 "/Auction 74 Catalogue Feb 16.pdf" http://cdn.timetable.org.au/auctioncatalog201602issue.pdf
+Redirect 301 "/Distribution List 201608.pdf" http://cdn.timetable.org.au/distributionlist201608issue.pdf
+Redirect 301 "/Distribution List 201607.pdf" http://cdn.timetable.org.au/distributionlist201607issue.pdf
+Redirect 301 "/ATA DL Jun16.pdf" http://cdn.timetable.org.au/distributionlist201606issue.pdf
+Redirect 301 "/ATA DL May16.pdf" http://cdn.timetable.org.au/distributionlist201605issue.pdf
+Redirect 301 "/ATA DL Apr16.pdf" http://cdn.timetable.org.au/distributionlist201604issue.pdf
+Redirect 301 "/ATA DL Feb16.pdf" http://cdn.timetable.org.au/distributionlist201602issue.pdf
 </ifmodule>
