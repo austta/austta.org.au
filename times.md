@@ -17,8 +17,9 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* April 2018 (Members only) - Sneak peak! [Rail Network Maps of Planet Anagram - Part 1](http://cdn.timetable.org.au/thetimes201804rail_network_maps_of_planet_anagram.pdf) 768kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * March 2018 (Members only)
-* February 2018 (Members only)
+* [February 2018](http://cdn.timetable.org.au/thetimes201802issue.pdf) 2,848kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [January 2018](http://cdn.timetable.org.au/thetimes201801issue.pdf) 2,908kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [December 2017](http://cdn.timetable.org.au/thetimes201712issue.pdf) 6,484kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [November 2017](http://cdn.timetable.org.au/thetimes201711issue.pdf) 4,504kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
