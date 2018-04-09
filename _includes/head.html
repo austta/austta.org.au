@@ -7,7 +7,7 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="keywords" content="Railway, Tramway, Trolley, Airline, Ferry, Timetables, Schedules, Rosters, Maps">
 
     <style type="text/css">
@@ -69,9 +69,9 @@
 
         @font-face {
         font-family: 'Iglesia-Times';
-        src: url('https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/Iglesia-Times.woff') format('woff'), 
+        src: url('https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/Iglesia-Times.woff') format('woff'),
           /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-             url('https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/Iglesia-Times.ttf') format('truetype'); 
+             url('https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/Iglesia-Times.ttf') format('truetype');
           /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 }
 
