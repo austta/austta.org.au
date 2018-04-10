@@ -9,6 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://timetable.org.au" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
+named_cdn_url: "http://cdn.timetable.org.au" # URL of CDN in use with same suffix
+secure_cdn_url: "https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com" # URL of CDN that is secure, not necessarily same suffix
 
 plugins:
   - jekyll-pandoc
