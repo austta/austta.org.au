@@ -3,6 +3,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,,,,,,,,Network Map (website only),17/12/17,,,,,,,,,,,
 ,,,,,,,,,,,,,,Adelaide Oval Footy Express Guide,2014,,,,,,,,,2017,,
 ,,,,,,,,,,,,,,Adelaide Oval Footy Express Guide,2017,,,,,,,,,2017,,
+,,,,,,,,,,,,,,Adelaide Oval Footy Express Guide (not yet printed),2018,,,,,,,,,,,
 ,,,,,,,Bus,,,,,,97A   98A/C   99A/C,City Connector,17/12/17,,,,,,,,,,,Feb-18
 ,,,,,,,Bus,,,,,,"98, 99",City Connector,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"100, 101",Arndale-Glen Osmond & Flinders Uni,27/1/14,,,,,,,,,17/12/17,,
@@ -80,7 +81,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"400, 421",Elizabeth-Salisbury North & Salisbury-DSTO,26/1/16,7,,,,,,,,,,Apr-16
 ,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,1/7/12,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia,26/1/16,2,,,,,,,,,,Apr-16
-,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia (Website Only),23/7/17,4,,,,,,,,,,
+,,,,,,,Bus,,,,,,"401, 403, 900",Salisbury-Paralowie/Virginia (not yet printed),23/7/17,4,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,24/7/14,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"404, 405",Salisbury-Paralowie,23/7/17,7,,,,,,,,,,Mar-18
 ,,,,,,,Bus,,,,,,407,Waterloo Corner - Elizabeth Interchange,1/7/12,,,,,,,,,Yes,,
@@ -128,7 +129,7 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,"721, T721, N721",City-Noarlunga Centre Interchange via Main Road South,23/7/17,8,,,,,,,,,,Mar-18
 ,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,1/12/13,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd,26/1/16,11,,,,,,,,,,Jan-18
-,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd (Website only),23/7/17,12,,,,,,,,,,
+,,,,,,,Bus,,,,,,"722, T722",City-Noarlunga Centre via States Rd (not yet printed),23/7/17,12,,,,,,,,,,
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,1/12/13,,,,,,,,,23/7/17,,
 ,,,,,,,Bus,,,,,,"723F, 723X, 733",City/Marion-Colonnades Shopping Centre via Woodcroft,23/7/17,13,,,,,,,,,,Jan-18
 ,,,,,,,Bus,,,,,,"724, 734",Colonnades Shopping Centre-Marion,1/12/13,,,,,,,,,26/1/16,,
@@ -187,10 +188,13 @@ RunningNo,State,LocationPublished,Brand,Region,ServiceProvider,TimetablePublishe
 ,,,,,,,Bus,,,,,,M44,Marion-Golden Grove,27/1/14,,,,,,,,,Yes,,
 ,,,,,,,Bus,,,,,,"W90, W91",Marion Centre Interchange - Marden,27/1/14,,,,,,,,,17/12/17,,
 ,,,,,,,Bus,,,,,,"W90, W91",Marion Centre Interchange - Marden,17/12/17,11,,,,,,,,,,Jan-18
-,,,,,,,Train,,,,,,,Train Map [Includes  Tram] (Website Only),1/2/17,,,,,,,,,,,
-,,,,,TransAdelaide,,Train,,,,,,"Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood",Belair,12/10/14,4,,,,,,,,,,
-,,,,,TransAdelaide,,Train,,,,,,"Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes",Gawler Central,4/2/13,2,,,,,,,,,,
-,,,,,TransAdelaide,,Train,,,,,,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.",Outer Harbor & Grange,23/2/14,2,,,,,,,,,,
-,,,,,TransAdelaide,,Train,,,,,,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood.",Seaford & Tonsley,16/2/15,5,,,,,,,,,,
+,,,,,TransAdelaide,,Train,,,,,,"Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood",Belair,12/10/14,4,,,,,,,,,,Nov-14
+,,,,,,,Train,,,,,,"Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood (not yet printed)",Belair,22/4/18,5,,,,,,,,,,
+,,,,,TransAdelaide,,Train,,,,,,"Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes",Gawler Central,4/2/13,2,,,,,,,,,,Mar-13
+,,,,,,,Train,,,,,,"Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes (not yet printed)",Gawler Central,22/4/18,3,,,,,,,,,,
+,,,,,TransAdelaide,,Train,,,,,,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.",Outer Harbor & Grange,23/2/14,2,,,,,,,,,,Mar-14
+,,,,,,,Train,,,,,,"Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon. (not yet printed)",Outer Harbor & Grange,22/4/18,3,,,,,,,,,,
+,,,,,TransAdelaide,,Train,,,,,,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood.",Seaford & Tonsley,16/2/15,5,,,,,,,,,,Mar-15
+,,,,,,,Train,,,,,,"Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood. (not yet printed)",Seaford & Tonsley,22/4/18,6,,,,,,,,,,
 ,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city,Glenelg Tram,26/1/16,7,,,,,,,,,,Feb-16
-,,,,,TransAdelaide,,Tram,,,,,,Glenelg to Entertainment Centre via city (website only),Glenelg Tram,22/1/18,8,,,,,,,,,,
+,,,,,,,Tram,,,,,,Glenelg to Entertainment Centre via city (not yet printed),Glenelg Tram,22/1/18,8,,,,,,,,,,
