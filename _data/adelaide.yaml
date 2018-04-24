@@ -4,6 +4,9 @@
   SupercededDate: 17/12/17
 - RouteDescription: Network Map (website only)
   EffectiveDates: 17/12/17
+  SupercededDate: 22/4/18
+- RouteDescription: Adelaide Network Map (website only)
+  EffectiveDates: 22/4/18
 - RouteDescription: Adelaide Oval Footy Express Guide
   EffectiveDates: '2014'
   SupercededDate: '2017'
@@ -1026,11 +1029,11 @@
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17
-- ServiceProvider: TransAdelaide
-  PrimaryMode: Train
+- PrimaryMode: Train
   RouteNumbers: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
   RouteDescription: Belair
   EffectiveDates: 12/10/14
+  SupercededDate: 22/4/18
   VersionNumber: 4
   DistributionList: Nov-14
 - PrimaryMode: Train
@@ -1039,12 +1042,12 @@
   RouteDescription: Belair
   EffectiveDates: 22/4/18
   VersionNumber: 5
-- ServiceProvider: TransAdelaide
-  PrimaryMode: Train
+- PrimaryMode: Train
   RouteNumbers: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
     Lakes
   RouteDescription: Gawler Central
   EffectiveDates: 4/2/13
+  SupercededDate: 22/4/18
   VersionNumber: 2
   DistributionList: Mar-13
 - PrimaryMode: Train
@@ -1053,12 +1056,12 @@
   RouteDescription: Gawler Central
   EffectiveDates: 22/4/18
   VersionNumber: 3
-- ServiceProvider: TransAdelaide
-  PrimaryMode: Train
+- PrimaryMode: Train
   RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon.
     Grange to city via Seaton Park, Woodville & Croydon.
   RouteDescription: Outer Harbor & Grange
   EffectiveDates: 23/2/14
+  SupercededDate: 22/4/18
   VersionNumber: 2
   DistributionList: Mar-14
 - PrimaryMode: Train
@@ -1067,12 +1070,12 @@
   RouteDescription: Outer Harbor & Grange
   EffectiveDates: 22/4/18
   VersionNumber: 3
-- ServiceProvider: TransAdelaide
-  PrimaryMode: Train
+- PrimaryMode: Train
   RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
     & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
   RouteDescription: Seaford & Tonsley
   EffectiveDates: 16/2/15
+  SupercededDate: 22/4/18
   VersionNumber: 5
   DistributionList: Mar-15
 - PrimaryMode: Train
