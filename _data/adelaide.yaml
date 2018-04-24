@@ -419,6 +419,11 @@
   VersionNumber: 9
   DistributionList: Jan-18
 - PrimaryMode: Bus
+  RouteNumbers: '361'
+  RouteDescription: Port Adelaide Interchange to Tea Tree Plaza Interchange (not yet printed)
+  EffectiveDates: 22/4/18
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth-Salisbury North & Salisbury-DSTO
   EffectiveDates: 1/7/12
@@ -683,6 +688,11 @@
   VersionNumber: 7
   DistributionList: Mar-16
 - PrimaryMode: Bus
+  RouteNumbers: 681, 682, 683
+  RouteDescription: Hallett Cove Beach Station-Flinders University/Sheidow Park/Hallett Cove South (not yet printed)
+  EffectiveDates: 22/4/18
+  VersionNumber: 9
+- PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: City-Noarlunga Centre Interchange via Main Road South
   EffectiveDates: 1/12/13
@@ -765,6 +775,11 @@
   VersionNumber: 7
   DistributionList: Mar-16
 - PrimaryMode: Bus
+  RouteNumbers: 741, 750, 751, 752, 755, 756
+  RouteDescription: Sellicks Beach to Collonades Centre Interchange (not yet printed)
+  EffectiveDates: 22/4/18
+  VersionNumber: 8
+- PrimaryMode: Bus
   RouteNumbers: 743, 744
   RouteDescription: 'Noarlunga Centre Interchange to Huntfield Heights '
   EffectiveDates: 20/7/14
@@ -776,6 +791,11 @@
   VersionNumber: 10
   DistributionList: Jan-18
 - PrimaryMode: Bus
+  RouteNumbers: 743, 744
+  RouteDescription: Noarlunga Centre Interchange to Huntfield Heights (not yet printed)
+  EffectiveDates: 22/4/18
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
   EffectiveDates: 20/7/14
@@ -786,6 +806,11 @@
   EffectiveDates: 17/12/17
   VersionNumber: 12
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 745, 747
+  RouteDescription: Seaford Circuit (not yet printed)
+  EffectiveDates: 22/4/18
+  VersionNumber: 13
 - PrimaryMode: Bus
   RouteNumbers: 820  821  822
   RouteDescription: City-Carey Gully & Stirling-Loreto College
