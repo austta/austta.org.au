@@ -685,11 +685,12 @@
   RouteNumbers: 681, 682, 683
   RouteDescription: Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk
   EffectiveDates: 26/1/16
+  SupercededDate: 22/4/18
   VersionNumber: 7
   DistributionList: Mar-16
 - PrimaryMode: Bus
   RouteNumbers: 681, 682, 683
-  RouteDescription: Hallett Cove Beach Station-Flinders University/Sheidow Park/Hallett Cove South (not yet printed)
+  RouteDescription: Hallett Cove Beach Station-Flinders University/Sheidow Park/Hallett Cove South
   EffectiveDates: 22/4/18
   VersionNumber: 9
 - PrimaryMode: Bus
@@ -769,14 +770,15 @@
   EffectiveDates: 20/7/14
   SupercededDate: 26/1/16
 - PrimaryMode: Bus
-  RouteNumbers: 741  750  751  752  755  756
+  RouteNumbers: 741, 750, 751, 752, 755, 756
   RouteDescription: Seaford to Aldinga/Sellicks Beach
   EffectiveDates: 26/1/16
+  SupercededDate: 22/4/18
   VersionNumber: 7
   DistributionList: Mar-16
 - PrimaryMode: Bus
   RouteNumbers: 741, 750, 751, 752, 755, 756
-  RouteDescription: Sellicks Beach to Collonades Centre Interchange (not yet printed)
+  RouteDescription: Sellicks Beach to Collonades Centre Interchange
   EffectiveDates: 22/4/18
   VersionNumber: 8
 - PrimaryMode: Bus
@@ -788,11 +790,12 @@
   RouteNumbers: 743, 744
   RouteDescription: Noarlunga Centre Interchange to Huntfield Heights
   EffectiveDates: 17/12/17
+  SupercededDate: 22/4/18
   VersionNumber: 10
   DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 743, 744
-  RouteDescription: Noarlunga Centre Interchange to Huntfield Heights (not yet printed)
+  RouteDescription: Noarlunga Centre Interchange to Huntfield Heights
   EffectiveDates: 22/4/18
   VersionNumber: 11
 - PrimaryMode: Bus
@@ -804,11 +807,12 @@
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
   EffectiveDates: 17/12/17
+  SupercededDate: 22/4/18
   VersionNumber: 12
   DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 745, 747
-  RouteDescription: Seaford Circuit (not yet printed)
+  RouteDescription: Seaford Circuit
   EffectiveDates: 22/4/18
   VersionNumber: 13
 - PrimaryMode: Bus
@@ -1063,7 +1067,6 @@
   DistributionList: Nov-14
 - PrimaryMode: Train
   RouteNumbers: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
-    (not yet printed)
   RouteDescription: Belair
   EffectiveDates: 22/4/18
   VersionNumber: 5
@@ -1077,7 +1080,7 @@
   DistributionList: Mar-13
 - PrimaryMode: Train
   RouteNumbers: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
-    Lakes (not yet printed)
+    Lakes
   RouteDescription: Gawler Central
   EffectiveDates: 22/4/18
   VersionNumber: 3
@@ -1091,7 +1094,7 @@
   DistributionList: Mar-14
 - PrimaryMode: Train
   RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon.
-    Grange to city via Seaton Park, Woodville & Croydon. (not yet printed)
+    Grange to city via Seaton Park, Woodville & Croydon.
   RouteDescription: Outer Harbor & Grange
   EffectiveDates: 22/4/18
   VersionNumber: 3
@@ -1105,7 +1108,7 @@
   DistributionList: Mar-15
 - PrimaryMode: Train
   RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
-    & Goodwood. Tonsley to city via Clovelly Park & Goodwood. (not yet printed)
+    & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
   RouteDescription: Seaford & Tonsley
   EffectiveDates: 22/4/18
   VersionNumber: 6
