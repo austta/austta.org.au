@@ -10,7 +10,7 @@ have been compiled by members of the ATA as shown below.
 | Area  | Compiled by | Last Updated |
 | :---- | ----------- | -: |
 | [ACTION Canberra Bus Timetables](actiontimes.html)  | Daniel Clinton | 14/2/2014 |
-| [Adelaide Public Transport Timetables](adelaidetim.html)  | Alan Gray | 17/12/2017 |
+| [Adelaide Public Transport Timetables](adelaidetim.html)  | Alex Sims | 29/4/2018 |
 | [Newcastle Buses](newbustt.html) | Geoff Hassall | 18/9/2014 |
 | [Sydney Private Buses](SYDNEY.html) | Robert Henderson | 18/9/2014 |
 | [Sydney Buses, Ferries and Trains](sydtratt.html) | Duncan MacAuslan | 18/9/2014 |
