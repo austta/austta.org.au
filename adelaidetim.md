@@ -37,4 +37,4 @@ Last Updated  December  2017
 {% endfor %}
 </tbody>
 </table>
-This table is derived from [this CSV file](https://github.com/austta/austta.org.au/blob/master/_data/adelaide.csv) which is in the same format as the National TimeTable Collection. Feel free to download, modify and submit changes!
+This table is derived from [this YAML file](https://github.com/austta/austta.org.au/blob/master/_data/adelaide.yaml) which is in the same format as the National TimeTable Collection. Feel free to download, modify and submit changes!
