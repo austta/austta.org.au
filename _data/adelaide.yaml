@@ -534,7 +534,7 @@
   DistributionList: Mar-18
 - PrimaryMode: Bus
   RouteNumbers: '300'
-  RouteDescription: Suburban Connector (not yet printed)
+  RouteDescription: Suburban Connector
   EffectiveDates: 29/4/18
   VersionNumber: 19
 - PrimaryMode: Bus
