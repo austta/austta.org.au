@@ -200,7 +200,7 @@
   RouteNumbers: 195, 196, 197X
   RouteDescription: City-Blackwood via Unley Rd
   EffectiveDates: 29/4/18
-  VersionNumber: 12
+  VersionNumber: 13
 - PrimaryMode: Bus
   RouteDescription: Hyde Park and Westbourne Park Bus Service
   EffectiveDates: 13/11/55
@@ -753,7 +753,7 @@
   RouteNumbers: 542, N542
   RouteDescription: City-Fairview Pk
   EffectiveDates: 28/4/18
-  VersionNumber: 8
+  VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: '543'
   RouteDescription: City-Surrey Downs
@@ -936,7 +936,7 @@
   RouteNumbers: 721, T721, N721
   RouteDescription: City-Noarlunga Centre Interchange & Old Reynella Interchange via Main Road South Road
   EffectiveDates: 29/4/18
-  VersionNumber: 8
+  VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
