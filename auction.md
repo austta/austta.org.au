@@ -7,9 +7,10 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalog
-* [Auction 101 May      2018]({{ site.named_cdn_url }}/auctioncatalog201805issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
+* [Auction 102 June     2018]({{ site.named_cdn_url }}/auctioncatalog201806issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 
 ## Previous catalogues
+* [Auction 101 May      2018]({{ site.named_cdn_url }}/auctioncatalog201805issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction 100 April    2018]({{ site.named_cdn_url }}/auctioncatalog201804issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction  99 March    2018]({{ site.named_cdn_url }}/auctioncatalog201803issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction  98 February 2018]({{ site.named_cdn_url }}/auctioncatalog201802issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
