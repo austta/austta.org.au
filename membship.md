@@ -46,3 +46,15 @@ Overseas membership is available as follows:
 If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (1067kB  ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg), then send it to the Membership Officer as set out in the form.
 
 You can contact the Membership Officer, Len Regan, on [membership@austta.org.au](mailto:membership@austta.org.au), or [0409 209 114](tel:+61409209114).
+
+# Contacts
+If you have a question, email is best as each function of the association has a
+permanent email address that goes to the relevant committee member.
+If you wish to contact the secretary of the association, Geoff Lambert,
+please email [secretary@austta.org.au](mailto:secretary@austta.org.au),
+or if you wish, phone him on [(02) 9949 3521](tel:+61299493521).
+
+# Legals
+The "Australian Timetable Association Inc." is registered in Victoria, as association number A0043673H.
+The ABN is [74248483468](https://abr.business.gov.au/ABN/View?abn=74248483468).
+The association has no physical office, and postal address is 179 Sydney Rd, Fairlight, NSW 2094.
