@@ -8,9 +8,10 @@ Copies of Table Talk are not placed on this site until they are two months old. 
 
 ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
 
+* June 2018 (Members only)
 * May 2018 (Members only)
-* April 2018 (Members only)
-* March 2018 (Members only)
+* [April 2018](http://cdn.timetable.org.au/tabletalk201804issue.pdf) 1,568kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
+* [March 2018](http://cdn.timetable.org.au/tabletalk201803issue.pdf) 768kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [February 2018](http://cdn.timetable.org.au/tabletalk201802issue.pdf) 1,900kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [January 2018](http://cdn.timetable.org.au/tabletalk201801issue.pdf) 928kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
 * [December 2017](http://cdn.timetable.org.au/tabletalk201712issue.pdf) 784kB ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg)
