@@ -10,7 +10,7 @@ ePub files allow you to change the text size and have the text "reflow" to refle
 
 * July 2018 (Members only)
 * June 2018 (Members only)
-* May 2018 (Members only)
+* [May 2018]({{ site.named_cdn_url }}/tabletalk201805issue.pdf) 1,492kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [April 2018]({{ site.named_cdn_url }}/tabletalk201804issue.pdf) 1,568kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [March 2018]({{ site.named_cdn_url }}/tabletalk201803issue.pdf) 768kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [February 2018]({{ site.named_cdn_url }}/tabletalk201802issue.pdf) 1,900kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
