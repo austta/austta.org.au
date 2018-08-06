@@ -604,7 +604,7 @@
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
   EffectiveDates: 1/7/12
-  SupercededDate: 23/7/17
+  SupercededDate: 26/1/16
 - PrimaryMode: Bus
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
@@ -1434,6 +1434,12 @@
   EffectiveDates: 22/4/18
   VersionNumber: 6
   DistributionList: May-18
+- PrimaryMode: Train
+  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
+    & Goodwood. Tonsley to city via Clovelly Park & Goodwood. (not yet printed)
+  RouteDescription: Seaford & Tonsley
+  EffectiveDates: 23/7/18
+  VersionNumber: 7
 - ServiceProvider: TransAdelaide
   PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city

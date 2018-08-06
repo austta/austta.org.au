@@ -13,7 +13,13 @@ Adelaide  Buses  are  operated   by:
 * SOUTHLINK       BUSES  Contract  areas    OUTER   NORTH   and     OUTER  SOUTH
 * TORRENS   TRANSIT     Contract  area       EAST  -  WEST
 
-Last Updated April 2018
+Note that a timetable may appear several times as the list includes:
+
+* The generally available printed timetable, even if out of date
+* Available online and current
+* Available online and proposed even if the start date has passed
+
+Last Updated August 2018
 
 <table>
 <tbody>
