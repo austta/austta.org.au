@@ -43,9 +43,9 @@ Hassle Free Nights in Newcastle (Nightowl Services)                        3 Se
 
 ## Private Operators
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+District                                                                                                                                                                     Routes                         Date Issued           Operator                                    Version
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ --------------------- ------------------------------------------- -------------
-**District**                                                                                                                                                                 **Routes**                     **Date Issued**       **Operator**                                **Version**
-
 Port Stephens to Newcastle                                                                                                                                                   130, 131, 132, 133, 134, 135   20/10/2013\           Port Stephens Coaches                       1.3S
                                                                                                                                                                                                             Updated 1 Sept 2014                                               
 
@@ -97,7 +97,7 @@ Route 152 - Newcastle - Hawks Nest.                                             
 Bulahdelah - Markwell & Upper Myall\                                                                                                                                         153\                           6 Jan 2014            Busways North Coast P/L\                    1S
 Bulahdelah - Taree                                                                                                                                                           154                                                  Sighted on website only so far.             
 
-Muswellbrook                                                                                                                                                                 411, 412, 413, 414             Dec 2006              [Osborn\'s]{#Osborn�s} Transport Services    
+Muswellbrook                                                                                                                                                                 411, 412, 413, 414             Dec 2006               Osborn\'s Transport Services    
 
 Also sighted has been an undated (September 2010) timetable for a Saturday shuttle service between Muswellbrook, Denman and Scone operated by Osborn\'s Transport Service.                                                                                                    
 
@@ -113,9 +113,9 @@ Tea Gardens Ferry                                                               
 
 ## Bus/Transport Network Guides
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+District                                          Routes                               Date Issued        Issued By
 ------------------------------------------------- ------------------------------------ ------------------ ---------------------------------------
-**District**                                      **Routes**                           **Date Issued**    **Issued By**
-
 Lower Hunter Transport Guide                      All                                  May 2011           Lower Hunter Councils Transport Group
 
 Cessnock Bus Network Guide                        All Rover routes                     28 November 2010   NSW Transport
