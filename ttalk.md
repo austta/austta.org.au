@@ -8,8 +8,9 @@ Copies of Table Talk are not placed on this site until they are two months old. 
 
 ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
 
+* August 2018 (Members only)
 * July 2018 (Members only)
-* June 2018 (Members only)
+* [June 2018]({{ site.named_cdn_url }}/tabletalk201806issue.pdf) 316kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [May 2018]({{ site.named_cdn_url }}/tabletalk201805issue.pdf) 1,492kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [April 2018]({{ site.named_cdn_url }}/tabletalk201804issue.pdf) 1,568kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [March 2018]({{ site.named_cdn_url }}/tabletalk201803issue.pdf) 768kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
