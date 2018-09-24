@@ -11,7 +11,7 @@ have been compiled by members of the ATA as shown below.
 | :---- | ----------- | -: |
 | [ACTION Canberra Bus Timetables](actiontimes.html)  | Daniel Clinton | 14/2/2014 |
 | [Adelaide Public Transport Timetables](adelaidetim.html)  | Alex Sims | 29/4/2018 |
-| [Newcastle Buses](newbustt.html) | Geoff Hassall | 18/9/2014 |
+| [Newcastle Buses](newbustt.html) | Alan Gray | 30/8/2018 |
 | [Sydney Private Buses](SYDNEY.html) | Robert Henderson | 18/9/2014 |
 | [Sydney Buses, Ferries and Trains](sydtratt.html) | Duncan MacAuslan | 18/9/2014 |
 | [Brisbane](brisbanepriv.html) Private Bus Operators  including Gold Coast | Graham Duffin | 5/1/2014 |
@@ -40,6 +40,7 @@ have been compiled by members of the ATA as shown below.
 | [McCaffertys](McCaffertystim.html) | Steven Haby | 26/8/2003 |
 | [Murray Valley Coaches](MVC%20list.html) | Steven Haby | 21/5/2003 |
 | [Murray Valley Coaches in the 1950's](MVC_2.html) | Dirk Spennermann | 4/8/2003 |
+| [Newcastle Buses](newcastlehistory.html) | Geoff Hassall | 18/9/2014 |
 | [Other Express Operators who are no longer in Business](otherexpress.html) | Steven Haby | 22/10/2003 |
 | [Pioneer Express/Ansett Pioneer](Pioneertim.html) | Steven Haby | 24/8/2003 |
 | [VIP Coaches](VIP%20list.html) | Steven Haby | 22/10/2003
