@@ -59,4 +59,4 @@ Last Updated August 2018
 {% endfor %}
 </tbody>
 </table>
-This table is derived from [this CSV file](https://github.com/austta/austta.org.au/blob/master/_data/nsw.yaml) which is in the same format as the National TimeTable Collection. Feel free to download, modify and submit changes!
+This table is derived from [this CSV file](https://github.com/austta/austta.org.au/blob/master/_data/nsw.csv) which is in a similar format as the National TimeTable Collection. Feel free to download, modify and submit changes!
