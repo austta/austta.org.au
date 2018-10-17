@@ -46,6 +46,23 @@
   EffectiveDates: 14/10/18
   VersionNumber: 10
 - PrimaryMode: Bus
+  RouteNumbers: B10, B11, B12, 312
+  RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
+  EffectiveDates: 27/1/14
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
+  RouteNumbers: B10  B11
+  RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
+  EffectiveDates: 17/12/17
+  VersionNumber: 13
+  DistributionList: Jan-18
+  SupercededDate: 14/10/18
+- PrimaryMode: Bus
+  RouteNumbers: '106'
+  RouteDescription: Magill to city
+  EffectiveDates: 14/10/18
+  VersionNumber: 1
+- PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
   EffectiveDates: 14/10/18
@@ -734,6 +751,7 @@
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
   EffectiveDates: 26/1/16
+  SupercededDate: 23/7/17
   VersionNumber: 2
   DistributionList: Apr-16
 - PrimaryMode: Bus
@@ -981,25 +999,6 @@
   RouteDescription: Surrey Downs to Tea Tree Plaza & city
   EffectiveDates: 14/10/18
   VersionNumber: 10
-- PrimaryMode: Bus
-  RouteNumbers: 544  M44
-  RouteDescription: City-Golden Grove  Village
-  EffectiveDates: 17/12/17
-  VersionNumber: 13
-  SupercededDate: 17/12/17
-- PrimaryMode: Bus
-  RouteNumbers: 544  M44
-  RouteDescription: City-Golden Grove  Village
-  EffectiveDates: 17/12/17
-  SupercededDate: 29/4/18
-  VersionNumber: 14
-  DistributionList: Jan-18
-- PrimaryMode: Bus
-  RouteNumbers: 544, M44
-  RouteDescription: Golden Grove Interchange to City
-  EffectiveDates: 29/4/18
-  VersionNumber: 15
-  DistributionList: Jun-18
 - PrimaryMode: Bus
   RouteNumbers: '545'
   RouteDescription: City-Golden Grove via McIntyre Rd
@@ -1448,18 +1447,6 @@
   EffectiveDates: 11/12/55
   SupercededDate: 'Yes'
 - PrimaryMode: Bus
-  RouteNumbers: B10, B11, B12, 312
-  RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
-  EffectiveDates: 27/1/14
-  SupercededDate: 17/12/17
-- PrimaryMode: Bus
-  RouteNumbers: B10  B11
-  RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
-  EffectiveDates: 17/12/17
-  VersionNumber: 13
-  DistributionList: Jan-18
-  SupercededDate: 14/10/18
-- PrimaryMode: Bus
   RouteNumbers: C1, C2, 548, N1
   RouteDescription: 'City to Greenwith/Elizabeth Interchange '
   EffectiveDates: 27/1/15
@@ -1627,6 +1614,25 @@
   EffectiveDates: 27/1/14
   SupercededDate: 'Yes'
 - PrimaryMode: Bus
+  RouteNumbers: 544  M44
+  RouteDescription: City-Golden Grove  Village
+  EffectiveDates: 17/12/17
+  VersionNumber: 13
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
+  RouteNumbers: 544  M44
+  RouteDescription: City-Golden Grove  Village
+  EffectiveDates: 17/12/17
+  SupercededDate: 29/4/18
+  VersionNumber: 14
+  DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove Interchange to City
+  EffectiveDates: 29/4/18
+  VersionNumber: 15
+  DistributionList: Jun-18
+- PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
   EffectiveDates: 27/1/14
@@ -1702,6 +1708,7 @@
     & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
   RouteDescription: Seaford & Tonsley
   EffectiveDates: 22/4/18
+  SupercededDate: 23/7/18
   VersionNumber: 6
   DistributionList: May-18
 - PrimaryMode: Train
