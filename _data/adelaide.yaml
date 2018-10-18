@@ -1826,13 +1826,14 @@
   RouteNumbers: Glenelg to Entertainment Centre via city
   RouteDescription: Glenelg Tram
   EffectiveDates: 26/1/16
+  SupercededDate: 22/1/18
   VersionNumber: 7
   DistributionList: Feb-16
 - PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city (not seen printed)
   RouteDescription: Glenelg Tram
   EffectiveDates: 22/1/18
-  SupercededDate: 14/10/18
+  SupercededDate: 13/10/18
   VersionNumber: 8
 - PrimaryMode: Tram
   RouteNumbers: Adelaide trams (not seen printed)
