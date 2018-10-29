@@ -21,7 +21,9 @@ Note that a timetable may appear several times as the list includes:
 
 Last Updated October 2018
 
-<table>
+You can sort each column by pressing on the heading if you wish.
+
+<table class="sortable">
 <tbody>
 <tr>
 <th style="text-align:left">Description</td>
