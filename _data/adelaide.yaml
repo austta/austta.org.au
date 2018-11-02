@@ -22,15 +22,20 @@
 - RouteDescription: Adelaide Oval Footy Express Guide (not seen printed)
   EffectiveDates: '2018'
 - PrimaryMode: Bus
+  RouteNumbers: 98, 99
+  RouteDescription: City Connector
+  EffectiveDates: 27/1/14
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
   RouteNumbers: 97A   98A/C   99A/C
   RouteDescription: City Connector
   EffectiveDates: 17/12/17
   DistributionList: Feb-18
 - PrimaryMode: Bus
-  RouteNumbers: 98, 99
-  RouteDescription: City Connector
-  EffectiveDates: 27/1/14
-  SupercededDate: 17/12/17
+  RouteNumbers: 98C, 99C, 98A, 99A
+  RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE (not seen printed)
+  EffectiveDates: 29/10/18
+  VersionNumber: 1
 - PrimaryMode: Bus
   RouteNumbers: 100, 101
   RouteDescription: Arndale-Glen Osmond & Flinders Uni
@@ -61,7 +66,7 @@
   DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: '106'
-  RouteDescription: Magill to city (not seen printed)
+  RouteDescription: Magill to city
   EffectiveDates: 14/10/18
   VersionNumber: 1
 - PrimaryMode: Bus
