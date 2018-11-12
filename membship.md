@@ -43,7 +43,7 @@ Overseas membership is available as follows:
 * $79 Asia-Pacific region (monthly mailouts by post), or $60 (monthly mailouts by email).
 * $90 Rest of the World (monthly mailouts by post), or $60 (monthly mailouts by email).
 
-If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (1067kB  ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg), then send it to the Membership Officer as set out in the form.
+If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (108kB  ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg), then send it to the Membership Officer as set out in the form.
 
 You can contact the Membership Officer, Len Regan, on [membership@austta.org.au](mailto:membership@austta.org.au), or [0409 209 114](tel:+61409209114).
 

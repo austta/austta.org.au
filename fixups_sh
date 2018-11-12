@@ -24,8 +24,6 @@ for TABLE_TALK in ttalk201???.md
 # The renewal form
 cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
             _site/"ATA 20162017 Renewal Form.pdf"
-# The automated renewal form
-cp -ip ../mailouts/Membershipform.pdf _site
 # Robots.txt for CDN
 cp -p cdnb.robots.txt ../cdnb/robots.txt
 # bulk load of old PDFs and Gifs etc
