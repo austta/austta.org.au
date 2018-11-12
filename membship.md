@@ -3,7 +3,7 @@ layout: page
 title: About the Association
 ---
 # The Association:
-The ATA was founded in 1983 as the AATTC to promote interest in transport timetables around the world. The Association has members in all Australian States and Territories, as well as active members in Europe, Asia and the USA.
+The ATA was founded in 1983 as the Australian Association of Timetable Collectors (AATTC) to promote interest in transport timetables around the world. The Association has members in all Australian States and Territories, as well as active members in Europe, Asia and the USA.
 **We are a non-profit organisation**.
 
 # Constitution:
@@ -40,7 +40,7 @@ $5 Australian Family Member (Valid with Normal Australian Member - No additional
 
 Overseas membership is available as follows:
 
-* $79 Asia-Pacific region (monthly mailouts by post), or $60 (monthly mailouts by email).
+* $84 Asia-Pacific region (monthly mailouts by post), or $60 (monthly mailouts by email).
 * $90 Rest of the World (monthly mailouts by post), or $60 (monthly mailouts by email).
 
 If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (108kB  ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg), then send it to the Membership Officer as set out in the form.
