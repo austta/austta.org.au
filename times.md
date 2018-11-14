@@ -183,6 +183,7 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 * [March 2005]({{ site.named_cdn_url }}/thetimes200503issue.pdf) 1,229kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [February 2005]({{ site.named_cdn_url }}/thetimes200502issue.pdf) 510kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2005]({{ site.named_cdn_url }}/thetimes200501issue.pdf) 1,059kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [December 2004]({{ site.named_cdn_url }}/thetimes200412issue.pdf) 1,412kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2004]({{ site.named_cdn_url }}/thetimes200411issue.pdf) 2,235kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [October 2004]({{ site.named_cdn_url }}/thetimes200410issue.pdf) 3,797kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [September 2004]({{ site.named_cdn_url }}/thetimes200409issue.pdf) 3,080kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
