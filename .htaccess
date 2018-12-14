@@ -59,6 +59,9 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
 RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
 
+# Catch old aattc.org.au URI's that are used
+Redirect 301 /contact/ /membship.html#Contacts
+
 # Redirect from really old mistypings at least 10 404 errors every 6 weeks
 Redirect 301 "/table talk 2012 january.pdf" http://cdn.timetable.org.au/tabletalk201201issue.pdf
 Redirect 301 "/table talk 2014 january.pdf" http://cdn.timetable.org.au/tabletalk201401issue.pdf
