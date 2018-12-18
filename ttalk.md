@@ -4,13 +4,17 @@ title: Table Talk
 ---
 The latest available news of timetable and transport happenings from within Australia and around the world.
 
+Thinking of editing Table Talk? Have a look at the [style guide](ttalk_style.html).
+
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy/PDF issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
 ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
 
+* December 2018 (Members only)
+* November 2018 (Members only)
 * October 2018 (Members only)
 * September 2018 (Members only)
-* August 2018 (Members only)
+* [August 2018]({{ site.named_cdn_url }}/tabletalk201808issue.pdf) 742kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [July 2018]({{ site.named_cdn_url }}/tabletalk201807issue.pdf) 348kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [June 2018]({{ site.named_cdn_url }}/tabletalk201806issue.pdf) 316kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [May 2018]({{ site.named_cdn_url }}/tabletalk201805issue.pdf) 1,492kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
