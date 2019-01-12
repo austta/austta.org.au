@@ -17,10 +17,11 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 
+* January 2019 (Members only)
 * December 2018 (Members only)
-* November 2018 (Members only)
-* [October 2018]({{ site.named_cdn_url }}/thetimes201808issue.pdf) 2,572kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
-* [September 2018]({{ site.named_cdn_url }}/thetimes201807issue.pdf) 2,932kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [November 2018]({{ site.named_cdn_url }}/thetimes201811issue.pdf) 2,368kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [October 2018]({{ site.named_cdn_url }}/thetimes201810issue.pdf) 2,572kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [September 2018]({{ site.named_cdn_url }}/thetimes201809issue.pdf) 2,932kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [August 2018]({{ site.named_cdn_url }}/thetimes201808issue.pdf) 2,004kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [July 2018]({{ site.named_cdn_url }}/thetimes201807issue.pdf) 2,584kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [June 2018]({{ site.named_cdn_url }}/thetimes201806issue.pdf) 3,584kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
