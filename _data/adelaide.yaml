@@ -56,6 +56,11 @@
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 100, 101
+  RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: B10, B11, B12, 312
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
   EffectiveDates: 27/1/14
@@ -97,6 +102,11 @@
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 115, 117, 118
+  RouteDescription: West Lakes to city, Port Adelaide to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: 140, 144, 147, 148
   RouteDescription: City-Glen Osmond/Beaumont
   EffectiveDates: 27/1/14
@@ -115,6 +125,11 @@
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 140, 144, 147
+  RouteDescription: City to GlenOsmond via Norwood, Glen Osmond to city, Beaumont to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 14
+- PrimaryMode: Bus
   RouteNumbers: 141, 142
   RouteDescription: City-Stonyfell/Burnside
   EffectiveDates: 27/1/14
@@ -132,6 +147,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 11
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 141, 142
+  RouteDescription: Stonyfell to city, Burnside to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 150, 350, 352, 353
   RouteDescription: City-Osborne, Largs Bay-West Lakes, Port Adelaide-Semaphore
@@ -182,6 +202,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 11
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 155, 157, 376
+  RouteDescription: West Lakes to city, Largs Bay to city, West Lakes via Delfin Island
+  EffectiveDates: 27/1/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 167, 168, 169
   RouteDescription: City-Marleston & Glenelg via Richmond Rd
@@ -254,6 +279,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 174, N178
+  RouteDescription: Paradise to city, Newton to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 177, 178, 179, 579, N178
   RouteDescription: City-Athelstone/Paradise via Payneham Rd
@@ -413,6 +443,11 @@
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 206, 208, 528
+  RouteDescription: Northgate & Broadview to city, Paradise, Northgate & Broadview to city, Northgate to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 14
+- PrimaryMode: Bus
   RouteNumbers: '222'
   RouteDescription: City-Mawson Interchange
   EffectiveDates: 1/12/13
@@ -441,6 +476,11 @@
   VersionNumber: 9
   DistributionList: Jun-18
 - PrimaryMode: Bus
+  RouteNumbers: '222'
+  RouteDescription: Mawson to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: 224, 226F, N224
   RouteDescription: City-Elizabeth via Salisbury Hwy
   EffectiveDates: 1/12/13
@@ -459,6 +499,11 @@
   VersionNumber: 11
   DistributionList: Jun-18
 - PrimaryMode: Bus
+  RouteNumbers: 224, N224
+  RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Gepps Cross or Mawson Lakes-Salisbury via Northbri Av
   EffectiveDates: 26/1/16
@@ -476,6 +521,11 @@
   EffectiveDates: 29/4/18
   VersionNumber: 7
   DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: '225'
+  RouteDescription: Salisbury to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 8
 - PrimaryMode: Bus
   RouteNumbers: '228'
   RouteDescription: City-Smithfield via Main North Rd
@@ -500,6 +550,12 @@
   RouteDescription: Smithfield to city
   EffectiveDates: 14/10/18
   VersionNumber: 10
+  DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 228
+  RouteDescription: Smithfield to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: City-Para Hills via Pooraka
@@ -518,6 +574,11 @@
   EffectiveDates: 29/4/18
   VersionNumber: 8
   DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: '229'
+  RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
+  EffectiveDates: 27/1/19
+  VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: City-Port Adelaide/West Lakes via Croydon Park
@@ -574,6 +635,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 14
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 235, 238, 239
+  RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: 241, 245, 248
   RouteDescription: City-Warradale/Marion
@@ -706,6 +772,11 @@
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 271, 273
+  RouteDescription: Tea Tree Plaza to city, Paradise to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: '281'
   RouteDescription: City-Paradise
   EffectiveDates: 27/1/14
@@ -729,6 +800,12 @@
   RouteDescription: Paradise to city
   EffectiveDates: 14/10/18
   VersionNumber: 16
+  DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 281
+  RouteDescription: Paradise to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 287, 288
   RouteDescription: City-Henley Beach/West Lakes via Ashley St
@@ -779,6 +856,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 20
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: '300'
+  RouteDescription: Suburban Connector
+  EffectiveDates: 27/1/19
+  VersionNumber: 21
 - PrimaryMode: Bus
   RouteNumbers: '333'
   RouteDescription: Outer Harbor-Port Adelaide
@@ -834,6 +916,11 @@
   VersionNumber: 7
   DistributionList: Apr-16
 - PrimaryMode: Bus
+  RouteNumbers: 400, 421
+  RouteDescription: Elizabeth & Salisbury to Salisbury North, BAE Systems to Salisbury via Edinburgh RAAF Base & Old Defence Science and Technology Organisation
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
   EffectiveDates: 1/7/12
@@ -858,6 +945,11 @@
   VersionNumber: 5
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 401, 403, 900
+  RouteDescription: Paralowie to Salisbury, Salisbury North to Salisbury, Elizabeth to Salisbury via Virginia
+  EffectiveDates: 27/1/19
+  VersionNumber: 6
+- PrimaryMode: Bus
   RouteNumbers: 404, 405
   RouteDescription: Salisbury-Paralowie
   EffectiveDates: 24/7/14
@@ -868,6 +960,11 @@
   EffectiveDates: 23/7/17
   VersionNumber: 7
   DistributionList: Mar-18
+- PrimaryMode: Bus
+  RouteNumbers: 404, 405
+  RouteDescription: Salisbury to Paralowie Anti-clockwise loop service, Salisbury to Paralowie Clockwise loop service
+  EffectiveDates: 27/1/19
+  VersionNumber: 8
 - PrimaryMode: Bus
   RouteNumbers: '407'
   RouteDescription: Waterloo Corner - Elizabeth Interchange
@@ -898,6 +995,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: '411'
+  RouteDescription: Salisbury to Mawson Lakes
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: 415, 415H, 415V, 430
   RouteDescription: Salisbury-Greenwith/Hillbank
@@ -946,16 +1048,26 @@
   VersionNumber: 5
   DistributionList: Apr-16
 - PrimaryMode: Bus
+  RouteNumbers: 451, 452, 461, 462
+  RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
+  EffectiveDates: 27/1/19
+  VersionNumber: 6
+- PrimaryMode: Bus
+  RouteNumbers: 491, 492, 493, 494
+  RouteDescription: Gawler Local Services
+  EffectiveDates: 20/7/14
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
   RouteNumbers: 491  492A  492C  493  494  495
   RouteDescription: Gawler Local Services
   EffectiveDates: 17/12/17
   VersionNumber: 9
   DistributionList: Jan-18
 - PrimaryMode: Bus
-  RouteNumbers: 491, 492, 493, 494
-  RouteDescription: Gawler Local Services
-  EffectiveDates: 20/7/14
-  SupercededDate: 17/12/17
+  RouteNumbers: 491, 492A, 492C, 493, 494, 495
+  RouteDescription: Hewett Circuit Clockwise loop, Gawler East Circuit Anti-clockwise loop, Gawler East Circuit Clockwise loop, Gawler South Circuit Clockwise loop, Gawler South Circuit Anti-clockwise loop
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: 500, 501, 502, N502
   RouteDescription: City-Elizabeth/Mawson Lakes
@@ -1057,6 +1169,11 @@
   VersionNumber: 8
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 540, 541, N541
+  RouteDescription: Tea Tree Plaza & city via O-Bahn, Golden Grove & Fairview Park to Tea Tree Plaza & city via O-Bahn, City to Fairview Park via O-Bahn & Tea Tree Plaza
+  EffectiveDates: 27/1/19
+  VersionNumber: 9
+- PrimaryMode: Bus
   RouteNumbers: 542, 542X, N541
   RouteDescription: City-Fairview Pk
   EffectiveDates: 27/1/14
@@ -1080,6 +1197,7 @@
   RouteDescription: Fairview Park to Tea Tree Plaza
   EffectiveDates: 14/10/18
   VersionNumber: 10
+  DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: '543'
   RouteDescription: City-Surrey Downs
@@ -1151,6 +1269,11 @@
   VersionNumber: 5
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 548, 591A, 591C
+  RouteDescription: Golden Grove & Greenwith to Tea Tree Plaza & city, Golden Grove to Greenwith
+  EffectiveDates: 27/1/19
+  VersionNumber: 6
+- PrimaryMode: Bus
   RouteNumbers: 556, 557, 559
   RouteDescription: City-Tea Tree Plaza via St Agnes/Tea Tree Gully
   EffectiveDates: 27/1/14
@@ -1216,6 +1339,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 16
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 600, 601, 605, G30F
+  RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
   RouteDescription: City-Flinders Uni/Old Reynella Interchange
@@ -1285,6 +1413,11 @@
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 681, 682, 683
+  RouteDescription: Hallet Cove to Flinders University, Hallet Cove to Sheidow Park, Hallet Cove
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: City-Noarlunga Centre Interchange via Main Road South
   EffectiveDates: 1/12/13
@@ -1302,6 +1435,11 @@
   EffectiveDates: 29/4/18
   VersionNumber: 9
   DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
@@ -1327,6 +1465,11 @@
   VersionNumber: 13
   DistributionList: Jun-18
 - PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 14
+- PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
   EffectiveDates: 1/12/13
@@ -1344,6 +1487,11 @@
   EffectiveDates: 29/4/18
   VersionNumber: 14
   DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: 723F, 723X, 733
+  RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
+  EffectiveDates: 27/1/19
+  VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: 724, 734
   RouteDescription: Colonnades Shopping Centre-Marion
@@ -1367,16 +1515,31 @@
   VersionNumber: 8
   DistributionList: Mar-16
 - PrimaryMode: Bus
+  RouteNumbers: '725'
+  RouteDescription: Noarlunga & Southgate to Old Reynella
+  EffectiveDates: 27/1/19
+  VersionNumber: 9
+- PrimaryMode: Bus
+  RouteNumbers: '734'
+  RouteDescription: Colonnades & Noarlunga to Marion
+  EffectiveDates: 27/1/19
+  VersionNumber: 8
+- PrimaryMode: Bus
   RouteNumbers: '737'
-  RouteDescription: Chanders Hill-Old Reynolds Interchange
+  RouteDescription: Chanders Hill-Old Reynella Interchange
   EffectiveDates: 1/12/13
   SupercededDate: 17/12/17
 - PrimaryMode: Bus
   RouteNumbers: '737'
-  RouteDescription: Chanders Hill-Old Reynolds Interchange
+  RouteDescription: Chanders Hill-Old Reynella Interchange
   EffectiveDates: 17/12/17
   VersionNumber: 9
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: '737'
+  RouteDescription: Chanders Hill to Old Reynella
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: 740, 741, 750, 751, 752, 755, 756
   RouteDescription: Seaford to Aldinga/Sellicks Beach
@@ -1403,6 +1566,11 @@
   VersionNumber: 9
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 741, 750, 751, 752, 755, 756
+  RouteDescription: Maslin Beach to Colonnades, Sellicks Beach to Colonnades, Aldinga to Colonnades, McLaren Flat to McLaren Vale, Aldinga Beach to Seaford, Port Willunga to Noarlunga
+  EffectiveDates: 27/1/19
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: 743, 744
   RouteDescription: 'Noarlunga Centre Interchange to Huntfield Heights '
   EffectiveDates: 20/7/14
@@ -1428,6 +1596,11 @@
   VersionNumber: 12
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 743, 744
+  RouteDescription: Noarlunga Centre to Huntfield Heights
+  EffectiveDates: 27/1/19
+  VersionNumber: 13
+- PrimaryMode: Bus
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
   EffectiveDates: 20/7/14
@@ -1452,6 +1625,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 15
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 745, 747
+  RouteDescription: Seaford Circuit
+  EffectiveDates: 27/1/19
+  VersionNumber: 16
 - PrimaryMode: Bus
   RouteNumbers: 820  821  822
   RouteDescription: City-Carey Gully & Stirling-Loreto College
@@ -1662,6 +1840,11 @@
   VersionNumber: 11
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 'G40'
+  RouteDescription: Golden Grove to Flinders University via city
+  EffectiveDates: 27/1/19
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Paradise-Glenelg via Marion Rd
   EffectiveDates: 27/1/14
@@ -1752,6 +1935,11 @@
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: J1X JET EXPRESS, C1, C2, J1, J2, N1 163
+  RouteDescription: City to Adelaide Airport, Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  EffectiveDates: 27/1/19
+  VersionNumber: 3
+- PrimaryMode: Bus
   RouteNumbers: J7, J8, 371,372
   RouteDescription: West Lakes-Marion
   EffectiveDates: 27/1/14
@@ -1818,6 +2006,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 13
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: W90, W91
+  RouteDescription: Marion Centre to Paradise, St Marys to Marden
+  EffectiveDates: 27/1/19
+  VersionNumber: 14
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17
