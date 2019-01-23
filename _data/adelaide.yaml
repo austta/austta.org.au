@@ -1768,8 +1768,8 @@
   VersionNumber: 17
   DistributionList: Jun-18
 - PrimaryMode: Bus
-  RouteNumbers: C1, C2, J1, J2, N1, 163
-  RouteDescription: Golden Grove to city, Greenwith to city, & Tea Tree Plaza to Adelaide Airport to city, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  RouteNumbers: J1X JET EXPRESS, C1, C2, J1, J2, N1, 163
+  RouteDescription: Golden Grove to city, Greenwith to city, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via city, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
   EffectiveDates: 14/10/18
   VersionNumber: 1
   DistributionList: Nov-18
