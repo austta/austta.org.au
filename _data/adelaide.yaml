@@ -13,27 +13,30 @@
   SupercededDate: 14/10/18
 - RouteDescription: Adelaide Network Map (website only)
   EffectiveDates: 14/10/18
+  DistributionList: N/A
 - RouteDescription: Adelaide Oval Footy Express Guide
   EffectiveDates: '2014'
   SupercededDate: '2017'
 - RouteDescription: Adelaide Oval Footy Express Guide
   EffectiveDates: '2017'
   SupercededDate: '2017'
-- RouteDescription: Adelaide Oval Footy Express Guide (not seen printed)
+- RouteDescription: Adelaide Oval Footy Express Guide (website only)
   EffectiveDates: '2018'
+  SupercededDate: '2018'
 - PrimaryMode: Bus
   RouteNumbers: 98, 99
   RouteDescription: City Connector
   EffectiveDates: 27/1/14
   SupercededDate: 17/12/17
 - PrimaryMode: Bus
-  RouteNumbers: 97A   98A/C   99A/C
+  RouteNumbers: 97A, 98A/C, 99A/C
   RouteDescription: City Connector
   EffectiveDates: 17/12/17
   DistributionList: Feb-18
+  SupercededDate: 29/10/18
 - PrimaryMode: Bus
   RouteNumbers: 98C, 99C, 98A, 99A
-  RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE (not seen printed)
+  RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE
   EffectiveDates: 29/10/18
   VersionNumber: 1
   DistributionList: Dec-18
@@ -66,11 +69,12 @@
   EffectiveDates: 27/1/14
   SupercededDate: 17/12/17
 - PrimaryMode: Bus
-  RouteNumbers: B10  B11
+  RouteNumbers: B10, B11
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
   EffectiveDates: 17/12/17
   VersionNumber: 13
   DistributionList: Jan-18
+  SupercededDate: 14/10/18
 - PrimaryMode: Bus
   RouteNumbers: '106'
   RouteDescription: Magill to city
@@ -96,7 +100,7 @@
   VersionNumber: 9
   DistributionList: Jan-18
 - PrimaryMode: Bus
-  RouteNumbers: 115 117 118
+  RouteNumbers: 115, 117, 118
   RouteDescription: West Lakes to city, Port Adelaide to city
   EffectiveDates: 14/10/18
   VersionNumber: 10
@@ -179,7 +183,7 @@
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 150, 333
-  RouteDescription: Osborne to city, North Haven to Port Adelaide (not seen printed)
+  RouteDescription: Osborne to city, North Haven to Port Adelaide
   EffectiveDates: 27/1/19
   VersionNumber: 13
 - PrimaryMode: Bus
@@ -1063,7 +1067,7 @@
   EffectiveDates: 20/7/14
   SupercededDate: 17/12/17
 - PrimaryMode: Bus
-  RouteNumbers: 491  492A  492C  493  494  495
+  RouteNumbers: 491, 492A, 492C, 493, 494, 495
   RouteDescription: Gawler Local Services
   EffectiveDates: 17/12/17
   VersionNumber: 9
@@ -1636,16 +1640,16 @@
   EffectiveDates: 27/1/19
   VersionNumber: 16
 - PrimaryMode: Bus
-  RouteNumbers: 820  821  822
-  RouteDescription: City-Carey Gully & Stirling-Loreto College
-  EffectiveDates: 17/12/17
-  VersionNumber: 6
-  DistributionList: Jan-18
-- PrimaryMode: Bus
   RouteNumbers: 820, 821, 862
   RouteDescription: City-Carey Gully & Stirling-Loreto College
   EffectiveDates: 27/1/14
   SupercededDate: 17/12/17
+- PrimaryMode: Bus
+  RouteNumbers: 820, 821, 822
+  RouteDescription: City-Carey Gully & Stirling-Loreto College
+  EffectiveDates: 17/12/17
+  VersionNumber: 6
+  DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 823  840X  860F  863  864  N864  T843
   RouteDescription: City-Aldgate & Mt Barker
@@ -1713,16 +1717,16 @@
   VersionNumber: 10
   DistributionList: Jan-18
 - PrimaryMode: Bus
-  RouteNumbers: 865  866
-  RouteDescription: City-Aldgate & Crafers-Stirling
-  EffectiveDates: 17/12/17
-  VersionNumber: 7
-  DistributionList: Jan-18
-- PrimaryMode: Bus
   RouteNumbers: 865, 866, 867, 868
   RouteDescription: City-Aldgate & Crafers-Stirling
   EffectiveDates: 27/1/14
   SupercededDate: 17/12/17
+- PrimaryMode: Bus
+  RouteNumbers: 865, 866
+  RouteDescription: City-Aldgate & Crafers-Stirling
+  EffectiveDates: 17/12/17
+  VersionNumber: 7
+  DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 892, 893, 894
   RouteDescription: Aldgate-Blackwood Stn
@@ -1765,10 +1769,15 @@
   DistributionList: Jun-18
 - PrimaryMode: Bus
   RouteNumbers: C1, C2, J1, J2, N1, 163
-  RouteDescription: Golden Grove to city, Greenwith to city, & Tea Tree Plaza to Adelaide Airport to city, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach (not seen printed)
+  RouteDescription: Golden Grove to city, Greenwith to city, & Tea Tree Plaza to Adelaide Airport to city, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
   EffectiveDates: 14/10/18
   VersionNumber: 1
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: J1X JET EXPRESS, C1, C2, J1, J2, N1 163
+  RouteDescription: City to Adelaide Airport, Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  EffectiveDates: 27/1/19
+  VersionNumber: 3
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Blair Athol-Marion
@@ -1940,10 +1949,10 @@
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Bus
-  RouteNumbers: J1X JET EXPRESS, C1, C2, J1, J2, N1 163
-  RouteDescription: City to Adelaide Airport, Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  RouteNumbers: J1X JET EXPRESS, J1, J2 (Adelaide Airport Bus Timetable)
+  RouteDescription: Adelaide Airport to city EXPRESS, Adelaide Airport to city
   EffectiveDates: 27/1/19
-  VersionNumber: 3
+  VersionNumber: 2
 - PrimaryMode: Bus
   RouteNumbers: J7, J8, 371,372
   RouteDescription: West Lakes-Marion
@@ -2019,6 +2028,7 @@
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17
+  DistributionList: N/A
 - PrimaryMode: Train
   RouteNumbers: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
   RouteDescription: Belair
@@ -2064,7 +2074,7 @@
   DistributionList: May-18
 - PrimaryMode: Train
   RouteNumbers: Outer Harbor & Grange
-  RouteDescription: Outer Harbor to city, Grange to city (not seen printed)
+  RouteDescription: Outer Harbor to city, Grange to city
   EffectiveDates: 27/1/19
   VersionNumber: 4
 - PrimaryMode: Train
