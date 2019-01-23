@@ -178,6 +178,11 @@
   VersionNumber: 12
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 150, 333
+  RouteDescription: Osborne to city, North Haven to Port Adelaide (not seen printed)
+  EffectiveDates: 27/1/19
+  VersionNumber: 13
+- PrimaryMode: Bus
   RouteNumbers: 155, 157, 376
   RouteDescription: City-West Lakes/Largs Bay, West Lakes-Delfin Island
   EffectiveDates: 27/1/14
@@ -2057,6 +2062,11 @@
   EffectiveDates: 22/4/18
   VersionNumber: 3
   DistributionList: May-18
+- PrimaryMode: Train
+  RouteNumbers: Outer Harbor & Grange
+  RouteDescription: Outer Harbor to city, Grange to city (not seen printed)
+  EffectiveDates: 27/1/19
+  VersionNumber: 4
 - PrimaryMode: Train
   RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
     & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
