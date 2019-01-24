@@ -4,7 +4,7 @@ title: Table Talk
 ---
 The latest available news of timetable and transport happenings from within Australia and around the world.
 
-Thinking of editing Table Talk? Have a look at the [style guide](ttalk_style.html).
+Thinking of submitting an article to Table Talk? Have a look at the [style guide](ttalk_style.html).
 
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy/PDF issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
