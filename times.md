@@ -16,9 +16,13 @@ Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 ## Online Archive
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
+<!---
+The latest two issues are for members only
+-->
 
+* February 2019 (Members only)
 * January 2019 (Members only)
-* December 2018 (Members only)
+* [December 2018]({{ site.named_cdn_url }}/thetimes201812issue.pdf) 2,340kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2018]({{ site.named_cdn_url }}/thetimes201811issue.pdf) 2,368kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [October 2018]({{ site.named_cdn_url }}/thetimes201810issue.pdf) 2,572kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [September 2018]({{ site.named_cdn_url }}/thetimes201809issue.pdf) 2,932kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

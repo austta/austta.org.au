@@ -9,10 +9,14 @@ Thinking of submitting an article to Table Talk? Have a look at the [style guide
 Copies of Table Talk are not placed on this site until they are two months old. Current hard copy/PDF issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
 ePub files allow you to change the text size and have the text "reflow" to reflect the new size for easy reading. The files can be downloaded and read offline. Software for displaying and managing ePub files includes iBooks on an iOS device, Google Play Books on Android and [Calibre](http://calibre-ebook.com) for Desktops. [FBReader](https://fbreader.org) is another program that supports a wide variety of devices including Blackberry and Windows Phone.
+<!---
+The latest two issues are for members only
+-->
 
+* February 2019 (Members only)
 * January 2019 (Members only)
-* December 2018 (Members only)
-* November 2018 (Members only)
+* [December 2018]({{ site.named_cdn_url }}/tabletalk201812issue.pdf) 428kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [November 2018]({{ site.named_cdn_url }}/tabletalk201811issue.pdf) 576kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [October 2018]({{ site.named_cdn_url }}/tabletalk201810issue.pdf) 348kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [September 2018]({{ site.named_cdn_url }}/tabletalk201809issue.pdf) 716kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [August 2018]({{ site.named_cdn_url }}/tabletalk201808issue.pdf) 742kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
