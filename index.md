@@ -31,4 +31,4 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 * [Annual Reports](annual_report.html)
 
 ## What to do with old timetables
-Old timetables can be a valuable asset for the ATA auctions, Distribution Service or the National Timetable Collection. If you have old timetables that you want to discard, don't! Please contact the Australian Timetable Associaiton first. Len Regan, [0409 209 114](tel:61409209114),  <archives@austta.org.au> will help you decide where best your old timetables can be deposited.
+Old timetables can be a valuable asset for the ATA auctions, Distribution Service or the National Timetable Collection. If you have old timetables that you want to discard, don't! Please contact the Australian Timetable Associaiton first. Len Regan, [0409 209 114](tel:61409209114),  <archives@timetable.org.au> will help you decide where best your old timetables can be deposited.

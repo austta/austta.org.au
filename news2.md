@@ -10,6 +10,6 @@ You do not need to be a member to read messages from this board but you must be 
 There are separate sections for timetable information for each state.
 News on this board is retained for a number of weeks after the last reply to the message has been posted.
 
-* Alternatively any news to update any of the timetable lists in this website may be [emailed to us](mailto:webmaster@austta.org.au) or to any email address which may be shown on the list concerned.
+* Alternatively any news to update any of the timetable lists in this website may be [emailed to us](mailto:webmaster@timetable.org.au) or to any email address which may be shown on the list concerned.
 
 Items posted on the board above or emailed may be used in the Association's timetable news magazine *Table Talk*.

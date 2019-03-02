@@ -8,7 +8,7 @@ Copies of The Times are not placed on this site until they are two months old. C
 
 ## Writing for <span class="TimesLogo">The Times</span>
 Have your say in print on any transport timetable matter. The Times includes letters to the editor.
-[Do it by email](mailto:thetimes@austta.org.au) right here and now!
+[Do it by email](mailto:thetimes@timetable.org.au) right here and now!
 
 For longer articles please see the [author guide to The
 Times](Author%20guide%20for%20ATA%20The%20Times.pdf).

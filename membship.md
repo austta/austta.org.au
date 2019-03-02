@@ -45,13 +45,13 @@ Overseas membership is available as follows:
 
 If you would like to register as a member right away, fill in the [Downloadable Membership Form](Membershipform.pdf) (108kB  ![PDF](https://efb778d9cbba3f4c5d31-2a2416132ea09b6c13760470ead1b56d.ssl.cf1.rackcdn.com/pdficon.svg), then send it to the Membership Officer as set out in the form.
 
-You can contact the Membership Officer, Len Regan, on [membership@austta.org.au](mailto:membership@austta.org.au), or [0409 209 114](tel:+61409209114).
+You can contact the Membership Officer, Len Regan, on [membership@timetable.org.au](mailto:membership@timetable.org.au), or [0409 209 114](tel:+61409209114).
 
 # Contacts
 If you have a question, email is best as each function of the association has a
 permanent email address that goes to the relevant committee member.
 If you wish to contact the secretary of the association, Geoff Lambert,
-please email [secretary@austta.org.au](mailto:secretary@austta.org.au),
+please email [secretary@timetable.org.au](mailto:secretary@timetable.org.au),
 or if you wish, phone him on [(02) 9949 3521](tel:+61299493521).
 
 # Legals

@@ -4,7 +4,7 @@ title: Members News
 ---
 
 ## Distribution List Changes
-Peter Hobbis has decided to stand down from his position as Distribution Manager due to ill health. Peter has been dedicated to managing the Distribution List orders since April 2013, and during this time has provided a great service to ATA and its members. Peter pioneered and developed the arrangements for several Distribution Officers to hold the stock of Distribution List items. He diligently forwarded the List orders onto the officers who held the stock, and followed up any delays or problems that occurred. We thank Peter for his contribution and wish him ongoing improvement in his health and mobility. Peter’s illness in no way diminishes his interest in timetables and in the Association which he joined when the Association was in its infancy. I have been Distribution Manager for the December List and Len Regan will be the Distribution Manager for the January list. I will resume the position from February. Please send your orders to <distribution@austta.org.au> and they will reach the right person. Follow the instruction on each Distribution List for postal orders.
+Peter Hobbis has decided to stand down from his position as Distribution Manager due to ill health. Peter has been dedicated to managing the Distribution List orders since April 2013, and during this time has provided a great service to ATA and its members. Peter pioneered and developed the arrangements for several Distribution Officers to hold the stock of Distribution List items. He diligently forwarded the List orders onto the officers who held the stock, and followed up any delays or problems that occurred. We thank Peter for his contribution and wish him ongoing improvement in his health and mobility. Peter’s illness in no way diminishes his interest in timetables and in the Association which he joined when the Association was in its infancy. I have been Distribution Manager for the December List and Len Regan will be the Distribution Manager for the January list. I will resume the position from February. Please send your orders to [distribution@austta.org.au](mailto:distribution@timetable.org.au) and they will reach the right person. Follow the instruction on each Distribution List for postal orders.
 The number of items ordered in the December 2016 Distribution List surpassed the
 number ordered in the very successful October 2016 Distribution List, and the results from the December
 2016 Auction 84 are also
@@ -25,15 +25,15 @@ The individuals behind these new addresses still have their personal e-mail addr
 
 | Recipient | E-mail address |
 |:-:|:-:|
-| Times Editor | <thetimes@austta.org.au>
-| ATA Treasurer | <treasurer@austta.org.au>
-| ATA President | <president@austta.org.au>
-| Table Talk Editor | <tabletalk@austta.org.au>
-| Membership Officer | <membership@austta.org.au>
-| Distribution List Manager | <distribution@austta.org.au>
-| Auctioneer | <auction@austta.org.au>
-| Webmaster | <webmaster@austta.org.au>
-| ATA Secretary | <secretary@austtta.org.au>
+| Times Editor | [thetimes@austta.org.au](mailto:thetimes@timetable.org.au)
+| ATA Treasurer | [treasurer@austta.org.au](mailto:treasurer@timetable.org.au)
+| ATA President | [president@austta.org.au](mailto:president@timetable.org.au)
+| Table Talk Editor | [tabletalk@austta.org.au](mailto:tabletalk@timetable.org.au)
+| Membership Officer | [membership@austta.org.au](mailto:membership@timetable.org.au)
+| Distribution List Manager | [distribution@austta.org.au](mailto:distribution@timetable.org.au)
+| Auctioneer | [auction@austta.org.au](mailto:auction@timetable.org.au)
+| Webmaster | [webmaster@austta.org.au](mailto:webmaster@timetable.org.au)
+| ATA Secretary | [secretary@austta.org.au](mailto:secretary@timetable.org.au)
 
 *Geoff Lambert For Hilaire Fraser - President (December 2016)*
 
