@@ -10,6 +10,20 @@ found at:
 * [2017](membnews2017.html)
 * [2016](membnews2016.html)
 
+# March 2019
+
+## Report of the ATA Committee Meeting Wednesday 20 February 2019
+
+It is very pleasing that financially the ATA continues to perform well. Our balance sheets are similar to the
+same time last year with some additional reduction in expenditure. 2019-2020 membership fees will not
+increase and will remain unchanged, that is sixty dollars for a normal membership. We welcome new
+member Domenic Haby and Flynn Hogan who has reactivated his membership after a time overseas. Steven
+Haby's contribution to "Table Talk" is very much appreciated. In the February edition, the bus news was
+bigger that the rail news and four colour pages better displayed aspects of bus news. In the auction rail timetables continue to be popular while bus timetables get little interest. Work continues on the sorting and
+cataloguing the National Timetable Collection at Prahran Mechanics' Institute. The State Library User Organisation Council will hold a seminar on Saturday 3 August 2019 at 1.15pm on the National Timetable Collection, which the State Library of Victoria regards as being unique in that it is a large comprehension collection on a specific item. ATA members Steven Haby, Len Regan Andrew James, John Mikita and David Hennell are to be presenters. ATA members will be very welcome. Saturday October 19 was set as the date for the Annual General Meeting. This year's meeting will be held in Canberra and provide the opportunity for delegates to ride the Gungahlin light rail line due to open in late March or April. The meeting venue will be the offices of TransitGraphics close to the city centre. The next committee meeting is set for May 15.
+
+> Hilaire Fraser, President
+
 # February 2019
 
 ## Network Changes

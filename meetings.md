@@ -17,20 +17,12 @@ The Canberra Division meets at 1830 on the second Thursday of every month at the
 ## Melbourne
 Meetings are held on the first Wednesday of odd-numbered months from March to November.
 All meetings commence at 2000 at the home of David Hennell, 3/29 Croydon Road, Surrey Hills, a 210 metre walk from Chatham Railway Station.
-The next meeting will be held on 6th March, 2019.
+The next meeting will be held on 6<sup>th</sup> March, 2019, followed by 1<sup>st</sup> May.
 
 ## Sydney
 Sydney meetings are held on the third Saturday of February, May, August and November.
 All members and non-members are welcome.
-Sydney meetings are usually held at
-1400 on Saturday
-at Level 3, Room 3120,
-Abercrombie Building (H70), The University of Sydney Business School, Corner Codrington and Abercrombie Streets, Darlington.
+The next meeting is at 1400 on Saturday 18<sup>th</sup> May 2019 at
+378 Abercrombie Street Darlington NSW 2006 (corner of Codrington Street).
 
-<b>NB</b> By exception the November 17 2018 meeting will be at
-378 Abercrombie Street Darlington NSW 2006, still at 1400..
-
-Please ring the small white slightly obscure doorbell not the prominent red emergency help intercom.
-
-**How to get there:** 422, 423, 426, 428 bus to City Road near Butlin Avenue (400 metres) or train to Redfern Station (800 metres along Abercrombie St or Wilson St), enter up ramp on Codrington Street then take lift or stairs (the lift is not always available) to level
-3,  <Geoffrey.Clifton@sydney.edu.au>.
+**How to get there:** 422, 423, 426 bus to City Road (400 metres). The nearest train station is Redfern, then a 750 metre walk along Abercrombie St or Wilson St. Inquiries to <Geoffrey.Clifton@sydney.edu.au>.
