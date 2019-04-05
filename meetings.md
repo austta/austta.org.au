@@ -14,10 +14,15 @@ Please contact Brian on [3354&nbsp;2140](tel:+61733542140) for dates.
 ## Canberra
 The Canberra Division meets at 1830 on the second Thursday of every month at the Ainslie Football and Social Club, 52 Wakefield Avenue, Ainsle. Good conversation and a meal are features. Enquiries to David Cranney, <cranney@iinet.net.au> phone [0421&nbsp;174&nbsp;951](tel:+61421174951) or to Victor Isaacs, <abvi@iinet.net.au> phone [(02)&nbsp; 6257&nbsp;1742](tel:+61262571742).
 
+In addition to Canberra Branch’s regular monthly meetings, a celebratory lunch at Victor Isaacs’ home, 11 Blacket
+St, Downer, is tentatively scheduled for 12 noon, Saturday 27 April to commemorate the opening of
+the Canberra Tramway the week before on 20 April. Participants should arrive by tram (Swinden St
+stop). [RSVP](mailto:abvi@iinet.net.au) is necessary for catering purposes - [02-62571742](tel:+61262571742) please.
+
 ## Melbourne
 Meetings are held on the first Wednesday of odd-numbered months from March to November.
 All meetings commence at 2000 at the home of David Hennell, 3/29 Croydon Road, Surrey Hills, a 210 metre walk from Chatham Railway Station.
-The next meeting will be held on 6<sup>th</sup> March, 2019, followed by 1<sup>st</sup> May.
+The next meeting will be held on 1<sup>st</sup> May.
 
 ## Sydney
 Sydney meetings are held on the third Saturday of February, May, August and November.

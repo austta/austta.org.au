@@ -10,6 +10,22 @@ found at:
 * [2017](membnews2017.html)
 * [2016](membnews2016.html)
 
+# April 2019
+
+## Scans of South African Railway Timetables
+
+Member Tony McIlwain has drawn our attention to a [fascinating new website](https://grant.dev.openstreetmap.org/sar-time-tables/) which contains reproductions of old South African railway timetables. Timetables included are Cape Government Railways Midland System (based on Port Elizabeth) Working Timetable 1882, South African Railways Public Timetable 1949 (a very big document!), SAR Public TT 1987, SAR colourful front covers of Public TTs 1949 to 1987. Timetables include connecting trains to South West Africa, Bechuanaland, Southern Rhodesia, Northern Rhodesia, Belgian Congo and Portuguese East Africa. We promote this website with the permission of Grant Slater, the compiler of the site, and acknowledge his work. Grant states that more timetables will be added.
+
+SAR timetables may prompt the writing of an article or series of articles for “The Times”.
+Access to these
+The timetables are fascinating social and political documents as well as a listing of train times.
+
+> Hilaire Fraser, President
+
+## Rail and Tram Books offered for Sale by Tender
+
+Included are some rare and “collectable” books, the earliest of which was published in 1935-36, and some reference books dating back to 1952. A few have inscriptions or other minor markings. For a detailed list and information on this sale by tender, please [email](mailto:dale.budd@dbas.com.au) or write to Dale Budd, PO Box 7104, Yarralumla ACT 2600.
+
 # March 2019
 
 ## Report of the ATA Committee Meeting Wednesday 20 February 2019
