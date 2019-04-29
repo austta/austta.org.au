@@ -15,12 +15,12 @@ I wish to apply for membership of the Australian Timetable Association.
   </p>
   <p>Email address <input type="email" name="email"></p>
   <p>Membership starts (month) <input type="text" name="start_month"></p>
-  <p>If Australian Student – Date of Birth: <input type="text" name=dob> Where enrolled:  <input type="text" name="where_enrolled"></p>
+  <p>If Australian Student – Date of Birth: <input type="text" name="student_dob"> Where enrolled:  <input type="text" name="student_where"></p>
   Preferences for monthly documents mailout:<br>
      All documents sent by:
-     <input type="radio" name="send" value="post"> Post
-<input type="radio" name="send" value="email"> Email
-<input type="radio" name="send" value="both"> Both Modes<br>
+     <input type="radio" name="mailout_method" value="post"> Post
+<input type="radio" name="mailout_method" value="email"> Email
+<input type="radio" name="mailout_method" value="both"> Both Modes<br>
      <input type="checkbox" name="distlist" value="distlist"> Distribution List and Auction Catalogue also sent by email
 
   Payment:  Amount <input type="text" name="amount"><br>
