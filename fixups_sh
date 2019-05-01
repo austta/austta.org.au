@@ -21,9 +21,6 @@ for TABLE_TALK in ttalk201???.md
     touch -r $TABLE_TALK _site/$(basename $TABLE_TALK .md).epub
   done
 # copy in and rename PDFs
-# The renewal form
-cp -ip ../mailouts/"ATA 2016-17 Renewal form blank.pdf" \
-            _site/"ATA 20162017 Renewal Form.pdf"
 # Robots.txt for CDN
 cp -p cdnb.robots.txt ../cdnb/robots.txt
 # bulk load of old PDFs and Gifs etc
