@@ -13,6 +13,10 @@
   SupercededDate: 14/10/18
 - RouteDescription: Adelaide Network Map (website only)
   EffectiveDates: 14/10/18
+  SupercededDate: 27/1/19
+  DistributionList: N/A
+- RouteDescription: Adelaide Network Map (website only)
+  EffectiveDates: 27/1/19
   DistributionList: N/A
 - RouteDescription: Adelaide Oval Footy Express Guide
   EffectiveDates: '2014'
@@ -23,6 +27,9 @@
 - RouteDescription: Adelaide Oval Footy Express Guide (website only)
   EffectiveDates: '2018'
   SupercededDate: '2018'
+- RouteDescription: Game Changer Footy Express 2019 Guide (website only)
+  EffectiveDates: '2019'
+  DistributionList: N/A
 - PrimaryMode: Bus
   RouteNumbers: 98, 99
   RouteDescription: City Connector
@@ -65,6 +72,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 11
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 100, 101
+  RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
+  EffectiveDates: 21/4/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: B10, B11, B12, 312
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
@@ -441,6 +453,11 @@
   VersionNumber: 16
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 202, 203, 209F, N202
+  RouteDescription: Ingle Farm to city, Tea Tree Plaza & Ingle Farm to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 18
+- PrimaryMode: Bus
   RouteNumbers: 204, 208, 528
   RouteDescription: City-Northgate/Paradise
   EffectiveDates: 27/1/14
@@ -508,6 +525,11 @@
   VersionNumber: 10
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: '222'
+  RouteDescription: Mawson to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 11
+- PrimaryMode: Bus
   RouteNumbers: 224, 226F, N224
   RouteDescription: City-Elizabeth via Salisbury Hwy
   EffectiveDates: 1/12/13
@@ -533,6 +555,11 @@
   VersionNumber: 12
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 224, N224
+  RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 13
+- PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Gepps Cross or Mawson Lakes-Salisbury via Northbri Av
   EffectiveDates: 26/1/16
@@ -557,6 +584,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 8
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '225'
+  RouteDescription: Salisbury to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: '228'
   RouteDescription: City-Smithfield via Main North Rd
@@ -590,6 +622,11 @@
   VersionNumber: 11
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 228
+  RouteDescription: Smithfield to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: City-Para Hills via Pooraka
   EffectiveDates: 1/7/12
@@ -614,6 +651,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 9
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '229'
+  RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
+  EffectiveDates: 28/4/19
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: City-Port Adelaide/West Lakes via Croydon Park
@@ -708,6 +750,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 11
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 241, 245, 248
+  RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
+  EffectiveDates: 21/4/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 251, 252
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Liberty Grove
@@ -1105,6 +1152,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 6
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 451, 452, 461, 462
+  RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
+  EffectiveDates: 28/4/19
+  VersionNumber: 7
 - PrimaryMode: Bus
   RouteNumbers: 491, 492, 493, 494
   RouteDescription: Gawler Local Services
@@ -1953,6 +2005,11 @@
   VersionNumber: 14
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: H20, H21, 580
+  RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
+  EffectiveDates: 21/04/19
+  VersionNumber: 15
+- PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
   EffectiveDates: 27/1/14
@@ -2080,6 +2137,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 16
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
+  EffectiveDates: 21/4/19
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
