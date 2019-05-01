@@ -2,7 +2,7 @@
 layout: page
 title: Membership Renewal
 ---
-Use this form to submit your renewal details electronically instead of using the preprinted form. If you are new to the association please use the [joining form](join.html) instead.
+Use this form to submit your renewal details electronically instead of using the preprinted form. If you are new to the association please use the [joining form](membship.html) instead.
 
 <form accept-charset="UTF-8" action="mail.php" method="POST">
   <p>Title <input type="text" name="title"> Name <input type="text" name="name"><p>
