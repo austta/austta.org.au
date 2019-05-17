@@ -2007,7 +2007,7 @@
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
-  EffectiveDates: 21/04/19
+  EffectiveDates: 21/4/19
   VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22

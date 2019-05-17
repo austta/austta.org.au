@@ -10,6 +10,21 @@ found at:
 * [2017](membnews2017.html)
 * [2016](membnews2016.html)
 
+Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
+
+# May 2019
+
+## 2019-2020 Membership Renewal
+You will have received your 2019-2020 membership renewal via a separate e-mail from the Membership Officer. A non-personalised renewal form can be found [HERE](https://www.timetable.org.au/renew.html). Our 2019-2020 Membership Fees are unchanged, that is $60.00 for a normal membership. Please renew your membership promptly to ensure that you continue to receive ATA journals and mail-outs.
+
+## 2019 Annual General Meeting
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.125309,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503) in centre of Canberra. Rides on the new light rail system and inspections of the [National Library](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966195,149.1276278,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164d17a74ac511:0x699681870a900677!8m2!3d-35.2966239!4d149.1298218) are being arranged as pre-meeting activities.
+
+## Distribution List Report
+The Distribution List continues to perform well with about twenty orders each month. The April List received eight orders for the set of three recent Rover Coaches, Cessnock timetables. Sydney Trains Working Timetables are also popular. The May List will contain sets of recent Red Bus, The Entrance timetables as well as Port Stephens Coaches, Ballina and Lismore bus timetables. Also included is the [Transport Canberra Holiday Bus Timetable](https://www.transport.act.gov.au/getting-around/timetables/holiday-services-2018) booklet which was effective from 24 December 2018 to Friday 11 January and a fascinating set of nine guides to walking and cycling in Canberra. We thank [Rover Coaches](https://www.rovercoaches.com.au/site/bus-timetables) and [Transit Graphics](https://transitgraphics.com.au/) for the supply of these timetables and guides.
+
+> Hilaire Fraser, President
+
 # April 2019
 
 ## Scans of South African Railway Timetables
