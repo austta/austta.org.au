@@ -20,8 +20,10 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 The latest two issues are for members only
 -->
 
-* May 2019 (Members only)
-* April 2019 (Members only)
+* July 2019 (Members only)
+* June 2019 (Members only)
+* [May 2019]({{ site.named_cdn_url }}/thetimes201905issue.pdf) 3,576kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [April 2019]({{ site.named_cdn_url }}/thetimes201904issue.pdf) 4,088kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [March 2019]({{ site.named_cdn_url }}/thetimes201903issue.pdf) 2,596kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [February 2019]({{ site.named_cdn_url }}/thetimes201902issue.pdf) 2,800kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2019]({{ site.named_cdn_url }}/thetimes201901issue.pdf) 2,960kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

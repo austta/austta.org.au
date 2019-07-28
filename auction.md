@@ -7,9 +7,10 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalogue
-* [Auction 115 July 2019]({{ site.named_cdn_url }}/auctioncatalog201907issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is NSW Central Coast & Hunter Valley Private Bus Timetables.
+* [Auction 116 August 2019]({{ site.named_cdn_url }}/auctioncatalog201908issue.pdf) (44kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is North American Public Railway Timetables.
 
 ## Previous catalogues
+* [Auction 115 July 2019]({{ site.named_cdn_url }}/auctioncatalog201907issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is NSW Central Coast & Hunter Valley Private Bus Timetables.
 * [Auction 114 June 2019]({{ site.named_cdn_url }}/auctioncatalog201906issue.pdf) (172kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Canberra Bus Timetables.
 * [Auction 113 May 2019]({{ site.named_cdn_url }}/auctioncatalog201905issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is British Train Timetable Books.
 * [Auction 112 April 2019]({{ site.named_cdn_url }}/auctioncatalog201904issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
