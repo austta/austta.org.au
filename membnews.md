@@ -16,7 +16,7 @@ Please note, links on this page are not maintained in general, they remain as a 
 
 ### ATA Annual General Meeting
 
-The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.274808,149.125309,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503), Turner, ACT. Rides on the new -[light rail](https://www.transport.act.gov.au/about-us/public-transport-options/light-rail) system and inspections of the [National Library of Australia](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966239,149.1276278,17z/) are being arranged as pre-meeting activities. At the AGM there will be elections for the positions of President, Vice President, Secretary, Treasurer and Committee Members. Please give some thought as to whether you are prepared to nominate for one of these positions. The next committee meeting is set for August 21.
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.274808,149.125309,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503), Turner, ACT. Rides on the new -[light rail](https://www.transport.act.gov.au/about-us/public-transport-options/light-rail) system and inspections of the [National Library of Australia](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966239,149.1276278,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164d17a74ac511:0x699681870a900677!8m2!3d-35.2966239!4d149.1298218) are being arranged as pre-meeting activities. At the AGM there will be elections for the positions of President, Vice President, Secretary, Treasurer and Committee Members. Please give some thought as to whether you are prepared to nominate for one of these positions. The next committee meeting is set for August 21.
 
 ### Vale Alan Gray
 
@@ -40,7 +40,7 @@ included in your June mail-out.
 
 ### ATA Annual General Meeting
 
-The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.1253143,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503) in the centre of Canberra. Rides on the new light rail system and inspections of the [National Library](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966195,149.1276331,17z/) are being arranged as pre-meeting activities. The next committee meeting is set for August 21.
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.1253143,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503) in the centre of Canberra. Rides on the new light rail system and inspections of the [National Library](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966195,149.1276331,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164d17a74ac511:0x699681870a900677!8m2!3d-35.2966239!4d149.1298218) are being arranged as pre-meeting activities. The next committee meeting is set for August 21.
 
 ### Metro/Train versus Bus
 
