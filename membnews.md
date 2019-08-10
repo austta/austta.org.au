@@ -12,6 +12,72 @@ found at:
 
 Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
+## August 2019
+
+### ATA Annual General Meeting
+
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.274808,149.125309,17z/), Turner, ACT. Rides on the new -[light rail](https://www.transport.act.gov.au/about-us/public-transport-options/light-rail) system and inspections of the [National Library of Australia](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966239,149.1276278,17z/) are being arranged as pre-meeting activities. At the AGM there will be elections for the positions of President, Vice President, Secretary, Treasurer and Committee Members. Please give some thought as to whether you are prepared to nominate for one of these positions. The next committee meeting is set for August 21.
+
+### Vale Alan Gray
+
+Alan Gray, formerly of Long Jetty, a long-standing member of the AATTC/ATA passed away on Friday 28
+June. Alan became known to me through his regular Distribution Service orders. As well as train timetables he had a particular interest in bus timetables including the historic timetables supplied by Frank Goldthorpe. Our records show that Alan would have joined the AATTC/ATA during the 1980s. Alan was an important contributor of Bus news to Table Talk for a long time. At our 2017 Annual General Meeting Alan offered his services to the ATA. He was willing to undertake a steep learning curve in word processing, the operation of a database and using Skype to assist the work of the ATA. He was very much involved in preparing the ATA auction and handling auction items as well as the compilation of lists of timetables for the ATA website. Before his retirement Alan had worked as a bus driver at State Transit’s [Brookvale Bus Depot](https://www.google.com/maps/place/Brookvale+Bus+Depot/@-33.7666019,151.2675494,17z/). Alan’s nickname at work was “Mother Gray” because he was known to constantly offer advice on the proper handling of the buses! Alan’s solicitor has confirmed that Alan’s entire collection of timetables and related material is bequeathed to ATA, and the family has accepted our offer to collect it, once probate is granted. On behalf on the ATA I wish to offer our condolences to Alan’s brother David, his wife and niece Leonie. We also thank Alan’s neighbour Denise who has staunchly supported us out of respect for Alan’s passionate interests.
+
+>  -Hilaire Fraser, President
+
+## July 2019
+
+### A Seminar Featuring the National Timetable Collection
+
+The [State Library of Victoria](https://www.slv.vic.gov.au/) (SLV) User Organisations’ Council will hold a seminar entitled “On Time” at
+the [Prahran Mechanics Institute](https://www.google.com/maps/place/Prahran+Mechanics'+Institute+Victorian+History+Library/@-37.8497957,144.9894703,17z/) (PMI) at 1.15 pm, Saturday 3 August 2019. The seminar has been inspired
+by the [National Timetable Collection](https://www.timetable.org.au/) (NTC), which SLV regards as being unique in that it is a large
+comprehensive collection on a specific topic. Papers will be presented by ATA members Steven Haby
+(Welcome), Len Regan (NTC), Andrew James (Digitised timetables), John Mikita (Timetable Design) and
+David Hennell (“Oddities”). Papers will also be presented by Donald Barker (ARHS) and Peter Pereyra
+(historical research). ATA members and visitors will be very welcome. A brochure for this seminar was
+included in your June mail-out.
+
+### ATA Annual General Meeting
+
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.1253143,17z/) in the centre of Canberra. Rides on the new light rail system and inspections of the [National Library](https://www.google.com/maps/place/National+Library+of+Australia/@-35.2966195,149.1276331,17z/) are being arranged as pre-meeting activities. The next committee meeting is set for August 21.
+
+### Metro/Train versus Bus
+
+By now many members will have ridden the new North West Metro in Sydney. A Metro trip leaving Rouse
+Hill at 7.12am will connect with a Sydney Trains service at Chatswood to arrive Wynyard at 8.07am, journey
+time 55 minutes cost $6.89. A 607X bus will leave Rouse Hill at 7.10am and is due to arrive at Wynyard at
+8.33am, journey time 1 hour 23 minutes, cost $4.80. The above Metro service departs Castle Hill at 7.25am
+also reaching Wynyard with the Sydney Trains connection at 8.07am, journey time 42 minutes, cost $5.15. A
+610X bus will leave Rouse Hill at 7.28am and is due to arrive at Wynyard at 8.35am, journey time 1 hour 7
+minutes, cost $4.80.
+
+> -Hilaire Fraser, President
+
+## June 2019
+
+### 2019-2020 Membership Renewal
+
+You will have received your 2019-2020 membership renewal with the May mail-out or by email. If you have not already done so, please renew your membership promptly to ensure that you continue to receive ATA journals and mail-outs in the new financial year.
+
+### Report of the ATA Committee Meeting Wednesday 15 May 2019
+
+Financially, the ATA continues to perform well. There has been some reduction in expenditure and we
+expect to break even at the end of the financial year. We welcome new member Ivan Ploskonka, and Robert
+Daniel and Chris Zucker who reactivated their memberships. Work continues on the sorting and cataloguing
+of the National Timetable Collection at [Prahran Mechanics’ Institute](https://www.google.com/maps/place/Prahran+Mechanics'+Institute+Victorian+History+Library/@-37.8498,144.9894703,17z/). In the next batch, 2,834 timetables will
+be deposited with the State Library. This will bring the total number of timetables deposited to 3,145.The
+State Library User Organisation Council will hold a seminar on Saturday 3rd August 2019 at 1.15pm devoted
+to the National Timetable Collection, which the State Library of Victoria regards as being unique, in that it is
+a large comprehensive collection on a specific topic. ATA members Steven Haby, Len Regan, Andrew
+James, John Mikita and David Hennell are to be presenters. ATA members will be very welcome and a
+brochure has been included in the June Mail-Out. The ATA information and membership brochure will be
+updated for this occasion and following events.
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [Transit Graphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.1253143,17z/) in
+the centre of Canberra. Rides on the new light rail system and inspections of the National Library of Australia are being arranged as pre-meeting activities. The next committee meeting is set for August 21.
+
+> Hilaire Fraser, President
+
 # May 2019
 
 ## 2019-2020 Membership Renewal
