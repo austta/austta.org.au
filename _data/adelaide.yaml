@@ -70,6 +70,7 @@
   RouteNumbers: 100, 101
   RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
   EffectiveDates: 27/1/19
+  SupercededDate: 21/4/19
   VersionNumber: 11
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -748,6 +749,7 @@
   RouteNumbers: 241, 245, 248
   RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
   EffectiveDates: 14/10/18
+  SupercededDate: 21/4/19
   VersionNumber: 11
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -1420,6 +1422,10 @@
   EffectiveDates: 26/1/16
   VersionNumber: 5
   DistributionList: Apr-16
+- PrimaryMode: Bus
+  RouteNumbers: 566
+  RouteDescription: Mawson Lakes to Ingle Farm & Golden Grove
+  EffectiveDates: 8/9/19
 - PrimaryMode: Bus
   RouteNumbers: 591, 592, 593
   RouteDescription: Golden Grove-Petworth Lakes/Greenwith

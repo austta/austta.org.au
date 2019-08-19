@@ -7,10 +7,11 @@ This is a list of current timetables for
 [Adelaide Metro](https://www.adelaidemetro.com.au). Each row
 in the table represents either an individual paper or PDF timetable.
 
+Historical timetables can be found on the [historical list](./adelaidehistory.html).
+
 Adelaide services are  operated   by:
 
-* Southlink -  Bus Contract  areas Outer North, Outer South and Hills
-* Torrens Transit - Bus Contract Areas North-South, East-West and Outer North East
+* Torrens Transit - Bus
 * Adelaide Metro - Trams and Trains
 
 Note that a timetable may appear several times as the list includes:
@@ -19,7 +20,7 @@ Note that a timetable may appear several times as the list includes:
 * Available online and current
 * Available online and proposed even if the start date has passed
 
-Last Updated October 2018
+(This text last updated August 2019, list more frequently)
 
 You can sort each column by pressing on the heading if you wish.
 

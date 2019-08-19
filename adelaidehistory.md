@@ -4,10 +4,12 @@ title: List of Historical Adelaide Public Transport Timetables
 ---
 
 This is a list of historical timetables for
-[Adelaide Metro](https://www.adelaidemetro.com.au), State Transport Authority and the Municipal Tramways Trust. Each row
+[Adelaide Metro](https://www.adelaidemetro.com.au), State Transport Authority, Municipal Tramways Trust, South Australian Railways and other historical operators in Adelaide. Each row
 in the table represents either an individual paper or PDF timetable.
 
-Last Updated  December  2017
+Current timetables can be found on the [current list](./adelaidetim.html).
+
+(This text last updated August 2019, list more frequently)
 
 <table>
 <tbody>
