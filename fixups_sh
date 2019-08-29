@@ -15,10 +15,29 @@ for THIS_FILE in *.md
       fi
   done
 # Make the Table Talk epubs
+EPUB_CACHE_DIR=../cache_epubs
+# Create a cache directory if none_exits
+if [ ! -d $EPUB_CACHE_DIR ]
+  then 
+    mkdir -p $EPUB_CACHE_DIR
+fi
 for TABLE_TALK in ttalk201???.md
   do
-    pandoc --ascii -o _site/$(basename $TABLE_TALK .md).epub $TABLE_TALK
-    touch -r $TABLE_TALK _site/$(basename $TABLE_TALK .md).epub
+    EPUB_FILE_NAME=$(basename $TABLE_TALK .md).epub
+    if [ -f _site/$EPUB_FILE_NAME ]
+      then
+        echo That\'s funny _site/$EPUB_FILE_NAME already exists!!
+        continue
+    fi
+    # Take from the cache directory if available, if not make a 
+    # new file and put it there
+    if [ $EPUB_CACHE_DIR/$EPUB_FILE_NAME -nt $TABLE_TALK ]
+      then
+        cp -p $EPUB_CACHE_DIR/$EPUB_FILE_NAME _site
+      else
+        pandoc --ascii -o _site/$EPUB_FILE_NAME $TABLE_TALK
+        cp -p _site/$EPUB_FILE_NAME $EPUB_CACHE_DIR
+    fi
   done
 # copy in and rename PDFs
 # Robots.txt for CDN
