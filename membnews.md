@@ -12,6 +12,50 @@ found at:
 
 Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
+## September 2019
+
+### ATA Annual General Meeting 19 October 2019, Canberra
+
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [TransitGraphics](https://www.google.com/maps/place/Transit+Graphics/@-35.2748036,149.1253143,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503) Suite 3, Level 1, 11 McKay Lane, Turner ACT 2612. We thank TransitGraphics for their provision of the AGM venue. This location is near the city centre. Already many people have shown interest in attending the AGM. Members, families and friends are invited to the pre-meeting activities which will commence with the 12 noon Light Rail departure from [Alinga St Canberra City](https://www.google.com/maps/place/Alinga+St,+Canberra+ACT+2601/@-35.2782947,149.1262717,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164d680b663907:0x95a50cffbec97392!8m2!3d-35.2782991!4d149.1284604) to [Gungahlin](https://www.google.com/maps/place/Gungahlin+ACT+2912/@-35.1712248,149.1183228,14z/data=!4m5!3m4!1s0x6b1654b7fbf65f0f:0x500ea6ea76957c0!8m2!3d-35.1831!4d149.133). Participants are requested to be at the Alinga St stop by 11.55am. Single and Daily Cash Tickets are available from ticket vending machines on the platform. Canberra’s electronic fare card, MyWay is also available from various outlets. Information is found on [transport.act.gov.au](transport.act.gov.au). We will enjoy lunch at a café in Gungahlin and return by tram to Canberra City in time for the meeting. No doubt AGM participants will be able to obtain a variety of transport guides and timetables from TransitGraphics. Further information including nomination and proxy forms are contained in the September mail-out. At the AGM there will be elections for the positions of President, Vice President, Secretary, Treasurer and Committee members. Please give some thought as to whether you are prepared to nominate for one of these positions. Anyone who wishes to picked up from [Canberra Railway Station](https://www.google.com/maps/place/Canberra+Railway+Station/@-35.319384,149.1471696,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164cfe83c0da7f:0xf1d77febc545d6d7!8m2!3d-35.3193884!4d149.1493583) should contact [Victor Isaacs](mailto:'Victor%20Isaacs%20and%20Agnes%20Boskovitz'%20%3cabvi@iinet.net.au%3e).
+
+### Vale Tim Fischer AC
+
+On August 22 Tim Fischer passed away following a battle with cancer. The media have presented many fine tributes to Tim and the ATA heartily endorses these. Here I will outline his connection with the ATA. Tim became an ATA member in 2012. He had been working on “Australian Timetables at Their Peak”, a joint project with ATA. 1939 had been agreed as the peak year and Tim was interested in concentrating on idiosyncratic and vanished services. He enjoyed reading our journals and was very supportive of the ATA. He contributed occasional articles to The Times. We were always happy to promote his books. Some saw Tim as our nation’s chief train enthusiast. On behalf of ATA, I offer our condolences to his wife Judy and their sons Dominic and Harrison and their wider family and friends.
+
+### Vale Howard Quinlan
+
+A Memorial Service was held in August for Howard and Valerie Quinlan at All Souls Anglican Church, Ainslie, Canberra. Howard wrote a book on Australian Railway Routes listing lengths and opening and closing dates of all lines, an important publication for railway historians. Howard, although not an ATA member, was known to many Canberra members. Howard’s wife Valerie passed away shortly after Howard’s death. On behalf of ATA, I offer our condolences to Howard and Valerie’s family and friends.
+
+### Report of the ATA Committee Meeting Wednesday 21 August 2019
+
+For the financial year concluded on 30 June, ATA made an accrual surplus of $1096. Membership fees do not completely cover the mail-out costs, the website, National Timetable Collection and other expenses. Auction and Distribution Service surpluses help to pay these expenses and bring our finances into the black. Our thanks to our Treasurer, Len Regan for his work and our auditor, Jim Wells, for his helpful assistance.
+
+We welcome new members Peter Dempster from Epping NSW, Peter Kilburn from Junee NSW, Nick Hiscock from Hampton East Victoria, Aljosa Veljovic from Hampton Victoria and Andrew Woods from Torquay Victoria. There are now 136 ATA Members, a net increase of 2 since May. TransitGraphics have updated and printed our information and membership brochure at no charge to ATA. Our thanks to John Mikita at TransitGraphics.
+
+Work has continued on the National Timetable Collection at Prahran. Donations of timetables (detailed overleaf) will occupy the time of our NTC team for some time to come. The State Library of Victoria User Organisations Council (SLUOC) ‘On Time’ seminar on the National Timetable Collection on 3 August 2019 was successful, with very good presentations and about 30 attendees. The PowerPoint presentations as PDF files are included in the September 2019 Distribution List. These are distributed free of charge and are well recommended. Plans were made for our AGM. Our next committee meeting will be held on 20 November.
+
+### Donation of 327 NSWR Working Timetables
+
+Our thanks to Ben Lewis who has donated 327 working timetables from 1919 to 1959. These are A4 spiral- bound print copies of scans of the original documents. They have been transported to Prahran and are being sorted by Andrew James.
+
+### Donation of Timetables from former ARHS ACT Library
+
+We thank the former ARHS ACT for the offer of timetables which were contained in its library. Of interest are many Working Timetables and public timetables from around Australia and overseas. Once any gap is filled in the National Timetable Collection these items will go to auction. Once these timetables are sold, a donation to the ARHS ACT successor, the Canberra Railway Museum will be made. We thank Victor Isaacs for receiving this collection and sending it to the PMI.
+
+### Alan Gray Collection
+
+Alan Gray has bequeathed his timetable collection to ATA. Len Regan and Geoff Hassall have made a trip to
+Alan’s apartment to appraise the collection.
+They were helped greatly by Denise, who lives in a unit below Alan’s, and is the maintenance manager of the 8-unit apartment block. We thank Denise for her assistance.
+Alan’s collection is vast. It is all well organised, bundled, and labelled where necessary and some of it is already packed in boxes. The timetables are predominantly buses from Sydney, outer metropolitan regions and country areas in NSW. But there are also bundles of bus timetables from the metropolitan and country areas of the other States and New Zealand. Other items in the collection include train timetables from around Australia and from the UK. We now must wait until probate of Alan’s will is granted before ATA can take possession. There is not enough room at Prahran to accept this amount of material in the short term, so self- storage may have to be considered.
+
+### Donation from Jim Fergusson
+
+We thank UK member Jim Fergusson for his donation to the ATA. Altogether we have 5 volumes of NSWR WTTs dated as follows:-
+25 Oct 1925: Main Suburban, Illawarra Northern Western 3 Nov 1935: Southern
+
+<p style="text-align:right">-Hilaire Fraser, President</p>
+
 ## August 2019
 
 ### ATA Annual General Meeting
@@ -23,7 +67,7 @@ The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and 
 Alan Gray, formerly of Long Jetty, a long-standing member of the AATTC/ATA passed away on Friday 28
 June. Alan became known to me through his regular Distribution Service orders. As well as train timetables he had a particular interest in bus timetables including the historic timetables supplied by Frank Goldthorpe. Our records show that Alan would have joined the AATTC/ATA during the 1980s. Alan was an important contributor of Bus news to Table Talk for a long time. At our 2017 Annual General Meeting Alan offered his services to the ATA. He was willing to undertake a steep learning curve in word processing, the operation of a database and using Skype to assist the work of the ATA. He was very much involved in preparing the ATA auction and handling auction items as well as the compilation of lists of timetables for the ATA website. Before his retirement Alan had worked as a bus driver at State Transit’s [Brookvale Bus Depot](https://www.google.com/maps/place/Brookvale+Bus+Depot/@-33.7666019,151.2675494,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aa5c999ee749:0xbf4e6498778ec991!8m2!3d-33.7666019!4d151.2697434). Alan’s nickname at work was “Mother Gray” because he was known to constantly offer advice on the proper handling of the buses! Alan’s solicitor has confirmed that Alan’s entire collection of timetables and related material is bequeathed to ATA, and the family has accepted our offer to collect it, once probate is granted. On behalf on the ATA I wish to offer our condolences to Alan’s brother David, his wife and niece Leonie. We also thank Alan’s neighbour Denise who has staunchly supported us out of respect for Alan’s passionate interests.
 
->  -Hilaire Fraser, President
+<p style="text-align:right">-Hilaire Fraser, President</p>
 
 ## July 2019
 
