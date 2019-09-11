@@ -17,6 +17,13 @@
   DistributionList: N/A
 - RouteDescription: Adelaide Network Map (website only)
   EffectiveDates: 27/1/19
+  SupercededDate: 8/9/19
+  DistributionList: N/A
+- RouteDescription: Adelaide Network Map (website only)
+  EffectiveDates: 8/9/19
+  DistributionList: N/A
+- RouteDescription: City map (website only)
+  EffectiveDates: 6/8/19
   DistributionList: N/A
 - RouteDescription: Adelaide Oval Footy Express Guide
   EffectiveDates: '2014'
@@ -2213,6 +2220,11 @@
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17
+  SupercededDate: ??/8/19
+  DistributionList: N/A
+- PrimaryMode: Train
+  RouteDescription: Adelaide rail network map (Website only)
+  EffectiveDates: ??/8/19
   DistributionList: N/A
 - PrimaryMode: Train
   RouteNumbers: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
