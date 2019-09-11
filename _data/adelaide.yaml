@@ -48,6 +48,11 @@
   VersionNumber: 1
   DistributionList: Dec-18
 - PrimaryMode: Bus
+  RouteNumbers: 98C, 99C, 98A, 99A
+  RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE
+  EffectiveDates: ??/8/19
+  VersionNumber: 2
+- PrimaryMode: Bus
   RouteNumbers: 100, 101
   RouteDescription: Arndale-Glen Osmond & Flinders Uni
   EffectiveDates: 27/1/14
@@ -78,6 +83,7 @@
   RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
   EffectiveDates: 21/4/19
   VersionNumber: 12
+  DistributionList: Sep-19
 - PrimaryMode: Bus
   RouteNumbers: B10, B11, B12, 312
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
@@ -757,6 +763,7 @@
   RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
   EffectiveDates: 21/4/19
   VersionNumber: 12
+  DistributionList: Sep-19
 - PrimaryMode: Bus
   RouteNumbers: 251, 252
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Liberty Grove
@@ -969,6 +976,7 @@
   RouteNumbers: '333'
   RouteDescription: North Haven to Port Adelaide
   EffectiveDates: 14/10/18
+  SupercededDate: 27/1/19
   VersionNumber: 7
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -996,6 +1004,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 11
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: '361'
+  RouteDescription: Port Adelaide to Tea Tree Plaza
+  EffectiveDates: 8/9/19
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth-Salisbury North & Salisbury-DSTO
@@ -1423,9 +1436,10 @@
   VersionNumber: 5
   DistributionList: Apr-16
 - PrimaryMode: Bus
-  RouteNumbers: 566
-  RouteDescription: Mawson Lakes to Ingle Farm & Golden Grove
+  RouteNumbers: 560, 565, 566
+  RouteDescription: Elizabeth to Tea Tree Plaza, Mawson to Ingle Farm, Mawson to Golden Grove
   EffectiveDates: 8/9/19
+  VersionNumber: 6
 - PrimaryMode: Bus
   RouteNumbers: 591, 592, 593
   RouteDescription: Golden Grove-Petworth Lakes/Greenwith
@@ -1656,6 +1670,11 @@
   VersionNumber: 8
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: '734'
+  RouteDescription: Colonnades & Noarlunga to Marion
+  EffectiveDates: 28/4/19
+  VersionNumber: 9
+- PrimaryMode: Bus
   RouteNumbers: '737'
   RouteDescription: Chanders Hill-Old Reynella Interchange
   EffectiveDates: 1/12/13
@@ -1781,16 +1800,21 @@
   VersionNumber: 6
   DistributionList: Jan-18
 - PrimaryMode: Bus
+  RouteNumbers: 823, 840, 863, 860F, 864, N864
+  RouteDescription: City-Aldgate & Mt Barker
+  EffectiveDates: 20/7/14
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
   RouteNumbers: 823  840X  860F  863  864  N864  T843
   RouteDescription: City-Aldgate & Mt Barker
   EffectiveDates: 17/12/17
   VersionNumber: 14
   DistributionList: Jan-18
 - PrimaryMode: Bus
-  RouteNumbers: 823, 840, 863, 860F, 864, N864
-  RouteDescription: City-Aldgate & Mt Barker
-  EffectiveDates: 20/7/14
-  SupercededDate: 17/12/17
+  RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
+  RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
+  EffectiveDates: 18/11/18
+  VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: 830F, 834, 835
   RouteDescription: Lobethal-City/Verdun/Mt Barker
@@ -1824,6 +1848,11 @@
   EffectiveDates: 17/12/17
   VersionNumber: 8
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 838, 839
+  RouteDescription: Mount Barker east Clockwise loop service, Mount Barker west Clockwise loop service
+  EffectiveDates: 8/9/19
+  VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: 850, 852
   RouteDescription: Macclesfield/Strathalbyn/Echunga
@@ -1895,6 +1924,7 @@
   RouteNumbers: C1, C2, N1
   RouteDescription: City to Greenwith/Elizabeth Interchange
   EffectiveDates: 29/4/18
+  SupercededDate: 27/1/19
   VersionNumber: 17
   DistributionList: Jun-18
 - PrimaryMode: Bus
@@ -2115,6 +2145,11 @@
   VersionNumber: 9
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: J7, J8, 371, 372
+  RouteDescription: West Lakes to Marion Centre, West Lakes via Seaton
+  EffectiveDates: 21/4/19
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: M44
   RouteDescription: Marion-Golden Grove
   EffectiveDates: 27/1/14
@@ -2187,8 +2222,8 @@
   VersionNumber: 4
   DistributionList: Nov-14
 - PrimaryMode: Train
-  RouteNumbers: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
-  RouteDescription: Belair
+  RouteNumbers: Belair
+  RouteDescription: Belair to city via Blackwood, Torrens Park, Mitcham, Millswood & Goodwood
   EffectiveDates: 22/4/18
   VersionNumber: 5
   DistributionList: May-18
@@ -2201,7 +2236,8 @@
   VersionNumber: 2
   DistributionList: Mar-13
 - PrimaryMode: Train
-  RouteNumbers: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
+  RouteNumbers: Gawler Central
+  RouteDescription: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
     Lakes
   RouteDescription: Gawler Central
   EffectiveDates: 22/4/18
@@ -2246,12 +2282,17 @@
   VersionNumber: 6
   DistributionList: May-18
 - PrimaryMode: Train
-  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
+  RouteNumbers: Seaford & Tonsley
+  RouteDescription: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
     & Goodwood. Tonsley to city via Clovelly Park & Goodwood
-  RouteDescription: Seaford & Tonsley
   EffectiveDates: 23/7/18
   VersionNumber: 7
   DistributionList: Sep-18
+- PrimaryMode: Train
+  RouteNumbers: Seaford & Tonsley
+  RouteDescription: Seaford to city, Clovelly Park to city
+  EffectiveDates: 29/6/19
+  VersionNumber: 8
 - ServiceProvider: TransAdelaide
   PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city
