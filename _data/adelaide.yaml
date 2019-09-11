@@ -2149,6 +2149,7 @@
   RouteNumbers: J7, J8, 371, 372
   RouteDescription: West Lakes to Marion, West Lakes via Seaton
   EffectiveDates: 14/10/18
+  SupercededDate: 21/4/19
   VersionNumber: 9
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -2298,6 +2299,7 @@
   RouteDescription: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
     & Goodwood. Tonsley to city via Clovelly Park & Goodwood
   EffectiveDates: 23/7/18
+  SupercededDate: 29/6/19
   VersionNumber: 7
   DistributionList: Sep-18
 - PrimaryMode: Train
