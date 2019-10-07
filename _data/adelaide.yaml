@@ -354,10 +354,16 @@
   DistributionList: Jun-18
 - PrimaryMode: Bus
   RouteNumbers: 176, 178, 578, 578, N178
-  RouteDescription: Athelston to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
+  RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
   EffectiveDates: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 176, 178, 578, 578, N178
+  RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
+  EffectiveDates: 14/10/18
+  VersionNumber: 11
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: '190'
   RouteDescription: City-Glenelg via Raglan Av
@@ -438,6 +444,12 @@
   VersionNumber: 15
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 200
+  RouteDescription: Marion Centre, Panorama, Clapham & Colonel Light Gardens to city
+  EffectiveDates: 14/10/18
+  VersionNumber: 16
+  DistributionList: Oct-19
+- PrimaryMode: Bus
   RouteDescription: North Walkerville, Northfield and Gilles Plains Bus Service
   EffectiveDates: 13/11/55
   SupercededDate: 'Yes'
@@ -464,6 +476,7 @@
   RouteNumbers: 202, 203, 209F, N202
   RouteDescription: Ingle Farm to city, Tea Tree Plaza & Ingle Farm to city
   EffectiveDates: 14/10/18
+  SupercededDate: 28/4/19
   VersionNumber: 16
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -471,6 +484,7 @@
   RouteDescription: Ingle Farm to city, Tea Tree Plaza & Ingle Farm to city
   EffectiveDates: 28/4/19
   VersionNumber: 18
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: 204, 208, 528
   RouteDescription: City-Northgate/Paradise
@@ -1009,6 +1023,7 @@
   RouteNumbers: '361'
   RouteDescription: Port Adelaide to Tea Tree Plaza
   EffectiveDates: 14/10/18
+  SupercededDate: 8/9/19
   VersionNumber: 11
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -1016,6 +1031,7 @@
   RouteDescription: Port Adelaide to Tea Tree Plaza
   EffectiveDates: 8/9/19
   VersionNumber: 12
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth-Salisbury North & Salisbury-DSTO
@@ -1440,6 +1456,7 @@
   RouteNumbers: 560, 565
   RouteDescription: Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm
   EffectiveDates: 26/1/16
+  SupercededDate: 8/9/19
   VersionNumber: 5
   DistributionList: Apr-16
 - PrimaryMode: Bus
@@ -1447,6 +1464,7 @@
   RouteDescription: Elizabeth to Tea Tree Plaza, Mawson to Ingle Farm, Mawson to Golden Grove
   EffectiveDates: 8/9/19
   VersionNumber: 6
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: 591, 592, 593
   RouteDescription: Golden Grove-Petworth Lakes/Greenwith
@@ -1815,6 +1833,7 @@
   RouteNumbers: 823  840X  860F  863  864  N864  T843
   RouteDescription: City-Aldgate & Mt Barker
   EffectiveDates: 17/12/17
+  SupercededDate: 18/11/18
   VersionNumber: 14
   DistributionList: Jan-18
 - PrimaryMode: Bus
@@ -1822,6 +1841,7 @@
   RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
   EffectiveDates: 18/11/18
   VersionNumber: 15
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: 830F, 834, 835
   RouteDescription: Lobethal-City/Verdun/Mt Barker
@@ -2157,6 +2177,7 @@
   RouteDescription: West Lakes to Marion Centre, West Lakes via Seaton
   EffectiveDates: 21/4/19
   VersionNumber: 10
+  DistributionList: Oct-19
 - PrimaryMode: Bus
   RouteNumbers: M44
   RouteDescription: Marion-Golden Grove
@@ -2307,6 +2328,7 @@
   RouteDescription: Seaford to city, Clovelly Park to city
   EffectiveDates: 29/6/19
   VersionNumber: 8
+  DistributionList: Oct-19
 - ServiceProvider: TransAdelaide
   PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city
