@@ -18,7 +18,7 @@ for THIS_FILE in *.md
 EPUB_CACHE_DIR=../cache_epubs
 # Create a cache directory if none_exits
 if [ ! -d $EPUB_CACHE_DIR ]
-  then 
+  then
     mkdir -p $EPUB_CACHE_DIR
 fi
 for TABLE_TALK in ttalk201???.md
@@ -29,7 +29,7 @@ for TABLE_TALK in ttalk201???.md
         echo That\'s funny _site/$EPUB_FILE_NAME already exists!!
         continue
     fi
-    # Take from the cache directory if available, if not make a 
+    # Take from the cache directory if available, if not make a
     # new file and put it there
     if [ $EPUB_CACHE_DIR/$EPUB_FILE_NAME -nt $TABLE_TALK ]
       then
@@ -63,7 +63,6 @@ Timetable History Northern.pdf
 Timetable History Pr#BAC8DE.pdf
 Timetable History Warringah.pdf
 Timetable History Western.pdf
-BRISBANE.html
 Coachtrantim.html
 Greyhound.html
 MVC list.html

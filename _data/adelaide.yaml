@@ -1603,6 +1603,12 @@
   VersionNumber: 10
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 27/1/19
+  VersionNumber: 11
+  DistributionList: Nov-19
+- PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
   EffectiveDates: 1/12/13
@@ -1993,6 +1999,12 @@
   VersionNumber: 17
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: G10, N10, N21
+  RouteDescription: Marion Centre, Bedford Park, Colonel Light Gardens & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
+  EffectiveDates: 14/10/18
+  VersionNumber: 18
+  DistributionList: Nov-19
+- PrimaryMode: Bus
   RouteNumbers: G20, G21, G22, 320, N10, N21
   RouteDescription: City-Aberfoyle Hub
   EffectiveDates: 27/1/14
@@ -2214,6 +2226,7 @@
   RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
   EffectiveDates: 21/4/19
   VersionNumber: 17
+  DistributionList: Nov-19
 - PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
