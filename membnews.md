@@ -12,6 +12,27 @@ found at:
 
 Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
+## October 2019
+
+### ATA Annual General Meeting 19 October 2019, Canberra
+
+The 2019 ATA Annual General Meeting will be hosted by the Canberra Division and will be held on Saturday 19 October at 2pm in the offices of [TransitGraphics](https://www.google.com/maps/place/Transit+Graphics/@-35.274808,149.1253197,17z/data=!3m1!4b1!4m5!3m4!1s0x345eee03ba77bf:0x8e9030a83ada22b9!8m2!3d-35.274808!4d149.127503) Suite 3, Level 1, 11 McKay Lane, Turner ACT 2612. We thank TransitGraphics for their provision of the AGM venue. This location is near the city centre. Already many people have shown interest in attending the AGM. Members, families and friends are invited to the pre-meeting activities which will commence with the 12 noon Light Rail departure from Alinga St Canberra City to Gungahlin. Participants are requested to be at the [Alinga St](https://www.google.com/maps/place/Alinga+St,+Canberra+ACT+2601/@-35.2782991,149.1262771,17z/data=!3m1!4b1!4m5!3m4!1s0x6b164d680b663907:0x95a50cffbec97392!8m2!3d-35.2783072!4d149.128529) stop by 11.55am. Single and Daily Cash Tickets are available from ticket vending machines on the platform. Canberra’s electronic fare card, MyWay is also available from various outlets. Information is found on [transport.act.gov.au](transport.act.gov.au). We will enjoy lunch at a café in Gungahlin and return by tram to Canberra City in time for the meeting. No doubt AGM participants will be able to obtain a variety of transport guides and timetables from TransitGraphics. Further information including nomination and proxy forms were contained in the September mail-out. At the AGM there will be elections for the positions of President, Vice President, Secretary, Treasurer and Committee members. Please give some thought as to whether you are prepared to nominate for one of these positions.
+
+![](membnews20191001.jpg)
+
+### Future of ATA
+
+Although we have had some new and younger members join ATA recently our future becomes uncertain when older members are no longer able to serve as office-bearers, committee members or assist the work of ATA. The difficulty for ATA is compounded by the steep learning curve for some of the “working positions”. Also by the recent changes to legislation and banking laws/rules that constrain an organisation like ours from making and implementing snap decisions on management. For something like Production Management, it should be in the State with the largest number of members because postal rates are cheaper if the mail-out is send from that state. It seems that the state with the most number of members is shifting back towards VIC from NSW. Our Facebook posts can be seen by over 200 people who are happy to view them without seeking membership.
+Members need to come forward to take up roles which will keep the ATA going.
+
+## 100^th^ Working Session on National Timetable Collection
+
+On September 5^th^ the 100^th^ Working Session on the National Collection was held at the Prahran Mechanics’ Institute. This was certainly a milestone. Pictured below from left to right are participants and visitors Lachlan Fraser, Hilaire Fraser, Michael Marshall, Len Regan, Richard May and David Hennell. Photograph taken by Nerelle Fraser.
+
+![](membnews20191002.jpg)
+
+<p style="text-align:right">-Hilaire Fraser, President</p>
+
 ## September 2019
 
 ### ATA Annual General Meeting 19 October 2019, Canberra
