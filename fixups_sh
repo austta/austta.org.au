@@ -76,9 +76,7 @@ while IFS= read -r line; do
       echo New file $line already exists! >&2
   fi
 done <<END_OLD
-AATTC Annual Report 2011-2012.pdf
 AATTC Australian Railways TT list.pdf
-ATAAnnualReport2014-2015.pdf
 Author guide for ATA The Times.pdf
 Modelrules.pdf
 Timetable History Eastern.pdf
