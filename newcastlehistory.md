@@ -2,7 +2,7 @@
 layout: page
 title: Historic Newcastle and Hunter Valley Timetables.
 ---
-This page has historical timetables for the Newcastle and Hunter Valley area. A [list of current timetables](newbustt.md) is also maintained.
+This page has historical timetables for the Newcastle and Hunter Valley area. A [list of current timetables](newbustt.html) is also maintained.
 
 ## Newcastle Buses
 
