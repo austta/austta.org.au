@@ -29,6 +29,11 @@
             font-size: 18px;
         }
 
+        /* Allow very long URIs in text to break onscreen */
+        a {
+            overflow-wrap: break-word;
+        }
+
         @media screen and (min-width: 1061px) {
             body {
                 border-left: 100px solid blue;
@@ -49,6 +54,12 @@
                 margin-left: 9.43%;
                 margin-right: 9.43%;
             }
+
+            /* Restrict image width to 100% in smaller screens
+               to avoid horizontal scrolling */
+            image {
+                max-width: 100%;
+            }
         }
 
         @media screen and (max-width: 767px) {
@@ -56,6 +67,13 @@
                 border-left: 5px solid blue;
                 padding: 4%;
             }
+
+            /* Restrict image width to 100% in smaller screens
+               to avoid horizontal scrolling */
+            image {
+                max-width: 100%;
+            }
+
         }
 
         .TableTalkLogo {
