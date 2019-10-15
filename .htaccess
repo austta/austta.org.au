@@ -12,8 +12,7 @@ ExpiresByType application/javascript "access plus 1 month"
 ExpiresDefault "access plus 2 days"
 </ifmodule>
 
-
-
+<ifmodule mod_alias.c>
 # Dismiss the robots looking for vulnerabilities
 Redirect 403 /wordpress/
 Redirect 403 /wordpress/wp-admin/
@@ -339,6 +338,7 @@ Redirect 301 "/ATA DL Jun16.pdf" http://cdn.timetable.org.au/distributionlist201
 Redirect 301 "/ATA DL May16.pdf" http://cdn.timetable.org.au/distributionlist201605issue.pdf
 Redirect 301 "/ATA DL Apr16.pdf" http://cdn.timetable.org.au/distributionlist201604issue.pdf
 Redirect 301 "/ATA DL Feb16.pdf" http://cdn.timetable.org.au/distributionlist201602issue.pdf
+</ifmodule>
 
 <ifModule mod_rewrite.c>
 RewriteEngine on
