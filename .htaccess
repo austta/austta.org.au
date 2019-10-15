@@ -12,16 +12,7 @@ ExpiresByType application/javascript "access plus 1 month"
 ExpiresDefault "access plus 2 days"
 </ifmodule>
 
-# Catch references to old pages that were .htm
-<ifModule mod_rewrite.c>
-RewriteEngine on
-RewriteBase /
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
+
 
 # Dismiss the robots looking for vulnerabilities
 Redirect 403 /wordpress/
@@ -30,53 +21,11 @@ Redirect 403 /wp-login.php
 Redirect 403 /wp/
 Redirect 403 /xmlrpc.php
 
-# Redirect all http www or without to https://www.timetable.org.au
-RewriteCond %{HTTPS} off
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteRule (.*) https://www.timetable.org.au%{REQUEST_URI} [R=301,L]
-
-# Redirect all https to austta to https://www.timetable.org.au
-RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} austta.org.au$ [NC]
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
-
-# Redirect all https without www to https://www.timetable.org.au
-RewriteCond %{HTTPS} on
-RewriteCond %{HTTP_HOST} ^timetable.org.au$ [NC]
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
-
-# Catch old aattc.org.au URI's that are used
-Redirect 301 /contact/ /membship.html#Contacts
-
-# Redirect from really old mistypings at least 10 404 errors every 6 weeks
+# Redirect from really old mistypings at least 10 404 errors every 6 weeks which go to CDN
 Redirect 301 "/table talk 2012 january.pdf" http://cdn.timetable.org.au/tabletalk201201issue.pdf
 Redirect 301 "/table talk 2014 january.pdf" http://cdn.timetable.org.au/tabletalk201401issue.pdf
 Redirect 301 "/table talk march 2012.pdf" http://cdn.timetable.org.au/tabletalk201203issue.pdf
 Redirect 301 "/the times october 2003s.pdf" http://cdn.timetable.org.au/thetimes200310issue.pdf
-Redirect 301 "/mvc list.html" "/MVC list.html"
-Redirect 301 "/ATADL.pdf" /distlist.html
-Redirect 301 "/greyhound.html" /Greyhound.html
-Redirect 301 "/pioneertim.html" /Pioneertim.html
-Redirect 301 "/mccaffertystim.html" /McCaffertystim.html
-Redirect 301 "/victoria.html" /VICTORIA.html
-Redirect 301 "/nsw.html" /NSW.html
-Redirect 301 "/brisbane.html" /BRISBANE.html
-Redirect 301 "/sydney.html" /SYDNEY.html
-Redirect 301 "/nationaltim.html" /Nationaltim.html
 
 # Redirect to CDN and standardise names
 Redirect 301 "/Table Talk Feb 2003A.pdf" http://cdn.timetable.org.au/tabletalk200302issue.pdf
@@ -390,4 +339,60 @@ Redirect 301 "/ATA DL Jun16.pdf" http://cdn.timetable.org.au/distributionlist201
 Redirect 301 "/ATA DL May16.pdf" http://cdn.timetable.org.au/distributionlist201605issue.pdf
 Redirect 301 "/ATA DL Apr16.pdf" http://cdn.timetable.org.au/distributionlist201604issue.pdf
 Redirect 301 "/ATA DL Feb16.pdf" http://cdn.timetable.org.au/distributionlist201602issue.pdf
+
+<ifModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+
+# Catch references to old pages that were .htm
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
+
+# Redirect all http www or without to https://www.timetable.org.au
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule (.*) https://www.timetable.org.au%{REQUEST_URI} [R=301,L]
+
+# Redirect all https to austta to https://www.timetable.org.au
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} austta.org.au$ [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
+
+# Redirect all https without www to https://www.timetable.org.au
+RewriteCond %{HTTPS} on
+RewriteCond %{HTTP_HOST} ^timetable.org.au$ [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteRule (.*) https://www.timetable.org.au/$1 [R=301,L]
+
+# Catch old aattc.org.au URI's that are used
+Redirect 301 /contact/ /membship.html#Contacts
+
+# Redirect from really old mistypings at least 10 404 errors every 6 weeks
+Redirect 301 "/mvc list.html" "/MVC list.html"
+Redirect 301 "/ATADL.pdf" /distlist.html
+Redirect 301 "/greyhound.html" /Greyhound.html
+Redirect 301 "/pioneertim.html" /Pioneertim.html
+Redirect 301 "/mccaffertystim.html" /McCaffertystim.html
+Redirect 301 "/victoria.html" /VICTORIA.html
+Redirect 301 "/nsw.html" /NSW.html
+Redirect 301 "/brisbane.html" /BRISBANE.html
+Redirect 301 "/sydney.html" /SYDNEY.html
+Redirect 301 "/nationaltim.html" /Nationaltim.html
 </ifmodule>
