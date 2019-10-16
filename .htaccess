@@ -17,10 +17,10 @@ RewriteEngine on
 RewriteBase /
 
 # Dismiss the robots looking for vulnerabilities
-RewriteRule 403 ^wordpress/ - [R=403,NC,L]
-RewriteRule 403 ^wp-login.php$ - [R=403,NC,L]
-RewriteRule 403 ^/wp/ - [R=403,NC,L]
-RewriteRule 403 ^/xmlrpc.php$ - [R=403,NC,L]
+RewriteRule ^wordpress/ - [F]
+RewriteRule ^wp-login.php$ - [F]
+RewriteRule ^/wp/ - [F]
+RewriteRule ^/xmlrpc.php$ - [F]
 
 # Redirect from really old mistypings at least 10 404 errors every 6 weeks which go to CDN
 RewriteRule "^table talk 2012 january.pdf$" http://cdn.timetable.org.au/tabletalk201201issue.pdf [R=301,L]
