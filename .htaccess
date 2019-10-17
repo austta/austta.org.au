@@ -356,13 +356,13 @@ RewriteRule "^brisbane.html$" https://www.timetable.org.au/BRISBANE.html [R=301,
 RewriteRule "^sydney.html$" https://www.timetable.org.au/SYDNEY.html [R=301,L]
 RewriteRule "^nationaltim.html$" https://www.timetable.org.au/Nationaltim.html [R=301,L]
 
-# Catch references to old pages that were .htm
+# Catch references to old pages that were .htm and fix to right hostname
 RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/.+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteRule ^(.*)\.htm$ $1.html [R=permanent]
+RewriteRule ^(.*)\.htm$ https://www.timetable.org.au/$1.html [R=301,L]
 
 # Redirect all http www or without to https://www.timetable.org.au
 RewriteCond %{HTTPS} off
