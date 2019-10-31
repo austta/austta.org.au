@@ -5,6 +5,7 @@ title: Annual Report
 Each year the association has an AGM and presentation of an annual report
 with the previous years activities.
 
+* [2018-2019]({{ site.named_cdn_url }}/annualreport20182019issue.pdf) (2472kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [2017-2018]({{ site.named_cdn_url }}/annualreport20172018issue.pdf) (2112kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [2016-2017]({{ site.named_cdn_url }}/annualreport20162017issue.pdf) (2104kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [2015-2016]({{ site.named_cdn_url }}/annualreport20152016issue.pdf) (1240kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
