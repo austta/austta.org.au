@@ -12,6 +12,37 @@ found at:
 
 Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
+## November 2019
+
+### Vale Victor Isaacs
+
+We were very saddened by the passing of Victor Isaacs on 8th October 2019. Having our 2019 AGM in Canberra was Victor’s initiative so that we could combine it with a ride on Canberra’s new tram. Victor was a long-standing and hard-working member serving at various times as President, Vice-President and Secretary as well as "Table Talk" editor. “Table Talk” benefitted greatly due to Victor’s encyclopaedic knowledge of rail operations. He also contributed to “The Times” and in 2019 we have been enjoying his series of articles on Australian Rail Timetables. He was also a mainstay of the Canberra Division of the ATA. In his working life Victor had been a public servant spending some time in the Department of Prime Minister and Cabinet. He also belonged to the ACT division of the Australian Railway Historical Association where among other duties he served in the booking office at Queanbeyan Railway Station while the ARHS ACT division had a contract with NSW Trainlink. Victor also had an interest in newspapers, belonging to a newspaper history and interest group. In his travels he would purchase regional newspapers to satisfy this hobby. Victor would present talks at the University of the Third Age in transport and newspaper topics, amongst other things. Victor and his wife were keen travellers, both within Australia and overseas. Victor in particular was keen to ride on various train and tram networks. He visited Newcastle with Agnes only a couple of months ago to ride the local system and talk to the local U3A. Another feature of their travels would be in meeting up with relatives. Any tribute to Victor would be incomplete without reference to his wife Agnes. Agnes encouraged Victor’s interests and was always a wonderful carer. On his passing Agnes described Victor as "My beloved husband, centre of my universe, rock of my life, and bringer of cheer to many." Victor will be very much missed in the ATA. He often provided wise counsel and encouragement. He also will be missed on a personal level by many of us as a valued friend. On behalf of ATA I wish to express our condolences and sympathy to Agnes, Victor’s brother Albert and their families. (Reprinted from 2018- 2019 Annual Report.)
+
+### Updating ATA Website
+
+On Friday 18^th^ October Len Regan, Andrew James, Alex Sims (by phone) and Hilaire Fraser meet with Damiane Muller and Kyle Hanley from transitgraphics in Canberra seeking an update of our website. We are looking at improving the appearance of the website and making it more accessible so that the information on the website could be updated more regularly. We would like our website to convey the idea that our association may be worth joining, particularly among younger people. Some people have become members through our website. The possibility of updating our logo was also suggested. We appreciated the assistance Damiane and Kyle were able to provide. We thank John Mikita, Studio Director for arranging this meeting. We are looking forward to receiving a proposal from transitgraphics.
+
+### ATA Annual General Meeting 19 October 2019, Canberra
+
+Our Annual General Meeting programme started at 12 noon on Saturday 19 October, 2019 with a tram ride from Canberra City to Gungahlin. Twelve folk enjoyed lunch at Cherry Beans Café from which we could view arriving and departing trams. We returned by tram to the city and walked to the offices of transgraphics where we were welcomed by John Mikita, Studio Director. Our formal meeting was attended by five members from Melbourne, three from Canberra, three from Sydney and one from each of Newcastle and Wollongong. At the beginning of the meeting we remembered Victor Isaacs and his contribution to our organization. Victor’s wife Agnes Boskovitz, now a member, was welcomed. We were pleased Agnes could join us for the entire AGM programme. John Mikita was invited to address the meeting to detail the work of transitgraphics. Transitgraphics now produce timetables and guides for nearly all Australian Capital Cities. They now have the contract to produce new timetables and guides for the Tasmanian Department of State Growth Transport division. This covers Hobart, Launceston, Devonport, Burnie, intercity and regional services. Transitgraphics often is employed by bus companies to prepare network plans to assist them to provide a tender to operate a contract area.
+
+Discussion prompted by the President’s report concerned the future of the ATA. Matters discussed included intergenerational change
+when older members are no longer able to serve as office-bearers, committee
+ members or assist the work of ATA. Members will need to come forward to take up roles which will keep the
+ATA going. Also discussed was the possibility of greater use of electronic distribution for our mail-out. Here we need to weigh up the economies of scale for posting and printing in bulk as against smaller print runs and
+ postal dispatch.
+
+The results of the Election of Office Bearers at the AGM for 2019-2020 were:- Hilaire Fraser (President), Geoff Lambert (Vice President), Richard May (Secretary), Len Regan (Treasurer), Geoff Hassall, Chris Pandilovski, Andrew James, Alex Sims and Steven Haby as Ordinary Committee Members. We welcome Richard who has experience in management and Andrew a train controller with Metro Melbourne to our committee.
+
+The Brisbane Division declined the invitation to host the 2020 AGM in favour of Sydney, thus the Sydney Division was invited to host the 2020 AGM. Initial arrangements for the Sydney meeting include a ride the newly opened light rail line from Circular Quay to Randwick, a short bus trip to the Souths Juniors Club (Kingsford tram terminus) and a trip by tram and bus to Sydney University after lunch for our AGM. Delegates could ride the Chatswood-Tallawong Metro at their leisure.
+
+Following the AGM the new committee was able to make the following appointments for 2019-2020:-
+*Times* Editor:- Geoff Lambert, Interim *Table Talk* Editor:- Chris Pandilovski., *Table Talk* Bus Editor:- Steven Haby, Production Manager:- Geoff Lambert, Auctioneer:- Geoff Hassall, Archives Officer:- Len Regan, Webmaster:- Alex Sims, Social Media Officer:- Paul Brown, Distribution Manager:- Hilaire Fraser and Membership Officer:- Len Regan. Our thanks to Steven Haby who has offered to edit the November *Table Talk*. Chris will take over from the December edition.
+
+ATA thanks John Makita and the team at transitgraphics for hosting the 2019 AGM and Kyle Hanley for a ride in his ex-Newcastle bus 2619 after the meeting. A map showing the route taken in the bus is on page 16 of *Table Talk* November 2019. We also thank Geoff Hassall who was acting secretary in the absence of Geoff Lambert.
+
+<p style="text-align:right">-Hilaire Fraser, President</p>
+
 ## October 2019
 
 ### ATA Annual General Meeting 19 October 2019, Canberra

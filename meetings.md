@@ -14,12 +14,12 @@ Please contact Brian for dates.
 
 ## Canberra
 The Canberra Division meets at 1830 on the second Thursday of every month at the [Ainslie Football and Social Club](https://www.google.com/maps/place/Ainslie+Football+%26+Social+Club/@-35.2614598,149.1363386,17z/data=!3m1!4b1!4m5!3m4!1s0x6b16529aac4ae611:0xaedb136dcc9e7bc9!8m2!3d-35.2614598!4d149.1385219), 52 Wakefield Avenue, Ainsle.
-Good conversation and a meal are features. Enquiries to David Cranney, <cranney@iinet.net.au> phone [0421&nbsp;174&nbsp;951](tel:+61421174951) or to Victor Isaacs, <abvi@iinet.net.au> phone [(02)&nbsp; 6257&nbsp;1742](tel:+61262571742).
+Good conversation and a meal are features. Enquiries to David Cranney, <cranney@iinet.net.au> phone [0421&nbsp;174&nbsp;951](tel:+61421174951).
 
 ## Melbourne
 Meetings are held on the first Wednesday of odd-numbered months from March to November.
 All meetings commence at 2000 at the home of David Hennell, [3/29 Croydon Road, Surrey Hills](https://www.google.com/maps/place/Unit+3%2F29+Croydon+Rd,+Surrey+Hills+VIC+3127/@-37.8225041,145.0875489,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad6411e9c0b82f7:0xcdbe15631c64c09c!8m2!3d-37.8225041!4d145.0897322), a 210 metre walk from Chatham Railway Station.
-The next meeting will be held on 6th November.
+The next meetings will be held on 6^th^ November & 4^th^ March.
 
 ## Sydney
 Sydney meetings are held on the third Saturday of February, May, August and November.
