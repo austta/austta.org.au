@@ -1609,6 +1609,11 @@
   VersionNumber: 11
   DistributionList: Nov-19
 - PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 1/11/19
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
   EffectiveDates: 1/12/13
@@ -1639,6 +1644,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 14
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 1/11/19
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
@@ -2087,6 +2097,11 @@
   VersionNumber: 15
   DistributionList: Aug-19
 - PrimaryMode: Bus
+  RouteNumbers: H20, H21, 580
+  RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
+  EffectiveDates: 14/10/19
+  VersionNumber: 16
+- PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
   EffectiveDates: 27/1/14
@@ -2104,6 +2119,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 9
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: H22, H23, H24, H32, N22
+  RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
+  EffectiveDates: 14/10/19
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
   RouteDescription: Paradise-West Lakes via Henley Beach Rd
@@ -2123,6 +2143,11 @@
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: H30, X30, 530, N30
+  RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
+  EffectiveDates: 14/10/19
+  VersionNumber: 15
+- PrimaryMode: Bus
   RouteNumbers: H33
   RouteDescription: Rostrevor-Henley Beach via Cheadle St
   EffectiveDates: 27/1/14
@@ -2140,6 +2165,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 'H33'
+  RouteDescription: Henley Beach to city & Rostrevor
+  EffectiveDates: 14/10/19
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: J1, J2,  162
   RouteDescription: Jetbus
@@ -2369,3 +2399,8 @@
   EffectiveDates: 13/10/18
   VersionNumber: 1
   DistributionList: Nov-18
+- PrimaryMode: Tram
+  RouteNumbers: Adelaide trams
+  RouteDescription: Glenelg to Royal Adelaide Hospital, Glenelg to Festival Plaza, Botanic Gardens to Entertainment Centre
+  EffectiveDates: 3/11/19
+  VersionNumber: 2
