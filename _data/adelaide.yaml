@@ -2397,10 +2397,12 @@
   RouteNumbers: Adelaide trams
   RouteDescription: Glenelg to Royal Adelaide Hospital, Glenelg to Festival Plaza, Botanic Gardens to Entertainment Centre
   EffectiveDates: 13/10/18
+  SupercededDate: 3/11/19
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Tram
   RouteNumbers: Adelaide trams
-  RouteDescription: Glenelg to Royal Adelaide Hospital, Glenelg to Festival Plaza, Botanic Gardens to Entertainment Centre
+  RouteDescription: Glenelg to Royal Adelaide Hospital, Botanic Gardens to Entertainment Centre, Glenelg to Festival Plaza
   EffectiveDates: 3/11/19
   VersionNumber: 2
+  DistributionList: Jan-20
