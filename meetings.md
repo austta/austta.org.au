@@ -24,7 +24,5 @@ The next meetings will be held on 6^th^ November & 4^th^ March.
 ## Sydney
 Sydney meetings are held on the third Saturday of February, May, August and November.
 All members and non-members are welcome.
-The next meeting is at 1400 on Saturday 16<sup>th</sup> November 2019, at
-[378 Abercrombie Street](https://www.google.com/maps/place/378+Abercrombie+St,+Darlington+NSW+2008/@-33.8928075,151.1892238,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12b1d23648774f:0x2d2b97b7c7de61e2!8m2!3d-33.8928075!4d151.1914071) Darlington NSW 2006 (corner of Codrington Street).
-
-**How to get there:** 422, 423, 426 bus to City Road (400 metre walk along Butlin Avenue and Codrington Street). The nearest train station is Redfern, then a 750 metre walk along Abercrombie St or Wilson St. Inquiries to <Geoffrey.Clifton@sydney.edu.au>.
+The next meeting is at 1400 on Saturday 15^th^ February 2020. Full details of a possibly revised location will appear in January 2020 Members’ News.
+Inquiries to <Geoffrey.Clifton@sydney.edu.au>.

@@ -12,6 +12,37 @@ found at:
 
 Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
+## December 2019
+
+### Vale Tris Tottenham
+
+![](membnews20191201.jpg)
+
+Sadly Tris Tottenham passed away on Saturday 26th October at North Shore Private Hospital after a long battle with serious illness. He was 78. He had performed the roles of President, Treasurer and Magazine editor for the Sydney Bus Museum's predecessor, the Historic Commercial Vehicle Association. In his Facebook tribute, ATA member Paul Nicholson wrote “Tris was a colourful transport identity if ever there was one and was well known throughout Australia but especially in New South Wales. Many of us knew him affectionately as ‘Lord Totteringham’.” Often he would contribute news about the more obscure timetable changes and some outside our interests appreciated the affectionate and respectful title “Lord Totteringham”! I meet Tris at the ATA AGM at Queanbeyan in 2011. Len Regan took the above photo at the 2014 AGM in Canberra and I recall speaking to Tris at the 2017 AGM in Sydney. Among other things we spoke about his recent move to Hallidays
+Point. Tris was a regular subscriber to the ATA Distribution List and last January offered a selection of airline timetables. Tris’s wife Kaye has offered his timetable collection to the ATA. On behalf of the ATA I wish to express our sympathy and condolences to Kaye and Tris’s family. Tris will be missed by many of us.
+
+### ATA Auction
+
+The Auction is one area of our work that often does not get the recognition it deserves. Rail Working Timetables are keenly sought after. It is exciting to hear that the auction attracts the interest of both older and younger members. Our thanks to Geoff Hassall, Len Regan and Robert Henderson for their work on the auction.
+
+### Alan Gray Collection
+
+On Monday 18th November a group of ATA members led by our Archives Officer, Len Regan, went to Alan Gray’s former home to sort and collect 600 kg of books and timetables. After making an assessment of the contents of the boxes, some items were forwarded to the Sydney Bus Museum, some will be used for the Distribution List and auction. The remaining boxes will be sent by courier to Melbourne where ATA would arrange storage for eventual sorting for the National Timetable Collection. There is no room for them at PMI. Our thanks to Denise, the very cooperative and supportive lady who is the manager of units where Alan lived, and who has acted in our interests to protect Alan’s collection.
+
+### Report of the ATA Committee Meeting Wednesday 20 November 2019
+
+Our meeting comprised the usual reception of reports on the work of the ATA. For the first four months of the 2019-2020 financial year, our bank balance has been in a healthy position due to the renewal of memberships. The distribution list and auction have been running at a surplus. Our work will be impacted by increased parcel post rates from 1 October 2019 and increases in basic postal rates in 2020. Three members did not renew their memberships and members Tim Fischer AC, Victor Isaacs and Tris Tottenham have passed away. We welcome Agnes Boskovitz has as a new member. Geoff Lambert will be looking after the Jim Fergusson collection replacing Victor Isaacs in this role. On our website there is list of printed bus timetables which is very much out of date. If members have lists of timetables which could be included on our website or are willing to assist with the updating of this information they can contact our webmaster Alex Sims, <webmaster@timetable.org.au>
+
+### January Mail Out may be later than usual
+
+Due to a possible printers’ holiday the January mail out could occur at least a week later than usual.
+
+### 2020 AGM
+
+The Sydney Division has set the date and time of the 2020 AGM as Saturday 15 August at 2pm at the School of Business at the University of Sydney. Our program on the day will include a ride on the newly opened light rail line from Circular Quay to Randwick, a short bus trip to the Souths Juniors Club (Kingsford tram terminus) and a trip by tram and bus to Sydney University after lunch for our AGM. Delegates could ride the Chatswood-Tallawong Metro at their leisure. Please put this date in your 2020 diaries.
+
+<p style="text-align:right">-Hilaire Fraser, President</p>
+
 ## November 2019
 
 ### Vale Victor Isaacs
