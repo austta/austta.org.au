@@ -24,6 +24,7 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 ## The Association
 
 * [About the ATA](about.html)
+* [National Timetable Collection](nattimecoll.html)
 * [Association Membership Information and Magazine Subscription details](membship.html) Join now!
 * [Members News](membnews.html)
 * [Division (state based) Meetings](meetings.html)

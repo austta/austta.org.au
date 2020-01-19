@@ -1,16 +1,7 @@
 ---
 layout: page
-title: Members News
+title: Members News 2019
 ---
-
-Here is member's news for 2019. Previous calendar years member news may be
-found at:
-
-* [2018](membnews2018.html)
-* [2017](membnews2017.html)
-* [2016](membnews2016.html)
-
-Please note, links on this page are not maintained in general, they remain as a record of what was sent to members.
 
 ## December 2019
 
