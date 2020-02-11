@@ -7,9 +7,10 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalogue
-* [Auction 121 January 2020](auction202001.html), theme is Railway Videos and CDs. Bids on this auction close on Friday 31 January 2020.
+* [Auction 122 February 2020]({{ site.named_cdn_url }}/auctioncatalog202002issue.pdf) (164kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is railway public timetables Australia and overseas.
 
 ## Previous catalogues
+* [Auction 121 January 2020](auction202001.html), theme is Railway Videos and CDs.
 * [Auction 120 December 2019]({{ site.named_cdn_url }}/auctioncatalog201912issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Tram timetables.
 * [Auction 119 November 2019]({{ site.named_cdn_url }}/auctioncatalog201911issue.pdf) (104kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Melbourne & Victorian train, tram & bus timetables & maps.
 * [Auction 118 October 2019]({{ site.named_cdn_url }}/auctioncatalog201910issue.pdf) (48kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Public Transport Maps and Guides.

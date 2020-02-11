@@ -13,6 +13,16 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## February 2020
+
+<p style="text-align:center">![](membnews20200201.jpg)</p>
+
+### Sydney National Timetable Collection Working Session February 15
+
+In response to the need to assist the development of the NTC a working session will be held in Sydney at 10 am on Saturday February 15, prior to the next Sydney Division, at 378 Abercrombie St DARLINGTON. (Sydney meeting venue). We will be cataloguing Sydney private bus timetables. Lunch will be at 1pm and can be obtained at a nearby café or bring your own. Just come along or contact Geoffrey Clifton or myself.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## January 2020
 
 ### The Year Ahead
