@@ -19,9 +19,10 @@ Good conversation and a meal are features. Enquiries to David Cranney, <cranney@
 ## Melbourne
 Meetings are held on the first Wednesday of odd-numbered months from March to November.
 All meetings commence at 2000 at the home of David Hennell, [3/29 Croydon Road, Surrey Hills](https://www.google.com/maps/place/Unit+3%2F29+Croydon+Rd,+Surrey+Hills+VIC+3127/@-37.8225041,145.0875489,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad6411e9c0b82f7:0xcdbe15631c64c09c!8m2!3d-37.8225041!4d145.0897322), a 210 metre walk from Chatham Railway Station.
-The next meetings will be held on 4^th^ March 2020.
+The next meetings will be held on 6^th^ May 2020.
 
 ## Sydney
-Sydney meetings are held on the third Saturday of February, May, August and November.
+Sydney meetings are not currently scheduled. <strike>held on the third Saturday of February, May, August and November.
 All members and non-members are welcome.
-The next meeting is at 1400 on Saturday 15^th^ February 2020 at [378 Abercrombie St](https://www.google.com/maps/place/378+Abercrombie+St,+Darlington+NSW+2008/@-33.892803,151.1892184,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12b1d23648774f:0x2d2b97b7c7de61e2!8m2!3d-33.8928075!4d151.1914071), corner Codrington and Abercrombie Streets DARLINGTON. This will follow a working session on the NTC, details in [member news](membnews.html#sydney-national-timetable-collection-working-session-february-15). How to get there: 423, 426, 428 bus to City Road (then 50 metre walk along Codrington St) or train to Redfern then 500 metre walk along Abercrombie St or Wilson St. Inquiries to <Geoffrey.Clifton@sydney.edu.au> 0405 387 478
+<strike>The next meeting is at 1400 on Saturday 15^th^ February 2020 at [378 Abercrombie St](https://www.google.com/maps/place/378+Abercrombie+St,+Darlington+NSW+2008/@-33.892803,151.1892184,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12b1d23648774f:0x2d2b97b7c7de61e2!8m2!3d-33.8928075!4d151.1914071), corner Codrington and Abercrombie Streets DARLINGTON. This will follow a working session on the NTC, details in [member news](membnews.html#sydney-national-timetable-collection-working-session-february-15).</strike>
+How to get there: 423, 426, 428 bus to City Road (then 50 metre walk along Codrington St) or train to Redfern then 500 metre walk along Abercrombie St or Wilson St.</strike> Inquiries to <Geoffrey.Clifton@sydney.edu.au> 0405 387 478

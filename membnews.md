@@ -11,7 +11,20 @@ found at:
 * [2017](membnews2017.html)
 * [2016](membnews2016.html)
 
-Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
+Please note, links in member news are not maintained in general, they remain as a record of what was sent to members. 
+**N.B. Sydney timetable working sessions in March 2020 have beeen cancelled.**
+
+## March 2020
+
+## Report of the ATA Committee Meeting Wednesday 20 November 2019
+
+Our meeting comprised the usual reception of reports on the work of the ATA. For the first seven months of the 2019-2020 financial year, our bank balance has been in a healthy position due to the renewal of memberships. The distribution list and auction have been running at a surplus. Our work has been impacted by increased costs for postage and printing. Membership fees are unchanged for 2020/21, so normal membership will be maintained at $60. Membership is now 134 and we welcome Robin Bromby of Edgecliff, NSW as a new member. In recognition of the assistance given to ATA by Samuel Rachdi of Fahrplancenter, Switzerland we will offer him free membership for 2020/21. Samuel has been able to provide ATA members with many overseas timetables. Matthew Gibbins and Richard May are assisting in the preparation of auction catalogues. They join Len Regan, Geoff Hassall and Robert Henderson as well as other volunteers in the work of the auction. Early in January 2019 we submitted an application for $15000 under the Local History Grants Program to cover the costs of computer, printer, book scanner access and storage shelving in a new work area for the Victorian Segment of the National Timetable Collection. Scanning hard-bound working timetables is being done by members at Docuvan in Bayswater, Victoria. Remember the date for the AGM to be held in Sydney is Saturday August 15, 2020.
+
+## Melbourne & Sydney National Timetable Collection Working Sessions
+
+Melbourne Working Sessions will be held on Saturdays 7 & 21 March, 4 & 18 April, Thursdays 12 & 26 March, 9 & 23 April at Prahran Mechanics’ Institute 39 St&nbsp;Edmonds Rd, PRAHRAN. Sydney Working Sessions will be held on Saturday March 21 (full day) and Saturday May 16 (half day) at 378 Abercrombie St DARLINGTON. These days are very successful. Full day sessions run from 10am to 4pm.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
 
 ## February 2020
 
