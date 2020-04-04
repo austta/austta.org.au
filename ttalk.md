@@ -13,8 +13,9 @@ ePub files allow you to change the text size and have the text "reflow" to refle
 The latest two issues are for members only
 -->
 
+* April 2020 (Members only)
 * March 2020 (Members only)
-* February 2020 (Members only)
+* [February 2020]({{ site.named_cdn_url }}/tabletalk202002issue.pdf) 1,040kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2020]({{ site.named_cdn_url }}/tabletalk202001issue.pdf) 1,156kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [December 2019]({{ site.named_cdn_url }}/tabletalk201912issue.pdf) 1,552kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2019]({{ site.named_cdn_url }}/tabletalk201911issue.pdf) 1,796kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
