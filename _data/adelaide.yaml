@@ -36,7 +36,7 @@
   SupercededDate: '2018'
 - RouteDescription: Game Changer Footy Express 2019 Guide (website only)
   EffectiveDates: '2019'
-  DistributionList: N/A
+  SupercededDate: '2019'
 - PrimaryMode: Bus
   RouteNumbers: 98, 99
   RouteDescription: City Connector
@@ -110,11 +110,21 @@
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: '106'
+  RouteDescription: Magill to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 2
+- PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
   EffectiveDates: 14/10/18
   VersionNumber: 1
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 110, 112
+  RouteDescription: West Lakes to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 2
 - PrimaryMode: Bus
   RouteNumbers: 115, 117, 118
   RouteDescription: City-West Lakes/Pt Adelaide via Crittenden Rd
@@ -485,6 +495,11 @@
   EffectiveDates: 28/4/19
   VersionNumber: 18
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: 202, 203, 209F, N202
+  RouteDescription: Ingle Farm to city, Tea Tree Plaza & Ingle Farm to city
+  EffectiveDates: 28/4/19
+  VersionNumber: 19
 - PrimaryMode: Bus
   RouteNumbers: 204, 208, 528
   RouteDescription: City-Northgate/Paradise
@@ -981,6 +996,16 @@
   EffectiveDates: 27/1/19
   VersionNumber: 21
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '300'
+  RouteDescription: Suburban Connector
+  EffectiveDates: 27/1/19
+  VersionNumber: 22
+- PrimaryMode: Bus
+  RouteNumbers: '300'
+  RouteDescription: Suburban Connector
+  EffectiveDates: 6/4/20
+  VersionNumber: 23
 - PrimaryMode: Bus
   RouteNumbers: '333'
   RouteDescription: Outer Harbor-Port Adelaide
@@ -1516,10 +1541,15 @@
   DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
-  RouteDescription: City-Flinders Uni/Old Reynella Interchange
+  RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
   EffectiveDates: 29/4/18
   VersionNumber: 10
   DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: 640, 719, 720
+  RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: 645, 646
   RouteDescription: Marion-Seaview Downs/Seacombe Hts
@@ -1614,6 +1644,11 @@
   EffectiveDates: 1/11/19
   VersionNumber: 12
 - PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 13
+- PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
   EffectiveDates: 1/12/13
@@ -1650,6 +1685,11 @@
   EffectiveDates: 1/11/19
   VersionNumber: 17
 - PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 18
+- PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
   EffectiveDates: 1/12/13
@@ -1674,6 +1714,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 15
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 723F, 723X, 733
+  RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
+  EffectiveDates: 6/4/20
+  VersionNumber: 16
 - PrimaryMode: Bus
   RouteNumbers: 724, 734
   RouteDescription: Colonnades Shopping Centre-Marion
@@ -2102,6 +2147,11 @@
   EffectiveDates: 14/10/19
   VersionNumber: 16
 - PrimaryMode: Bus
+  RouteNumbers: H20, H21, 580
+  RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
+  EffectiveDates: 6/4/20
+  VersionNumber: 17
+- PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
   EffectiveDates: 27/1/14
@@ -2124,6 +2174,11 @@
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 14/10/19
   VersionNumber: 10
+- PrimaryMode: Bus
+  RouteNumbers: H22, H23, H24, H32, N22
+  RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
+  EffectiveDates: 6/4/20
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
   RouteDescription: Paradise-West Lakes via Henley Beach Rd
@@ -2148,6 +2203,11 @@
   EffectiveDates: 14/10/19
   VersionNumber: 15
 - PrimaryMode: Bus
+  RouteNumbers: H30, X30, 530, N30
+  RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 16
+- PrimaryMode: Bus
   RouteNumbers: H33
   RouteDescription: Rostrevor-Henley Beach via Cheadle St
   EffectiveDates: 27/1/14
@@ -2170,6 +2230,11 @@
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 14/10/19
   VersionNumber: 11
+- PrimaryMode: Bus
+  RouteNumbers: 'H33'
+  RouteDescription: Henley Beach to city & Rostrevor
+  EffectiveDates: 6/4/20
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: J1, J2,  162
   RouteDescription: Jetbus
