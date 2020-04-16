@@ -1,6 +1,6 @@
 <?php
 // Create the email and send the message
-$to = "membership@timetable.org.au, webmaster@timetable.org.au";
+$to = "webmaster@timetable.org.au";
 $subject = "Membership renewal or joining form";
 $body = "You have received a new message from a website contact form.\r\n\r\n"
         ."Here are the details:\r\n\r\n";
