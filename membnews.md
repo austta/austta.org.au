@@ -17,7 +17,7 @@ Please note, links in member news are not maintained in general, they remain as 
 
 ### Something New
 
-![](black_clock.svg)
+![](black_clock.svg){width="3.6in" height="2in"}
 
 The ATA Committee at its meeting on 20 May 2020 will consider the adoption of the new. ATA logo above. We would appreciate your views on this. Please send them to Secretary, Richard May, 0438 364 568 or <rim@bigpond.net.au>.
 
