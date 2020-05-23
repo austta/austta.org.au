@@ -13,6 +13,35 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## May 2020
+
+### Something New
+
+![](black_clock.svg)
+
+The ATA Committee at its meeting on 20 May 2020 will consider the adoption of the new. ATA logo above. We would appreciate your views on this. Please send them to Secretary, Richard May, 0438 364 568 or <rim@bigpond.net.au>.
+
+### Membership Renewals
+
+With the May mail out you have received Membership Renewal for 2020-2021. A prompt renewal is always
+appreciated. If, due to a loss of regular income as a result of the coronavirus crisis, you are experiencing financial or social difficulties, you can obtain a concessional membership of $30 for 2020-2021 compared with the normal membership of $60. Included with your membership renewal is a copy of the ATA’s promotional brochure. We hope that you will be able to pass this onto a friend who may be interested in joining ATA.
+
+### ATA Postal and Electronic Mail Outs
+
+Our thanks to Geoff and Judy Lambert, who are seeking to maintain our postal and electronic mail outs. If you wish to change from a postal mail out to an electronic mail out or receive both contact Len Regan, <membership@timetable.org.au>. I receive both and the electronic editions contain colour illustrations and maps which mostly appear in black and white inside the print version.
+
+### Divisional Meetings & NTC Workdays
+
+Due to continuing social restrictions created by the need to reduce the spread of the coronavirus, all ATA meetings and NTC workdays have been suspended. If, and when, social restrictions are eased ATA can restart its activities in a responsible way. Some NTC sorting and cataloguing is continuing at the homes of some Victorian members.
+
+### Annual General Meeting Form and Date
+
+Our AGM is due to be held in Sydney on Saturday August 15, 2020. At the ATA committee Skype meeting to be held on Wednesday May 20 at 8pm AEST our committee will decide on the form of the AGM and a change of date, if needed. A number of folk have become familiar with Zoom meetings for work, education, family, community and religious gathering. This may be a possibility.
+
+### Distribution Service Report
+
+On the April Distribution List popular items included Sydney & NSW Trains working timetable summary of alterations, V/Line pocket timetables, Stawell bus timetables and Tasmanian bus timetables. For the May List South Australian member Joel Taggart has offered in print and electronic form a bus timetable for the remote island of St Helena. St Helena is situated in the South Atlantic Ocean and is a territory of the United Kingdom.
+
 ## April 2020
 
 <p style="text-align:center">![](membnews20200401.jpg)</p>

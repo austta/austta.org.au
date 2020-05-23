@@ -20,8 +20,9 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 The latest two issues are for members only
 -->
 
+* May 2020 (Members only)
 * April 2020 (Members only)
-* March 2020 (Members only)
+* [March 2020]({{ site.named_cdn_url }}/thetimes202003issue.pdf) 2,788kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [February 2020]({{ site.named_cdn_url }}/thetimes202002issue.pdf) 2,884kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2020]({{ site.named_cdn_url }}/thetimes202001issue.pdf) 4,532kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [December 2019]({{ site.named_cdn_url }}/thetimes201912issue.pdf) 3,648kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
