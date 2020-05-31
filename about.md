@@ -35,9 +35,9 @@ The President publishes [newsletters](membnews.html) from time to time - the mos
 # Contacts
 If you have a question, email is best as each function of the association has a
 permanent email address that goes to the relevant committee member.
-If you wish to contact the secretary of the association, Geoff Lambert,
+If you wish to contact the secretary of the association, Richard May,
 please email [secretary@timetable.org.au](mailto:secretary@timetable.org.au),
-or if you wish, phone him on [(02) 9949 3521](tel:+61299493521).
+or if you wish, phone him on [0438&nbsp;364&nbsp;568](tel:+61438364568).
 
 # Legals
 The "Australian Timetable Association Inc." is registered in Victoria, as association number A0043673H.
