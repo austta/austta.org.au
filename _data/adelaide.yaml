@@ -151,6 +151,11 @@
   VersionNumber: 11
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 115, 117, 118
+  RouteDescription: West Lakes to city, Port Adelaide to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: 140, 144, 147, 148
   RouteDescription: City-Glen Osmond/Beaumont
   EffectiveDates: 27/1/14
@@ -762,6 +767,11 @@
   EffectiveDates: 27/1/19
   VersionNumber: 15
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 235, 238, 239
+  RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
+  EffectiveDates: May 2020
+  VersionNumber: 16
 - PrimaryMode: Bus
   RouteNumbers: 241, 245, 248
   RouteDescription: City-Warradale/Marion
