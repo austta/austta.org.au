@@ -600,6 +600,7 @@
   RouteNumbers: 224, N224
   RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 12
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -607,6 +608,7 @@
   RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
   EffectiveDates: 28/4/19
   VersionNumber: 13
+  DistributionList: Jun-20
 - PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Gepps Cross or Mawson Lakes-Salisbury via Northbri Av
@@ -667,6 +669,7 @@
   RouteNumbers: 228
   RouteDescription: Smithfield to city
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 11
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -674,6 +677,7 @@
   RouteDescription: Smithfield to city
   EffectiveDates: 28/4/19
   VersionNumber: 12
+  DistributionList: Jun-20
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: City-Para Hills via Pooraka
@@ -1004,6 +1008,7 @@
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
   EffectiveDates: 27/1/19
+  SupercededDate: 27/1/19
   VersionNumber: 21
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -1011,6 +1016,7 @@
   RouteDescription: Suburban Connector
   EffectiveDates: 27/1/19
   VersionNumber: 22
+  DistributionList: Jun-20
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
