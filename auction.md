@@ -7,9 +7,10 @@ Monthly ATA **_Auctions_** offer members the opportunity to buy and sell some ra
 Unless noted bids close on the 20th of the month, e.g. the April 2017 auction closed on the 20th of April 2017.
 
 ## Current catalogue
-* [Auction 126 June 2020]({{ site.named_cdn_url }}/auctioncatalog202006issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public train timetables.
+* [Auction 127 July 2020]({{ site.named_cdn_url }}/auctioncatalog202007issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is South Australian & Northern Territory Buses and Ferries.
 
 ## Previous catalogues
+* [Auction 126 June 2020]({{ site.named_cdn_url }}/auctioncatalog202006issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public train timetables.
 * [Auction 125 May 2020]({{ site.named_cdn_url }}/auctioncatalog202005issue.pdf) (44kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian train, tram and bus books.
 * [Auction 124 April 2020]({{ site.named_cdn_url }}/auctioncatalog202004issue.pdf) (52kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is overseas airline timetables.
 * [Auction 123 March 2020]({{ site.named_cdn_url }}/auctioncatalog202003issue.pdf) (44kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables, QLD, VIC, WA.

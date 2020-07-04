@@ -13,6 +13,48 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## June 2020
+
+### Report of the ATA Committee Meeting Wednesday 20 May 2020
+
+The work of ATA has been challenged by the COVID-19 pandemic. Our regular meetings are haven’t been held and there have been frustrating postal delays. Our thanks to committee members and volunteers who have continued to prepare and distribute our monthly mail-out and provide our auction and distribution services. Pleasingly, many members have been in contact with each other through emails, phone calls and, more recently, visits. Below, under various headings, are more details of matters dealt with at the ATA Committee held on
+Wednesday, 20 May 2020. Although long, it was a productive meeting. Sadly our Treasurer, Len Regan is unwell and will be undergoing a period of therapy and recovery until the end of September. Many of us enormously appreciate Len’s work for ATA, his friendship and our best wishes and prayers are extended to Len and Mary. During this period some other committee members will be assisting with the various jobs performed by Len. At this time no further progress has been made with the updating of our website. We welcomed Dave Brown of Inglewood WA as a new member. Chris Pandilovski was appointed permanent “Table Talk” editor. Previously he was the interim editor.
+
+### AGM Rescheduled to Saturday November 21 using Multiple Locations
+
+Our AGM was to be held in Sydney on Saturday August 15, 2020. Our committee decided to reschedule the meeting to Saturday November 21, 2020 at 2pm AEDT using a hybrid format where members gather at a central or several locations in each capital city (with appropriate social distancing being practised) and each venue is connected using one of the online conference facilities in order to conduct a full meeting. This would avoid the need for long distance travel but still enable those without individual access to computers or networks to attend the meeting in person at their local hub and enjoy some interaction with other members. This assumes that there will be an easing of limits to meeting numbers by November. We have the offer of a member to access his Zoom account for the AGM. Consultation with Geoffrey Clifton, our Sydney Convener, and Steven Haby means a meeting space can be available at Uni of Sydney and PMI for our Sydney and Melbourne members respectively. Canberra, Adelaide and Brisbane members may wish to arrange their own venue. Of course anyone can link up to the meeting as an individual.
+
+### Zoom ATA Meeting
+
+Our Sydney convener, Geoffrey Clifton, organised a [Zoom video conferencing](https://en.wikipedia.org/wiki/Zoom_Video_Communications) Meeting for ATA Meeting on
+Saturday May 30 at 2pm AEST. This meeting had a general transport and timetable discussion in a format similar to our Sydney meetings. [Note from Production Manager- this meeting has already occurred, but there will be more].
+
+### Membership Renewals
+
+Our committee formally adopted a proposal to offer concessional membership fees to those who may be in financial or social difficulties as a result of the COVID-19 restrictions. Included with the recent membership renewals was a copy of the ATA’s promotional brochure. Already some members have requested additional copies to pass onto friends who may be interested in joining ATA. Many thanks to many members who have already renewed their membership. Some have included a donation to support our work. This is very much appreciated. We would encourage those who have not renewed their membership to do so promptly.
+
+### New Logo Approved
+
+Our committee approved the new logo presented above. We are pleased with its modern and crisp appearance. The new logo has already appeared on our Distribution List and mail-out envelopes. Our thanks to TransitGraphics who designed the new logo in conjunction with the preparation of our recent promotional brochure.
+
+### ATA Finances
+
+At the end of April ATA had an accrual surplus of $1812 for the 2019-2020 financial year. A small profit is anticipated at the end of the financial year.
+
+### traintimes.net.au
+
+At its Committee meeting in February 2020, ATA agreed to work towards the retention of Victor Isaacs’ website Train Times Australia and New Zealand ([https://traintimes.net.au/](https://traintimes.net.au/)). Victor’s website is considered by many people to be a valuable asset that should be preserved and, if possible, kept up to date. Our webmaster Alex Sims will consult with John Mikita of [TransitGraphics](https://transitgraphics.com.au/) and Agnes Boskovitz to integrate this website with our website. David Matheson has offered to manage a section. However, more members are needed to take responsibility for maintaining designated sections of Victor’s website: e.g. Brisbane suburban trains, Victorian country trains. If you are interested, please contact me by phone on 0409 463 209 or by email at <president@timetable.org.au>.
+
+### National Timetable Collection
+
+We recently received a large collection of Adelaide train, tram and bus timetables from the 1990s from Dave Stephens in Adelaide. We have not heard anything yet about our application for $15000 under the Local History Grants. Further discussions with Melbourne Metro about the use of vacant premises at a railway station – Windsor Station in particular – are also in abeyance. A larger storage unit for NTC material has been leased at National Storage Kilsyth. We have also accepted an offer from Steven Haby to use some storage space in his unit at Kennards. Some NTC sorting and cataloging is continuing at the homes of Victorian members.
+
+### Distribution Service & Auction Report
+
+Agnes Boskovitz has provided an extensive range of recent rail magazines for the May List. Each item has had at least one order. The June List will contain historic timetables and guides from Europe, North American and New Zealand. Matthew Gibbons, Andrew Woods and Robert Henderson have been assisting with the preparation of auction catalogues. Geoff Hassall and Len Regan have been assessing bids. Airline timetables have not produced much interest.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## May 2020
 
 ### Something New
@@ -41,6 +83,8 @@ Our AGM is due to be held in Sydney on Saturday August 15, 2020. At the ATA comm
 ### Distribution Service Report
 
 On the April Distribution List popular items included Sydney & NSW Trains working timetable summary of alterations, V/Line pocket timetables, Stawell bus timetables and Tasmanian bus timetables. For the May List South Australian member Joel Taggart has offered in print and electronic form a bus timetable for the remote island of St Helena. St Helena is situated in the South Atlantic Ocean and is a territory of the United Kingdom.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
 
 ## April 2020
 
