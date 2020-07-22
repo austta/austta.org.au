@@ -13,6 +13,27 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## July 2020
+
+### [Train Times of Australia and New Zealand](https://traintimes.net.au/)
+
+After contacting John Mikita of [TransitGraphics](https://transitgraphics.com.au), Alex Sims, our webmaster, is in the process of transferring Victor Isaacs’ website Train Times of Australia and New Zealand to our own [website](https://www.timetable.org.au/), which currently has a link to [Victor’s website](https://traintimes.net.au/). Although last updated on 25 September 2019, it contains a wealth of information and well worth a look. There are three sub-sections providing timetables, [links to related websites](https://traintimes.net.au/links) and a [feedback form](https://traintimes.net.au/feedback). The timetables sub-section covers each state and New Zealand. The NSW sub-section, for example, is divided into regions. Detailed timetables for long distance train and bus services are provided with distances from Sydney, elevations of stations and opening dates for stations. Sample timetables are provided for Intercity and Suburban services. Under the Victoria heading are details of Melbourne’s tram system. The “Indian Pacific” reference has the public timetable as well as GSR and NSW working timetables! Also there are various rail network guides. These remind me of Bradshaws as they contain geographical and historical references. The guide to heritage railways is amazing! Victor’s website is a valuable asset that should be preserved and, if possible, kept up to date. Agnes Boskovitz will provide the necessary Excel spreadsheets and Word documents to ATA to allow traintimes to be kept up to date. David Matheson has offered to manage some timetable pages. However, more members are needed to take responsibility for maintaining designated timetable pages: e.g. Brisbane suburban trains, Victorian country trains. If you are interested, please contact me by phone on 0409 463 209 or by email at [president@timetable.org.au](mailto:president@timetable.org.au).
+
+### Zoom ATA Meeting 30 May 2020
+
+Our Sydney convener, Geoffrey Clifton, organised a Zoom ATA Meeting on Saturday May 30 at 2pm AEST. Twenty members participated and over the two hours allocated we were able to introduce ourselves and enjoy a general transport and timetable discussion. It was good to see, in person, people with whom we had previous contact only by email, conventional mail or Facebook. Hopefully another Zoom meeting can be organised before long.
+
+### AGM Rescheduled to Saturday November 21
+
+Our AGM has been rescheduled to Saturday November 21, 2020 at 2pm AEDT using a hybrid format where members gather at a central or several locations in each capital city (with appropriate social distancing being practised) and each venue is connected using one of the online conference facilities in order to conduct a full
+meeting.
+
+### Membership Renewals
+
+We are very pleased that so far 92 members have renewed their ATA membership for 2020-21. The remaining members will receive the July 2020 mailout with a reminder notice. Hopefully they will be able to send their renewal promptly so that they can continue to receive all the membership benefits.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## June 2020
 
 ### Report of the ATA Committee Meeting Wednesday 20 May 2020
