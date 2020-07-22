@@ -52,6 +52,7 @@
   RouteNumbers: 98C, 99C, 98A, 99A
   RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE
   EffectiveDates: 29/10/18
+  SupercededDate: ??/8/19
   VersionNumber: 1
   DistributionList: Dec-18
 - PrimaryMode: Bus
@@ -59,6 +60,7 @@
   RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE
   EffectiveDates: ??/8/19
   VersionNumber: 2
+  DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 100, 101
   RouteDescription: Arndale-Glen Osmond & Flinders Uni
@@ -570,6 +572,7 @@
   RouteNumbers: '222'
   RouteDescription: Mawson to city
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 10
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -577,6 +580,12 @@
   RouteDescription: Mawson to city
   EffectiveDates: 28/4/19
   VersionNumber: 11
+  DistributionList: Aug-20
+- PrimaryMode: Bus
+  RouteNumbers: '222'
+  RouteDescription: Mawson Lakes to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: 224, 226F, N224
   RouteDescription: City-Elizabeth via Salisbury Hwy
@@ -632,6 +641,7 @@
   RouteNumbers: '225'
   RouteDescription: Salisbury to city
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 8
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -639,6 +649,12 @@
   RouteDescription: Salisbury to city
   EffectiveDates: 28/4/19
   VersionNumber: 9
+  DistributionList: Aug-20
+- PrimaryMode: Bus
+  RouteNumbers: '225'
+  RouteDescription: Salisbury to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: '228'
   RouteDescription: City-Smithfield via Main North Rd
@@ -701,6 +717,7 @@
   RouteNumbers: '229'
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 9
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -708,6 +725,12 @@
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
   EffectiveDates: 28/4/19
   VersionNumber: 10
+  DistributionList: Aug-20
+- PrimaryMode: Bus
+  RouteNumbers: '229'
+  RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
+  EffectiveDates: 7/5/20
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: City-Port Adelaide/West Lakes via Croydon Park
@@ -1016,7 +1039,6 @@
   RouteDescription: Suburban Connector
   EffectiveDates: 27/1/19
   VersionNumber: 22
-  DistributionList: Jun-20
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
@@ -1229,6 +1251,7 @@
   RouteNumbers: 451, 452, 461, 462
   RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 6
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -1236,6 +1259,12 @@
   RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
   EffectiveDates: 28/4/19
   VersionNumber: 7
+  DistributionList: Aug-20
+- PrimaryMode: Bus
+  RouteNumbers: 451, 452, 461, 462
+  RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
+  EffectiveDates: 7/5/20
+  VersionNumber: 8
 - PrimaryMode: Bus
   RouteNumbers: 491, 492, 493, 494
   RouteDescription: Gawler Local Services
@@ -1646,12 +1675,14 @@
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 27/1/19
+  SupercededDate: 27/1/19
   VersionNumber: 10
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 27/1/19
+  SupercededDate: 1/11/19
   VersionNumber: 11
   DistributionList: Nov-19
 - PrimaryMode: Bus
@@ -1659,11 +1690,17 @@
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 1/11/19
   VersionNumber: 12
+  DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 6/4/20
   VersionNumber: 13
+- PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 14
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
@@ -1693,18 +1730,31 @@
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 27/1/19
+  SupercededDate: 27/1/19
   VersionNumber: 14
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 27/1/19
+  SupercededDate: 1/11/19
+  VersionNumber: 15
+- PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 1/11/19
   VersionNumber: 17
+  DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 6/4/20
   VersionNumber: 18
+- PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 7/5/20
+  VersionNumber: 19
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
@@ -2168,6 +2218,11 @@
   EffectiveDates: 6/4/20
   VersionNumber: 17
 - PrimaryMode: Bus
+  RouteNumbers: H20, H21, 580
+  RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
+  EffectiveDates: 5/7/20
+  VersionNumber: 18
+- PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
   EffectiveDates: 27/1/14
@@ -2183,6 +2238,7 @@
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 14/10/18
+  SupercededDate: 14/10/19
   VersionNumber: 9
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -2190,11 +2246,17 @@
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 14/10/19
   VersionNumber: 10
+  DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 6/4/20
   VersionNumber: 11
+- PrimaryMode: Bus
+  RouteNumbers: H22, H23, H24, H32, N22
+  RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
   RouteDescription: Paradise-West Lakes via Henley Beach Rd
