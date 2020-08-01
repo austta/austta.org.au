@@ -5,6 +5,7 @@ title: Distribution Lists
 The Association runs a **_Timetable Distribution service_**. This is an excellent way to get copies of transport timetables from around the world. Timetables, maps, brochures and related material gathered by members and sent to our Distribution Service are made available to members at a nominal charge to cover postage and administration. The monthly members mailout contains a Distribution List which itemises the material available that month. These items are usually current timetables, but occasionally historic items appear also.
 
 ## Current and previous lists
+* [August 2020]({{ site.named_cdn_url }}/distributionlist202008issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [July 2020]({{ site.named_cdn_url }}/distributionlist202007issue.pdf) (112kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [June 2020]({{ site.named_cdn_url }}/distributionlist202006issue.pdf) (192kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [May 2020]({{ site.named_cdn_url }}/distributionlist202005issue.pdf) (144kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
