@@ -13,6 +13,27 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## August 2020
+
+### Train Times of Australia and New Zealand Update
+
+As previously reported, Alex Sims, our webmaster, has placed a link to Victor Isaacs’ website [Train Times](https://traintimes.net.au/) Australia and New Zealand on [our own](https://www.timetable.org.au/) website. David Matheson has offered to manage the NSW timetable pages. Some members have offered to look after V/Line Victorian timetables and the pages giving details of Melbourne’s tram systems. However, more members are needed to take responsibility for maintaining further designated timetable pages: e.g. Brisbane suburban trains, Western Australia (Transwa) country trains and buses. If you are interested, please contact me by phone on 0409 463 209 or by email at <president@timetable.org.au>.
+
+### AGM Rescheduled to Saturday November 21
+
+Our AGM has been rescheduled to Saturday November 21, 2020 at 2pm AEDT using the online conference facilities. If Covid restrictions allow, members may gather at a central place or several locations in each capital city (with appropriate social distancing being practised). Individual members may join the meeting at home by an internet or phone connection. Our committee is looking at making the AGM accessible to all members and maintaining the integrity of voting. At the next committee meeting on 19 August 2020 the 2019-2020 financial report will be presented along with draft annual reports from those responsible for various areas of the work of ATA.
+
+### “The Times” and “Table Talk”
+
+The August “The Times” has an article by Jim Wells on a confusing timetable, a report on options to improve rail journey times between Sydney and Wollongong, and my recollections of Toowoomba bus services in 1970s. The August “Table Talk” has a bumper bus news, which includes commentary on the now cancelled Adelaide Bus Network Review and news of recent Transperth changes. Our thanks to Geoff Lambert for editing “The Times” and Chris Pandilovski and Steven Haby for editing “Table Talk”. Our thanks to Geoff and Judy Lambert for collating and sending our monthly mailout.
+
+### Victorian Historical Journal
+
+The ATA became a member of the Royal Historical Society of Victoria ([RHSV](https://www.historyvictoria.org.au/)) this year, as a result of taking out public liability insurance brokered by the RHSV. The historical society produces an informative journal twice a year which we are able to circulate to interested members of the ATA. The most recent
+volume contains 225 pages and includes 7 feature articles covering a wide range of historical events and people relevant to the development of Victoria as well as a number of smaller contributions including reviews of recently released books. If any member is interested in reading a copy of this journal they should email Richard May <secretary@timetable.org.au> who will be able to send them a pdf of the journal via email.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## July 2020
 
 ### [Train Times of Australia and New Zealand](https://traintimes.net.au/)
