@@ -7,6 +7,7 @@ The Times contains articles of interest to students of transport timetable histo
 Copies of The Times are not placed on this site until they are two months old. Current hard copy and/or PDF issues of Table Talk, with up-to-the-minute news, are available sooner to [members](membship.html#membership).
 
 ## Writing for <span class="TimesLogo">The Times</span>
+
 Have your say in print on any transport timetable matter. The Times includes letters to the editor.
 [Do it by email](mailto:thetimes@timetable.org.au) right here and now!
 
@@ -14,14 +15,16 @@ For longer articles please see the [author guide to The
 Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
 
 ## Online Archive
+
 These are lengthy files and will take some time to load.
 Older, [pre November 1999 Issues](times2.html) are also available.
 <!---
 The latest two issues are for members only
 -->
 
-* August 2020 (Members only)
-* July 2020 (Members only)
+* September 2020 (members only)
+* August 2020 (members only)
+* [July 2020]({{ site.named_cdn_url }}/thetimes202007issue.pdf) 2,352kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [June 2020]({{ site.named_cdn_url }}/thetimes202006issue.pdf) 3,432kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [May 2020]({{ site.named_cdn_url }}/thetimes202005issue.pdf) 2,736kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [April 2020]({{ site.named_cdn_url }}/thetimes202004issue.pdf) 6,420kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

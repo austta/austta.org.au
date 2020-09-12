@@ -13,8 +13,9 @@ ePub files allow you to change the text size and have the text "reflow" to refle
 The latest two issues are for members only
 -->
 
-* August 2020 (Members only)
-* July 2020 (Members only)
+* September 2020 (members only)
+* August 2020 (members only)
+* [July 2020]({{ site.named_cdn_url }}/tabletalk202007issue.pdf) 2,272kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [June 2020]({{ site.named_cdn_url }}/tabletalk202006issue.pdf) 4,632kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [May 2020]({{ site.named_cdn_url }}/tabletalk202005issue.pdf) 1,040kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [April 2020]({{ site.named_cdn_url }}/tabletalk202004issue.pdf) 1,696kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
@@ -54,37 +55,37 @@ The latest two issues are for members only
 * [June 2017](ttalk201706.html)
 * [May 2017](ttalk201705.html)
 * April 2017 [as a web page, single column, suitable for most uses](ttalk201704.html),
-as an [ePub for book readers and tablets ](ttalk201704.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [606kB ]({{ site.named_cdn_url }}/tabletalk201704issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201704.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [606kB ]({{ site.named_cdn_url }}/tabletalk201704issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * March 2017 [as a web page, single column, suitable for most uses](ttalk201703.html),
-as an [ePub for book readers and tablets ](ttalk201703.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,052kB ]({{ site.named_cdn_url }}/tabletalk201703issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201703.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,052kB ]({{ site.named_cdn_url }}/tabletalk201703issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * February 2017 [as a web page, single column, suitable for most uses](ttalk201702.html),
-as an [ePub for book readers and tablets ](ttalk201702.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [708kB ]({{ site.named_cdn_url }}/tabletalk201702issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201702.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [708kB ]({{ site.named_cdn_url }}/tabletalk201702issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * January 2017 [as a web page, single column, suitable for most uses](ttalk201701.html),
-as an [ePub for book readers and tablets ](ttalk201701.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [934kB ]({{ site.named_cdn_url }}/tabletalk201701issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201701.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [934kB ]({{ site.named_cdn_url }}/tabletalk201701issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * December 2016 [as a web page, single column, suitable for most uses](ttalk201612.html),
-as an [ePub for book readers and tablets ](ttalk201612.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [934kB ]({{ site.named_cdn_url }}/tabletalk201612issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201612.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [934kB ]({{ site.named_cdn_url }}/tabletalk201612issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * November 2016 [as a web page, single column, suitable for most uses](ttalk201611.html),
-as an [ePub for book readers and tablets ](ttalk201611.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,444kB ]({{ site.named_cdn_url }}/tabletalk201611issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201611.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,444kB ]({{ site.named_cdn_url }}/tabletalk201611issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * October 2016 [as a web page, single column, suitable for most uses](ttalk201610.html),
-as an [ePub for book readers and tablets ](ttalk201610.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [777kB ]({{ site.named_cdn_url }}/tabletalk201610issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201610.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [777kB ]({{ site.named_cdn_url }}/tabletalk201610issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * September 2016 [as a web page, single column, suitable for most uses](ttalk201609.html),
-as an [ePub for book readers and tablets ](ttalk201609.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [670kB ]({{ site.named_cdn_url }}/tabletalk201609issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201609.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [670kB ]({{ site.named_cdn_url }}/tabletalk201609issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * August 2016 [as a web page, single column, suitable for most uses](ttalk201608.html),
-as an [ePub for book readers and tablets ](ttalk201608.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [680kB ]({{ site.named_cdn_url }}/tabletalk201608issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201608.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [680kB ]({{ site.named_cdn_url }}/tabletalk201608issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * July 2016 [as a web page, single column, suitable for most uses](ttalk201607.html),
-as an [ePub for book readers and tablets ](ttalk201607.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [460kB ]({{ site.named_cdn_url }}/tabletalk201607issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201607.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [460kB ]({{ site.named_cdn_url }}/tabletalk201607issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * June 2016 [as a web page, single column, suitable for most uses](ttalk201606.html),
-as an [ePub for book readers and tablets ](ttalk201606.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [608kB ]({{ site.named_cdn_url }}/tabletalk201606issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201606.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [608kB ]({{ site.named_cdn_url }}/tabletalk201606issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * May 2016 [as a web page, single column, suitable for most uses](ttalk201605.html),
-as an [ePub for book readers and tablets ](ttalk201605.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,115kB ]({{ site.named_cdn_url }}/tabletalk201605issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201605.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [1,115kB ]({{ site.named_cdn_url }}/tabletalk201605issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * April 2016 [as a web page, single column, suitable for most uses](ttalk201604.html),
-as an [ePub for book readers and tablets ](ttalk201604.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [744kB ]({{ site.named_cdn_url }}/tabletalk201604issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201604.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [744kB ]({{ site.named_cdn_url }}/tabletalk201604issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * March 2016 [as a web page, single column, suitable for most uses](ttalk201603.html),
-as an [ePub for book readers and tablets ](ttalk201603.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [240kB ]({{ site.named_cdn_url }}/tabletalk201603issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201603.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [240kB ]({{ site.named_cdn_url }}/tabletalk201603issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * February 2016 [as a web page, single column, suitable for most uses](ttalk201602.html),
-as an [ePub for book readers and tablets ](ttalk201602.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [667kB ]({{ site.named_cdn_url }}/tabletalk201602issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+as an [ePub for book readers and tablets](ttalk201602.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed [667kB ]({{ site.named_cdn_url }}/tabletalk201602issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * January 2016, [as a web page, single column, suitable for most uses](ttalk201601.html),
-as an [ePub for book readers and tablets ](ttalk201601.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed
+as an [ePub for book readers and tablets](ttalk201601.epub) ![ePub]({{ site.secure_cdn_url }}/epubicon.svg), exactly as printed
 [878kB ]({{ site.named_cdn_url }}/tabletalk201601issue.pdf) ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [December 2015]({{ site.named_cdn_url }}/tabletalk201512issue.pdf) 143kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2015]({{ site.named_cdn_url }}/tabletalk201511issue.pdf) 5,100kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

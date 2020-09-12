@@ -13,6 +13,57 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## September 2020
+
+### Report of the ATA Committee Meeting Wednesday 19 August 2020
+
+The ATA Committee met on Wednesday 19 August 2020. Committee member Steven Haby was able to organize a meeting by Zoom. Our committee found this more reliable than Skype and all Committee members were able to be involved. Our thanks to Steven. The committee not only received quarterly reports for our activities but draft Annual Reports. The final Annual reports will be formally presented at our Annual General Meeting. Below under various headings are details of matters dealt with at the recent meeting.
+
+### Treasurer’s Report
+
+Over the 2019-2020 period, ATA had an accrual surplus of $986. The surplus for the previous year was $1096. Both the Distribution List and Auction ran a surplus. These surpluses offset postal and printing costs above those covered by membership fees and cover other ATA expenses such as the National Timetable Collection. Unfortunately our application for a Victorian Local History Grant of $15,000 was unsuccessful. This was very disappointing, considering the amount of work which was put into our submission. Without this grant our financial forecast for 2020-21 is likely to be a deficit, drawing on existing reserves. Our Committee is looking at the possibility of applying for a grant through other channels. Our income for 2020-21 is likely to be constant or decline slightly from membership and the Distribution List. Auction income is unpredictable. However, if we are able to sell books and surplus auction material and overseas timetables, further income may be generated. Postal costs are likely to increase. However, so long as we have the numbers to maintain Print Post we will continue to have significant savings in our mail-out. Our planned website development and purchase of computer and office equipment for work on the NTC are likely expenses in 2020-21.
+
+### Train Times of Australia and New Zealand Update
+
+Hopefully we will be in a position for some of our members to update some of the pages of Victor Isaacs’ website [*Train Times Australia and New Zealand*](https://traintimes.net.au/). More members are required to take responsibility for maintaining further designated timetable pages, If you are interested, please contact me by phone on 0409 463 209 or by email at president@timetable.org.au.
+
+### Preparations for ATA AGM Saturday November 21
+
+Our AGM has been scheduled for Saturday November 21, 2020 at 2pm AEDT. We will be able to conduct a Zoom meeting organized by our Sydney Convener, Geoffrey Clifton. A dial-in number could also be provided for any member who could not access the online meeting. Based on recent AGMs, voting could generally be handled through a show of hands or verbal acknowledgment. If a ballot were required, this could be handled using the Zoom “Chat” function, with a designated Returning Officer. Formal papers for the AGM should be issued with the October mail out. The Zoom link details could be provided in the November mail out, if not available in October.
+
+### “*The Times*” and “*Table Talk*”
+
+In September *The Times* has an article by Jim Wells on an Indian push-pull train, an article by Geoff Mann on a journey across New South Wales’ Central West from Cootamundra to Narromine, and my final article on Sydney’s Northern Beaches’ bus services. The *Table Talk team* have been able to provide an improved quality for maps and diagrams. Our thanks to Geoff Lambert for editing *The Times* and Chris Pandilovski and Steven Haby for editing *Table Talk*. Our thanks to Geoff and Judy Lambert for collating and sending our monthly mailout.
+
+### Distribution List Report
+
+Our June Distribution List, including the always-popular Working Timetables, had twenty-eight orders. The July List had thirteen orders and the August List had sixteen orders. In the July List the
+PTV Ventura bus timetables and CDC Mildura bus timetables were popular. Metro Hobart provided twelve sets of their northern suburbs timetables and these were featured in the August List. The August list also contained sets of the new Canberra light rail and bus timetables effective 8 July 2020 as well as PTV bus timetables. Our thanks to our distribution service contributors.
+
+### Website Redevelopment and ATA Facebook
+
+The committee agreed to proceed with the design phase of a new website. This will be done at a cost of $1,600 by [Transit Graphics](https://transitgraphics.com.au/), Canberra. The basis for building a new website should be to ensure an effective outward focus to avoid the Association becoming a solely inward-looking organization. We
+plan to integrate ATA Facebook with the new website. To bring about this integration, the role of
+ATA social Media Officer has been superseded by a team of committee members looking after the
+production of the new website, in conjunction with Transit Graphics, and ATA Facebook. ATA
+Facebook is now invisible and will be relaunched when ready.
+We should use Facebook to promote
+the ATA and the website to be a conduit for external access. We thank Paul Brown, who has been
+our social media officer, for his pioneering work and continued involvement with ATA Facebook.
+
+A total development and launch of the website will cost $5239.00. The full completed website would include appropriate mobile device responsiveness. There would be considerable work involved to review existing material on the website, develop new and additional material and then migrate it to any new website. Once the new website is in operation members will be encouraged to have a look at it and thereby increase its presence on Google. Also, once the new ATA Facebook is in operation, members will be encouraged to “like” our Facebook page and thereby increase its profile on Facebook. Hopefully the new website and Facebook page will present information of interest, bring in new members, indicate that we are interested in receiving old timetables and promote our work including items we can offer for sale.
+
+### Membership List
+
+Included with the September 2020 postal mailout is a List of all current ATA members. The
+information in this List is taken from the ATA Membership file and updated after each member’s
+renewal. For personal security reasons, it is only available in print form, and will not be despatched
+by email. The Membership Officer will send a snail-mail copy of this list, together with the ATA’s
+information brochure, to members who receive only the digital mail-out. It is intended that this List
+will be issued annually.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## August 2020
 
 ### Train Times of Australia and New Zealand Update
