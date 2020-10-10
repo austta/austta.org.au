@@ -80,7 +80,7 @@ The latest two issues are for members only
 * [March 2016]({{ site.named_cdn_url }}/thetimes201603issue.pdf) 3,444kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [February 2016]({{ site.named_cdn_url }}/thetimes201602issue.pdf) 3,104kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2016]({{ site.named_cdn_url }}/thetimes201601issue.pdf) 3,144kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
-* December 2015 [3,072B ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)]({{ site.named_cdn_url }}/thetimes201512issue.pdf)
+* [December 2015]({{ site.named_cdn_url }}/thetimes201512issue.pdf) 3,072B ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2015]({{ site.named_cdn_url }}/thetimes201511issue.pdf) 5,392kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [October 2015]({{ site.named_cdn_url }}/thetimes201510issue.pdf) 2,020kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [September 2015]({{ site.named_cdn_url }}/thetimes201509issue.pdf) 3,484kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
