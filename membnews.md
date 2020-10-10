@@ -13,6 +13,28 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## October 2020
+
+### Important Information about ATA AGM Saturday November 21
+
+Our AGM has been scheduled to Saturday November 21, 2020 at 2pm AEDT. We will be able to conduct a Zoom meeting organized by our Sydney Convener Geoffrey Clifton. Based on recent AGMs, voting could generally be handled through a show of hands or verbal acknowledgment. If a ballot was required this could be handled using the Zoom chat function with a designated returning officer. Notice of AGM, nomination and proxy forms are provided in the October mail out. The Zoom link details will be sent by email to those members who have provided ATA with their email
+addresses in early November. A dial in number will also be available for any member who could not access the online meeting.
+
+### Train Times of Australia and New Zealand Update
+
+This project is still progressing and soon we will be in a position for some of our members to update some of the pages of Victor Isaacs’ website Train Times Australia and New Zealand. More members are required to take responsibility for maintaining further designated timetable pages, If you are interested, please contact me by phone on [0409 463 209](tel:+61409463209) or by email at <president@timetable.org.au>.
+
+### Website Redevelopment
+
+We expect that shortly we will be working with Transit Graphics on the redevelopment of our website. A total development and launch of the website will cost $5239.00. There would be considerable work involved to review existing material on the website, develop new and additional material and then migrate it to any new website. If you have the skills to assist in this project, please contact me by phone on [0409 463 209](tel:+61409463209) or by email at <president@timetable.org.au>.
+
+### Application for the Use of Windsor Station for NTC
+
+On our behalf, Len Regan has submitted an application on an on-line form to Victrack for the lease of the top storey of Windsor Station for the National Timetable Collection. The project has been overwhelmed by the volume of timetables that have been donated. Some of the timetables have been placed in commercial storage, which is draining the Association’s funds. The space needed to sort and organise the timetables exceeds the space available at PMI, and a move to more suitable and
+spacious premises is essential. 60m^2^ – 100m^2^ in a secure building is needed. As a not-for-profit community association, a nominal rental can be afforded. Sam Hibbins – MP for Prahran, has supported our application to Victrack.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## September 2020
 
 ### Report of the ATA Committee Meeting Wednesday 19 August 2020

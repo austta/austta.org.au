@@ -3,7 +3,7 @@ layout: page
 title: Division Meetings - Calendar and Reports
 ---
 ## Adelaide
-Inquiries to Roger Wheaton <rogertw@adam.com.au> or [(08)&nbsp;8331&nbsp;9043](tel:+61883319043).
+Enquiries to Roger Wheaton <rogertw@adam.com.au> or [(08)&nbsp;8331&nbsp;9043](tel:+61883319043).
 At the moment no meeting has been scheduled.
 
 ## Brisbane
@@ -20,4 +20,4 @@ Enquiries to David Hennell, phone [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
 No meetings are currently scheduled.
 
 ## Sydney
-Sydney meetings are not currently scheduled. Inquiries to <Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478)
+Sydney meetings are not currently scheduled. Enquiries to <Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478)
