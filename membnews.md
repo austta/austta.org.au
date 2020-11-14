@@ -13,6 +13,25 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## November 2020
+
+### Important Information about the ATA AGM Saturday November 21
+
+Our AGM has been scheduled for Saturday November 21, 2020 at 2pm AEDT. We will be able to conduct a Zoom meeting organized by our Sydney Convener, Geoffrey Clifton. Based on recent AGMs, voting could generally be handled through a show of hands or verbal acknowledgment. If a ballot was required this could be handled using the Zoom chat function with a designated Returning Officer. A Notice of AGM, nomination and proxy forms were provided in the October mail out. The forms will need to be received by our Secretary, Richard May <secretary@timetable.org.au>. by 2pm on 20 November, 2020. The Zoom link details will be sent by email in late October or early November to those members who have provided ATA with their email addresses. A dial-in number will also be available for any member who cannot access the online meeting. If you have not received the Zoom link or dial-number by November 7 and require these, please let me know on 0409 463 209 or by email to <president@timetable.org.au>
+
+### Progress on Application for the Use of Windsor Station for NTC
+  
+On our behalf, Len Regan has submitted an application on an on-line form to Victrack for the lease of the top storey of Windsor Station for the National Timetable Collection. Some of the timetables have been placed in commercial storage, which is draining the Association’s funds. The space needed to sort and organise the timetables exceeds the space available at PMI, and a move to more suitable and spacious premises is essential. 60m^2^ – 100m^2^ in a secure building is needed. As a not-for-profit community association, only a nominal rental can be afforded. We have been advised that VicTrack has reviewed our application and determined that the building may be available for lease. However, as the land may have potential interest from a number of parties, it will be offered for lease by a publicly advertised process. This stage may take up to twenty weeks. If we are successful in being granted a lease at Windsor Station, it will involve some major expenses for ATA ... namely utilities, shelving, computer & printer package, office furniture and removal expenses. These expenses will be additional to the cost of the lease.
+
+### Website Redevelopment
+
+We have received some initial concepts from Transit Graphics. These look very exciting and will
+eventually lead to a much needed refresh of the ATA website. Watch this space!
+
+**Members’ List Phone Number Update:** Graeme Turnbull: 0478&nbsp;799&nbsp;798 Ian Brady: (02)&nbsp;8384&nbsp;5984.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## October 2020
 
 ### Important Information about ATA AGM Saturday November 21
