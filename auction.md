@@ -101,7 +101,7 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 * [Auction 44 August    2013]({{ site.named_cdn_url }}/distributionlist201308issue.pdf) (148kB  ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Airline Timetables.
 * [Auction 43 July      2013]({{ site.named_cdn_url }}/distributionlist201307issue.pdf) (112kB  ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Transport Books and Oddities.
 * ...
-* [Auction 41 May       2013]({{ site.named_cdn_url }}/distributionlist201305issue.pdf) (1032kB  ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is OVERSEAS LAND TRANSPORT.
+* [Auction 41 May       2013]({{ site.named_cdn_url }}/distributionlist201305issue.pdf) (1032kB  ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Overseas Land Transport.
 * [Auction 40 April     2013]({{ site.named_cdn_url }}/distributionlist201304issue.pdf) (1012kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Country Rail Timetables.
 * [Auction 39 March     2013]({{ site.named_cdn_url }}/distributionlist201303issue.pdf) (1064kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Suburban Passenger Timetables.
 * [Auction 38 February  2013]({{ site.named_cdn_url }}/distributionlist201302issue.pdf) (1700kB  ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) (included with distribution list), theme is Public Suburban Bus Timetables.
