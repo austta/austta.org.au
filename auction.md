@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 131 November 2020]({{ site.named_cdn_url }}/auctioncatalog202011issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Tasmanian & Western Australian timetables & maps.
+* [Auction 132 December 2020]({{ site.named_cdn_url }}/auctioncatalog202012issue.pdf) (60kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public train timetables.
 
 ## Previous catalogues
 
+* [Auction 131 November 2020]({{ site.named_cdn_url }}/auctioncatalog202011issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Tasmanian & Western Australian timetables & maps.
 * [Auction 130 October 2020]({{ site.named_cdn_url }}/auctioncatalog202010issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian Public Transport Maps and Guides.
 * [Auction 129 September 2020]({{ site.named_cdn_url }}/auctioncatalog202009issue.pdf) (52kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Railway Working Timetables: Queensland, Victoria, Commonwealth, West Australian Railways.
 * [Auction 128 August 2020]({{ site.named_cdn_url }}/auctioncatalog202008issue.pdf) (40kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Overseas Transport Books and Reports.
