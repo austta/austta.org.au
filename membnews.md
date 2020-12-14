@@ -13,6 +13,42 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## December 2020
+
+### ATA Annual General Meeting 21 November 2020 by Zoom
+
+Our 2020 Annual General Meeting commenced shortly after 2pm on Saturday 21 November, 2020 by Zoom. Our meeting was attended by six members from Melbourne, six from Sydney, two from Adelaide and one from Newcastle, the Blue Mountains, Canberra, and Brisbane.
+
+An exciting development has been the redevelopment of our website. We are seeking to present ATA as a modern organization. Transit Graphics has provided three concepts, and after feedback from our website committee, has produced modifications to the preferred concept. However, ATA will need to be responsible for a clean out of material now on the existing website and migration of useful content to the new website. New material will need to be written for the new website. Once launched, along with a fresh ATA Facebook page, it would be good if our members are able to support these new initiatives. The 2021-21 budget allows for costs involved in the website redevelopment.
+
+Work on the National Timetable Collection has continued at members’ homes during the periods of Covid restrictions. Currently NTC workdays have resumed at the Prahran Mechanics Institute. The NTC has outgrown the PMI and an application has been made to VicTrack for a Community Lease for the vacant building at Windsor Station, Melbourne. The 2020-21 budget allows for the costs associated with the move. These will include utilities, shelving, computer and printer, office furniture and removal from PMI.
+
+The matter of intergenerational change was raised when older members are no longer able to serve as
+office-bearers, committee members or assist the work of ATA. Members will need to come forward to take up roles which will keep the ATA going. Also discussed was the possibility of greater use of electronic distribution for our mail-out. Here we need to weigh up the economies of scale for posting and printing in bulk as against smaller print runs and postal dispatch. Our finances remained healthy
+with a surplus of $986.
+
+The results of the Election of Office Bearers at the AGM for 2020-2021 were:- Hilaire Fraser (President), Geoff Lambert (Vice President), Richard May (Secretary), Len Regan (Treasurer), Geoff Hassall, Chris Pandilovski, Andrew James, Alex Sims and Steven Haby as Ordinary Committee Members.
+
+The Sydney Division was invited to host the 2021 AGM, as circumstances prevented the 2020 AGM going ahead in Sydney. Arrangements for the Sydney meeting include a ride on the light rail line from Circular Quay to Randwick, a short bus trip to the Souths Juniors Club (Kingsford tram terminus) and a trip by tram and bus to Sydney University after lunch for our AGM. Delegates could ride the Chatswood-Tallawong Metro at their leisure.
+
+Following the AGM the new committee was able to make the following appointments for 2020- 2021:- *Times* Editor:- Geoff Lambert, *Table Talk* Editor:- Chris Pandilovski., *Table Talk* Bus Editor:- Steven Haby, Production Manager:- Geoff Lambert, Auctioneer:- Geoff Hassall, Archives Officer:- Len Regan, Webmaster:- Alex Sims, Distribution Manager:- Hilaire Fraser and Membership Officer:- Len Regan.
+
+ATA thanks to Geoffrey Clifton for arranging the Zoom meeting and our secretary Richard May for preparing the Annual Report and business for our AGM. Provided Covid restrictions continue to be eased all our divisions will be able to recommence in February or March 2021. Included in this report is a photo of the participants at the recent Brisbane Division meeting.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
+<p style="text-align:center">![](membnews20201201.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">ATA Annual General Meeting 21 November 2020 (Photo: Andrew James)</p>
+
+<p style="text-align:center">![](membnews20201202.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">Brisbane Division Meeting 14 November 2020 (Photo: Brain Webber)</p>
+
+### January Mailout
+
+Due to the printer’s holidays, the January 2021 mailout will be later than normal. It is expected that it will be dispatched in the middle of the second week of January 2021
+
 ## November 2020
 
 ### Important Information about the ATA AGM Saturday November 21

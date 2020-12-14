@@ -9,9 +9,8 @@ At the moment no meeting has been scheduled.
 
 ## Brisbane
 
-Enquiries to Brian Webber
-phone [(07)&nbsp;3354&nbsp;2140](tel:+61733542140).
-No meetings are currently scheduled.
+Meetings are held at the usual venue of Brian Webber's residence at 61/22 Towns Street, Michleton. Please contact Brian for dates.
+[(07)&nbsp;3354&nbsp;2140](tel:+61733542140)
 
 ## Canberra
 
