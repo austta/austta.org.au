@@ -757,6 +757,11 @@
   VersionNumber: 12
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 230, 232
+  RouteDescription: Port Adelaide to city
+  EffectiveDates: 10/8/20
+  VersionNumber: 14
+- PrimaryMode: Bus
   RouteNumbers: 235, 238, 239
   RouteDescription: City-Kilburn/Valley View/Mawson Lakes/Arndale
   EffectiveDates: 27/1/14
@@ -863,6 +868,11 @@
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 251, 252
+  RouteDescription: Mansfield Park to city, Port Adelaide to city
+  EffectiveDates: 2020
+  VersionNumber: 14
+- PrimaryMode: Bus
   RouteNumbers: 253, 254
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Hanson Rd
   EffectiveDates: 27/1/14
@@ -888,6 +898,11 @@
   VersionNumber: 11
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: 253, 254, N254
+  RouteDescription: Mansfield Park to city, Port Adelaide to city, Semaphore & Port Adelaide to city
+  EffectiveDates: 2020
+  VersionNumber: 12
+- PrimaryMode: Bus
   RouteNumbers: 262, 263, 265, N262
   RouteDescription: City-Marion via Glenelg
   EffectiveDates: 27/1/14
@@ -912,6 +927,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 13
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 262, 263, 265, N262
+  RouteDescription: Marion Centre to city, Marion Centre, Brighton & Glenelg to city
+  EffectiveDates: 2020
+  VersionNumber: 14
 - PrimaryMode: Bus
   RouteNumbers: 271, 273
   RouteDescription: City-Tea Tree Plaza/Paradise via North East Rd
@@ -1354,10 +1374,15 @@
   DistributionList: Jun-18
 - PrimaryMode: Bus
   RouteNumbers: 506, 546
-  RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to para Hils via Tea Tree Plaza
+  RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
   EffectiveDates: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 506, 546
+  RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
+  EffectiveDates: 2020
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: 541, N541
   RouteDescription: City-Fairview Pk/Golden Grove
@@ -1466,6 +1491,11 @@
   VersionNumber: 8
   DistributionList: Nov-18
 - PrimaryMode: Bus
+  RouteNumbers: '545'
+  RouteDescription: Golden Grove to Tea Tree Plaza & city
+  EffectiveDates: 2020
+  VersionNumber: 9
+- PrimaryMode: Bus
   RouteNumbers: 548  591A  591C
   RouteDescription: City-Golden  Grove
   EffectiveDates: 17/12/17
@@ -1517,6 +1547,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 9
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 556, 557, 559
+  RouteDescription: Tea Tree Plaza & Hope Valley to Paradise & city, Tea Tree Plaza & St Agnes to Paradise & city
+  EffectiveDates: 2020
+  VersionNumber: 10
 - PrimaryMode: Bus
   RouteNumbers: 560, 565
   RouteDescription: Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm
@@ -1970,6 +2005,11 @@
   VersionNumber: 15
   DistributionList: Oct-19
 - PrimaryMode: Bus
+  RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
+  RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
+  EffectiveDates: 11/11/20
+  VersionNumber: 17
+- PrimaryMode: Bus
   RouteNumbers: 830F, 834, 835
   RouteDescription: Lobethal-City/Verdun/Mt Barker
   EffectiveDates: 20/7/14
@@ -2126,6 +2166,11 @@
   VersionNumber: 18
   DistributionList: Nov-19
 - PrimaryMode: Bus
+  RouteNumbers: G10, N10, N21
+  RouteDescription: Marion Centre, Bedford Park, Colonel Light Gardens & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
+  EffectiveDates: 14/12/20
+  VersionNumber: 20
+- PrimaryMode: Bus
   RouteNumbers: G20, G21, G22, 320, N10, N21
   RouteDescription: City-Aberfoyle Hub
   EffectiveDates: 27/1/14
@@ -2150,6 +2195,11 @@
   EffectiveDates: 14/10/18
   VersionNumber: 15
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: G20, G21, G22X, 320, N10, N21
+  RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
+  EffectiveDates: 14/12/20
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: G40
   RouteDescription: Golden Grove-Flinders Uni
@@ -2516,6 +2566,11 @@
   EffectiveDates: 29/6/19
   VersionNumber: 8
   DistributionList: Oct-19
+- PrimaryMode: Train
+  RouteNumbers: Seaford & Flinders
+  RouteDescription: Seaford to city, Flinders to city
+  EffectiveDates: 29/12/20
+  VersionNumber: 9
 - ServiceProvider: TransAdelaide
   PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city
