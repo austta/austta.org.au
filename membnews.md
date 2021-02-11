@@ -14,6 +14,22 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## February 2021
+
+### Changing Networks
+
+With only a few weeks between the deadlines for the January and February mailouts, there is no more ATA news to report for the February Members’ News. Thus, I will do some commentary for this Members’ News. I hope this is of interest.
+
+Looking at Metropolitan Transport Trust Perth, Bus and Ferry Guides dated September 1971 and September 1972 you can see changes to Perth to Morley via William St services. In 1971, the William St corridor was served by routes 60 (Morley), 61, 62 & 63 (North of Morley) and 56 (Lockridge). In September 1972, the Morley Bus Station opened, and the network was reconfigured with 60 Perth-Morley (High Frequency All Stops) and new 66 Perth-Morley (Peak Hour Express), whilst 56, 61, 62 and 63 became feeder services. This has been a continuing pattern in Australia and New Zealand over the last fifty years.
+
+As Canberra developed transport hubs were developed in the CBD, Woden, Belconnen and Tuggeranong. Prior to 1999, the high frequency route 333 required passengers to change at an interchange. Since 1999, network refinements meant buses continued through interchanges into outer suburbs to provide a one-seat journey from the CBD. This continues in the current Canberra network.
+
+This principle of high frequency services with accompanying hub and spoke bus networks has been promoted by American transit consultant Jarrett Walker. We see this in Sydney’s new Lower North Shore and Northern Beaches network, effective 20 December 2020, with 244 City-Chowder Bay, 245 City-Balmoral, 247 City-Mosman Junction and 430 City-Taronga Zoo being combined into high frequency 100 QVB-Taronga Zoo. Chowder Bay is served by new 111 from South Mosman Wharf via Mosman Junction. Balmoral is served by new 114 from Royal North Shore Hospital.
+
+From 2016 to 2018, network reviews across Auckland progressively introduced a high frequency network. This implementation was successful with local buses feeding high frequency trains and buses. Many lengthy bus routes were replaced by a faster train connecting with a short local bus journey. In 2018, a frequent bus network was implemented in Central Wellington, New Zealand. This resulted in passengers travelling on what was previously a relatively short route having to change to reach the CBD. In 2020, these changes were reversed with passengers preferring an hourly frequency with no need to change, to a half-hourly frequency with a change.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## January 2021
 
 ### The Year Ahead

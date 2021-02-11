@@ -9,18 +9,17 @@ At the moment no meeting has been scheduled.
 
 ## Brisbane
 
-Meetings are held at the usual venue of Brian Webber's residence at 61/22 Towns Street, Michleton. Please contact Brian for dates.
+Meetings are held at the usual venue of Brian Webber's residence at 61/22 Towns Street, Michleton starting at 2pm on Saturdays. Please contact Brian for dates.
 [(07)&nbsp;3354&nbsp;2140](tel:+61733542140)
 
 ## Canberra
 
-Enquiries to David Cranney, <cranney@iinet.net.au> phone [0421&nbsp;174&nbsp;951](tel:+61421174951).
+Enquiries to David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951](tel:+61421174951).
 No meetings are currently scheduled.
 
 ## Melbourne
 
-Enquiries to David Hennell, phone [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
-No meetings are currently scheduled.
+Subject to any new COVID-19 restrictions, the next meeting will be at 8.00pm on Wednesday 3 March at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802). The discussion topic is the 1949 Trans Australia Railway Working Timetable.
 
 ## Sydney
 
