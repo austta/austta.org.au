@@ -14,6 +14,38 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## March 2021
+
+### Report on ATA Committee Meeting Wednesday 17 February 2021
+
+The ATA Committee met on Wednesday 17 February 2021. Committee member Steven Haby was able to organize a meeting by Zoom. Our thanks to Steven. Below under various headings are details of matters dealt with at the recent meeting.
+
+### Membership Fees Unchanged for 2021-2022
+
+Given current circumstances and the good financial position of the Association it was agreed that membership fees should remain unchanged. Members are free to make an optional donation to the Association when renewing membership. Thus, membership fees will remain at $60, $36 for students.
+
+### New Members
+
+We welcome two new student members Joe Hicks and Matthew Schoepf of Adelaide. They have a strong interest in South Australian timetables.
+
+### Simplification of Auction Procedures
+
+Consideration is being given to a possible simplification of the current Auction procedures. The
+main change being considered is to replace the Minimum and Maximum bids with a single bid. The
+catalogue would show an estimate of the Lot’s value which is slightly higher than the Reserve
+price. In recent times, some Auction bidders have been submitting only one bid, which has been
+deemed to be both a minimum and maximum bid. The suggested changes would overcome this
+problem and would allow a simpler management of future auctions and access to additional auction
+sources. Some features of the current auction process, which are well established and acceptable,
+would be retained. Comments on the suggested changes are encouraged, and these can be sent to
+Auctioneer Geoff Hassall at <auction@timetable.org.au> or by phone to [0432&nbsp;291&nbsp;791](tel:+61432291791).
+
+### Website Development
+
+The committee has accepted the offer of Melbourne member Matthew Gibbins to assist with our website development and has appointed him as our Website Development Manager. As members of our website development committee were either stretched for time or had limited understanding of the technology it was decided to hand the process over to a member who had the skills and time to drive the process forward. Matthew will work closely with the ATA executive and committee.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## February 2021
 
 ### Changing Networks
