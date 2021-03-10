@@ -19,8 +19,8 @@ No meetings are currently scheduled.
 
 ## Melbourne
 
-Subject to any new COVID-19 restrictions, the next meeting will be at 
-8.00pm on Wednesday 5 May 
+Subject to any new COVID-19 restrictions, the next meeting will be at
+8.00pm on Wednesday 5 May
 at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
 
 ## Sydney
