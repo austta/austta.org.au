@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 134 February 2021]({{ site.named_cdn_url }}/auctioncatalog202102issue.pdf) (44kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
+* [Auction 135 March 2021]({{ site.named_cdn_url }}/auctioncatalog202103issue.pdf) (52kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
 
 ## Previous catalogues
 
+* [Auction 134 February 2021]({{ site.named_cdn_url }}/auctioncatalog202102issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is NSW and SA train working timetables & notices.
 * [Auction 133 January 2021]({{ site.named_cdn_url }}/auctioncatalog202101issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is NSW and SA train working timetables & notices.
 * [Auction 132 December 2020]({{ site.named_cdn_url }}/auctioncatalog202012issue.pdf) (60kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public train timetables.
 * [Auction 131 November 2020]({{ site.named_cdn_url }}/auctioncatalog202011issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Tasmanian & Western Australian timetables & maps.
