@@ -7,6 +7,7 @@ It is available for all to see, modify and extend
 The website is produced using [Jekyll](http://jekyllrb.com).
 
 ## Changing the website
+
 There are a number of ways:
 
 * Contact the webmaster
@@ -16,11 +17,12 @@ There are a number of ways:
 ## Building the website locally
 
 ### Prerequsites
-* Ruby
-* The jekyll gem
-* The jekyll-panddoc gem
+
+* The [Jekyll](http://jekyllrb.com) gem which requires Ruby
+* The jekyll-pandoc gem
 
 ### Commands
+
     $ git clone https://github.com/austta/austta.org.au.git
     $ cd austta.org.au
     $ jekyll build

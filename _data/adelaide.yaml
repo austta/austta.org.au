@@ -91,8 +91,15 @@
   RouteNumbers: 100, 101
   RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
   EffectiveDates: 21/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Sep-19
+- PrimaryMode: Bus
+  RouteNumbers: 100, 101
+  RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: B10, B11, B12, 312
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
@@ -109,24 +116,40 @@
   RouteNumbers: '106'
   RouteDescription: Magill to city
   EffectiveDates: 14/10/18
+  SupercededDate: 6/4/20
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: '106'
   RouteDescription: Magill to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 2
+- PrimaryMode: Bus
+  RouteNumbers: '106'
+  RouteDescription: Magill to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 3
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
   EffectiveDates: 14/10/18
+  SupercededDate: 6/4/20
   VersionNumber: 1
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 2
+- PrimaryMode: Bus
+  RouteNumbers: 110, 112
+  RouteDescription: West Lakes to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 3
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 115, 117, 118
   RouteDescription: City-West Lakes/Pt Adelaide via Crittenden Rd
@@ -150,13 +173,21 @@
   RouteNumbers: 115, 117, 118
   RouteDescription: West Lakes to city, Port Adelaide to city
   EffectiveDates: 27/1/19
+  SupercededDate: 6/4/20
   VersionNumber: 11
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: 115, 117, 118
   RouteDescription: West Lakes to city, Port Adelaide to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 12
+- PrimaryMode: Bus
+  RouteNumbers: 115, 117, 118
+  RouteDescription: West Lakes to city, Port Adelaide to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 140, 144, 147, 148
   RouteDescription: City-Glen Osmond/Beaumont
@@ -180,8 +211,15 @@
   RouteNumbers: 140, 144, 147
   RouteDescription: City to GlenOsmond via Norwood, Glen Osmond to city, Beaumont to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 14
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 140, 144, 147
+  RouteDescription: City to GlenOsmond via Norwood, Glen Osmond to city, Beaumont to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 141, 142
   RouteDescription: City-Stonyfell/Burnside
@@ -205,8 +243,15 @@
   RouteNumbers: 141, 142
   RouteDescription: Stonyfell to city, Burnside to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 141, 142
+  RouteDescription: Stonyfell to city, Burnside to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 150, 350, 352, 353
   RouteDescription: City-Osborne, Largs Bay-West Lakes, Port Adelaide-Semaphore
@@ -237,8 +282,15 @@
   RouteNumbers: 150, 333
   RouteDescription: Osborne to city, North Haven to Port Adelaide
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 13
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 150, 333
+  RouteDescription: Osborne to city, North Haven to Port Adelaide
+  EffectiveDates: 5/7/20
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 155, 157, 376
   RouteDescription: City-West Lakes/Largs Bay, West Lakes-Delfin Island
@@ -269,15 +321,22 @@
   RouteNumbers: 155, 157, 376
   RouteDescription: West Lakes to city, Largs Bay to city, West Lakes via Delfin Island
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 155, 157, 376
+  RouteDescription: West Lakes to city, Largs Bay to city, West Lakes via Delfin Island
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 167, 168, 169
   RouteDescription: City-Marleston & Glenelg via Richmond Rd
   EffectiveDates: 27/1/14
   SupercededDate: 17/12/17
 - PrimaryMode: Bus
-  RouteNumbers: 167  168
+  RouteNumbers: 167, 168
   RouteDescription: City-Marleston & Glenelg via Richmond Rd
   EffectiveDates: 17/12/17
   SupercededDate: 14/10/18
@@ -287,8 +346,15 @@
   RouteNumbers: 167, 168
   RouteDescription: Glenelg to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 15
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 167, 168
+  RouteDescription: Glenelg to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 16
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 170, 172
   RouteDescription: City-Urrbrae/Kingswood via Duthy St
@@ -305,8 +371,15 @@
   RouteNumbers: 170, 172
   RouteDescription: Urrbrae to city, Kingswood to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 9
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 170, 172
+  RouteDescription: Urrbrae to city, Kingswood to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 171, 173
   RouteDescription: City-Mitcham Square & Blackwood via Fullarton Rd
@@ -323,8 +396,15 @@
   RouteNumbers: 171, 173
   RouteDescription: Mitcham Square to city, Blackwood to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 11
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 171, 173
+  RouteDescription: Mitcham Square to city, Blackwood to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 174, N178
   RouteDescription: City-Paradise /Newton via Payneham Rd
@@ -348,8 +428,15 @@
   RouteNumbers: 174, N178
   RouteDescription: Paradise to city, Newton to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 174, N178
+  RouteDescription: Paradise to city, Newton to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 177, 178, 179, 579, N178
   RouteDescription: City-Athelstone/Paradise via Payneham Rd
@@ -373,14 +460,22 @@
   RouteNumbers: 176, 178, 578, 578, N178
   RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
   EffectiveDates: 14/10/18
+  SupercededDate: 14/10/18
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 176, 178, 578, 578, N178
   RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 11
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: 176, 178, 578, 578, N178
+  RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '190'
   RouteDescription: City-Glenelg via Raglan Av
@@ -404,8 +499,15 @@
   RouteNumbers: '190'
   RouteDescription: Glenelg to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: '190'
+  RouteDescription: Glenelg to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 195, 196, 197X
   RouteDescription: City-Blackwood via Unley Rd
@@ -579,6 +681,7 @@
   RouteNumbers: '222'
   RouteDescription: Mawson to city
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 11
   DistributionList: Aug-20
 - PrimaryMode: Bus
@@ -586,6 +689,7 @@
   RouteDescription: Mawson Lakes to city
   EffectiveDates: 5/7/20
   VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 224, 226F, N224
   RouteDescription: City-Elizabeth via Salisbury Hwy
@@ -616,8 +720,15 @@
   RouteNumbers: 224, N224
   RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 13
   DistributionList: Jun-20
+- PrimaryMode: Bus
+  RouteNumbers: 224, N224
+  RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Gepps Cross or Mawson Lakes-Salisbury via Northbri Av
@@ -2499,8 +2610,7 @@
   VersionNumber: 5
   DistributionList: May-18
 - PrimaryMode: Train
-  RouteNumbers: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
-    Lakes
+  RouteNumbers: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes
   RouteDescription: Gawler Central
   EffectiveDates: 4/2/13
   SupercededDate: 22/4/18
@@ -2508,23 +2618,20 @@
   DistributionList: Mar-13
 - PrimaryMode: Train
   RouteNumbers: Gawler Central
-  RouteDescription: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson
-    Lakes
-  RouteDescription: Gawler Central
+  RouteDescription: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes
+
   EffectiveDates: 22/4/18
   VersionNumber: 3
   DistributionList: May-18
 - PrimaryMode: Train
-  RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon.
-    Grange to city via Seaton Park, Woodville & Croydon.
+  RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.
   RouteDescription: Outer Harbor & Grange
   EffectiveDates: 23/2/14
   SupercededDate: 22/4/18
   VersionNumber: 2
   DistributionList: Mar-14
 - PrimaryMode: Train
-  RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon.
-    Grange to city via Seaton Park, Woodville & Croydon.
+  RouteNumbers: Outer Harbor to city via Glanville, Port Adelaide, Woodville & Croydon. Grange to city via Seaton Park, Woodville & Croydon.
   RouteDescription: Outer Harbor & Grange
   EffectiveDates: 22/4/18
   SupercededDate: 27/1/19
@@ -2537,16 +2644,14 @@
   VersionNumber: 4
   DistributionList: Feb-19
 - PrimaryMode: Train
-  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
-    & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
+  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands  & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
   RouteDescription: Seaford & Tonsley
   EffectiveDates: 16/2/15
   SupercededDate: 22/4/18
   VersionNumber: 5
   DistributionList: Mar-15
 - PrimaryMode: Train
-  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
-    & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
+  RouteNumbers: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands   & Goodwood. Tonsley to city via Clovelly Park & Goodwood.
   RouteDescription: Seaford & Tonsley
   EffectiveDates: 22/4/18
   SupercededDate: 23/7/18
@@ -2554,8 +2659,7 @@
   DistributionList: May-18
 - PrimaryMode: Train
   RouteNumbers: Seaford & Tonsley
-  RouteDescription: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands
-    & Goodwood. Tonsley to city via Clovelly Park & Goodwood
+  RouteDescription: Seaford to city via Noarlunga Centre, Hallett Cove, Brighton, Oaklands & Goodwood. Tonsley to city via Clovelly Park & Goodwood
   EffectiveDates: 23/7/18
   SupercededDate: 29/6/19
   VersionNumber: 7
