@@ -1254,8 +1254,15 @@
   RouteNumbers: 286, 287, 288
   RouteDescription: Henley Beach to city, West Lakes to city
   EffectiveDates: 14/10/18
+  SupercededDate: 26/1/21
   VersionNumber: 13
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 286, 287, 288
+  RouteDescription: Henley Beach to city, West Lakes to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
@@ -1293,12 +1300,20 @@
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
   EffectiveDates: 27/1/19
+  SupercededDate: 6/4/20
   VersionNumber: 22
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
   EffectiveDates: 6/4/20
+  SupercededDate: 26/1/21
   VersionNumber: 23
+- PrimaryMode: Bus
+  RouteNumbers: '300'
+  RouteDescription: Suburban Connector
+  EffectiveDates: 26/1/21
+  VersionNumber: 25
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '333'
   RouteDescription: Outer Harbor-Port Adelaide
@@ -1348,8 +1363,15 @@
   RouteNumbers: '361'
   RouteDescription: Port Adelaide to Tea Tree Plaza
   EffectiveDates: 8/9/19
+  SupercededDate: 26/1/21
   VersionNumber: 12
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: '361'
+  RouteDescription: Port Adelaide to Tea Tree Plaza
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth-Salisbury North & Salisbury-DSTO
@@ -1366,8 +1388,15 @@
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth & Salisbury to Salisbury North, BAE Systems to Salisbury via Edinburgh RAAF Base & Old Defence Science and Technology Organisation
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 400, 421
+  RouteDescription: Elizabeth & Salisbury to Salisbury North, BAE Systems to Salisbury via Edinburgh RAAF Base & Old Defence Science and Technology Organisation
+  EffectiveDates: 5/7/20
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
@@ -1400,6 +1429,11 @@
   VersionNumber: 6
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 401, 403, 900
+  RouteDescription: Paralowie to Salisbury, Salisbury North to Salisbury, Elizabeth to Salisbury via Virginia
+  EffectiveDates: 5/7/20
+  VersionNumber: 7
+- PrimaryMode: Bus
   RouteNumbers: 404, 405
   RouteDescription: Salisbury-Paralowie
   EffectiveDates: 24/7/14
@@ -1415,8 +1449,15 @@
   RouteNumbers: 404, 405
   RouteDescription: Salisbury to Paralowie Anti-clockwise loop service, Salisbury to Paralowie Clockwise loop service
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 8
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 404, 405
+  RouteDescription: Salisbury to Paralowie Anti-clockwise loop service, Salisbury to Paralowie Clockwise loop service
+  EffectiveDates: 5/7/20
+  VersionNumber: 9
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '407'
   RouteDescription: Waterloo Corner - Elizabeth Interchange
@@ -1452,8 +1493,21 @@
   RouteNumbers: '411'
   RouteDescription: Salisbury to Mawson Lakes
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 11
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '411'
+  RouteDescription: Salisbury to Mawson Lakes
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: '411'
+  RouteDescription: Salisbury to Mawson Lakes
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 415, 415H, 415V, 430
   RouteDescription: Salisbury-Greenwith/Hillbank
@@ -1470,8 +1524,15 @@
   RouteNumbers: 415, 430
   RouteDescription: Salisbury to Greenwith, Salisbury to Golden Grove, Elizabeth to Salisbury
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 6
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 415, 430
+  RouteDescription: Salisbury to Greenwith, Salisbury to Golden Grove, Elizabeth to Salisbury
+  EffectiveDates: 5/7/20
+  VersionNumber: 7
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 440, 441, 442, 443
   RouteDescription: Elizabeth-Munno Para/Smithfield
@@ -1488,8 +1549,15 @@
   RouteNumbers: 440, 441, 442, 443
   RouteDescription: Munno Para to Elizabeth, Smithfield to Elizabeth, Elizabeth to Munno Para loop
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 9
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 440, 441, 442, 443
+  RouteDescription: Munno Para to Elizabeth, Smithfield to Elizabeth, Elizabeth to Munno Para loop
+  EffectiveDates: 5/7/20
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 451, 452, 461, 462
   RouteDescription: Elizabeth-Munno Para
@@ -1513,13 +1581,15 @@
   RouteNumbers: 451, 452, 461, 462
   RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 7
   DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 451, 452, 461, 462
   RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
-  EffectiveDates: 7/5/20
+  EffectiveDates: 5/7/20
   VersionNumber: 8
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 491, 492, 493, 494
   RouteDescription: Gawler Local Services
@@ -1536,8 +1606,15 @@
   RouteNumbers: 491, 492A, 492C, 493, 494, 495
   RouteDescription: Hewett Circuit Clockwise loop, Gawler East Circuit Anti-clockwise loop, Gawler East Circuit Clockwise loop, Gawler South Circuit Clockwise loop, Gawler South Circuit Anti-clockwise loop
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 491, 492A, 492C, 493, 494, 495
+  RouteDescription: Hewett Circuit Clockwise loop, Gawler East Circuit Anti-clockwise loop, Gawler East Circuit Clockwise loop, Gawler South Circuit Clockwise loop, Gawler South Circuit Anti-clockwise loop
+  EffectiveDates: 5/7/20
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 500, 501, 502, N502
   RouteDescription: City-Elizabeth/Mawson Lakes
@@ -1561,8 +1638,21 @@
   RouteNumbers: 500, 501, 502, N502
   RouteDescription: Elizabeth to city, Mawson Lakes to Paradise & city, Salisbury to Paradise & city, Salisbury to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 16
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 500, 501, 502, N502
+  RouteDescription: Elizabeth to city, Mawson Lakes to Paradise & city, Salisbury to Paradise & city, Salisbury to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 17
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 500, 501, 502, N502
+  RouteDescription: Elizabeth to city, Mawson Lakes to Paradise & city, Salisbury to Paradise & city, Salisbury to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 18
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 503, 507
   RouteDescription: City-Tea Tree Plaza/Holden Hill
@@ -1586,8 +1676,15 @@
   RouteNumbers: 503, 507
   RouteDescription: Tea Tree Plaza to Pardise & city
   EffectiveDates: 14/10/18
+  SupercededDate: 26/1/21
   VersionNumber: 9
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 503, 507
+  RouteDescription: Tea Tree Plaza to Pardise & city
+  EffectiveDates: 26/1/21
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 506, 546
   RouteDescription: Paradise-Tea Tree Plaza via Para Hills
@@ -1611,13 +1708,21 @@
   RouteNumbers: 506, 546
   RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 506, 546
   RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 11
+- PrimaryMode: Bus
+  RouteNumbers: 506, 546
+  RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
+  EffectiveDates: 26/1/21
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 541, N541
   RouteDescription: City-Fairview Pk/Golden Grove
@@ -1651,6 +1756,11 @@
   VersionNumber: 9
   DistributionList: Feb-19
 - PrimaryMode: Bus
+  RouteNumbers: 540, 541, N541
+  RouteDescription: Tea Tree Plaza & city via O-Bahn, Golden Grove & Fairview Park to Tea Tree Plaza & city via O-Bahn, City to Fairview Park via O-Bahn & Tea Tree Plaza
+  EffectiveDates: 26/1/21
+  VersionNumber: 10
+- PrimaryMode: Bus
   RouteNumbers: 542, 542X, N541
   RouteDescription: City-Fairview Pk
   EffectiveDates: 27/1/14
@@ -1673,8 +1783,15 @@
   RouteNumbers: 542, N542
   RouteDescription: Fairview Park to Tea Tree Plaza
   EffectiveDates: 14/10/18
+  SupercededDate: 26/1/21
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 542, N542
+  RouteDescription: Fairview Park to Tea Tree Plaza
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '543'
   RouteDescription: City-Surrey Downs
@@ -1698,8 +1815,15 @@
   RouteNumbers: '543'
   RouteDescription: Surrey Downs to Tea Tree Plaza & city
   EffectiveDates: 14/10/18
+  SupercededDate: 26/1/21
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: '543'
+  RouteDescription: Surrey Downs to Tea Tree Plaza & city
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '545'
   RouteDescription: City-Golden Grove via McIntyre Rd
@@ -1723,13 +1847,21 @@
   RouteNumbers: '545'
   RouteDescription: Golden Grove to Tea Tree Plaza & city
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 8
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: '545'
   RouteDescription: Golden Grove to Tea Tree Plaza & city
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 9
+- PrimaryMode: Bus
+  RouteNumbers: '545'
+  RouteDescription: Golden Grove to Tea Tree Plaza & city
+  EffectiveDates: 26/1/21
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 548  591A  591C
   RouteDescription: City-Golden  Grove
@@ -1755,8 +1887,15 @@
   RouteNumbers: 548, 591A, 591C
   RouteDescription: Golden Grove & Greenwith to Tea Tree Plaza & city, Golden Grove to Greenwith
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 6
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 548, 591A, 591C
+  RouteDescription: Golden Grove & Greenwith to Tea Tree Plaza & city, Golden Grove to Greenwith
+  EffectiveDates: 26/1/21
+  VersionNumber: 7
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 556, 557, 559
   RouteDescription: City-Tea Tree Plaza via St Agnes/Tea Tree Gully
@@ -1780,13 +1919,21 @@
   RouteNumbers: 556, 557, 559
   RouteDescription: Tea Tree Plaza & Hope Valley to Paradise & city, Tea Tree Plaza & St Agnes to Paradise & city
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 9
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 556, 557, 559
   RouteDescription: Tea Tree Plaza & Hope Valley to Paradise & city, Tea Tree Plaza & St Agnes to Paradise & city
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 10
+- PrimaryMode: Bus
+  RouteNumbers: 556, 557, 559
+  RouteDescription: Tea Tree Plaza & Hope Valley to Paradise & city, Tea Tree Plaza & St Agnes to Paradise & city
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 560, 565
   RouteDescription: Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm
@@ -2822,8 +2969,15 @@
   RouteNumbers: 544, M44
   RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
   EffectiveDates: 21/4/19
+  SupercededDate: 26/1/21
   VersionNumber: 17
   DistributionList: Nov-19
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
