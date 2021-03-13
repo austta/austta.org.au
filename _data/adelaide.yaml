@@ -2095,8 +2095,15 @@
   RouteNumbers: 820, 821, 822
   RouteDescription: City-Carey Gully & Stirling-Loreto College
   EffectiveDates: 17/12/17
+  SupercededDate: 5/7/20
   VersionNumber: 6
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 820, 821, 822
+  RouteDescription: City-Carey Gully & Stirling-Loreto College
+  EffectiveDates: 5/7/20
+  VersionNumber: 7
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 823, 840, 863, 860F, 864, N864
   RouteDescription: City-Aldgate & Mt Barker
@@ -2113,8 +2120,15 @@
   RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
   RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
   EffectiveDates: 18/11/18
+  SupercededDate: 5/7/20
   VersionNumber: 15
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
+  RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 16
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
   RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
@@ -2129,9 +2143,22 @@
   RouteNumbers: 830F, 834, 835
   RouteDescription: Lobethal-City/Verdun/Mt Barker
   EffectiveDates: 17/12/17
+  SupercededDate: 5/7/20
   VersionNumber: 9
   DistributionList: Jan-18
 - PrimaryMode: Bus
+  RouteNumbers: 830F, 834, 835
+  RouteDescription: Lobethal-City/Verdun/Mt Barker
+  EffectiveDates: 5/7/20
+  VersionNumber: 10
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 830F, 834, 835, HL1, HL2
+  RouteDescription: Lobethal to city, Verdun to Lobethal, Lobethal to Mount Barker, Mount Barker to Hahndorf, Handdorf to Mount Barker
+  EffectiveDates: 5/7/20
+  VersionNumber: 11
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: 837, 841F, 842X, T842
   RouteDescription: City-Nairne
   EffectiveDates: 20/7/14
@@ -2140,9 +2167,16 @@
   RouteNumbers: 837, 841F, 842X, T842
   RouteDescription: City-Nairne
   EffectiveDates: 17/12/17
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Jan-18
 - PrimaryMode: Bus
+  RouteNumbers: 837, 841F, 842X, T842
+  RouteDescription: Nairne to Mount Baker, Nairne to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 11
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: 838, 839
   RouteDescription: Mt Barker East & West
   EffectiveDates: 20/7/14
@@ -2151,13 +2185,21 @@
   RouteNumbers: 838, 839
   RouteDescription: Mt Barker East & West
   EffectiveDates: 17/12/17
+  SupercededDate: 8/9/19  
   VersionNumber: 8
   DistributionList: Jan-18
 - PrimaryMode: Bus
   RouteNumbers: 838, 839
   RouteDescription: Mount Barker east Clockwise loop service, Mount Barker west Clockwise loop service
   EffectiveDates: 8/9/19
+  SupercededDate: 5/7/20
   VersionNumber: 9
+- PrimaryMode: Bus
+  RouteNumbers: 838, 839
+  RouteDescription: Mount Barker east Clockwise loop service, Mount Barker west Clockwise loop service
+  EffectiveDates: 5/7/20
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 850, 852
   RouteDescription: Macclesfield/Strathalbyn/Echunga
@@ -2167,8 +2209,15 @@
   RouteNumbers: 850, 852
   RouteDescription: Macclesfield/Strathalbyn/Echunga
   EffectiveDates: 26/1/16
+  SupercededDate: 5/7/20
   VersionNumber: 5
   DistributionList: Apr-16
+- PrimaryMode: Bus
+  RouteNumbers: 850, 852
+  RouteDescription: Macclesfield to Aldgate, Strathalbyn to Mount Barker
+  EffectiveDates: 5/7/20
+  VersionNumber: 6
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 861, N864
   RouteDescription: City-Glen Osmond
@@ -2178,8 +2227,15 @@
   RouteNumbers: 861, N864
   RouteDescription: City-Glen Osmond
   EffectiveDates: 17/12/17
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 861, N864
+  RouteDescription: Glen Osmond to city, Mount Barker to city via Glen Osmond
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 865, 866, 867, 868
   RouteDescription: City-Aldgate & Crafers-Stirling
@@ -2189,8 +2245,15 @@
   RouteNumbers: 865, 866
   RouteDescription: City-Aldgate & Crafers-Stirling
   EffectiveDates: 17/12/17
+  SupercededDate: 5/7/20
   VersionNumber: 7
   DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 865, 866
+  RouteDescription: Aldgate to city, Stirling to Crafers
+  EffectiveDates: 5/7/20
+  VersionNumber: 8
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 892, 893, 894
   RouteDescription: Aldgate-Blackwood Stn
@@ -2207,8 +2270,15 @@
   RouteNumbers: 892, 893, 894
   RouteDescription: Urrbrae to Aldgate, Aldgate to Blackwood
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 8
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 892, 893, 894
+  RouteDescription: Urrbrae to Aldgate, Aldgate to Blackwood
+  EffectiveDates: 5/7/20
+  VersionNumber: 9
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteDescription: Findon Motor Bus Service
   EffectiveDates: 11/12/55
@@ -2243,8 +2313,15 @@
   RouteNumbers: J1X JET EXPRESS, C1, C2, J1, J2, N1 163
   RouteDescription: City to Adelaide Airport, Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   DistributionList: Feb-19
   VersionNumber: 3
+- PrimaryMode: Bus
+  RouteNumbers: C1, C2, J1, J2, N1 163
+  RouteDescription: Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  EffectiveDates: 5/7/20
+  DistributionList: TBA
+  VersionNumber: 4
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Blair Athol-Marion
@@ -2268,17 +2345,25 @@
   RouteNumbers: G10, N10, N21
   RouteDescription: Marion Centre, Bedford Park, Colonel Light Gardens & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 14/10/18
+  SupercededDate: 14/10/18
   VersionNumber: 17
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Marion Centre, Bedford Park, Colonel Light Gardens & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 18
   DistributionList: Nov-19
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
-  RouteDescription: Marion Centre, Bedford Park, Colonel Light Gardens & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
+  RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
+  EffectiveDates: 5/7/20
+  VersionNumber: 19
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: G10, N10, N21
+  RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 14/12/20
   VersionNumber: 20
 - PrimaryMode: Bus
@@ -2304,8 +2389,15 @@
   RouteNumbers: G20, G21, G22X, 320, N10, N21
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 15
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: G20, G21, G22X, 320, N10, N21
+  RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
+  EffectiveDates: 5/7/20
+  VersionNumber: 16
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: G20, G21, G22X, 320, N10, N21
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
@@ -2341,8 +2433,15 @@
   RouteNumbers: 'G40'
   RouteDescription: Golden Grove to Flinders University via city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 'G40'
+  RouteDescription: Golden Grove to Flinders University via city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Paradise-Glenelg via Marion Rd
@@ -2373,17 +2472,20 @@
   RouteNumbers: H20, H21, 580
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
   EffectiveDates: 14/10/19
+  SupercededDate: 6/4/20
   VersionNumber: 16
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
   EffectiveDates: 5/7/20
   VersionNumber: 18
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
@@ -2407,18 +2509,21 @@
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 14/10/19
+  SupercededDate: 6/4/20
   VersionNumber: 10
   DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 5/7/20
   VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
   RouteDescription: Paradise-West Lakes via Henley Beach Rd
@@ -2435,18 +2540,27 @@
   RouteNumbers: H30, 530, X30, N30
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
   EffectiveDates: 14/10/18
+  SupercededDate: 14/10/19
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: H30, X30, 530, N30
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
   EffectiveDates: 14/10/19
+  SupercededDate: 6/4/20
   VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: H30, X30, 530, N30
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 16
+- PrimaryMode: Bus
+  RouteNumbers: H30, X30, 530, N30
+  RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
+  EffectiveDates: 6/4/20
+  VersionNumber: 17
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H33
   RouteDescription: Rostrevor-Henley Beach via Cheadle St
@@ -2463,18 +2577,27 @@
   RouteNumbers: 'H33'
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 14/10/18
+  SupercededDate: 14/10/19
   VersionNumber: 10
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 'H33'
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 14/10/19
+  SupercededDate: 6/4/20
   VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: 'H33'
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 12
+- PrimaryMode: Bus
+  RouteNumbers: 'H33'
+  RouteDescription: Henley Beach to city & Rostrevor
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: J1, J2,  162
   RouteDescription: Jetbus
@@ -2498,8 +2621,15 @@
   RouteNumbers: J1X JET EXPRESS, J1, J2 (Adelaide Airport Bus Timetable)
   RouteDescription: Adelaide Airport to city EXPRESS, Adelaide Airport to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 2
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: J1, J2 (Adelaide Airport Bus Timetable)
+  RouteDescription: Adelaide Airport to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 3
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: J7, J8, 371,372
   RouteDescription: West Lakes-Marion
@@ -2523,8 +2653,15 @@
   RouteNumbers: J7, J8, 371, 372
   RouteDescription: West Lakes to Marion Centre, West Lakes via Seaton
   EffectiveDates: 21/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: J7, J8, 371, 372
+  RouteDescription: West Lakes to Marion Centre, West Lakes via Seaton
+  EffectiveDates: 5/7/20
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: M44
   RouteDescription: Marion-Golden Grove
@@ -2554,6 +2691,7 @@
   RouteNumbers: 544, M44
   RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
   EffectiveDates: 14/10/18
+  SupercededDate: 21/4/19
   VersionNumber: 16
   DistributionList: Nov-18
 - PrimaryMode: Bus
@@ -2585,8 +2723,15 @@
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre to Paradise, St Marys to Marden
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 14
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: W90, W91
+  RouteDescription: Marion Centre to Paradise, St Marys to Marden
+  EffectiveDates: 5/7/20
+  VersionNumber: 16
+  DistributionList: TBA
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17
@@ -2619,7 +2764,6 @@
 - PrimaryMode: Train
   RouteNumbers: Gawler Central
   RouteDescription: Gawler Central to City via Smithfield, Elizabeth, Salisbury & Mawson Lakes
-
   EffectiveDates: 22/4/18
   VersionNumber: 3
   DistributionList: May-18
@@ -2675,6 +2819,7 @@
   RouteDescription: Seaford to city, Flinders to city
   EffectiveDates: 29/12/20
   VersionNumber: 9
+  DistributionList: Feb-21
 - ServiceProvider: TransAdelaide
   PrimaryMode: Tram
   RouteNumbers: Glenelg to Entertainment Centre via city
