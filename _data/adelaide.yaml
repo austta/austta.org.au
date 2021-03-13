@@ -1950,8 +1950,15 @@
   RouteNumbers: 560, 565, 566
   RouteDescription: Elizabeth to Tea Tree Plaza, Mawson to Ingle Farm, Mawson to Golden Grove
   EffectiveDates: 8/9/19
+  SupercededDate: 5/7/20
   VersionNumber: 6
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: 560, 565, 566
+  RouteDescription: Elizabeth to Tea Tree Plaza, Mawson to Ingle Farm, Mawson to Golden Grove
+  EffectiveDates: 5/7/20
+  VersionNumber: 7
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 591, 592, 593
   RouteDescription: Golden Grove-Petworth Lakes/Greenwith
@@ -1987,8 +1994,21 @@
   RouteNumbers: 600, 601, 605, G30F
   RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 17
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 600, 601, 605, G30F
+  RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 18
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 600, 601, 605, G30F
+  RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
   RouteDescription: City-Flinders Uni/Old Reynella Interchange
@@ -2005,13 +2025,27 @@
   RouteNumbers: 640, 719, 720
   RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
   EffectiveDates: 29/4/18
+  SupercededDate: 6/4/20
   VersionNumber: 10
   DistributionList: Jun-18
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
   RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 11
+- PrimaryMode: Bus
+  RouteNumbers: 640, 719, 720
+  RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 12
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 640, 719, 720
+  RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 645, 646
   RouteDescription: Marion-Seaview Downs/Seacombe Hts
@@ -2035,8 +2069,15 @@
   RouteNumbers: 645, 646
   RouteDescription: Seaview Downs to Marion Centre, Seacombe Heights to Marion Centre
   EffectiveDates: 14/10/18
+  SupercededDate: 26/1/21
   VersionNumber: 10
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 645, 646
+  RouteDescription: Seaview Downs to Marion Centre, Seacombe Heights to Marion Centre
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 681, 682, 683
   RouteDescription: Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk
@@ -2067,8 +2108,15 @@
   RouteNumbers: 681, 682, 683
   RouteDescription: Hallet Cove to Flinders University, Hallet Cove to Sheidow Park, Hallet Cove
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 11
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 681, 682, 683
+  RouteDescription: Hallet Cove to Flinders University, Hallet Cove to Sheidow Park, Hallet Cove
+  EffectiveDates: 26/1/21
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: City-Noarlunga Centre Interchange via Main Road South
@@ -2106,18 +2154,27 @@
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 1/11/19
+  SupercededDate: 6/4/20
   VersionNumber: 12
   DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 13
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 5/7/20
   VersionNumber: 14
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 721, T721, N721
+  RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
@@ -2160,18 +2217,27 @@
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 1/11/19
+  SupercededDate: 6/4/20
   VersionNumber: 17
   DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 6/4/20
+  SupercededDate: 5/7/20
   VersionNumber: 18
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
-  EffectiveDates: 7/5/20
+  EffectiveDates: 5/7/20
   VersionNumber: 19
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 722, T722
+  RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 20
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
@@ -2195,13 +2261,21 @@
   RouteNumbers: 723F, 723X, 733
   RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
   EffectiveDates: 27/1/19
+  SupercededDate: 6/4/20
   VersionNumber: 15
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
   EffectiveDates: 6/4/20
+  SupercededDate: 26/1/21
   VersionNumber: 16
+- PrimaryMode: Bus
+  RouteNumbers: 723F, 723X, 733
+  RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
+  EffectiveDates: 26/1/21
+  VersionNumber: 18
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 724, 734
   RouteDescription: Colonnades Shopping Centre-Marion
@@ -2230,8 +2304,15 @@
   RouteNumbers: '725'
   RouteDescription: Noarlunga & Southgate to Old Reynella
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 9
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '725'
+  RouteDescription: Noarlunga & Southgate to Old Reynella
+  EffectiveDates: 26/1/21
+  VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '734'
   RouteDescription: Colonnades & Noarlunga to Marion
@@ -2243,6 +2324,11 @@
   RouteDescription: Colonnades & Noarlunga to Marion
   EffectiveDates: 28/4/19
   VersionNumber: 9
+- PrimaryMode: Bus
+  RouteNumbers: '734'
+  RouteDescription: Colonnades & Noarlunga to Marion
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
 - PrimaryMode: Bus
   RouteNumbers: '737'
   RouteDescription: Chanders Hill-Old Reynella Interchange
@@ -2259,8 +2345,15 @@
   RouteNumbers: '737'
   RouteDescription: Chanders Hill to Old Reynella
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 10
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: '737'
+  RouteDescription: Chanders Hill to Old Reynella
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 740, 741, 750, 751, 752, 755, 756
   RouteDescription: Seaford to Aldinga/Sellicks Beach
