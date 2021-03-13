@@ -620,6 +620,11 @@
 - PrimaryMode: Bus
   RouteNumbers: 195, 196, 197X
   RouteDescription: Blackwood to city, Coromandel Station to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 15
+- PrimaryMode: Bus
+  RouteNumbers: 195, 196, 197X
+  RouteDescription: Blackwood to city, Coromandel Station to city
   EffectiveDates: 26/1/21
   VersionNumber: 16
 - PrimaryMode: Bus
@@ -659,6 +664,11 @@
   SupercededDate: 26/1/21
   VersionNumber: 16
   DistributionList: Oct-19
+- PrimaryMode: Bus
+  RouteNumbers: 200
+  RouteDescription: Marion Centre, Panorama, Clapham & Colonel Light Gardens to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 200
   RouteDescription: Marion Centre, Panorama, Clapham & Colonel Light Gardens to city
@@ -1418,6 +1428,11 @@
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
+  EffectiveDates: 5/7/20
+  VersionNumber: 24
+- PrimaryMode: Bus
+  RouteNumbers: '300'
+  RouteDescription: Suburban Connector
   EffectiveDates: 26/1/21
   VersionNumber: 25
   DistributionList: TBA
@@ -1932,6 +1947,51 @@
   VersionNumber: 11
   DistributionList: TBA
 - PrimaryMode: Bus
+  RouteNumbers: M44
+  RouteDescription: Marion-Golden Grove
+  EffectiveDates: 27/1/14
+  SupercededDate: 'Yes'
+- PrimaryMode: Bus
+  RouteNumbers: 544  M44
+  RouteDescription: City-Golden Grove  Village
+  EffectiveDates: 17/12/17
+  VersionNumber: 13
+  SupercededDate: 17/12/17
+- PrimaryMode: Bus
+  RouteNumbers: 544  M44
+  RouteDescription: City-Golden Grove  Village
+  EffectiveDates: 17/12/17
+  SupercededDate: 29/4/18
+  VersionNumber: 14
+  DistributionList: Jan-18
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove Interchange to City
+  EffectiveDates: 29/4/18
+  SupercededDate: 14/10/18
+  VersionNumber: 15
+  DistributionList: Jun-18
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
+  EffectiveDates: 14/10/18
+  SupercededDate: 21/4/19
+  VersionNumber: 16
+  DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
+  EffectiveDates: 21/4/19
+  SupercededDate: 26/1/21
+  VersionNumber: 17
+  DistributionList: Nov-19
+- PrimaryMode: Bus
+  RouteNumbers: 544, M44
+  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: '545'
   RouteDescription: City-Golden Grove via McIntyre Rd
   EffectiveDates: 27/1/14
@@ -2380,6 +2440,11 @@
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
+  EffectiveDates: 5/7/20
+  VersionNumber: 17
+- PrimaryMode: Bus
+  RouteNumbers: 723F, 723X, 733
+  RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
   EffectiveDates: 26/1/21
   VersionNumber: 18
   DistributionList: TBA
@@ -2642,8 +2707,8 @@
   VersionNumber: 9
   DistributionList: Jan-18
 - PrimaryMode: Bus
-  RouteNumbers: 830F, 834, 835
-  RouteDescription: Lobethal-City/Verdun/Mt Barker
+  RouteNumbers: 830F, 834, 835, HL1, HL2
+  RouteDescription: Lobethal to city, Verdun to Lobethal, Lobethal to Mount Barker, Mount Barker to Hahndorf, Handdorf to Mount Barker
   EffectiveDates: 5/7/20
   VersionNumber: 10
   DistributionList: TBA
@@ -2866,7 +2931,6 @@
   RouteNumbers: G10, N10, N21
   RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 14/12/20
-  SupercededDate: 26/1/21
   VersionNumber: 20
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
@@ -2910,7 +2974,6 @@
   RouteNumbers: G20, G21, G22X, 320, N10, N21
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
   EffectiveDates: 14/12/20
-  SupercededDate: 26/1/21
   VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: G20, G21, G22X, 320, N10, N21
@@ -3091,7 +3154,7 @@
 - PrimaryMode: Bus
   RouteNumbers: H30, X30, 530, N30
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
-  EffectiveDates: 6/4/20
+  EffectiveDates: 5/7/20
   VersionNumber: 17
   DistributionList: TBA
 - PrimaryMode: Bus
@@ -3214,51 +3277,6 @@
   VersionNumber: 11
   DistributionList: TBA
 - PrimaryMode: Bus
-  RouteNumbers: M44
-  RouteDescription: Marion-Golden Grove
-  EffectiveDates: 27/1/14
-  SupercededDate: 'Yes'
-- PrimaryMode: Bus
-  RouteNumbers: 544  M44
-  RouteDescription: City-Golden Grove  Village
-  EffectiveDates: 17/12/17
-  VersionNumber: 13
-  SupercededDate: 17/12/17
-- PrimaryMode: Bus
-  RouteNumbers: 544  M44
-  RouteDescription: City-Golden Grove  Village
-  EffectiveDates: 17/12/17
-  SupercededDate: 29/4/18
-  VersionNumber: 14
-  DistributionList: Jan-18
-- PrimaryMode: Bus
-  RouteNumbers: 544, M44
-  RouteDescription: Golden Grove Interchange to City
-  EffectiveDates: 29/4/18
-  SupercededDate: 14/10/18
-  VersionNumber: 15
-  DistributionList: Jun-18
-- PrimaryMode: Bus
-  RouteNumbers: 544, M44
-  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
-  EffectiveDates: 14/10/18
-  SupercededDate: 21/4/19
-  VersionNumber: 16
-  DistributionList: Nov-18
-- PrimaryMode: Bus
-  RouteNumbers: 544, M44
-  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
-  EffectiveDates: 21/4/19
-  SupercededDate: 26/1/21
-  VersionNumber: 17
-  DistributionList: Nov-19
-- PrimaryMode: Bus
-  RouteNumbers: 544, M44
-  RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
-  EffectiveDates: 26/1/21
-  VersionNumber: 19
-  DistributionList: TBA
-- PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
   EffectiveDates: 27/1/14
@@ -3376,6 +3394,7 @@
   RouteNumbers: Seaford & Tonsley
   RouteDescription: Seaford to city, Clovelly Park to city
   EffectiveDates: 29/6/19
+  SupercededDate: 29/12/20
   VersionNumber: 8
   DistributionList: Oct-19
 - PrimaryMode: Train

@@ -18,6 +18,7 @@ Note that a timetable may appear several times as the list includes:
 
 * The generally available printed timetable, even if out of date
 * Available online and current
+* Available online, out of date, but more recent than a current distribution list
 * Available online and proposed even if the start date has passed
 * More than one version in print with the same commencement date
 
