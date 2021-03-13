@@ -883,6 +883,7 @@
   RouteNumbers: '225'
   RouteDescription: Salisbury to city
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 9
   DistributionList: Aug-20
 - PrimaryMode: Bus
@@ -890,6 +891,13 @@
   RouteDescription: Salisbury to city
   EffectiveDates: 5/7/20
   VersionNumber: 10
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: '225'
+  RouteDescription: Salisbury to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '228'
   RouteDescription: City-Smithfield via Main North Rd
@@ -927,8 +935,21 @@
   RouteNumbers: 228
   RouteDescription: Smithfield to city
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Jun-20
+- PrimaryMode: Bus
+  RouteNumbers: 228
+  RouteDescription: Smithfield to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 228
+  RouteDescription: Smithfield to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: City-Para Hills via Pooraka
@@ -959,13 +980,21 @@
   RouteNumbers: '229'
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
   EffectiveDates: 28/4/19
+  SupercededDate: 5/7/20
   VersionNumber: 10
   DistributionList: Aug-20
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
-  EffectiveDates: 7/5/20
+  EffectiveDates: 5/7/20
   VersionNumber: 11
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: '229'
+  RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
+  EffectiveDates: 26/1/21
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: City-Port Adelaide/West Lakes via Croydon Park
@@ -989,13 +1018,26 @@
   RouteNumbers: 230, 232
   RouteDescription: Port Adelaide to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 12
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: Port Adelaide to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 13
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 230, 232
+  RouteDescription: Port Adelaide to city
   EffectiveDates: 10/8/20
   VersionNumber: 14
+- PrimaryMode: Bus
+  RouteNumbers: 230, 232
+  RouteDescription: Port Adelaide to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 235, 238, 239
   RouteDescription: City-Kilburn/Valley View/Mawson Lakes/Arndale
@@ -1032,13 +1074,21 @@
   RouteNumbers: 235, 238, 239
   RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
   EffectiveDates: 27/1/19
+  SupercededDate: May 2020
   VersionNumber: 15
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: 235, 238, 239
   RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
   EffectiveDates: May 2020
+  SupercededDate: 26/1/21
   VersionNumber: 16
+- PrimaryMode: Bus
+  RouteNumbers: 235, 238, 239
+  RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 18
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 241, 245, 248
   RouteDescription: City-Warradale/Marion
@@ -1075,8 +1125,15 @@
   RouteNumbers: 241, 245, 248
   RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
   EffectiveDates: 21/4/19
+  SupercededDate: 26/1/21
   VersionNumber: 12
   DistributionList: Sep-19
+- PrimaryMode: Bus
+  RouteNumbers: 241, 245, 248
+  RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 251, 252
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Liberty Grove
@@ -1100,13 +1157,21 @@
   RouteNumbers: 251, 252
   RouteDescription: Mansfield Park to city, Port Adelaide to city
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 251, 252
   RouteDescription: Mansfield Park to city, Port Adelaide to city
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 14
+- PrimaryMode: Bus
+  RouteNumbers: 251, 252
+  RouteDescription: Mansfield Park to city, Port Adelaide to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 253, 254
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Hanson Rd
@@ -1130,13 +1195,21 @@
   RouteNumbers: 253, 254, N254
   RouteDescription: Mansfield Park to city, Port Adelaide to city, Semaphore & Port Adelaide to city
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 11
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 253, 254, N254
   RouteDescription: Mansfield Park to city, Port Adelaide to city, Semaphore & Port Adelaide to city
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 12
+- PrimaryMode: Bus
+  RouteNumbers: 253, 254, N254
+  RouteDescription: Mansfield Park to city, Port Adelaide to city, Semaphore & Port Adelaide to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 262, 263, 265, N262
   RouteDescription: City-Marion via Glenelg
@@ -1160,13 +1233,21 @@
   RouteNumbers: 262, 263, 265, N262
   RouteDescription: Marion Centre to city, Marion Centre, Brighton & Glenelg to city
   EffectiveDates: 14/10/18
+  SupercededDate: 2020
   VersionNumber: 13
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 262, 263, 265, N262
   RouteDescription: Marion Centre to city, Marion Centre, Brighton & Glenelg to city
   EffectiveDates: 2020
+  SupercededDate: 26/1/21
   VersionNumber: 14
+- PrimaryMode: Bus
+  RouteNumbers: 262, 263, 265, N262
+  RouteDescription: Marion Centre to city, Marion Centre, Brighton & Glenelg to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 15
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 271, 273
   RouteDescription: City-Tea Tree Plaza/Paradise via North East Rd
@@ -1197,8 +1278,15 @@
   RouteNumbers: 271, 273
   RouteDescription: Tea Tree Plaza to city, Paradise to city
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 11
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 271, 273
+  RouteDescription: Tea Tree Plaza to city, Paradise to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '281'
   RouteDescription: City-Paradise
@@ -1229,8 +1317,21 @@
   RouteNumbers: 281
   RouteDescription: Paradise to city
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 17
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 281
+  RouteDescription: Paradise to city
+  EffectiveDates: 5/7/20
+  VersionNumber: 18
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 281
+  RouteDescription: Paradise to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 287, 288
   RouteDescription: City-Henley Beach/West Lakes via Ashley St
@@ -1257,6 +1358,12 @@
   SupercededDate: 26/1/21
   VersionNumber: 13
   DistributionList: Nov-18
+- PrimaryMode: Bus
+  RouteNumbers: 286, 287, 288
+  RouteDescription: Henley Beach to city, West Lakes to city
+  EffectiveDates: 5/7/20 
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 286, 287, 288
   RouteDescription: Henley Beach to city, West Lakes to city
