@@ -2317,18 +2317,21 @@
   RouteNumbers: '734'
   RouteDescription: Colonnades & Noarlunga to Marion
   EffectiveDates: 27/1/19
+  SupercededDate: 28/4/19
   VersionNumber: 8
   DistributionList: Feb-19
 - PrimaryMode: Bus
   RouteNumbers: '734'
   RouteDescription: Colonnades & Noarlunga to Marion
   EffectiveDates: 28/4/19
+  SupercededDate: 26/1/21
   VersionNumber: 9
 - PrimaryMode: Bus
   RouteNumbers: '734'
   RouteDescription: Colonnades & Noarlunga to Marion
   EffectiveDates: 26/1/21
   VersionNumber: 11
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: '737'
   RouteDescription: Chanders Hill-Old Reynella Interchange
@@ -2384,8 +2387,15 @@
   RouteNumbers: 741, 750, 751, 752, 755, 756
   RouteDescription: Maslin Beach to Colonnades, Sellicks Beach to Colonnades, Aldinga to Colonnades, McLaren Flat to McLaren Vale, Aldinga Beach to Seaford, Port Willunga to Noarlunga
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 10
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 741, 750, 751, 752, 755, 756
+  RouteDescription: Maslin Beach to Colonnades, Sellicks Beach to Colonnades, Aldinga to Colonnades, McLaren Flat to McLaren Vale, Aldinga Beach to Seaford, Port Willunga to Noarlunga
+  EffectiveDates: 26/1/21
+  VersionNumber: 12
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 743, 744
   RouteDescription: 'Noarlunga Centre Interchange to Huntfield Heights '
@@ -2416,8 +2426,15 @@
   RouteNumbers: 743, 744
   RouteDescription: Noarlunga Centre to Huntfield Heights
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 13
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 743, 744
+  RouteDescription: Noarlunga Centre to Huntfield Heights
+  EffectiveDates: 26/1/21
+  VersionNumber: 14
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
@@ -2448,8 +2465,15 @@
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 16
   DistributionList: Feb-19
+- PrimaryMode: Bus
+  RouteNumbers: 745, 747
+  RouteDescription: Seaford Circuit
+  EffectiveDates: 26/1/21
+  VersionNumber: 17
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 820, 821, 862
   RouteDescription: City-Carey Gully & Stirling-Loreto College
@@ -2687,6 +2711,12 @@
   DistributionList: TBA
   VersionNumber: 4
 - PrimaryMode: Bus
+  RouteNumbers: C1, C2, J1, J2, N1 163
+  RouteDescription: Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
+  EffectiveDates: 26/1/21
+  VersionNumber: 5
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Blair Athol-Marion
   EffectiveDates: 27/1/14
@@ -2729,7 +2759,14 @@
   RouteNumbers: G10, N10, N21
   RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 14/12/20
+  SupercededDate: 26/1/21
   VersionNumber: 20
+- PrimaryMode: Bus
+  RouteNumbers: G10, N10, N21
+  RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
+  EffectiveDates: 26/1/21
+  VersionNumber: 21
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: G20, G21, G22, 320, N10, N21
   RouteDescription: City-Aberfoyle Hub
@@ -2766,7 +2803,14 @@
   RouteNumbers: G20, G21, G22X, 320, N10, N21
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
   EffectiveDates: 14/12/20
+  SupercededDate: 26/1/21
   VersionNumber: 17
+- PrimaryMode: Bus
+  RouteNumbers: G20, G21, G22X, 320, N10, N21
+  RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
+  EffectiveDates: 26/1/21
+  VersionNumber: 18
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: G40
   RouteDescription: Golden Grove-Flinders Uni
@@ -2805,6 +2849,12 @@
   RouteDescription: Golden Grove to Flinders University via city
   EffectiveDates: 5/7/20
   VersionNumber: 13
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: 'G40'
+  RouteDescription: Golden Grove to Flinders University via city
+  EffectiveDates: 26/1/21
+  VersionNumber: 14
   DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
@@ -2851,6 +2901,12 @@
   VersionNumber: 18
   DistributionList: TBA
 - PrimaryMode: Bus
+  RouteNumbers: H20, H21, 580
+  RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
   EffectiveDates: 27/1/14
@@ -2887,6 +2943,12 @@
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 5/7/20
   VersionNumber: 12
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: H22, H23, H24, H32, N22
+  RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
+  EffectiveDates: 26/1/21
+  VersionNumber: 13
   DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
@@ -2926,6 +2988,12 @@
   VersionNumber: 17
   DistributionList: TBA
 - PrimaryMode: Bus
+  RouteNumbers: H30, X30, 530, N30
+  RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 19
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: H33
   RouteDescription: Rostrevor-Henley Beach via Cheadle St
   EffectiveDates: 27/1/14
@@ -2963,6 +3031,12 @@
   VersionNumber: 13
   DistributionList: TBA
 - PrimaryMode: Bus
+  RouteNumbers: 'H33'
+  RouteDescription: Henley Beach to city & Rostrevor
+  EffectiveDates: 26/1/21
+  VersionNumber: 14
+  DistributionList: TBA
+- PrimaryMode: Bus
   RouteNumbers: J1, J2,  162
   RouteDescription: Jetbus
   EffectiveDates: 27/1/14
@@ -2993,6 +3067,12 @@
   RouteDescription: Adelaide Airport to city
   EffectiveDates: 5/7/20
   VersionNumber: 3
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: J1, J2 (Adelaide Airport Bus Timetable)
+  RouteDescription: Adelaide Airport to city
+  EffectiveDates: 26/1/21
+  VersionNumber: 4
   DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: J7, J8, 371,372
@@ -3102,6 +3182,12 @@
   RouteDescription: Marion Centre to Paradise, St Marys to Marden
   EffectiveDates: 5/7/20
   VersionNumber: 16
+  DistributionList: TBA
+- PrimaryMode: Bus
+  RouteNumbers: W90, W91
+  RouteDescription: Marion Centre to Paradise, St Marys to Marden
+  EffectiveDates: 26/1/21
+  VersionNumber: 17
   DistributionList: TBA
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
