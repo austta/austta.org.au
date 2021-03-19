@@ -615,18 +615,21 @@
   RouteNumbers: 195, 196, 197X
   RouteDescription: Blackwood to city, Coromandel Station to city
   EffectiveDates: 14/10/18
+  SupercededDate: 5/7/20
   VersionNumber: 14
   DistributionList: Nov-18
 - PrimaryMode: Bus
   RouteNumbers: 195, 196, 197X
   RouteDescription: Blackwood to city, Coromandel Station to city
   EffectiveDates: 5/7/20
+  SupercededDate: 26/1/21
   VersionNumber: 15
 - PrimaryMode: Bus
   RouteNumbers: 195, 196, 197X
   RouteDescription: Blackwood to city, Coromandel Station to city
   EffectiveDates: 26/1/21
   VersionNumber: 16
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteDescription: Hyde Park and Westbourne Park Bus Service
   EffectiveDates: 13/11/55
@@ -668,6 +671,7 @@
   RouteNumbers: 200
   RouteDescription: Marion Centre, Panorama, Clapham & Colonel Light Gardens to city
   EffectiveDates: 5/7/20
+  SupercededDate: 26/1/21
   VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 200
@@ -1429,6 +1433,7 @@
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
   EffectiveDates: 5/7/20
+  SupercededDate: 26/1/21
   VersionNumber: 24
 - PrimaryMode: Bus
   RouteNumbers: '300'
@@ -1548,6 +1553,7 @@
   RouteNumbers: 401, 403, 900
   RouteDescription: Paralowie to Salisbury, Salisbury North to Salisbury, Elizabeth to Salisbury via Virginia
   EffectiveDates: 27/1/19
+  SupercededDate: 5/7/20
   VersionNumber: 6
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -1555,6 +1561,7 @@
   RouteDescription: Paralowie to Salisbury, Salisbury North to Salisbury, Elizabeth to Salisbury via Virginia
   EffectiveDates: 5/7/20
   VersionNumber: 7
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 404, 405
   RouteDescription: Salisbury-Paralowie
@@ -1875,6 +1882,7 @@
   RouteNumbers: 540, 541, N541
   RouteDescription: Tea Tree Plaza & city via O-Bahn, Golden Grove & Fairview Park to Tea Tree Plaza & city via O-Bahn, City to Fairview Park via O-Bahn & Tea Tree Plaza
   EffectiveDates: 27/1/19
+  SupercededDate: 26/1/21
   VersionNumber: 9
   DistributionList: Feb-19
 - PrimaryMode: Bus
@@ -1882,6 +1890,7 @@
   RouteDescription: Tea Tree Plaza & city via O-Bahn, Golden Grove & Fairview Park to Tea Tree Plaza & city via O-Bahn, City to Fairview Park via O-Bahn & Tea Tree Plaza
   EffectiveDates: 26/1/21
   VersionNumber: 10
+  DistributionList: TBA
 - PrimaryMode: Bus
   RouteNumbers: 542, 542X, N541
   RouteDescription: City-Fairview Pk
@@ -2441,6 +2450,7 @@
   RouteNumbers: 723F, 723X, 733
   RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
   EffectiveDates: 5/7/20
+  SupercededDate: 26/1/21
   VersionNumber: 17
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
