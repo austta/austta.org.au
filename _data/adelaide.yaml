@@ -99,13 +99,13 @@
   RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 100, 101
   RouteDescription: Arndale to Glen Osmond, Arndale to Flinders University
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: B10, B11, B12, 312
   RouteDescription: Magill-West Lakes, Tennyson via Grange Rd
@@ -136,13 +136,13 @@
   RouteDescription: Magill to city
   EffectiveDates: 5/7/20
   VersionNumber: 3
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '106'
   RouteDescription: Magill to city
   EffectiveDates: 26/1/21
   VersionNumber: 4
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
@@ -161,13 +161,13 @@
   RouteDescription: West Lakes to city
   EffectiveDates: 5/7/20
   VersionNumber: 3
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 110, 112
   RouteDescription: West Lakes to city
   EffectiveDates: 26/1/21
   VersionNumber: 4
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 115, 117, 118
   RouteDescription: City-West Lakes/Pt Adelaide via Crittenden Rd
@@ -205,13 +205,13 @@
   RouteDescription: West Lakes to city, Port Adelaide to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 115, 117, 118
   RouteDescription: West Lakes to city, Port Adelaide to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 140, 144, 147, 148
   RouteDescription: City-Glen Osmond/Beaumont
@@ -243,13 +243,13 @@
   RouteDescription: City to GlenOsmond via Norwood, Glen Osmond to city, Beaumont to city
   EffectiveDates: 5/7/20
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 140, 144, 147
   RouteDescription: City to GlenOsmond via Norwood, Glen Osmond to city, Beaumont to city
   EffectiveDates: 26/1/21
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 141, 142
   RouteDescription: City-Stonyfell/Burnside
@@ -281,13 +281,13 @@
   RouteDescription: Stonyfell to city, Burnside to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 141, 142
   RouteDescription: Stonyfell to city, Burnside to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 150, 350, 352, 353
   RouteDescription: City-Osborne, Largs Bay-West Lakes, Port Adelaide-Semaphore
@@ -326,13 +326,13 @@
   RouteDescription: Osborne to city, North Haven to Port Adelaide
   EffectiveDates: 5/7/20
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 150, 333
   RouteDescription: Osborne to city, North Haven to Port Adelaide
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 155, 157, 376
   RouteDescription: City-West Lakes/Largs Bay, West Lakes-Delfin Island
@@ -371,13 +371,13 @@
   RouteDescription: West Lakes to city, Largs Bay to city, West Lakes via Delfin Island
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 155, 157, 376
   RouteDescription: West Lakes to city, Largs Bay to city, West Lakes via Delfin Island
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 167, 168, 169
   RouteDescription: City-Marleston & Glenelg via Richmond Rd
@@ -402,13 +402,13 @@
   RouteDescription: Glenelg to city
   EffectiveDates: 5/7/20
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 167, 168
   RouteDescription: Glenelg to city
   EffectiveDates: 26/1/21
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 170, 172
   RouteDescription: City-Urrbrae/Kingswood via Duthy St
@@ -433,13 +433,13 @@
   RouteDescription: Urrbrae to city, Kingswood to city
   EffectiveDates: 5/7/20
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 170, 172
   RouteDescription: Urrbrae to city, Kingswood to city
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 171, 173
   RouteDescription: City-Mitcham Square & Blackwood via Fullarton Rd
@@ -464,13 +464,13 @@
   RouteDescription: Mitcham Square to city, Blackwood to city
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 171, 173
   RouteDescription: Mitcham Square to city, Blackwood to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 174, N178
   RouteDescription: City-Paradise /Newton via Payneham Rd
@@ -502,13 +502,13 @@
   RouteDescription: Paradise to city, Newton to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 174, N178
   RouteDescription: Paradise to city, Newton to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 177, 178, 179, 579, N178
   RouteDescription: City-Athelstone/Paradise via Payneham Rd
@@ -547,13 +547,13 @@
   RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 176, 178, 578, 578, N178
   RouteDescription: Athelstone to city, Paradise to city, Newton & Athelstone to city, Athelstone to Paradise, Newton to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '190'
   RouteDescription: City-Glenelg via Raglan Av
@@ -585,13 +585,13 @@
   RouteDescription: Glenelg to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '190'
   RouteDescription: Glenelg to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 195, 196, 197X
   RouteDescription: City-Blackwood via Unley Rd
@@ -629,7 +629,7 @@
   RouteDescription: Blackwood to city, Coromandel Station to city
   EffectiveDates: 26/1/21
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteDescription: Hyde Park and Westbourne Park Bus Service
   EffectiveDates: 13/11/55
@@ -678,7 +678,7 @@
   RouteDescription: Marion Centre, Panorama, Clapham & Colonel Light Gardens to city
   EffectiveDates: 26/1/21
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteDescription: North Walkerville, Northfield and Gilles Plains Bus Service
   EffectiveDates: 13/11/55
@@ -727,7 +727,7 @@
   RouteDescription: Ingle Farm to city, Tea Tree Plaza, Ingle Farm to city
   EffectiveDates: 26/1/21
   VersionNumber: 21
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 204, 208, 528
   RouteDescription: City-Northgate/Paradise
@@ -766,7 +766,7 @@
   RouteDescription: Northgate to city, Paradise to city, Northgate to city
   EffectiveDates: 26/1/21
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '222'
   RouteDescription: City-Mawson Interchange
@@ -815,13 +815,13 @@
   RouteDescription: Mawson Lakes to city
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '222'
   RouteDescription: Mawson Lakes to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 224, 226F, N224
   RouteDescription: City-Elizabeth via Salisbury Hwy
@@ -860,13 +860,13 @@
   RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
   EffectiveDates: 5/7/20
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 224, N224
   RouteDescription: Elizabeth to city, Gawler & Elizabeth to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Gepps Cross or Mawson Lakes-Salisbury via Northbri Av
@@ -905,13 +905,13 @@
   RouteDescription: Salisbury to city
   EffectiveDates: 5/7/20
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '225'
   RouteDescription: Salisbury to city
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '228'
   RouteDescription: City-Smithfield via Main North Rd
@@ -957,13 +957,13 @@
   RouteDescription: Smithfield to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 228
   RouteDescription: Smithfield to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: City-Para Hills via Pooraka
@@ -1002,13 +1002,13 @@
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '229'
   RouteDescription: Para Hills to Gepps Cross & city. Also shows 228 & 228F
   EffectiveDates: 26/1/21
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: City-Port Adelaide/West Lakes via Croydon Park
@@ -1040,7 +1040,7 @@
   RouteDescription: Port Adelaide to city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 230, 232
   RouteDescription: Port Adelaide to city
@@ -1051,7 +1051,7 @@
   RouteDescription: Port Adelaide to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 235, 238, 239
   RouteDescription: City-Kilburn/Valley View/Mawson Lakes/Arndale
@@ -1102,7 +1102,7 @@
   RouteDescription: Kilburn to city, UniSA Mawson Lakes Campus to city, Arndale to city
   EffectiveDates: 26/1/21
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 241, 245, 248
   RouteDescription: City-Warradale/Marion
@@ -1147,7 +1147,7 @@
   RouteDescription: Marion Centre & Oaklands Park to city, Hove to city, Marion Centre & Warradale to city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 251, 252
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Liberty Grove
@@ -1185,7 +1185,7 @@
   RouteDescription: Mansfield Park to city, Port Adelaide to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 253, 254
   RouteDescription: City-Mansfield Pk/Pt Adelaide via Hanson Rd
@@ -1223,7 +1223,7 @@
   RouteDescription: Mansfield Park to city, Port Adelaide to city, Semaphore & Port Adelaide to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 262, 263, 265, N262
   RouteDescription: City-Marion via Glenelg
@@ -1261,7 +1261,7 @@
   RouteDescription: Marion Centre to city, Marion Centre, Brighton & Glenelg to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 271, 273
   RouteDescription: City-Tea Tree Plaza/Paradise via North East Rd
@@ -1300,7 +1300,7 @@
   RouteDescription: Tea Tree Plaza to city, Paradise to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '281'
   RouteDescription: City-Paradise
@@ -1339,13 +1339,13 @@
   RouteDescription: Paradise to city
   EffectiveDates: 5/7/20
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 281
   RouteDescription: Paradise to city
   EffectiveDates: 26/1/21
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 287, 288
   RouteDescription: City-Henley Beach/West Lakes via Ashley St
@@ -1377,13 +1377,13 @@
   RouteDescription: Henley Beach to city, West Lakes to city
   EffectiveDates: 5/7/20 
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 286, 287, 288
   RouteDescription: Henley Beach to city, West Lakes to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '300'
   RouteDescription: Suburban Connector
@@ -1440,7 +1440,7 @@
   RouteDescription: Suburban Connector
   EffectiveDates: 26/1/21
   VersionNumber: 25
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '333'
   RouteDescription: Outer Harbor-Port Adelaide
@@ -1498,7 +1498,7 @@
   RouteDescription: Port Adelaide to Tea Tree Plaza
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 400, 421
   RouteDescription: Elizabeth-Salisbury North & Salisbury-DSTO
@@ -1523,7 +1523,7 @@
   RouteDescription: Elizabeth & Salisbury to Salisbury North, BAE Systems to Salisbury via Edinburgh RAAF Base & Old Defence Science and Technology Organisation
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 401, 403, 900
   RouteDescription: Salisbury-Paralowie/Virginia
@@ -1561,7 +1561,7 @@
   RouteDescription: Paralowie to Salisbury, Salisbury North to Salisbury, Elizabeth to Salisbury via Virginia
   EffectiveDates: 5/7/20
   VersionNumber: 7
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 404, 405
   RouteDescription: Salisbury-Paralowie
@@ -1586,7 +1586,7 @@
   RouteDescription: Salisbury to Paralowie Anti-clockwise loop service, Salisbury to Paralowie Clockwise loop service
   EffectiveDates: 5/7/20
   VersionNumber: 9
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '407'
   RouteDescription: Waterloo Corner - Elizabeth Interchange
@@ -1630,13 +1630,13 @@
   RouteDescription: Salisbury to Mawson Lakes
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '411'
   RouteDescription: Salisbury to Mawson Lakes
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 415, 415H, 415V, 430
   RouteDescription: Salisbury-Greenwith/Hillbank
@@ -1661,7 +1661,7 @@
   RouteDescription: Salisbury to Greenwith, Salisbury to Golden Grove, Elizabeth to Salisbury
   EffectiveDates: 5/7/20
   VersionNumber: 7
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 440, 441, 442, 443
   RouteDescription: Elizabeth-Munno Para/Smithfield
@@ -1686,7 +1686,7 @@
   RouteDescription: Munno Para to Elizabeth, Smithfield to Elizabeth, Elizabeth to Munno Para loop
   EffectiveDates: 5/7/20
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 451, 452, 461, 462
   RouteDescription: Elizabeth-Munno Para
@@ -1718,7 +1718,7 @@
   RouteDescription: Munno Para & Andrews Farm to Elizabeth, Munno Para & Smithfield Plains to Elizabeth, Munno Para to Munno Para West loop service, Munno Para to Angle Vale loop service
   EffectiveDates: 5/7/20
   VersionNumber: 8
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 491, 492, 493, 494
   RouteDescription: Gawler Local Services
@@ -1743,7 +1743,7 @@
   RouteDescription: Hewett Circuit Clockwise loop, Gawler East Circuit Anti-clockwise loop, Gawler East Circuit Clockwise loop, Gawler South Circuit Clockwise loop, Gawler South Circuit Anti-clockwise loop
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 500, 501, 502, N502
   RouteDescription: City-Elizabeth/Mawson Lakes
@@ -1775,13 +1775,13 @@
   RouteDescription: Elizabeth to city, Mawson Lakes to Paradise & city, Salisbury to Paradise & city, Salisbury to city
   EffectiveDates: 5/7/20
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 500, 501, 502, N502
   RouteDescription: Elizabeth to city, Mawson Lakes to Paradise & city, Salisbury to Paradise & city, Salisbury to city
   EffectiveDates: 26/1/21
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 503, 507
   RouteDescription: City-Tea Tree Plaza/Holden Hill
@@ -1813,7 +1813,7 @@
   RouteDescription: Tea Tree Plaza to Pardise & city
   EffectiveDates: 26/1/21
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 506, 546
   RouteDescription: Paradise-Tea Tree Plaza via Para Hills
@@ -1851,7 +1851,7 @@
   RouteDescription: Tea Tree Plaza to Paradise & city via Para Hills, City to Para Hils via Tea Tree Plaza
   EffectiveDates: 26/1/21
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 541, N541
   RouteDescription: City-Fairview Pk/Golden Grove
@@ -1890,7 +1890,7 @@
   RouteDescription: Tea Tree Plaza & city via O-Bahn, Golden Grove & Fairview Park to Tea Tree Plaza & city via O-Bahn, City to Fairview Park via O-Bahn & Tea Tree Plaza
   EffectiveDates: 26/1/21
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 542, 542X, N541
   RouteDescription: City-Fairview Pk
@@ -1922,7 +1922,7 @@
   RouteDescription: Fairview Park to Tea Tree Plaza
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '543'
   RouteDescription: City-Surrey Downs
@@ -1954,7 +1954,7 @@
   RouteDescription: Surrey Downs to Tea Tree Plaza & city
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: M44
   RouteDescription: Marion-Golden Grove
@@ -1999,7 +1999,7 @@
   RouteDescription: Golden Grove to city, Golden Grove, Tea Tree Plaza & city to Marion Centre
   EffectiveDates: 26/1/21
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '545'
   RouteDescription: City-Golden Grove via McIntyre Rd
@@ -2037,7 +2037,7 @@
   RouteDescription: Golden Grove to Tea Tree Plaza & city
   EffectiveDates: 26/1/21
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 548  591A  591C
   RouteDescription: City-Golden  Grove
@@ -2071,7 +2071,7 @@
   RouteDescription: Golden Grove & Greenwith to Tea Tree Plaza & city, Golden Grove to Greenwith
   EffectiveDates: 26/1/21
   VersionNumber: 7
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 556, 557, 559
   RouteDescription: City-Tea Tree Plaza via St Agnes/Tea Tree Gully
@@ -2109,7 +2109,7 @@
   RouteDescription: Tea Tree Plaza & Hope Valley to Paradise & city, Tea Tree Plaza & St Agnes to Paradise & city
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 560, 565
   RouteDescription: Elizabeth-Tea Tree Plaza & Mawson Interchange-Ingle Farm
@@ -2134,7 +2134,7 @@
   RouteDescription: Elizabeth to Tea Tree Plaza, Mawson to Ingle Farm, Mawson to Golden Grove
   EffectiveDates: 5/7/20
   VersionNumber: 7
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 591, 592, 593
   RouteDescription: Golden Grove-Petworth Lakes/Greenwith
@@ -2178,13 +2178,13 @@
   RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
   EffectiveDates: 5/7/20
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 600, 601, 605, G30F
   RouteDescription: Old Reynella, Aberfoyle Hub & Blackwood to Marion, Old Reynella, Aberfoyle Hub & Blackwood to Marion, Darlington to Blackwood, Blackwood to city
   EffectiveDates: 26/1/21
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
   RouteDescription: City-Flinders Uni/Old Reynella Interchange
@@ -2215,13 +2215,13 @@
   RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 640, 719, 720
   RouteDescription: Marino to Marion Centre Interchange, Flinders University to city, Old Reynella Interchange to city
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 645, 646
   RouteDescription: Marion-Seaview Downs/Seacombe Hts
@@ -2253,7 +2253,7 @@
   RouteDescription: Seaview Downs to Marion Centre, Seacombe Heights to Marion Centre
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 681, 682, 683
   RouteDescription: Hallett Cove Beach Stn-Hallett Cove/Sheidow Pk
@@ -2292,7 +2292,7 @@
   RouteDescription: Hallet Cove to Flinders University, Hallet Cove to Sheidow Park, Hallet Cove
   EffectiveDates: 26/1/21
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: City-Noarlunga Centre Interchange via Main Road South
@@ -2344,13 +2344,13 @@
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 5/7/20
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 721, T721, N721
   RouteDescription: Noarlunga & Old Reynella to Flinders & city, Noarlunga to city, Seaford & Colonnades to city
   EffectiveDates: 26/1/21
   VersionNumber: 15
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: City-Noarlunga Centre via States Rd
@@ -2407,13 +2407,13 @@
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 5/7/20
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 722, T722
   RouteDescription: Noarlunga to Old Reynella & city, Seaford to city
   EffectiveDates: 26/1/21
   VersionNumber: 20
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 723F, 723X, 733
   RouteDescription: City/Marion-Colonnades Shopping Centre via Woodcroft
@@ -2457,7 +2457,7 @@
   RouteDescription: Colonnades & Noarlunga to city, Woodcroft to city, Colonnades & Noarlunga to Marion
   EffectiveDates: 26/1/21
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 724, 734
   RouteDescription: Colonnades Shopping Centre-Marion
@@ -2494,7 +2494,7 @@
   RouteDescription: Noarlunga & Southgate to Old Reynella
   EffectiveDates: 26/1/21
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '734'
   RouteDescription: Colonnades & Noarlunga to Marion
@@ -2513,7 +2513,7 @@
   RouteDescription: Colonnades & Noarlunga to Marion
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: '737'
   RouteDescription: Chanders Hill-Old Reynella Interchange
@@ -2538,7 +2538,7 @@
   RouteDescription: Chanders Hill to Old Reynella
   EffectiveDates: 26/1/21
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 740, 741, 750, 751, 752, 755, 756
   RouteDescription: Seaford to Aldinga/Sellicks Beach
@@ -2577,7 +2577,7 @@
   RouteDescription: Maslin Beach to Colonnades, Sellicks Beach to Colonnades, Aldinga to Colonnades, McLaren Flat to McLaren Vale, Aldinga Beach to Seaford, Port Willunga to Noarlunga
   EffectiveDates: 26/1/21
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 743, 744
   RouteDescription: 'Noarlunga Centre Interchange to Huntfield Heights '
@@ -2616,7 +2616,7 @@
   RouteDescription: Noarlunga Centre to Huntfield Heights
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 745, 747
   RouteDescription: Seaford Circuit
@@ -2655,7 +2655,7 @@
   RouteDescription: Seaford Circuit
   EffectiveDates: 26/1/21
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 820, 821, 862
   RouteDescription: City-Carey Gully & Stirling-Loreto College
@@ -2673,7 +2673,7 @@
   RouteDescription: City-Carey Gully & Stirling-Loreto College
   EffectiveDates: 5/7/20
   VersionNumber: 7
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 823, 840, 863, 860F, 864, N864
   RouteDescription: City-Aldgate & Mt Barker
@@ -2698,7 +2698,7 @@
   RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
   EffectiveDates: 5/7/20
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 823, 840X, T840, T843, 860F, T863, 864, N864
   RouteDescription: Crafers to Cleland Wildlife Park, Mount Barker to city, Aldgate to city
@@ -2721,13 +2721,13 @@
   RouteDescription: Lobethal to city, Verdun to Lobethal, Lobethal to Mount Barker, Mount Barker to Hahndorf, Handdorf to Mount Barker
   EffectiveDates: 5/7/20
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 830F, 834, 835, HL1, HL2
   RouteDescription: Lobethal to city, Verdun to Lobethal, Lobethal to Mount Barker, Mount Barker to Hahndorf, Handdorf to Mount Barker
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 837, 841F, 842X, T842
   RouteDescription: City-Nairne
@@ -2745,7 +2745,7 @@
   RouteDescription: Nairne to Mount Baker, Nairne to city
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 838, 839
   RouteDescription: Mt Barker East & West
@@ -2769,7 +2769,7 @@
   RouteDescription: Mount Barker east Clockwise loop service, Mount Barker west Clockwise loop service
   EffectiveDates: 5/7/20
   VersionNumber: 10
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 850, 852
   RouteDescription: Macclesfield/Strathalbyn/Echunga
@@ -2787,7 +2787,7 @@
   RouteDescription: Macclesfield to Aldgate, Strathalbyn to Mount Barker
   EffectiveDates: 5/7/20
   VersionNumber: 6
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 861, N864
   RouteDescription: City-Glen Osmond
@@ -2805,7 +2805,7 @@
   RouteDescription: Glen Osmond to city, Mount Barker to city via Glen Osmond
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 865, 866, 867, 868
   RouteDescription: City-Aldgate & Crafers-Stirling
@@ -2823,7 +2823,7 @@
   RouteDescription: Aldgate to city, Stirling to Crafers
   EffectiveDates: 5/7/20
   VersionNumber: 8
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 892, 893, 894
   RouteDescription: Aldgate-Blackwood Stn
@@ -2848,7 +2848,7 @@
   RouteDescription: Urrbrae to Aldgate, Aldgate to Blackwood
   EffectiveDates: 5/7/20
   VersionNumber: 9
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteDescription: Findon Motor Bus Service
   EffectiveDates: 11/12/55
@@ -2890,14 +2890,14 @@
   RouteNumbers: C1, C2, J1, J2, N1 163
   RouteDescription: Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
   EffectiveDates: 5/7/20
-  DistributionList: TBA
+  DistributionList: April-21
   VersionNumber: 4
 - PrimaryMode: Bus
   RouteNumbers: C1, C2, J1, J2, N1 163
   RouteDescription: Golden Grove to city, Greenwith to City, Elizabeth, Golden Grove & Tea Tree Plaza to Adelaide Airport & Glenelg via City, Greenwith, Golden Grove & Tee Tree Plaza to Harbour Town & Glenelg via city, Golden Grove & Tea Tree Plaza to city, City to West Beach
   EffectiveDates: 26/1/21
   VersionNumber: 5
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Blair Athol-Marion
@@ -2936,7 +2936,7 @@
   RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 5/7/20
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: G10, N10, N21
   RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
@@ -2947,7 +2947,7 @@
   RouteDescription: Marion Centre & city to Blair Athol, Marion Centre to city, City to Aberfoyle Hub
   EffectiveDates: 26/1/21
   VersionNumber: 21
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: G20, G21, G22, 320, N10, N21
   RouteDescription: City-Aberfoyle Hub
@@ -2979,7 +2979,7 @@
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
   EffectiveDates: 5/7/20
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: G20, G21, G22X, 320, N10, N21
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
@@ -2990,7 +2990,7 @@
   RouteDescription: Aberfoyle Hub to city, Aberfoyle Hub to Marion Centre, Marion Centre to city, City to Aberfoyle Hub via Marion Centre
   EffectiveDates: 26/1/21
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: G40
   RouteDescription: Golden Grove-Flinders Uni
@@ -3029,13 +3029,13 @@
   RouteDescription: Golden Grove to Flinders University via city
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 'G40'
   RouteDescription: Golden Grove to Flinders University via city
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Paradise-Glenelg via Marion Rd
@@ -3079,13 +3079,13 @@
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
   EffectiveDates: 5/7/20
   VersionNumber: 18
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H20, H21, 580
   RouteDescription: Glenelg to Paradise via city, City to Paradise, Keswick to Paradise
   EffectiveDates: 26/1/21
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Wattle Park-Henley Beach South
@@ -3123,13 +3123,13 @@
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 5/7/20
   VersionNumber: 12
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H22, H23, H24, H32, N22
   RouteDescription: Henley Beach South to Wattle Park, City to Auldana, Henley Beach South to city, City to Wattle Park
   EffectiveDates: 26/1/21
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H30, N30
   RouteDescription: Paradise-West Lakes via Henley Beach Rd
@@ -3166,13 +3166,13 @@
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
   EffectiveDates: 5/7/20
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H30, X30, 530, N30
   RouteDescription: West Lakes to Paradise, Firle to City, West lakes to city
   EffectiveDates: 26/1/21
   VersionNumber: 19
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: H33
   RouteDescription: Rostrevor-Henley Beach via Cheadle St
@@ -3209,13 +3209,13 @@
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 5/7/20
   VersionNumber: 13
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: 'H33'
   RouteDescription: Henley Beach to city & Rostrevor
   EffectiveDates: 26/1/21
   VersionNumber: 14
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: J1, J2,  162
   RouteDescription: Jetbus
@@ -3247,13 +3247,13 @@
   RouteDescription: Adelaide Airport to city
   EffectiveDates: 5/7/20
   VersionNumber: 3
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: J1, J2 (Adelaide Airport Bus Timetable)
   RouteDescription: Adelaide Airport to city
   EffectiveDates: 26/1/21
   VersionNumber: 4
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: J7, J8, 371,372
   RouteDescription: West Lakes-Marion
@@ -3285,7 +3285,7 @@
   RouteDescription: West Lakes to Marion Centre, West Lakes via Seaton
   EffectiveDates: 5/7/20
   VersionNumber: 11
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre Interchange - Marden
@@ -3317,13 +3317,13 @@
   RouteDescription: Marion Centre to Paradise, St Marys to Marden
   EffectiveDates: 5/7/20
   VersionNumber: 16
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Bus
   RouteNumbers: W90, W91
   RouteDescription: Marion Centre to Paradise, St Marys to Marden
   EffectiveDates: 26/1/21
   VersionNumber: 17
-  DistributionList: TBA
+  DistributionList: April-21
 - PrimaryMode: Train
   RouteDescription: Train Map [Includes  Tram] (Website only)
   EffectiveDates: 1/2/17

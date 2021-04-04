@@ -22,8 +22,9 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 The latest two issues are for members only
 -->
 
+* April 2021 (members only)
 * March 2021 (members only)
-* February 2021 (members only)
+* [February 2021]({{ site.named_cdn_url }}/thetimes202102issue.pdf) 2,716kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [January 2021]({{ site.named_cdn_url }}/thetimes202101issue.pdf) 2,600kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [December 2020]({{ site.named_cdn_url }}/thetimes202012issue.pdf) 3,036kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2020]({{ site.named_cdn_url }}/thetimes202011issue.pdf) 2,240kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

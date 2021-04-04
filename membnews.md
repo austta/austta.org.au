@@ -14,6 +14,21 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## April 2021
+
+### Update on National Timetable Collection
+
+With the COVID-related hiatus in activity now behind us, working bees for the National Timetable Collection have recommenced at Prahran this year. A total of 12 people have so far been able to continue the sorting and culling of the many timetables now in our possession. It is hoped that work to sort and catalogue bus timetables that was started earlier last year by a small group in Sydney can also restart soon. Cataloguing of railway working timetables from NSW and Victoria has been recently completed and these are now almost ready to be lodged with the State Library of Victoria.
+Recent sorting has also enabled us to have a large number of additional timetables ready to be catalogued. The process of cataloguing can be completed by anyone who has access to a computer and no special computing skills are necessary. Timetables can be sent to those interested in helping with this work so that the work can be completed from home. Training and advice can be readily provided by phone or email. Please contact Len Regan if you are interested in helping with any aspect of the National Timetable Collection or simply interested to know more about any aspect of the project.
+
+<p style="text-align:right">Len Regan, <treasurer@timetable.org.au> Richard May, <secretary@timetable.org.au></p>
+
+### Update on Distribution Service
+
+The February List received twenty-eight orders with the Metro Melbourne working and public timetables, Adelaide Seaford and Tonsley Lines train timetable, and Ventura, Melbourne bus timetables popular. The March List has received twenty orders with the Sydney Trains and NSW Trainlink working timetables popular along with the regional Victoria bus timetables from Bendigo, Geelong, Sale and Kilmore/Seymour/Wallan. David Whiteford has supplied sets of recent Transperth bus timetables and these are available in the April List. In addition, Michael Marshall has obtained a good number of the recent Melbourne bus timetables from PTV for the April List. Also,for the April List, Alex Sims has provided complete sets of current Adelaide Metro bus timetables (except already provided City Connector service) and some superseded timetables. Although the proposed new Adelaide bus network has not been implemented recent bus timetables effective 5 July 2020 and 26 January 2021 reflect repositioning of bus stops and time changes on the current network.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## March 2021
 
 ### Report on ATA Committee Meeting Wednesday 17 February 2021
