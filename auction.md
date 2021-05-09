@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 136 April 2021]({{ site.named_cdn_url }}/auctioncatalog202104issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway maps, guides & brochures.
+* [Auction 137 May 2021]({{ site.named_cdn_url }}/auctioncatalog202105issue.pdf) (124kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Railway DVDs.
 
 ## Previous catalogues
 
+* [Auction 136 April 2021]({{ site.named_cdn_url }}/auctioncatalog202104issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway maps, guides & brochures.
 * [Auction 135 March 2021]({{ site.named_cdn_url }}/auctioncatalog202103issue.pdf) (52kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
 * [Auction 134 February 2021]({{ site.named_cdn_url }}/auctioncatalog202102issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
 * [Auction 133 January 2021]({{ site.named_cdn_url }}/auctioncatalog202101issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is NSW and SA train working timetables & notices.

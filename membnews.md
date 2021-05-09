@@ -14,6 +14,33 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## May 2021
+
+### ATA Zoom Meeting Saturday 12 June 14:00 AEST
+
+The Sydney Division will be hosting another ATA Zoom meeting on Saturday 12 June from 14:00 to 16:00 AEST (13:30 from SA, 12:00 from WA). All are welcome to join this meeting. We held a successful meeting last year and we look forward to seeing you again. On the day, open the link <https://uni-sydney.zoom.us/j/87000110044> on your browser to join the meeting but you will need to have the Zoom client installed first <https://zoom.us/download>. Please contact Geoffrey Clifton at <geoffrey.clifton@sydney.edu.au> or [0405&nbsp;387&nbsp;478]([tel:+61405387478]) for help on getting online. You can also join the meeting by phone, audio only. Contact Geoffrey or myself for details. The Sydney Division will be hosting our Annual General Meeting later in the year. Details are yet to be finalized.
+
+### New premises for National Timetable Collection
+
+We applied for a lease of the empty building at Windsor Station in September 2020. However, the only response so far from VicTrack is that our proposed use of the building is acceptable. We had certainly planned and budgeted to have moved from our current premises at PMI by now. The situation at PMI is such that we had to move to new premises as soon as possible.
+
+* The space available is not adequate to securely store all the NTC stock and ATA archives.
+* It is difficult to undertake NTC cataloguing in the space available.
+* The space is needed by the Victorian History Library.
+
+In the search for new temporary premises, pending a permanent outcome with VicTrack at Windsor Station, Steven Haby found premises nearby at 14-16 Wilson St South Yarra. They have been inspected by the NTC volunteers and deemed to be suitable. The secure brick building was previously used as an internet call centre, but the staff are now working at home. The desks and facilities are still available. A lease for a period of six months has been obtained. The NTC and ATA Archives were moved to the new location on 24 April 2021. Our thanks to the NTC team.
+
+### Membership Renewal 2021 – 2022
+
+With this May mailout you have received your Membership Renewal for 2021-2022. A prompt renewal is always appreciated. Membership fees remain the same as last year: $60 for normal membership and $36 for students. Members who are having financial hardship can pay a concessional membership of $30. All members with an email address will receive a Membership Renewal form by email – this caters for those who prefer the print version or email version.
+
+### ATA Auctions
+
+Auction 137, Railway DVDs, adopts a simpler bidding format. Details are in the Auction Catalogue.
+Initial planning is underway for a Live Auction by Zoom, conducted by Albert Isaacs, possibly in late October 2021. Please think about this opportunity for you to submit **QUALITY MATERIAL** you may wish to sell by Auction. More details will be included in the June 2021 Members News.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> [0409&nbsp;463&nbsp;209](tel:+61409463209)</p>
+
 ## April 2021
 
 ### Update on National Timetable Collection
