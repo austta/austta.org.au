@@ -62,6 +62,11 @@
   VersionNumber: 2
   DistributionList: Aug-20
 - PrimaryMode: Bus
+  RouteNumbers: 98C, 99C, 98A, 99A
+  RouteDescription: free CITY CONNECTOR EXPLORE ADELAIDE
+  EffectiveDates: 27/4/21
+  VersionNumber: 3
+- PrimaryMode: Bus
   RouteNumbers: 100, 101
   RouteDescription: Arndale-Glen Osmond & Flinders Uni
   EffectiveDates: 27/1/14
