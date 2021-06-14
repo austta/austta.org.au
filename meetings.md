@@ -25,4 +25,4 @@ at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1
 
 ## Sydney
 
-Sydney meetings are not currently scheduled. Enquiries to <Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478)
+Enquiries to <Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478)

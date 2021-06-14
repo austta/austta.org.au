@@ -14,6 +14,35 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## June 2021
+
+### ATA Zoom Meeting Saturday 12 June 14:00 AEST
+
+The Sydney Division will be hosting another ATA Zoom meeting on Saturday 12 June from 14:00 to
+16:00 AEST (13:30 from SA, 12:00 from WA). All are welcome to join this meeting. We held a
+successful meeting last year and we look forward to seeing you again. On the day, open the link https://... on your browser to join the meeting (do not share this
+link) but you will need to have the Zoom client installed first <https://zoom.us/download> . Please
+contact Geoffrey Clifton at <geoffrey.clifton@sydney.edu.au> or 0405 387 478 for help on getting
+online. You can also join the meeting by phone, audio only. Contact Geoffrey or myself for details.
+The Sydney Division will be hosting our Annual General Meeting later in the year. Details are yet to
+be finalized.
+
+### Membership Renewals
+
+Membership Renewal forms were sent out with the May 2021 mailout. Our many thanks go to the many members who have promptly renewed their membership – this is encouraging support for the Association. We encourage everyone else to renew their membership by 30 June 2021. The easiest way to renew is to send payment (usually $60) by EFT to BSB 034-083, account 163088. Other payment options are included on the Membership Renewal form.
+
+### ATA Live Auction by Zoom
+
+We are planning to replace one of our regular monthly Mail Auctions with a Live Auction by Zoom late in 2021. This is an Auction of quality material including timetables, booklets, books, tickets, memorabilia and ephemera about railways, trams, buses, ferries and airlines – Australia and worldwide. In general terms, quality material could be described as items with a minimum reserve price of $50. The Auction will be conducted by veteran Auctioneer and ATA Life Member Albert Isaacs, assisted by ATA member Stephen Ward.
+
+Now is the time to consider what interesting items you might have for inclusion in the Auction – items that have been stored in the attic or on bookshelves in the back room for years, waiting for a suitable opportunity to dispose of them. The Auction will be conducted under the ATA’s usual terms: you can donate the items to ATA, or you can sell them as a vendor and ATA takes 25% commission.
+
+If you have a number of items that are probably under the minimum reserve price of $50, we may consider accepting a bulk lot consisting of more than one individual item.
+
+At this early stage we ask you to send a description of your potential items for the Auction to <auction@timetable.org.au>. Your description should include your feelings about the condition of the lot. Albert will assess the suitability of your items. If acceptable, arrangements will then be made for you to submit the items. This is a unique opportunity to support the ATA as well as gain some benefits for yourself. Please give it some serious thought.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> [0409&nbsp;463&nbsp;209](tel:+61409463209)</p>
+
 ## May 2021
 
 ### ATA Zoom Meeting Saturday 12 June 14:00 AEST

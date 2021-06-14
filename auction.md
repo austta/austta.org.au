@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 137 May 2021]({{ site.named_cdn_url }}/auctioncatalog202105issue.pdf) (124kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Railway DVDs.
+* [Auction 138 June 2021]({{ site.named_cdn_url }}/auctioncatalog202106issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Melbourne and Adelaide tram timetables.
 
 ## Previous catalogues
 
+* [Auction 137 May 2021]({{ site.named_cdn_url }}/auctioncatalog202105issue.pdf) (124kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Railway DVDs.
 * [Auction 136 April 2021]({{ site.named_cdn_url }}/auctioncatalog202104issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway maps, guides & brochures.
 * [Auction 135 March 2021]({{ site.named_cdn_url }}/auctioncatalog202103issue.pdf) (52kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
 * [Auction 134 February 2021]({{ site.named_cdn_url }}/auctioncatalog202102issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian public railway timetables.
