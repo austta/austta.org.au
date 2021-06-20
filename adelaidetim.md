@@ -29,11 +29,11 @@ You can sort each column by pressing on the heading if you wish.
 <table class="sortable">
 <tbody>
 <tr>
-<th style="text-align:left">Description</td>
-<th style="text-align:left">Routes</td>
-<th>Effective</td>
-<th>Revision Number</td>
-<th>Distribution List</td>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">Routes</th>
+<th>Effective</th>
+<th>Revision Number</th>
+<th>Distribution List</th>
 </tr>
 {% for timetable in site.data.adelaide %}
 {% if timetable.SupercededDate == nil %}

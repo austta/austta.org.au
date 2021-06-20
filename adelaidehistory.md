@@ -14,11 +14,12 @@ Current timetables can be found on the [current list](./adelaidetim.html).
 <table>
 <tbody>
 <tr>
-<th style="text-align:left">Description</td>
-<th style="text-align:left">Routes</td>
-<th>Effective</td>
-<th>Superceded</td>
-<th>Revision Number</td>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">Routes</th>
+<th>Effective</th>
+<th>Superceded</th>
+<th>Revision Number</th>
+<th>Distribution List</th>
 </tr>
 {% for timetable in site.data.adelaide %}
 {% if timetable.SupercededDate != nil %}
@@ -28,6 +29,7 @@ Current timetables can be found on the [current list](./adelaidetim.html).
 <td>{{timetable.EffectiveDates}}</td>
 <td>{{timetable.SupercededDate}}</td>
 <td style="text-align:center">{{timetable.VersionNumber}}</td>
+<td style="text-align:center">{{timetable.DistributionList}}</td>
 </tr>
 {% endif %}
 {% endfor %}

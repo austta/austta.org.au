@@ -42,10 +42,10 @@ Last Updated August 2018
 <table>
 <tbody>
 <tr>
-<th style="text-align:left">Description</td>
-<th style="text-align:left">Routes</td>
-<th>Effective</td>
-<th>Distribution List</td>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">Routes</th>
+<th>Effective</th>
+<th>Distribution List</th>
 </tr>
 {% endif %}
 <tr>
