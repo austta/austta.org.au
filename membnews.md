@@ -14,6 +14,64 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## July 2021
+
+### Report on ATA Committee Meeting Wednesday 2 June 2021
+
+The ATA Committee met on Wednesday 2 June 2021. Committee member Steven Haby was able to organize a meeting by Zoom. Our thanks to Steven. Below, under report headings, are matters dealt with at the recent meeting.
+
+### Treasurer’s Report
+
+Our Treasurer, Len Regan, highlighted that there 
+were a range of issues impacting finances. These include rent on the South Yarra Property, higher monthly mailout costs and a smaller surplus from the Distribution Service and Auction. These issues were likely to result in no surplus for the current financial year.
+
+### Membership Report
+
+We welcome four new members, Jimmy Liu and Derek Cheng from Sydney, Steven Lau from Brisbane, and Ryan Orchard from Adelaide. Membership renewals were being received at the same rate as last year. A review has shown that it is now feasible to separate the roles of Treasurer and Membership Officer.
+
+### Distribution Service Report
+
+As timetables are now moving to an electronic format, Len Regan and I are looking to include information on recent electronic timetables in the Distribution List. Member Nick Hiscock has also brought this matter to our attention. The June List incorporated some direct links. The July List gives lists of timetables under the relevant web address. This is a service to members, producing no revenue, and feedback would be appreciated so we will know whether or not, to continue this service, or whether or not the Distribution List is the right place for this initiative.
+
+### Archives and NTC Report
+
+Len Regan has estimated that we could get 10,000 timetables to the State Library of Victoria by the end of the year. The outcome of our grant application under the Local History Grants Program should be known shortly.
+
+### ATA, Windsor Station & Victorian Parliament
+
+ATA applied to VicTrack in September 2020 for a community lease on the vacant building above Windsor Station. After 9 months there has been no determination by VicTrack. The ***local member for Prahran, Sam Hibbins,*** raised the matter in the Victorian Parliament on 10 June 2021. Here is an extract from his speech:
+
+*"The action I seek is for the Minister for Transport Infrastructure to work with VicTrack and the Australian Timetable Association to facilitate their tenancy of the vacant Windsor station building. It was great to hear from the Australian Timetable Association last year that they were interested in leasing the site.*
+
+*They are undertaking really important work preserving Australian public transport timetables for the State Library of Victoria. They have run out of space at the Prahran Mechanics Institute and have taken a short-term lease elsewhere. This site has been empty for many, many years. The Australian Timetable Association are in dire need of a new workspace. They are keen to lease this site, so I would ask that the minister work with VicTrack to provide the Association with clear information, timelines and processes for their application. Windsor station is a valuable and historic community landmark in the Prahran electorate. Leasing the building would have strong community benefit whilst respecting the station’s heritage listing and providing the Australian Timetable Association with a perfect location for their transport-related work."*
+
+***The Minister for Transport Infrastructure*** replied: *"I have now educated myself a lot about the Australian Timetable Association and the work they do and their desire to take up an opportunity to lease the Windsor station building. I will have to get some advice from VicTrack on both the process for the leasing arrangements around the Windsor station building and also the opportunities for the Association to be part of that process"*.
+
+### ATA Live Auction by Zoom
+
+We are looking forward to a Live Auction by Zoom late in 2021. At this stage interested members are asked to send a description of potential items for the Auction to <auction@timetable.org.au>. Your description should include your feelings about the condition of the lot. Albert Isaacs will assess the suitability of your items. If acceptable, arrangements will then be made for you to submit the items.
+
+### ATA Zoom Meeting 12 June 2021
+
+Geoffrey Clifton, our Sydney Convener, hosted a Zoom Meeting open to all members on Saturday 12 June from 2 to 4pm. Ten members attended from Sydney, Blue Mountains, NSW Central Coast, Newcastle, Melbourne and Canberra. Among other things, there was discussion of Sydney’s loop bus services such as 161 Manly to North Head and 100 Taronga Zoo to QVB. Geoffrey Clifton was endorsed as Online Convener, and he will continue to organise these meetings.
+
+### ATA AGM Saturday September 18 2pm AEST by Zoom
+
+Saturday September 18 2pm AEST has been set as the date for the ATA AGM. Due to continuing uncertainty
+regarding the possibly of various Covid restrictions, our Online Convener Geoffrey Clifton will organise a meeting by Zoom. Possibly our Melbourne members could join the meeting as a group at the PMI. Perhaps Sydney Members could also join as a group if a suitable venue is found. Members need to consider joining the ATA Committee so that our organisation can continue when our present office-bearers are no longer able to continue in their positions. In particular, we are looking to appoint a new Membership Officer. The official AGM documents, the formal notice, nomination form and proxy form, will be sent with the August mailout.
+
+### Ticket Collector’s Request
+
+ATA member Joe Hicks wants to know if there is anyone who collects Adelaide public transport tickets, and who would perhaps be willing to sell some. While anything from this sector would be greatly appreciated, there are a few specific things Joe would be willing to pay a fair bit for. They include anything from the ‘Crouzet era’ (1987-2012), specifically ticket blocks and employee related material, or special services tickets. If anyone could source these items, Joe would be happy to elaborate. Any help would be greatly appreciated. Please contact Joe if you think you might be able to help. His email address is <joefiegs@gmail.com>.
+
+### Vale Peter Hobbis
+
+We were saddened to recently hear of the passing of Adelaide Member Peter Hobbis. Peter joined the Australian Timetable Association soon after it was founded in the 1980s, and has remained an active member. In April 2013 he willingly accepted the position of Distribution Manager, a position he held with dignity until November 2016. Every month he diligently and meticulously processed the orders from Association members for timetables, and he actively collected Adelaide timetables for inclusion in the List. He also served with distinction for several years on the Association’s management committee. For many years Peter had various illnesses and he was the recipient of home care, which he appreciated. His determination to overcome his infirmities was a continuing inspiration to many. He enjoyed studying his working timetables on his lap while watching the football on television. In working together on the Distribution List Peter and I had a friendly competition to be
+the first to be aware of Adelaide service and timetable changes. On a visit to Adelaide many years ago, I was
+able to avoid a visit to the Adelaide Transport Information Centre as all my timetables were up to date, thanks to Peter and ATA. On behalf of ATA, I wish to extend our sympathy and condolences to David and Karen Hobbis and their family.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au></p>
+
 ## June 2021
 
 ### ATA Zoom Meeting Saturday 12 June 14:00 AEST
