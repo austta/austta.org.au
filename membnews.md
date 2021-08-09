@@ -14,6 +14,29 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## August 2021
+
+### ATA AGM Saturday September 18 2pm AEST by Zoom
+
+Saturday September 18 2pm AEST has been set as the date for the ATA AGM. Our Online Convener Geoffrey Clifton will organise a meeting by Zoom. Details of the link will be emailed to members in early September. Members need to consider joining the ATA Committee so that our organisation can continue when our present office-bearers are no longer able to continue in their positions. In particular, we are looking to appoint a new Membership Officer. The [official AGM documents, the formal notice, nomination form and proxy form]({{ site.named_cdn_url }}/agmpapers2021issue.pdf), have been sent with the August mailout
+
+### ATA Production Transferred to Melbourne
+
+Due to a Covid related lockdown of Sydney from 26 June, the print production and the postal mail out were transferred to Melbourne at short notice. Steven Haby was able to arrange for the printing of our journals at the Prahran Mechanics Institute, the mail out was collated and placed in envelopes ready for posting on Saturday July 3 by the Hawker team and Len Regan handled the postal despatch on Monday July 5. Our thanks to Steven, Len and the Melbourne team. Geoff Lambert provided the electronic despatch on July 5. Sydney members received their postal mail out at the end of that week. At the time of writing both Sydney and Melbourne were in lockdown. However, we hope to print and send the August mail out from Melbourne.
+
+### Distribution Service Report
+
+The June List attracted twenty-seven orders with the Sydney Trains and NSW Trainlink working timetables proving popular along with PTV and NSW regional bus timetables. At the time of writing the July List has attracted fifteen orders with PTV bus timetables once again being popular. The June List had incorporated some direct links to timetables. The July List gave lists of timetables under the relevant web address. This is a service to members, producing no revenue. To date feedback has only come from one member who endorsed this initiative. More feedback would be appreciated.
+
+### ATA Live Auction by Zoom
+
+We are looking forward to a Live Auction by Zoom late in 2021. At this stage interested members are asked to send a description of potential items for the Auction to <auction@timetable.org.au>. Your description should include your feelings about the condition of the lot. Albert Isaacs will assess the suitability of your items. If acceptable, arrangements will then be made for you to submit the items.
+
+### Ticket Collector’s Request
+
+In the July Members’ News a request was made on behalf of member Joe Hicks for Adelaide public
+transport tickets. Another Adelaide member was able to hand over his collection of tickets to Joe. This is an example of where ATA works well to bring members together.
+
 ## July 2021
 
 ### Report on ATA Committee Meeting Wednesday 2 June 2021
