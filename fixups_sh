@@ -41,7 +41,7 @@ for TABLE_TALK in ttalk201???.md
   done
 # copy in and rename PDFs
 # Robots.txt for CDN
-cp -p cdnb.robots.txt ../cdnb/robots.txt
+cp -p cdnb.robots.txt ../austta/robots.txt
 # special case copy and rename old files
 NEW_NAME="Timetable History Industrials.pdf"
 OLD_NAME="Timetable History In#BAC8C9.pdf"

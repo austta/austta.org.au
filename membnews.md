@@ -14,6 +14,26 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## September 2021
+
+### ATA AGM Saturday September 18 2pm AEST by Zoom
+
+Saturday September 18, 2pm AEST has been set as the date and time for the ATA AGM. Our Online Convener Geoffrey Clifton will organise a meeting by Zoom. Details of the link will be emailed to members in early September. Members need to consider joining the ATA Committee so that our organisation can continue. Len Regan, our treasurer would like to train a new treasurer to take over from him, so that he can concentrate on the National Timetable Collection. We are also looking to appoint a new Membership Officer. The official AGM documents, the formal notice, nomination form and proxy form, were sent with the August mailout. If you have not received a link to the AGM by September 11, please email me so that I can send the link to you. The Annual Report and Members List will be emailed to members with an email address, otherwise these may be ordered in print at no cost to our members through the September Distribution List.
+
+### Update on ATA Mail Outs
+
+Due to the continuing Covid related lockdown of Sydney, the print production and the postal August mail out came from Melbourne. The September postal and electronic mail outs will also come from Melbourne. Our thanks to Steven, Len, and the Melbourne team.
+
+### 2020-2021 Financial Report
+
+ATA experienced a deficit of $2280 over the last financial year. This compares with a surplus of $986 for 2019-2020, and accumulated surpluses of $19609 since 2012. Our auction produced a surplus of $1800 and the distribution service produced a surplus of $500. Mail out costs had increased by $150. Rental costs for our archives and NTC have been $2543. As the printing in Melbourne is now done on a non-profit basis, this provides a great saving. Australian members of ATA who choose to receive paper copies of the mail-out (“snail-mail”, about 100 people) receive their “standard item” by what is known as Print Post, for which there is a significant postage cost-saving for ATA compared to “Ordinary Post”. At this point 99 members receiving “snail mail” by Ordinary Post would cost ATA $218, compared with $140 for 100 members receiving “snail mail” by Print Post. By mid-2021 the supply of paper timetables had considerably dried up. This will lead to reduced income from the Distribution Service. Thus, the Distribution List will carry electronic timetables and any paper timetables our members can obtain.
+
+### ATA Live Auction by Zoom
+
+We are looking forward to a Live Auction by Zoom late in 2021. At this stage interested members are asked to send a description of potential items for the Auction to auction@timetable.org.au.  Your description should include your feelings about the condition of the lot.  Albert Isaacs will assess the suitability of your items.  If acceptable, arrangements will then be made for you to submit the items.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409 463 209</p>
+
 ## August 2021
 
 ### ATA AGM Saturday September 18 2pm AEST by Zoom
