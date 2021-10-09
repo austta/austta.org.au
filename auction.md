@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 141 September 2021]({{ site.named_cdn_url }}/auctioncatalog202109issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is USA train timetables.
+* [Auction 142 October 2021]({{ site.named_cdn_url }}/auctioncatalog202110issue.pdf) (76kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian bus timetables.
 
 ## Previous catalogues
 
+* [Auction 141 September 2021]({{ site.named_cdn_url }}/auctioncatalog202109issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is USA train timetables.
 * [Auction 140 August 2021]({{ site.named_cdn_url }}/auctioncatalog202108issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is New Zealand train, bus and ferry timetables and guides.
 * [Auction 139 July 2021]({{ site.named_cdn_url }}/auctioncatalog202107issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Queensland town bus and coach timetables.
 * [Auction 138 June 2021]({{ site.named_cdn_url }}/auctioncatalog202106issue.pdf) (116kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Melbourne and Adelaide tram timetables.

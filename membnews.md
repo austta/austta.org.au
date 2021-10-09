@@ -14,6 +14,35 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## October 2021
+
+### ATA Annual General Meeting 18 September 2021 by Zoom
+
+<p style="text-align:center">![Zoom checkerboard of mainly men having a meeting](membnews20211001.jpg){style="max-width:100%;"}(Photo: Andrew James)
+</p>
+
+Our 2021 Annual General Meeting commenced shortly after 2pm on Saturday 18 September 2021 by Zoom. Our meeting was attended by eight members from Victoria, thirteen from New South Wales, two from Adelaide and Canberra, and one from Brisbane.
+
+Efforts to obtain a Community Lease for the vacant building at Windsor Station, Melbourne to provide storage and a work area for the National Timetable Collection have proven futile with ATA being taken from Metro Trains to VicTrack and back to Metro Trains. In April the NTC and ATA archives were moved to new premises. Our lease on these premises expires this month and ATA will have to move by October 24. Our application to the Public Record Office Victoria for a Local History Grant was unsuccessful. This was particularly disappointing as ATA had carefully followed the guidelines.
+
+ATA finances showed a deficit of $2,279. Distribution List revenue had declined, monthly mail-out costs had increased, and rent was a major expense of $2,543. Due to continuing development and capital expenses, another deficit of up to $5000 could be expected.
+
+Member David Lewis outlined the Getabout Australia Project detailing timetables. Past President’s Victor Isaacs Train Times Australia and New Zealand is now on ATA’s website. ATA members may be able to avoid duplication of effort in linking the development of the Getabout Australia with the updating of Train Times.
+
+The AGM resolved that there be up to eight ordinary committee members. The results of the Election of Office Bearers at the AGM for 2021-2022 were: - Hilaire Fraser (President), Steven Haby  (Vice President), Richard May (Secretary), Len Regan (Treasurer), Chris Pandilovski, Andrew James, Alex Sims, Geoff Lambert, Derek Cheng, Matthew Gibbins and Michael Vale (Ordinary Committee Members). Geoff Lambert was thanked for his service to ATA as president, vice-president, and secretary. Geoff Lambert continues to serve as a committee member. Geoff Hassall was thanked for his service to ATA as committee member and auctioneer. Derek Cheng, Matthew Gibbins, and Michael Vale were welcomed to the committee.
+
+The most controversial matter considered was the location of the 2022 (39^th^) AGM, and the Sydney Division was invited to host the 2022 AGM, as a proposal to invite the Melbourne Division was not acceptable. Members were looking forward to a Sydney visit, not possible in 2020 and 2021.
+
+Following the AGM the new committee was able to make the following appointments for 2021-2022:- *Times* Editor:- Geoff Lambert, *Table Talk* Editor:- Chris Pandilovski., *Table Talk* Bus Editor:- Steven Haby, Production Manager:- Steven Haby, Auctioneer:- Matthew Gibbins, Archives Officer:- Len Regan, Webmaster:- Alex Sims, Distribution Manager:- Hilaire Fraser Membership Officer:- Len Regan and On-Line Convenor:- Geoffrey Clifton.
+
+ATA thanks to Geoffrey Clifton for arranging the Zoom meeting and our secretary Richard May for preparing the Annual Report and business for our AGM.
+
+### Vale Vance Findlay
+
+Recently we received the sad news of the passing of ATA member Vance Findlay of Albury on August 15. He was aged seventy-eight and his funeral was held on August 27. Vance worked in OTC (Overseas Telecommunications Commission, now absorbed into Telstra), in Administration. When OTC moved headquarters from Melbourne to Sydney, Vance took redundancy rather than move interstate. Vance was one of the foundation members of the ATA in the mid-1980s. He attended almost every ATA Melbourne Division meeting at David Hennell’s place.  If he couldn’t attend, he would always send an apology. He had a gentle, quiet personality. Vance lived in Burwood until 2013 when he moved to Albury. He donated all of his extensive collection of Victorian railway working timetables to ATA for the National Timetable Collection. He moved into an aged care home at Thurgoona in March 2020. As well as ATA Vance was involved in many transport interest organisations. He was a long-standing member of Association of Railway Enthusiasts (A.R.E.) and on the Vintage Train Committee, (part of Steamrail Victoria). He also spent some time on the Council of the former Victorian Division of the AETA (Australian Electric Traction Association) and was a member of the Signalling Record Society Victoria. Vance was the #1 member of the Victorian Goldfields Railway, known as Castlemaine Maldon Railway, but wasn’t heavily involved in later years due to a divergence of opinion about the future direction of the tourist railway operation. Vance was a single gentleman and is survived by sister, Joan, and several nieces and nephews. On behalf of the ATA I wish to extend our sympathy and condolences to Vance’s family and friends. Thanks to Graeme Cleak, Paul Nicholson, David Hennell, Brian Sherry and Len Regan for their assistance in preparing this tribute to Vance.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> </p>
+
 ## September 2021
 
 ### ATA AGM Saturday September 18 2pm AEST by Zoom
