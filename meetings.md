@@ -14,7 +14,9 @@ Meetings are held at the usual venue of Brian Webber's residence at 61/22 Towns 
 
 ## Canberra
 
-The next meeting will be held by Zoom at 7.00pm on Thursday 28 October. All members welcome.
+The next meeting will be held by Zoom at 7.00pm on Thursday
+25 November.
+ All members welcome.
 Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951](tel:+61421174951) for login details.
 
 ## Melbourne
@@ -22,7 +24,7 @@ Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951]
 Subject to any new COVID-19 restrictions,
 the next meeting will be at
 8.00pm on Wednesday
-3^rd^ November
+2^nd^ March
 at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
 
 ## Sydney

@@ -14,6 +14,16 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## November 2021
+
+### Hawker Relocation
+
+The COVID-19 restrictions in Melbourne have given a short reprieve for the need to relocate the NTC and ATA archives. The move can now take place outside lockdown conditions sometime during November 2021. We have made numerous inquiries about suitable new premises, including local council facilities, scout halls, church halls and vacant commercial premises at an affordable rent. There are a few possible locations, but nothing ideally suitable yet. We have pursued the case for leasing the vacant building at Windsor Station, including an interview on ABC Melbourne radio on 12 October 2021 followed by strong support from the local member Sam Hibbins MP. Metro Trains Melbourne has been unable to obtain a commercial lease for this heritage-listed building, so it makes sense to allow a heritage group like ATA to use it with a community lease. With the easing of Covid restrictions members were able to resume work at Hawker from Saturday 23 October. Any member who knows of possible suitable premises for the National Timetable Collection should contact Richard May, ATA Secretary, urgently on 0438 364 568.
+
+### The Times They Are a-Changin’
+
+On Wednesday October 13, the first of the four “Freshwater” class ferries “Queenscliff” was retired The “Freshwater” class have served Sydney for four decades. The traditional timetable allowed for departures from Circular Quay on the hour and half-hour and Manly at quarter past and quarter to the hour. The journey time was thirty minutes and with a turnaround at each end of fifteen minutes the round trip took ninety minutes, and the timetable was fulfilled by three ferries with a spare. The new hybrid timetable effective October 9 is provided by two “Freshwater” class ferries with departures from Circular Quay at five past the hour and Manly at twenty to the hour. Thus, with a thirty-minute journey time, a five-minute turnaround at Manly and a fifty-five-minute turnaround at Circular Quay, the round trip takes two hours. Two smaller “Emerald” class ferries will provide departures from Circular Quay on the half-hour and ten minutes to the hour and departures from Manly on the hour and twenty past the hour. The journey time is twenty-two minutes and with a turnaround at each end of eight minutes the round trip takes sixty minutes. Later the “Narrabeen” will be retired leaving one “Freshwater” class on the timetable as a supplementary service. This will occur when the delayed arrival of the first of three new “Emerald” class ferries occurs. Three “Emerald" class ferries alone can provide a twenty-minute service between Circular Quay and Manly.
+
 ## October 2021
 
 ### ATA Annual General Meeting 18 September 2021 by Zoom
@@ -94,7 +104,7 @@ The ATA Committee met on Wednesday 2 June 2021. Committee member Steven Haby was
 
 ### Treasurer’s Report
 
-Our Treasurer, Len Regan, highlighted that there 
+Our Treasurer, Len Regan, highlighted that there
 were a range of issues impacting finances. These include rent on the South Yarra Property, higher monthly mailout costs and a smaller surplus from the Distribution Service and Auction. These issues were likely to result in no surplus for the current financial year.
 
 ### Membership Report
