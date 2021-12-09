@@ -14,6 +14,53 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## December 2021
+
+### Vale Stephen Gray
+
+![](membnews20211201.png){maxwidth="100%"}
+
+We were saddened to hear of the passing of our friend Stephen Gray on 2nd November. Attached is the death notice for Stephen Gray that was in The Age on Wednesday 3 November 2021. It is such a lovely and touching notice.
+
+Stephen joined The Met 'Rail Division' around 1988, as a Messenger in the Timetables Section. His main role was to deliver copies of Train Running Circulars to other CBD Offices, Metrol Building (Batman Ave), and Flinders St Yard, (Drivers & Guards Rosters, Fleet Allocation). It is understood that he had spent some time previously there under the "Work Experience" Program. He continued in this situation through all of the name changes, e.g. Bayside Trains, Hillside Trains, Connex, National Express (MTrain) & Metro Trains.
+
+With the change to Electronic Distribution of such documents at the start of the 2000’s, Stephen developed the skill to prepare Route Maps (with a CAD type package) for Bus Drivers operating Rail Replacement Services.
+
+He was a renowned Collector of Bus, Rail & Tram Timetables, and spent much leisure time travelling on all Melbourne Bus Routes, (including late-night and Night-rider). Much time was spent at the former ‘Met Shops’ collecting timetables, including extra copies for some of his Collector friends.
+
+He regularly attended ATA Sydney Meetings, travelling from Melbourne by XPT, or the cheaper Interstate Overnight Coaches. He would return back with a copious supply of goodies from the Grab Table.
+
+For much of his early working life, Stephen commuted into the City from Doncaster by bus, and with his friendly outlook was warmly
+regarded by many of the Drivers from Doncaster Depot. Similarly, he was well-liked by his many work colleagues.
+
+David Hennell, Geoff Mann and Len Regan visited Moira Gray (Stephen’s mother) and on behalf of ATA, gave her a fuchsia plant in a pot as a growing and lasting remembrance of Stephen’s infectious spirit of happiness, endurance and perseverance. Moira plans to deposit Stephen’s ashes under the fuchsia. The following message was written on a sympathy card. "Moira. Stephen was a much loved member of the Australian Timetable Association and the group working in Melbourne on the National Timetable Collection. We thoroughly enjoyed his company and were inspired by the dedication and enjoyment he displayed in sorting and studying timetables. His smile was always there, even when we now know that he had a serious illness. We will miss him greatly, but his determination and his spirit will live on within all of us". Stephen has donated his "crates" of timetables to ATA.
+
+Thanks to Graeme Cleak and Len Regan for their assistance in preparing this tribute.
+
+### Report on ATA Committee Meeting Wednesday 17 November 2021
+
+The ATA Committee met on Wednesday 17 November 2021. ATA member Agnes Boskovitz was able to organize a meeting by Zoom. Our thanks to Agnes. Below under various headings are details of matters dealt with at the recent meeting.
+
+### Treasurer’s Report
+
+Income for the period July to October 2021 was $8905, expenses were $6529, giving an accrual surplus of $2375, compared with $3711 twelve months ago. The main source of income in this period was the renewal of membership fees for 2021-22.
+The ATA Committee resolved to create the position of Assistant Treasurer and appoint Jim Wells to this position. Jim will be a great asset to ATA as Assistant Treasurer and also free Len Regan to spend more time on the National Timetable Collection
+
+### Stephen Gray Memorial Distribution List
+
+The ATA Committee resolved to name the Distribution List the Stephen Gray Memorial Distribution List in honour of Stephen’s contributions to ATA particularly as a Distribution List contributor and subscriber.
+Recent lists have attracted 17 to 25 orders. Working timetables and track and signal diagrams continue to be popular. Recent PDF timetables are listed. These are also provided to ATA archives.
+
+### Production and Mail Out
+
+As we no longer have access to the printer at the Prahran Mechanics’ Institute as Stephen Haby no longer works there, our magazines, newsletter, auction catalogue and distribution list will be printed by members for six months after which we hope to have sufficient savings to purchase our own printer. Unfortunately, our mail out will only appear in A4 black and white until colour and A3 can be reintroduced on our own printer. The electronic mail out will continue to maintain colour items.
+
+### Other News
+
+“Table Talk” continues to maintain its extensive coverage of transport and timetable news. Articles continue to be written for “the Times”. The Brisbane Division has continued to meet in person and the Canberra Division on Zoom. The Melbourne Division met on November 3 and examined the 2008 Frankston Bus Service Review, which like many of these, was not implemented. Len Regan, Steven Haby and Matthew Gibbins hope to relaunch our delayed website development.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409 463 209</p>
+
 ## November 2021
 
 ### Hawker Relocation

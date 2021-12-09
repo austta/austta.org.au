@@ -6,6 +6,7 @@ The Association runs a **_Timetable Distribution service_**. This is an excellen
 
 ## Current and previous lists
 
+* [December 2021]({{ site.named_cdn_url }}/distributionlist202112issue.pdf) (284kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [November 2021]({{ site.named_cdn_url }}/distributionlist202111issue.pdf) (132kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [October 2021]({{ site.named_cdn_url }}/distributionlist202110issue.pdf) (92kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [September 2021]({{ site.named_cdn_url }}/distributionlist202109issue.pdf) (112kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
