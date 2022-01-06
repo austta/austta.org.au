@@ -3,9 +3,12 @@ layout: page
 title: Members News
 ---
 
-Here is member's news for the current year. Previous years member news may be
+Here is member's news for 2021.
+Other years member news may be
 found at:
 
+* [2022](membnews.html)
+* 2021
 * [2020](membnews2020.html)
 * [2019](membnews2019.html)
 * [2018](membnews2018.html)
