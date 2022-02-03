@@ -8,7 +8,7 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 145 January 2021]({{ site.named_cdn_url }}/auctioncatalog202201issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian coach and Canberra bus timetables.
+* [Auction 145 January 2022]({{ site.named_cdn_url }}/auctioncatalog202201issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian coach and Canberra bus timetables.
 
 ## Previous catalogues
 
