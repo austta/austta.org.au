@@ -24,7 +24,7 @@ The latest two issues are for members only
 
 * February 2022 (members only)
 * January 2022 (members only)
-* [December 2021]({{ site.named_cdn_url }}/thetimes202111issue.pdf) 2.8MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
+* [December 2021]({{ site.named_cdn_url }}/thetimes202112issue.pdf) 2.8MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [November 2021]({{ site.named_cdn_url }}/thetimes202111issue.pdf) 3.1MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [October 2021]({{ site.named_cdn_url }}/thetimes202110issue.pdf) 3.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [September 2021]({{ site.named_cdn_url }}/thetimes202109issue.pdf) 3,292kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

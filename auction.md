@@ -8,7 +8,7 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 146 February 2021]({{ site.named_cdn_url }}/auctioncatalog202202issue.pdf) (72kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian transport books. Book covers may be viewed at [Lots 1-18]({{ site.named_cdn_url }}/auctioncatalog20220201app.pdf) (5.4MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots 19-42]({{ site.named_cdn_url }}/auctioncatalog20220202app.pdf) (7.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
+* [Auction 146 February 2021]({{ site.named_cdn_url }}/auctioncatalog202202issue.pdf) (72kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian transport books. Book covers may be viewed at [Lots&nbsp;1-18]({{ site.named_cdn_url }}/auctioncatalog20220201app.pdf) (5.4MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots&nbsp;19-42]({{ site.named_cdn_url }}/auctioncatalog20220202app.pdf) (7.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 
 ## Previous catalogues
 
