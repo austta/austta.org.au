@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 145 January 2022]({{ site.named_cdn_url }}/auctioncatalog202201issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian coach and Canberra bus timetables.
+* [Auction 146 February 2021]({{ site.named_cdn_url }}/auctioncatalog202202issue.pdf) (72kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian transport books. Book covers may be viewed at [Lots 1-18]({{ site.named_cdn_url }}/auctioncatalog20220201app.pdf) (5.4MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots 19-42]({{ site.named_cdn_url }}/auctioncatalog20220202app.pdf) (7.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 
 ## Previous catalogues
 
+* [Auction 145 January 2021]({{ site.named_cdn_url }}/auctioncatalog202201issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian coach and Canberra bus timetables.
 * [Auction 144 December 2021]({{ site.named_cdn_url }}/auctioncatalog202112issue.pdf) (156kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is North American railroad & coach timetables & guides.
 * [Auction 143 November 2021]({{ site.named_cdn_url }}/auctioncatalog202111issue.pdf) (100kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is New South Wales suburban & country train timetables.
 * [Auction 142 October 2021]({{ site.named_cdn_url }}/auctioncatalog202110issue.pdf) (76kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian bus timetables.

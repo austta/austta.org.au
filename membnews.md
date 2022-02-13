@@ -17,6 +17,20 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## February 2022
+
+### The National Timetable Collection Workshop Has Moved!
+
+January 5 began a new chapter in the work on ATA projects in Melbourne. On this day the move of all the NTC boxes, ATA archives and furniture from Hawker, our previous base at South Yarra, to Hookina was completed. Hookina is our name for Unit F24 at Kennards Self Storage, 1317 North Rd, Huntingdale, a short walk east from Huntingdale Station. Hookina is the next station after Hawker on the Commonwealth Railways former narrow-gauge railway. Six ATA members were involved in the move.
+
+Our regular working bees commenced at Hookina from Saturday 8 January, nominally from 10.00am to 4.00pm with a break for lunch at about 1.00pm. At this stage the working bees will be held each Saturday. There will also be working bees on some Thursdays. Initially, there was some unpacking and reorganisation to do in the Hookina storage unit, but normally the working bees will be conducted in the spacious Meeting Room that is provided free of charge. The Meeting Room is adjacent to a spacious kitchen where tea and coffee is available free, and there is a fridge and microwave that can be used on the day. The Huntingdale shopping centre is 2 blocks away with plenty of take-away food options. We will resume work on sorting through the various collections we have received, selecting and cataloguing the timetables for the NTC, and storing or discarding any duplicates. If you can help on any particular day, can please let Len Regan (0409&nbsp;209&nbsp;114) know so that we can plan ahead and get a specific project ready for you. Every reasonable precaution is being taken to provide a Covid safe working environment. Our unit is F24, on the ground floor, close to the Meeting Room where we will be doing our regular work.
+
+### The Year Ahead
+
+2022 appears to be a relatively quiet year for transport developments. However, we can expect the opening of the new Forrestfield-Airport Rail Line in Perth. New stations will be provided at Redcliffe, Airport Central and High Wycombe. The bus network will be reconfigured to feed the new line. In NSW reviews of bus networks in Queanbeyan and Lismore are underway. This follows new networks already implemented in Tweed Heads (December 2019), Wagga Wagga (March 2020) and Bathurst (June 2021). On April 3 Transdev John Holland will takeover State Transit’s bus network in Sydney’s eastern suburbs. This is the last of the four Sydney regions previously operated by State Transit to be privatized.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## January 2022
 
 ### Relocation of The National Timetable Collection
