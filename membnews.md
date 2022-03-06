@@ -17,6 +17,35 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## March 2022
+
+### Membership Fees are Changing
+
+The Association’s annual Membership Fee of $60 has remained unchanged since 2011 – that’s 11
+years without any increase. Due to inflation, $60 in 2011 is the same as $75 today. ATA is also taking
+into consideration actual and possible future postage increases in the next 12-18 months. Thus,
+an increase in fees is inevitable. The Committee debated this at its meeting on 16 February 2022 and has
+decided that this time has now come.
+
+In recent years, the Association has embarked on some major projects including the National Timetable Collection and upgrading its website. It has invested funds in a computer system, and it has to pay rent to store its timetable collections and archives. It has retained the quality production each month of The Times and Table Talk magazines and continues to provide a monthly Distribution List and Auction.
+
+A new schedule of membership fees will apply from 1 July 2022 and will be included in the Membership Renewal forms sent out in May 2022. A discount on the normal fee will be available for those who receive the monthly mailouts by email rather than by post. This is the new fees schedule.
+
+
+| | Annual | Monthly
+| :--- | :---: | :---: |
+| Australian Member| $72  | $6.00 |
+| Australian Member with only email mailout  | $66 | $5.50 |
+| Australian Student Member (aged under 25 years) | $36 | $3.00 |
+| International Member  | $108 | $9.00 |
+| International Member with only email mailout  | $66 | $5.50 |
+
+With full colour and electronic links, the electronic versions of our magazines are of a higher quality compared with the print versions. At present our printed magazines are only in black and white and even when ATA has its own printer our printed magazines will only have a limited number of coloured pages. In the long run savings on postage, stationery and administration costs will be of great benefit.
+While there will be a reduction in mailout printing costs when members switch to digital mailout, a reduction in postage costs may not occur immediately due to the arrangements for Print
+ Post. Accordingly, the discount for digital mailout may need to be reviewed in future years.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## February 2022
 
 ### The National Timetable Collection Workshop Has Moved!
