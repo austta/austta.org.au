@@ -15,12 +15,12 @@ Use this form to submit your renewal details electronically instead of using the
   </p>
   <p>Email address <input type="email" name="email"></p>
 
-
   Payment:<br>
-  <input type="radio" name="memb_type" value="australian_member">$60  Australian Member<br>
+  <input type="radio" name="memb_type" value="australian_member">$72  Australian Member<br>
+   <input type="radio" name="memb_type" value="australian_email">$66  Australian Member with only email mailout<br>
   <input type="radio" name="memb_type" value="australian_student">$36  Australian Student Member (aged under 25 Years) If Australian Student – Date of Birth: <input type="text" name="student_dob"> Where enrolled:  <input type="text" name="student_where"><br>
-  <input type="radio" name="memb_type" value="international_airmail_asiapacific">$84  International Member – Asia/Pacific:  Airmail<br>
-  <input type="radio" name="memb_type" value="australian_member">$90 International Member - All other areas: Airmail<br>  <input type="radio" name="memb_type" value="australian_member">$60 International Member – All areas:  e-mail
+  <input type="radio" name="memb_type" value="international_member">$108 International Member<br>
+  <input type="radio" name="memb_type" value="international_email">$60 International Member with only email mailout
 
 Paid by:<br>
 <input type="radio" name="payment_type" value="EFT"> EFT. Direct Deposit is the preferred payment method.  Transfer money to the ATA Westpac account, BSB 034 083, account number 16 3088.  Be sure to add your name and “membership fee” to the notes.<br>

@@ -42,12 +42,12 @@ I wish to apply for membership of the Australian Timetable Association:
 
 **Australian Timetable Association Membership Fees**
 
-  | | Australia |	Australian Student | Asia Pacific	| Rest of World	| Overseas
-  |:-:|:-:|:-:|:-:|:-:|:-:|			
-  | Postal Mailout	| Included	| Included	| Included | Included |	No	|
-  | Email Mailout	| Included | Included	| Included | Included |	Included|
-  | Full Year	| $60	| $36	| $84	| $90	| $60 |		
-  | Monthly	| $5 | $3	| $7| $7.50 | $5 |				
+  | | Australia | Australia email only| Australia student (aged under 25 years)	| Overseas | Overseas email only
+  |:-:|:-:|:-:|:-:|:-:|:-:|
+  | Postal Mailout | Included | No | Optional | Included | No |
+  | Email Mailout | Included | Included | Included | Included | Included|
+  | Full Year | $72 | $66 | $36 | $108 | $66 |
+  | Monthly | $6 | $5.5 | $3 | $9 | $5.50 |
 
   An Australian Family Membership is also available ($5 pa, valid at same address as a normal Australian Member - No mailouts).
 
