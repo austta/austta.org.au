@@ -17,6 +17,22 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## April 2022
+
+### Assistance Required for Cataloguing the National Timetable Collection
+
+The Association is preparing the National Timetable Collection to be housed at the State Library of Victoria. This will involve receiving timetables donated from private collections and sending them to a place where they can be publicly accessed. This will be of interest to those doing historical research to see the extent and frequency of public transport at various times. It could also be of assistance to those researching their family history and even cold crime cases! Victorian members have worked on sorting and cataloguing the National Timetable collection at ATA premises at Prahran, South Yarra and now Huntingdale, and at home. Some Sydney members had a session before the 2020 Covid lockdown. If you are interested in cataloguing timetables for the NTC individually or with other members please contact Len Regan, <archives@timetable.org.au> or 0409&nbsp;209&nbsp;114. Len can send you some timetables to catalogue and arrange for instruction for the computer cataloguing process.
+
+### Stephen Gray Memorial Distribution Service
+
+The March Distribution List has received over twenty orders. The Sydney Trains and NSW Trains working timetables and rosters received much interest as well as printed Melbourne Metro and V/Line commuter and regional timetables. Limited stock items from Switzerland, Slovakia, Romania, United Kingdom, and Germany have also received orders. The April List will have PTV bus timetables effective 13 February 2022 in conjunction with the new Cranbourne & Pakenham Line and Frankston Line timetables.
+
+### Online Timetables
+
+Australian transport organizations provide online timetables of varying usefulness. Translink Queensland, Transperth, Adelaide Metro, Metro Tasmania, Transport Tasmania, and Transport Canberra have electronic timetables in a format similar to former printed timetables. Thus, they can be readily printed at home if required. However, many Transperth timetables have very smaller print when reduced to A4 for printing. PTV online timetables show every stop and can be cumbersome on screen and lengthy to print. For instance, the 246 Clifton Hill to Elsternwick timetable comprises twenty-seven pages. The route maps are generated on demand and could not be printed. A big plus is the PTV app which on opening can show the times for all transport modes departing shortly from your current location. The print on demand timetables provided in our distribution service show major stops and have a good route map. The Transport for NSW online bus timetables only show a single route and a number of timetables are necessary to find your next bus in a common corridor. For instance, the 100 City-QVB to Taronga Zoo timetable is 22 pages in length. However, it does have a helpful route map which details the common corridor routes 228, 229, and 230 from Milsons Point and 100, 243, 246, 249 from Sydney City.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## March 2022
 
 ### Membership Fees are Changing
