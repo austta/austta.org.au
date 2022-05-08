@@ -13,7 +13,7 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 * [Auction Catalogues](auction.html) - Monthly  Auctions offer members the opportunity to buy and sell some rare and historic timetable and related material.
 * [Lists of Current and Historic Australian Timetables](current.html)
 * [Links to On-Line Transport Timetables](ttlinks.html)
-* [Link to Train Times Passenger Trains of Australia and New Zealand](http://www.traintimes.net.au)
+* [Link to Train Times Passenger Trains of Australia and New Zealand](https://www.traintimes.timetable.org.au)
 * [Posting or Reading of Timetable News](news2.html)
 
 ## Magazines
@@ -32,4 +32,5 @@ The ATA (Australian Timetable Association) is an organisation for anyone interes
 * [Annual Reports](annual_report.html)
 
 ## What to do with old timetables
+
 Old timetables can be a valuable asset for the ATA auctions, Distribution Service or the National Timetable Collection. If you have old timetables that you want to discard, don't! Please contact the Australian Timetable Associaiton first. Len Regan, [0409 209 114](tel:61409209114),  <archives@timetable.org.au> will help you decide where best your old timetables can be deposited.
