@@ -17,6 +17,26 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## May 2022
+
+### Membership Renewal 2022 – 2023
+
+Normally a Membership Renewal form for the following financial year is sent with the May mailout. However, these will be sent out in the June mailout this year as ATA is changing bank accounts and we expect this to be finalized by the beginning of June. Membership fees for 2022-2023 are $72 for normal Australian membership, $108 for overseas membership, $66 for membership with only electronic mailout and $36 for students. All members with an email address will also receive a Membership Renewal form by email – this caters for those who prefer the print version or email version.
+
+### Stephen Gray Memorial Distribution Service
+
+The April Distribution List has received nine orders at the time of writing. Eight of these included orders for printed PTV bus timetables in the Frankston and Cranbourne regions effective February 2022, exhausting our supplies. Our thanks to Matthew Gibbins for obtaining and distributing these timetables. The May List will have Sydney Trains Easter Show working timetables and V/Line Easter and Anzac Day working timetables. In addition, there will be historic American train timetables from New York and Philadelphia and historic London Underground and bus maps. These historic timetables were supplied by Derek Scrafton.
+
+### Progress on the National Timetable Collection
+
+The search for permanent premises continues. David Cranney, Agnes Boskovitz, John Kain, Jim Stokes, Peter Clark and Dale Budd have continued to meet regularly in Canberra to catalogue Victor Isaacs’ collection of timetables. A few boxes of Victorian material and bus timetables from all States have recently been received at Huntingdale as a result of this work. Geoff Hassall (Newcastle), Joel Taggart and Joe Hicks (Adelaide) have also volunteered to start cataloguing specific material. Richard May, Steven Haby, Geoff Mann and David Hennell are working on cataloguing in Melbourne.
+
+### Timetable Alert
+
+We have previously included lists of recent electronic timetables in the Distribution List. However, this did not produce much interest and sometimes the links provided had changed by the time the list was published. In consultation with Len Regan, Steven Haby and Chris Pandlilovski a similar listing has now been provided in “Table Talk” under the heading Timetable Alert. In the April “Table Talk” Timetable Alert listed new Newcastle Transport timetables effective 3 April 2020. In the May issue Translink Gold Coast timetables 9 August 2021 reissued in the new neon pink colour scheme are listed as well as March 2020 Greyhound timetables. Timetables can be downloaded from the appropriate website.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## April 2022
 
 ### Assistance Required for Cataloguing the National Timetable Collection
