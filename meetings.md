@@ -21,8 +21,7 @@ Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951]
 
 ## Melbourne
 
-Subject to any new COVID-19 restrictions,
-the next meeting will be at
+The next meeting will be at
 8.00pm on Wednesday
 6^th^ July 2022
 at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
@@ -30,4 +29,5 @@ at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1
 ## Sydney
 
 Enquiries to Geoffrey Clifton.
-<Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478)
+<Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478).
+Note details of the Sydney Get-Together to be held on 25 June.

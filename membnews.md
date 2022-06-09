@@ -17,6 +17,57 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## June 2022
+
+### Membership Renewal 2022 – 2023
+
+You will have received your Membership Renewal for the 2022-2023 financial year with the June mailout. Membership fees for 2022-2023 are $72 for normal Australian membership, $108 for overseas membership, $66 for membership with only electronic mailout and $36 for students. All members with an email address will receive a Membership Renewal form by email. Please note the new bank account details for membership renewal: **ATA: Bendigo Bank BSB 633-000. Account 192546489.** Payment can also be made by Pay ID using the ATA’s ABN **74 248 483 468.**
+
+### Stephen Gray Memorial Distribution Service
+
+The May Distribution List has received four orders at the time of writing. Items of interest included Sydney Easter Show working timetables, Queensland Rail network line diagrams, V/Line track diagrams and London Underground and bus maps. The June List will feature Newcastle Transport bus timetables effective 3 April 2022, Transperth bus timetables, Melbourne PTV bus timetables and Picton Buslines timetables. Future lists will contain more Transperth and PTV bus timetables.
+
+### Sydney Division Get-Together Saturday 25 June 12.30pm Tradies Gymea
+
+There will be a Sydney Division Get-Together over lunch at the Tradies, the Sutherland & District Trade Union Club, on Saturday 25 June at 12.30pm. Tradies is situated at 57 Manchester Rd Gymea, enter from Kingsway. Tradies is a 5-to-10-minute walk from Gymea Station via Gymea Bay Rd and Kingsway and has ample parking. It has a usual club lunch menu in its Willow Restaurant. Country and interstate visitors as well as partners and friends are welcome to attend as this would be a social occasion. If you are planning to attend let me know no later than Wednesday 22 June so I can organise a table. Contact me on <president@timetable.org.au> 0409 463 209.
+
+### Report on ATA Committee Meeting Wednesday 18 May 2021
+
+The ATA Committee met on Wednesday 18 May 2021. Below under various headings are details of matters dealt with at the recent meeting.
+
+#### Treasurer’s Report
+
+Income year-to-date is $13377, expenses are $17168, giving an accrual deficit of $3791, compared with a deficit of $2353 twelve months ago. The main reason for the increased deficit in this period is the greater cost of rental. Membership revenue received so far for 2021-22 is $7507, $128 less than at the same time in 2020-21. Donations are becoming an important part of our income: $1561 has been received so far this year. Monthly mailout costs have been $2545, which is $5344 less than for the same period last year. This reflects the change from commercial printing in Sydney to volunteer printing in Melbourne. Mailout postage costs have declined by $341. Compared with the same period last year, the surplus from the Distribution List is $312 greater, but from the Auctions it is $682 less.
+
+#### Bank Account Changes
+
+As ING were discontinuing small accounts it became necessary for ATA to move our investment account. As the Bendigo Bank were offering a competitive interest rate, our term deposit was transferred from ING. Also, our cheque account was transferred to Bendigo Bank from Westpac. Please update your electronic banking details: **Bendigo Bank BSB 633-000. Account 192546489.**
+
+You can now make payments to ATA using **Pay ID.** The PayID for ATA is its ABN: **74 248 483 468**. This is the simplest and safest way when using on-line banking. You select PayID, enter the ABN number (without spaces), and you will get confirmation that the payment is going to the Australian
+Timetable Association. You do not need to remember or use the BSB and account number.
+
+#### Writers needed for “The Times”
+
+“The Times” our journal of historical articles and analysis requires articles. Geoff Lambert, editor of “The Times”, says all sorts of articles are welcome. Relevant timetables which accompany the articles are of interest. An Authors’ Guide is available on our website at [www.timetable.org.au](https://www.timetable.org.au/times.html) .
+
+#### Possible New Premises for ATA
+
+ As it is unsustainable financially to remain at Kennards Huntingdale where the storage and working spaces are small, there is an urgency to find new premises. Darebin Council in north-central Melbourne invited us to inspect a former community health centre in Reservoir to assess its suitability for the ATA’s archives projects. This inspection took place on 28 April 2022, and the consensus is that it would be suitable. A submission has been sent to Darebin Council outlining our proposed use of the building, in accord with the Council’s requirements for a community lease. The property is at 89 Hughes Parade, Reservoir, a 20-minute walk from Keon Park Station. On 31 May Darebin Council advised that “The Australian Timetable Association has formally submitted a proposal to Darebin City Council requesting to lease one of its buildings. Council are considering the proposal however are yet to respond formally”.
+
+#### Website Redevelopment
+
+Transit Graphics have resumed work on development of the ATA’s website. The design of the website has been completed and paid for. Transit Graphics is now working on the setting up the website to replace the current website. Members of the Website Development Group have been given access to the new website as work on its development progresses. We will be advised when we are able to make comments. ATA portfolio officers will need to add text to the new website. When this work is completed, Transit Graphics will become the host for our website.
+
+#### Agreement between ARHS and ATA
+
+Discussions have been held between our Treasurer, Len Regan, and James Dalton, Manager, The Railway Archives, Australian Railway Historical Society. It is anticipated that both organisations will share timetable catalogues, surplus printed timetables, and digitised timetables. ARHS has extensive equipment and volunteer resources for digitising timetables. Any requests to obtain or purchase digital timetables will be forwarded to ARHS.
+
+#### 2022 Annual General Meeting Sydney Tramway Museum
+
+Just a reminder that Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting. The Sydney Tramway Museum is situated adjacent to Loftus Station.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## May 2022
 
 ### Membership Renewal 2022 – 2023
