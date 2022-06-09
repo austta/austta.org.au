@@ -12,7 +12,7 @@ Have your say in print on any transport timetable matter. The Times includes let
 [Do it by email](mailto:thetimes@timetable.org.au) right here and now!
 
 For longer articles please see the [author guide to The
-Times](Author%20guide%20for%20ATA%20The%20Times.pdf).
+Times](Author_guide_for_ATA_The_Times.html).
 
 ## Online Archive
 

@@ -77,7 +77,6 @@ while IFS= read -r line; do
   fi
 done <<END_OLD
 AATTC Australian Railways TT list.pdf
-Author guide for ATA The Times.pdf
 Modelrules.pdf
 Timetable History Eastern.pdf
 Timetable History Northern.pdf

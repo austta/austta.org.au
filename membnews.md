@@ -118,7 +118,6 @@ In recent years, the Association has embarked on some major projects including t
 
 A new schedule of membership fees will apply from 1 July 2022 and will be included in the Membership Renewal forms sent out in May 2022. A discount on the normal fee will be available for those who receive the monthly mailouts by email rather than by post. This is the new fees schedule.
 
-
 | | Annual | Monthly
 | :--- | :---: | :---: |
 | Australian Member| $72  | $6.00 |
