@@ -17,6 +17,33 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## July 2022
+
+### Membership Renewal 2022 – 2023
+
+You will have received your Membership Renewal for the 2022-2023 financial year with the June mailout.  Membership fees for 2022-2023 are $72 for normal Australian membership, $108 for overseas membership, $66 for membership with only electronic mailout and $36 for students.  All members with an email address received a Membership Renewal form by email.  Please note that the new bank account details for membership renewal are: - **ATA: Bendigo Bank BSB 633-000.  Account 192546489**.  Payment can also be made by Pay ID using the ATA’s ABN **74&nbsp;248&nbsp;483&nbsp;468**.  At the time of writing 83 members had renewed after three weeks.  Also, donations of over $1900 had been received with renewals which is very encouraging.  Evidently members are pleased with the work of the ATA and wish to contribute financially.  
+
+This mailout has been prepared using membership details as at 24 June 2022.  Changes to membership details received after this date will be implemented in the August 2022 mailout.
+
+### Stephen Gray Memorial Distribution Service
+
+The June Distribution List has received twenty two orders.  Items of interest included Sydney Trains and NSW Trainlink working timetables and train rosters as well as PTV Melbourne, Newcastle Transport and Picton bus timetables.  The July List will feature V/Line pocket timetables effective 29 May 2022 and the Adelaide Gawler Line timetable effective 12 June 2022.  The new Gawler Line timetable marks the inauguration of electric trains on this line.
+
+### Sydney Division Get-Together Saturday 25 June
+
+Six members and friends attended the Sydney Division Get-Together over lunch at the Tradies, the Sutherland & District Trade Union Club, Gymea, on Saturday 25 June.  Five members sent an apology.
+Hopefully similar events will follow in other parts of Sydney before too long.
+
+### Website Redevelopment
+
+Transit Graphics has informed us that the development of the ATA website templates, including mobile responsiveness and cross-browser test, has now been completed.  Besides the templates, they have also developed some example elements for us to reference in our content population process. ATA portfolio officers will need to add text to the new website.
+
+### 2022 Annual General Meeting Sydney Tramway Museum
+
+Just a reminder that Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting.  The Sydney Tramway Museum is situated adjacent to Loftus Station.  
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## June 2022
 
 ### Membership Renewal 2022 – 2023

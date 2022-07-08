@@ -13,8 +13,9 @@ ePub files allow you to change the text size and have the text "reflow" to refle
 The latest two issues are for members only
 -->
 
+* July 2022 (members only)
 * June 2022 (members only)
-* May 2022 (members only)
+* [May 2022]({{ site.named_cdn_url }}/tabletalk202205issue.pdf) 10MB ![PDF]({{site.secure_cdn_url }}/pdficon.svg)
 * [April 2022]({{ site.named_cdn_url }}/tabletalk202204issue.pdf) 2.9MB ![PDF]({{site.secure_cdn_url }}/pdficon.svg)
 * [March 2022]({{ site.named_cdn_url }}/tabletalk202203issue.pdf) 4.2MB ![PDF]({{site.secure_cdn_url }}/pdficon.svg)
 * [February 2022]({{ site.named_cdn_url }}/tabletalk202202issue.pdf) 2.5MB ![PDF]({{site.secure_cdn_url }}/pdficon.svg)

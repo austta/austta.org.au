@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 150 June 2022]({{ site.named_cdn_url }}/auctioncatalog202206issue.pdf) (168kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian Transport Books. Book covers may be viewed, [Lots&nbsp;1-21]({{ site.named_cdn_url }}/auctioncatalog20220601app.pdf) (6.9MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots&nbsp;22-42]({{ site.named_cdn_url }}/auctioncatalog20220602app.pdf) (4.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
+* [Auction 151 July 2022]({{ site.named_cdn_url }}/auctioncatalog202207issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide public and working bus and tram timetables.
 
 ## Previous catalogues
 
+* [Auction 150 June 2022]({{ site.named_cdn_url }}/auctioncatalog202206issue.pdf) (168kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian Transport Books. Book covers may be viewed, [Lots&nbsp;1-21]({{ site.named_cdn_url }}/auctioncatalog20220601app.pdf) (6.9MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots&nbsp;22-42]({{ site.named_cdn_url }}/auctioncatalog20220602app.pdf) (4.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction 149 May 2022]({{ site.named_cdn_url }}/auctioncatalog202205issue.pdf) (128kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is New South Wales government and private bus timetables.
 * [Auction 148 April 2022]({{ site.named_cdn_url }}/auctioncatalog202204issue.pdf) (72kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian tram books. Book covers may be viewed, [Lots&nbsp;1-6,&nbsp;30-46]({{ site.named_cdn_url }}/auctioncatalog20220401app.pdf) (7.2MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [Lots&nbsp;7-29]({{ site.named_cdn_url }}/auctioncatalog20220402app.pdf) (7.6MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction 147 March 2022]({{ site.named_cdn_url }}/auctioncatalog202203issue.pdf) (108kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Queensland bus, coach, tram timetables and guides.
