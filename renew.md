@@ -23,7 +23,7 @@ Use this form to submit your renewal details electronically instead of using the
   <input type="radio" name="memb_type" value="international_email">$60 International Member with only email mailout
 
 Paid by:<br>
-<input type="radio" name="payment_type" value="EFT"> EFT. Direct Deposit is the preferred payment method.  Transfer money to the ATA Westpac account, BSB 034 083, account number 16 3088.  Be sure to add your name and “membership fee” to the notes.<br>
+<input type="radio" name="payment_type" value="EFT"> EFT. Direct Deposit is the preferred payment method. Transfer money to the ATA Bendigo Bank - BSB 633-000 Account 192546489. Payment can also be made by Pay ID using the ATA’s ABN 74&nbsp;248&nbsp;483&nbsp;468. Be sure to add your name and “membership fee” to the notes.<br>
 <input type="radio" name="payment_type" value="credit"> ATA credit account. If you have sufficient funds you can send an email to the Treasurer at <treasurer@timetable.org.au> and ask that your membership fee be deducted from your account balance.<br>
 <input type="radio" name="payment_type" value="Paypal"> Paypal to [treasurer@timetable.org.au](mailto:treasurer@timetable.org.au)<br>
 <input type="radio" name="payment_type" value="Cheque"> Cheque posted to the Membership Officer at 76 Woodville Rd, Mooroolbark, Vic 3138. Your cheque should be made out to Australian Timetable Association.

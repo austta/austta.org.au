@@ -62,7 +62,7 @@ If you don't wish to submit this online, please fill in, print and scan this pag
 
 ## Payment methods
 
-Preferred payment method is by Direct Deposit.  Transfer money to the ATA Westpac account, BSB 034 083, account number 16 3088.  Be sure to add your name and “membership fee” to the notes.  
+Preferred payment method is by Direct Deposit.  Transfer money to the ATA - Bendigo Bank BSB 633-000 Account 192546489. Payment can also be made by Pay ID using the ATA’s ABN 74&nbsp;248&nbsp;483&nbsp;468.  Be sure to add your name and “membership fee” to the notes.  
 
 You can also pay by Paypal to [treasurer@timetable.org.au](mailto:treasurer@timetable.org.au)
 

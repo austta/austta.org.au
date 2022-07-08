@@ -41,5 +41,5 @@ or if you wish, phone him on [0438&nbsp;364&nbsp;568](tel:+61438364568).
 
 # Legals
 The "Australian Timetable Association Inc." is registered in Victoria, as association number A0043673H.
-The ABN is [74248483468](https://abr.business.gov.au/ABN/View?abn=74248483468).
+The ABN is [74&nbsp;248&nbsp;483&nbsp;468](https://abr.business.gov.au/ABN/View?abn=74248483468).
 The association has no physical office, and postal address is 179 Sydney Rd, Fairlight, NSW 2094.
