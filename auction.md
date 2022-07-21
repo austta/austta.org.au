@@ -8,7 +8,7 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 151 July 2022]({{ site.named_cdn_url }}/auctioncatalog202207issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide public and working bus and tram timetables.
+* [Auction 151 July 2022]({{ site.named_cdn_url }}/auctioncatalog202207issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide public and working bus and tram timetables. The closing date for this auction has been extended to 5pm AEST Sunday 24th July 2022.
 
 ## Previous catalogues
 
