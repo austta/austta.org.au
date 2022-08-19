@@ -17,6 +17,22 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## August 2022
+
+### Membership Renewal 2022 – 2023
+
+At the time of writing 105 members had renewed. Also, donations of about $2100 had been received with renewals which is very encouraging. Evidently members are pleased with the work of the ATA and wish to contribute financially. Final reminder notices will be sent to those members who have not yet renewed. One member renewed for digital mailout but did not include his/her name and therefor hasn’t received a thank-you email. Could this member please contact Len Regan on <membership@timetable.org.au>.
+
+## Stephen Gray Memorial Distribution Service
+
+As a result of several orders received around 30 June, the June Distribution List had received twentyfive orders. The July List has received fourteen orders with Sydney Trains and NSW Trainlink working timetables effective early July, Metro and V/Line items and the Adelaide Gawler Line electric train timetable being of interest. 2022 marks the almost complete elimination of current paper timetables in Australia. Many operators do not print timetables, or print them in small numbers for local consumption, thus having no surplus for the ATA. In requesting current TTs our members often find that they are referred to the online timetables or receive an earlier edition which has already been available in our Distribution Service. In some cases, our members have found railway station timetable display racks also have superseded timetables. City Centre customer service outlets which provided paper timetables and over the counter travel planning have been closed in Sydney, Brisbane and Adelaide. However, ATA members have been able to obtain printed timetables from Victoria, Perth and Newcastle. With frequent Covid related service cuts and delays in infrastructure openings due to Covid related supply chain issues there have been delays in implementing planned timetable changes internationally. This is regardless of whether timetables are made available electronically or in print.
+
+## 2022 Annual General Meeting & Sydney Division Get-Together Sydney Tramway Museum, Sunday 16 October 2022
+
+Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting. The Sydney Tramway Museum is situated adjacent to Loftus Station. Our program will commence from 10.00am. For a cost of $15 per participant we will be provided with a museum tour, unlimited tram rides to Waratah Loop towards Sutherland and the Royal National Park, and the use of a conference space at the Sutherland substation. The substation also houses several exhibits. Lunch is planned for 12 noon at Café 2232 Loftus, on the western side of the station. Our AGM will commence at 2pm at the substation. Participants are welcome to join at any time during the day. This day will be another opportunity for Sydney members and their friends to get together.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## July 2022
 
 ### Membership Renewal 2022 – 2023
