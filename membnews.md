@@ -17,6 +17,24 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## September 2022
+
+### Report on ATA Committee Meeting Wednesday 17 August 2022
+
+The ATA Committee met on Wednesday 17 August 2022. The committee received the reports from various departments of ATA. These will be presented to the Annual General Meeting. We welcome new member Michael Menzies.
+
+### 2022 Annual General Meeting & Sydney Division Get-Together Sydney Tramway Museum, Sunday 16 October 2022
+
+Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting. The Sydney Tramway Museum is situated adjacent to Loftus Station. Our program will commence from 10.00am. For a cost of $15 per participant we will be provided with a museum tour, unlimited tram rides to Waratah Loop towards Sutherland and the Royal National Park, and the use of a conference space at the Sutherland substation. The substation also houses several exhibits. Lunch is planned for 12 noon at Café 2232 Loftus, on the western side of the station. Our AGM will commence at 2pm at the substation. Participants are welcome to join at any time during the day. This day will be another opportunity for Sydney members and their friends to get together. 
+
+### ATA looking for Committee Nominations and a New Treasurer
+
+Included in this mailout are the Formal AGM Notice, Proxy Form, and Committee Nomination. Form. To keep the ATA functioning we need more members to nominate for the Executive and Committee positions – people who are willing to accept responsibility for ATA management tasks, in particular, the need for members to consider taking on responsibility for Treasury tasks. Len Regan has been Treasurer since October 2008, a position he has enjoyed. We are thankful to Len for the superb way he has handled the ATA finances. Many things are changing in the Association’s world, and this could be a good time to consider changes and improvements for the Treasury processes. Len can hand over his Excel spreadsheets with the financial details. They contain many cell formulas, which would need a reasonable expertise in Excel. Jim Wells, our accountant, has prepared an alternative way of keeping the accounts. This could be examined and adopted if found to be suitable. The financial details of Distribution List orders and Auction bids could be processed by the Distribution Manager and Auctioneer and sent to the Treasurer, rather than the Treasurer compiling these details. The credit account system for each member works well, but it takes some effort to keep it up-to-date and accurate. There might be the option of purchasing the computer software for one of the small account management systems, which would produce the records and reports needed. The treasurer would have all the instructions needed to use this program: no special skills would be needed. The positions of Treasurer and Membership Officer could be separated. With on-line banking, this separation is more feasible than before.
+
+The [official AGM documents, the formal notice, nomination form and proxy form]({{ site.named_cdn_url }}/agmpapers2022issue.pdf), were sent with the September mailout.
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## August 2022
 
 ### Membership Renewal 2022 – 2023

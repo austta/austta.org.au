@@ -15,7 +15,8 @@ Meetings are held at the usual venue of Brian Webber's residence at 61/22 Towns 
 ## Canberra
 
 Meetings will take place by Zoom, or in person over dinner
-at the Ainslie Football Club.
+at the Ainslie Football Club
+on the fourth Thursday of each month.
 All members welcome.
 Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951](tel:+61421174951)
 
