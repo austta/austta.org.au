@@ -24,7 +24,7 @@ Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951]
 
 The next meeting will be at
 8.00pm on Wednesday
-7^th^ September 2022
+2^nd^ November 2022
 at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
 
 ## Sydney

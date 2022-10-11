@@ -22,8 +22,9 @@ Older, [pre November 1999 Issues](times2.html) are also available.
 The latest two issues are for members only
 -->
 
+* October 2022 (members only)
 * September 2022 (members only)
-* August 2022 (members only)
+* [August 2022]({{ site.named_cdn_url }}/thetimes202208issue.pdf) 832KB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [July 2022]({{ site.named_cdn_url }}/thetimes202207issue.pdf) 2.2MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [June 2022]({{ site.named_cdn_url }}/thetimes202206issue.pdf) 1.7MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)
 * [May 2022]({{ site.named_cdn_url }}/thetimes202205issue.pdf) 2.1MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)

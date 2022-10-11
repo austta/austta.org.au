@@ -17,6 +17,26 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## October 2022
+
+### 2022 Annual General Meeting & Sydney Division Get-Together Sydney Tramway Museum, Sunday 16 October 2022
+
+Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting.  The Sydney Tramway Museum is situated adjacent to Loftus Station.  Our program will commence from 10.00am.  For a cost of $15 per participant we will be provided with a museum tour, unlimited tram rides to Waratah Loop towards Sutherland and the Royal National Park, and the use of a conference space at the Sutherland substation.  The substation also houses several exhibits.  Lunch is planned for 12 noon at Café 2232 Loftus, on the western side of the station.  Our AGM will commence at 2pm at the substation.  Participants are welcome to join at any time during the day.  This day will be another opportunity for Sydney members and their friends to get together.
+
+### Distribution List Report
+
+The August List received nineteen orders.  Supplies of PTV Melbourne and Geelong bus timetables were exhausted, and the V/Line network plan and Victorian rail trail leaflets were popular.  It is expected that the September List will receive a similar number of orders with the updated V/Line plan and V/Line pocket timetables popular.  Historical V/Line and South Australian limited stock timetables have been of interest.  The October List will have some more PTV Werribee and Transperth bus timetables, as well as Nowra bus timetables effective 26 August, 2022.
+
+### Changes to Distribution List Closing date for Limited Items
+
+To make Distribution List management easier for our Treasurer and provide a speedier service to our members, a change to the closing date for limited items will occur from the October Distribution List. Our electronic and postal mailouts occur on the first Monday of the month and the closing date for limited items will occur on the Friday of the following week.  Thus, the October mailout is scheduled for Monday October 3, not a public holiday in Victoria, and the closing date for limited items will be Friday October 14.  At this time the Distribution Manager will allocate limited items and the complete order will be processed, including unlimited items.  Any limited items not processed at this time will continue to be available on a first come basis.  This change will eliminate the need for the Treasurer to process an order a second time to allow for the allocation of limited items.  It will also provide a timely reconciliation of accounts by the end of each month.  Allowing for the extension of the closing date following Covid, the new procedure will not be much different to that before Covid.  Orders could be sent by email or post or rung through to be received before the closing date.
+
+### Members Contact Details
+
+The annual list of ATA Members and their contact details will be included in the October 2022 mailout. 
+
+<p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
+
 ## September 2022
 
 ### Report on ATA Committee Meeting Wednesday 17 August 2022
@@ -25,7 +45,7 @@ The ATA Committee met on Wednesday 17 August 2022. The committee received the re
 
 ### 2022 Annual General Meeting & Sydney Division Get-Together Sydney Tramway Museum, Sunday 16 October 2022
 
-Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting. The Sydney Tramway Museum is situated adjacent to Loftus Station. Our program will commence from 10.00am. For a cost of $15 per participant we will be provided with a museum tour, unlimited tram rides to Waratah Loop towards Sutherland and the Royal National Park, and the use of a conference space at the Sutherland substation. The substation also houses several exhibits. Lunch is planned for 12 noon at Café 2232 Loftus, on the western side of the station. Our AGM will commence at 2pm at the substation. Participants are welcome to join at any time during the day. This day will be another opportunity for Sydney members and their friends to get together. 
+Sunday 16 October 2022 has been set as the date of the 2022 ATA Annual General Meeting. The Sydney Tramway Museum is situated adjacent to Loftus Station. Our program will commence from 10.00am. For a cost of $15 per participant we will be provided with a museum tour, unlimited tram rides to Waratah Loop towards Sutherland and the Royal National Park, and the use of a conference space at the Sutherland substation. The substation also houses several exhibits. Lunch is planned for 12 noon at Café 2232 Loftus, on the western side of the station. Our AGM will commence at 2pm at the substation. Participants are welcome to join at any time during the day. This day will be another opportunity for Sydney members and their friends to get together.
 
 ### ATA looking for Committee Nominations and a New Treasurer
 
