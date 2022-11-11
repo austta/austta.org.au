@@ -23,12 +23,11 @@ Contact David Cranney, <innamincka2002@gmail.com> phone [0421&nbsp;174&nbsp;951]
 ## Melbourne
 
 The next meeting will be at
-8.00pm on Wednesday
-2^nd^ November 2022
+8.00pm on Wednesday,
+1^st^ February 2023
 at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1802](tel:+61398301802).
 
 ## Sydney
 
-Enquiries to Geoffrey Clifton.
-<Geoffrey.Clifton@sydney.edu.au> phone [0405&nbsp;387&nbsp;478](tel:+61405387478).
-Note details of the Sydney Get-Together to be held on October 16 in conjunction with the ATA AGM.
+Convener's position is vacant.
+At the moment no meeting has been scheduled.

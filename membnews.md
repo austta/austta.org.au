@@ -17,6 +17,74 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## November 2022
+
+### 2022 Annual General Meeting, Sydney Tramway Museum, Sunday 16 October 2022
+
+Our 2022 Annual General Meeting commenced at 2pm on Sunday October 2022 at the Sydney Tramway Museum. Our meeting was attended by three members from Victoria, ten from New South Wales and one from Canberra. The AGM was preceded by an informative tour of the museum display hall, depot and restoration workshop and lunch at Café 2232 Loftus.
+
+Our AGM provided a time to look at some of the strengths of the ATA. The National Timetable Collection is a significant national project focusing on preserving documents that detail the historic and current workings of Australian Transport systems. “Table Talk” is a topical and informative publication detailing recent changes to transport schedules, mainly in Australia and New Zealand. Lately it has been enhanced by the reproduction of colour graphics through electronic distribution. The auction is well subscribed by members who seek access to past timetables and information. It is well organised and helps fund the activities of the ATA. The passion of members who generously donate timetables, volunteer their time, and support the organisation financially is greatly appreciated. The membership possesses a collective knowledge of and interest in transport, both historic and current, and includes members who work in the transport industry.
+
+There are many opportunities for the ATA. Development within the digital space may give ATA a more professional analytical arena alongside a role as a collectors’ society, for example digital collection and archiving. The electronic production of “Table Talk” enables distribution to a wider audience. The further development of the website provides an opportunity to be visible in the community and to be acknowledged as a professional, relevant organization.
+
+The AGM acknowledged Vance Findlay and Stephen Gray who had passed away during the year. Stephen contributed to the Distribution List and the NTC.
+
+ATA finances showed an accrual deficit of $1586, $693 less than last year. Although distribution list and auction revenue had declined, $3633 had been received in donations, $3145 more than last year. Mailout costs were reduced by volunteer printing instead of commercial printing. Rental of premises for the NTC has been a major expense. Accounting has been streamlined with stationery and postages costs treated as a single item rather than being categorized as publications, NTC, distribution list and auction expenses. It is reasonable to hope that break-even or a small deficit may be possible in 2022-2023.
+
+There had been a downturn in articles submitted for “The Times”. In view of this perhaps a less frequent publication may be warranted.
+
+There has been a take up of the electronic mailout with 78 members now receiving this compared with 77 receiving their mailout by post (some members receive both versions). This has not resulted in significant cost savings but will do so when the number of print post items falls to below 65. Membership currently stands at 132. While five members have opted not to renew their membership, this was offset by two new members.
+
+The ATA is appreciative of those who had contributed to work on the NTC during the year, particularly Agnes Boskovitz and her team in Canberra who had completed cataloguing of the extensive collection of Victor Isaacs. After looking for an appropriate place to house the work of the NTC for some time, an opportunity to use space at CAVAL adjacent to Latrobe University has been identified. Preparation for the move has commenced and should take place in early November. Overseas material and books which will not be part of the NTC will be stored and worked on in the garage of Steven Haby. A third batch containing 933 railway working timetables has recently been delivered to the State Library bringing to 4037 the number of items now in the library. Archiving and cataloguing of digital timetables remains an area of uncertainty. As a starting point, it would be good to have someone to save pdf timetable documents from transport operator’s websites for storage on the Association’s Drop Box folders.
+
+The 40th anniversary of the Association occurs in September 2023 and Len Regan suggested that something be done to help celebrate this occasion. Asking original members to share thoughts on their time in the Association and updating and republishing the history of the ATA that was prepared by Victor Isaacs 10 years ago were suggested as possible options. A formal arrangement with ARHS NSW to share work and material related to timetables is also now in place.
+
+The AGM resolved that there be up to eight ordinary committee members. The results of the Election of Office Bearers at the AGM for 2022-2023 were: - Andrew James (President), Steven Haby (Vice President), Richard May (Secretary), Len Regan (Treasurer), John Abrams, Derek Cheng, Hilaire Fraser, Matthew Gibbins, Geoff Lambert, Chris Pandilovski, Alex Sims, and Michael Vale (Ordinary Committee Members). Following the AGM the new committee was able to make the following appointments for 2022-2023:- *Times* Editor:- Geoff Lambert, *Table Talk* Editor:- Chris Pandilovski., *Table Talk* Bus Editor:- Steven Haby, Production Manager:- Steven Haby, Auctioneer:- Matthew Gibbins, Archives Officer:- Len Regan, Webmaster:- Alex Sims, Distribution Manager:- Michael Marshall, Membership Officer:- Len Regan and Assistant Treasurer:- John Abrams. John Abrams was welcomed to the committee and will assist Len Regan with the finances to allow Len to spend more time on the National Timetable Allocation. I did not seek renomination as president in 2022-2023 as Nerelle and I will be busy completing our new home on the South Coast and doing a great deal of travelling in our caravan thereafter. ATA endorses and supports our new president, Andrew James. Andrew will take over the Members’ News in December. Our thanks to Michael Marshall who has agreed to take over the role of Distribution manager.
+
+Divisions in states other than NSW will be approached to host the 2023 (40^th^) AGM.
+
+Following the meeting some members enjoyed a tram ride to the Royal National Park. Our thanks to Sydney Tramway Museum member David Critchley who conducted our museum tour and was our host for the day. Also, thanks to Andrew James for assisting with the organization, and our secretary Richard May for preparing the Annual Report and business, for our AGM.
+
+<p style="text-align:right">Hilaire Fraser</p>
+
+### Introducing our New President Andrew James
+
+I am pleased to write to you all as the newly elected President of the Australian Timetable Association. I was somewhat surprised when I was put forward for the position, but having received enthusiastic endorsement and support from members, and the previous President, I am somewhat humbled. Hilaire has performed a sterling job in leading the ATA over the past six years, and now joins us as a committee member. I'm sure I speak for the membership in thanking him for his service to the ATA.
+
+I appreciate that a number of the members outside Victoria may not know who I am. I have a lifelong passion for railway operations and have been very fortunate to have forged a career of 16 years so far, having held roles in New Zealand and Australia as onboard crew, Signaller, Driver, and most recently, Train Controller in Melbourne. I recognise that many members among us also have extensive industry experience, however, also understand that there is great knowledge and analytical skills among those who haven't.
+
+Timetables are more than a table of numbers, explaining when a train might show up to take you to work. They are more than a document to peruse to find out when certain trains will run to get glorious sun-soaked photographs for enthusiasts. One must dig deeper to understand the story they tell about the fabric of society and how that has changed over time. They speak to the social, political and economic environments of their time, and when viewed in the context of a period of time, describe both the progression and indeed regression of the same. As I referred in my presentation to SLUOC in 2019, you can start to understand how that drove policy creation and infrastructure development, and the raison d'être, asking such questions as "did the timetable decide future infrastructure, or did the infrastructure determine the timetable". Australia and New Zealand have clear examples of both.
+
+The ATA faces some of the biggest challenges it has ever faced in the short to medium term. The data output from many transport organisations has become increasingly digital in format, both public facing and internal. As a direct result, as we move forward, we will also need to transition away from physical artifacts to digital media. This presents both opportunities and challenges to the ATA as an organisation.
+
+The ATA cannot change the course of progress within the Transport Industry, but it can lead for example within the collections and archival space. In time, we will be less constrained by physical space, but will also have to give strong consideration to our ability to be able to store, process and eventually distribute digital media. Going deeper, we also need to give due consideration to our ability to maintain digital records in an archival setting, not only for ourselves, but also with reference to the National Timetable Collection. It is without question that the NTC is the organisation's primary activity, and will be for the foreseeable future, of at least the next five years. Even then, once it's "done", the work may not actually ever be complete, as the timeline of history never stops. As things stand right now, not many organisations are set up to handle mass data as a collection to be protected and maintained, and this is likely to become an activity we have to lead and champion moving forward. I have long argued that digital media is as crucially important to the national collection as our physical artifacts, and therefore we must work with other agencies including the State Library of Victoria to recognise our digital media and establish a platform on which to maintain and protect those items for future generations.
+
+The ATA faces some other uncertainties, particularly in the space of membership and manpower. Broadly speaking, we do have an aging membership, and finding volunteers to commit their valuable time and energies to the ATA is proving a challenge. The ATA is far from unique in both challenges. There is some hope in a number of applications from younger members over the last couple of years, and I fully intend to engage with this group to understand their perspectives, and how we as an organisation can make ourselves more relevant. I appreciate that, at the grand old age of 35 I am among the younger members of the ATA, but some of the more recent members from Victoria and South Australia are approximately half my age. I consider myself fairly tech savvy, but even this generational divide is quite obvious. We also have to recognise that many people in society are time poor, for a variety of reasons. I'm certainly no exception as a full time shift worker.
+
+The ATA also has a decision to make about its identity. I believe the ATA actually has two, which serve very different functions. Internally, we are a group of transport enthusiasts and professionals (past and present) with a passion for detail, especially in transport operations, and invested in the core knowledge involved. Externally, the ATA is a professional body of transport analysts who are able to inform on a wide breadth of subject matter in both current and historical contexts. Further, as the holder of the NTC, we have access to a vast collection of material to inform, comment, analyse and inspire debate on many aspects of Society, Public and Private Policy, Politics and Economics. The public facing aspects of the ATA will play an enormous role in displaying and putting forward that identity, so it is crucial we get this right at the start. The website will be the most visible aspect. It must inform, while also being welcoming. Social media will also play a critical function, especially in targeting the younger generation, particularly in membership recruitment. Much work must be done in this space.
+
+Offsetting the uncertainties mentioned above, I am delighted to support Len in advising the membership that we have finally secured a permanent home for the NTC and its supporting activities. CAVAL, on the grounds of La Trobe University is a purpose built, professional and secure facility for the storage and sharing of collections and artifacts from some of the most prestigious universities and libraries across Australia, and I am delighted that they have invited our organisation to lease space at their facility. I do advise that, as this is indeed a secure facility which houses some priceless artifacts, there are stringent conditions on accessing this facility. Any member intending to assist with the work of the NTC must contact Len for further details. Please do not turn up unannounced, as you will not be able to access the building.
+
+I have signalled the intention to the new Executive to meet and develop a policy framework for the ATA, to present for endorsement to the Committee. This doesn't need to be too rigid or formal, but I believe there is value in deciding and documenting the direction the ATA wants to head in as an organisation, and help the ATA decide the relative task priorities and determine what is important to the ATA. It is likely that the ATA is already doing a lot of what will shape that policy framework, but I feel that having this documented will help the organisation remain transparent with its members and provide a supporting document for the membership to get behind. Once this is endorsed by the Committee, I will definitely be sharing this with the membership.
+
+I am also working on a proposal to put to the Sydney Branch of the ATA for a new home for their chapter, which I hope to share soon. It will be entirely up to the Sydney members whether this option will be suitable for them, however if this is of any help to the Sydney Chapter, then I would be pleased to assist.
+
+Going forward, the organisation will continue to have some significant overhead expenditure, however I believe this expenditure is absolutely necessary to fund and permit activities associated with protection and archiving of the NTC. I believe this is currently being responsibly achieved, however the financial contributions via membership fees, income from the distribution lists and donations will continue to be of vital importance. It is my intention to have the NTC formally recognised as a collection of national significance, and this could open up further opportunities for the awarding of grant applications to the ATA for NTC related activities. I hope to be able to report on this in the near future.
+
+Yours loyally\
+*Andrew James*\
+*President*
+
+### New Members
+
+We welcome new members to ATA:
+
+* Michael Menzies, Geelong Victoria
+* Sean Menzies, Essex UK
+* Glenn Jackson-Bethell, Baulkham Hills NSW
+
+ATA membership is now 133.
+
 ## October 2022
 
 ### 2022 Annual General Meeting & Sydney Division Get-Together Sydney Tramway Museum, Sunday 16 October 2022
@@ -33,7 +101,7 @@ To make Distribution List management easier for our Treasurer and provide a spee
 
 ### Members Contact Details
 
-The annual list of ATA Members and their contact details will be included in the October 2022 mailout. 
+The annual list of ATA Members and their contact details will be included in the October 2022 mailout.
 
 <p style="text-align:right">Hilaire Fraser, <president@timetable.org.au> 0409&nbsp;463&nbsp;209</p>
 

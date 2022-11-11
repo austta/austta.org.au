@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 154 October 2022]({{ site.named_cdn_url }}/auctioncatalog202210issue.pdf) (84kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway books. Book covers may be viewed, [lots&nbsp;1-21]({{ site.named_cdn_url }}/auctioncatalog20221001app.pdf) (8.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [lots&nbsp;22-42]({{ site.named_cdn_url }}/auctioncatalog20221002app.pdf) (7.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
+* [Auction 155 November 2022]({{ site.named_cdn_url }}/auctioncatalog202211issue.pdf) (224kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Overseas rail and bus networks: maps and guides.
 
 ## Previous catalogues
 
+* [Auction 154 October 2022]({{ site.named_cdn_url }}/auctioncatalog202210issue.pdf) (84kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway books. Book covers may be viewed, [lots&nbsp;1-21]({{ site.named_cdn_url }}/auctioncatalog20221001app.pdf) (8.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [lots&nbsp;22-42]({{ site.named_cdn_url }}/auctioncatalog20221002app.pdf) (7.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction 153 September 2022]({{ site.named_cdn_url }}/auctioncatalog202209issue.pdf) (112kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide working and public bus and tram timetables.
 * [Auction 152 August 2022]({{ site.named_cdn_url }}/auctioncatalog202208issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is New South Wales railway handbills. The closing date for this auction was extended to 5pm AEST Sunday 21st August 2022.
 * [Auction 151 July 2022]({{ site.named_cdn_url }}/auctioncatalog202207issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide public and working bus and tram timetables.
