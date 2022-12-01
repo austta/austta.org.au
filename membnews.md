@@ -17,6 +17,100 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## December 2022
+
+### National Timetable Collection
+
+<p style="text-align:center">The National Timetable Collection now has a new permanent home.</p>
+
+Following a suggestion from Graham Currie, Public Transport Research Centre at Monash University, we have been able to secure permanent accommodation at CAVAL, a purpose-built library archival facility in the grounds of La Trobe University at Bundoora.
+
+The National Timetable Collection was transferred there on 31 October 2022.  All the 385 timetable bins and boxes are stored in geographic order on 52 shelves in 6 bays within the high-security CAVAL facility.  All bins and boxes are individually accessible – there is no double stacking.  The ATA computer has been setup permanently and can be accessed easily during any working session.  This has made a huge improvement to the efficiency of the way we can work regularly on the National Timetable Collection.
+
+We have signed a one-year agreement from 1 November 2022, with the expectation of annual extensions.  The annual fee is expensive but affordable.  Fund raising and donations will still be needed.  The quality and location of the NTC storage may make ATA eligible for funding grants and support.  This has yet to be explored.
+
+Security in the CAVAL building is tight but effective.  We are required to advise CAVAL of the name, mobile phone number and email address of any ATA member attending CAVAL in advance.  Each person must sign in and out for every visit.
+
+We have started with weekly working bees on Thursdays – this will be reviewed as we settle in.  The facility is not accessible on Saturdays.
+
+The storage of ATA archives will be transferred to CAVAL when space is available – probably early in the new year.
+
+ATA’s name for its storage facility at CAVAL is known as *“Mern Merna”*, after the next station beyond Hookina on the former narrow gauge Central Australia line.
+
+The storage of ATA’s stock of overseas timetables, transport books, transport magazines and office furniture has been transferred to Steven Haby’s garage in Federation Walk Hughesdale – to be known as *“Federation”*.  All stock is now accessible directly without any double stacking.  For the first time in recent years, we are now able to sort this material and make it available as needed for Auctions and other sale opportunities.  For the time being, work at Federation will occur on Saturdays.
+
+We are very grateful to Steven and his partner Katie for making a major part of their garage available for ATA storage.
+
+Now that all this storage is stabilised and accessible, we are keen to encourage more ATA members to become involved with this project.  There is a wide range of tasks available, including sorting, labelling, recording, cataloguing and packaging – both at Mern Merna and Federation.  This is ATA’s major project – working on it can be very enjoyable and rewarding.  If you wish to be involved, please contact Len Regan on 0409 209 114 and discuss what arrangements can be made to suit your interests.
+
+The ATA are also keen to find ways to involve membership from other states and territories outside Victoria. Arrangements can be made with those membership groups to potentially assist the Victorian working group with cataloguing and sorting elements of the collection.  If you have any ideas, suggestions, and/or possible spaces to do this in, please also contact Len Regan.
+
+We all recognise that the National Timetable Collection has to embrace digital timetables as well as printed timetables.  It is the information they contain that is what is important to retain.
+
+Accordingly, I have set up the structure and protocols for retaining digital timetables in Dropbox on the ATA computer (known as Atacom).  There is a folder in Dropbox where the files for digital timetables can be deposited.  These files will then be relocated in specific folders for each State, Mode, Operator and Year.
+
+To succeed, we need a competent member to manage the allocation of the digital timetable files for the National Timetable Collection on Dropbox.  This can be done from home. ATA can arrange for computer access to its Dropbox account.
+
+On 17 October 2022, Andrew James, Geoff Lambert and Len Regan met with James Dalton, General Manager of
+ARHS NSW.  Significant progress was made in progressing our agreement for cooperative action on sharing resources, printed and digital railway timetables, railway ephemera, and stock catalogues.
+
+### Important Changes
+
+Following the AGM in October 2022, there are some important changes to the management of some of ATA’s activities.
+
+We welcome Michael Marshall as Distribution Manager.  Michael will prepare the Distribution List each month and process all the orders.  He replaces Hilaire Fraser who has sold his home in Miranda and is moving to his new home on the South Coast.  We are very grateful for the diligent manner by which Hilaire has managed the Distribution List since May 2016.
+
+We also welcome John Abrams as Assistant Treasurer.  John will record all the financial transactions and manage the Distribution Service accounts.  John’s accounting background will be a great asset to ATA.  John’s work will allow Len Regan as Treasurer to concentrate more on the National Timetable Collection.  We are very grateful that John has accepted this new position on the ATA Committee.
+
+### Vale Ian Brady
+
+We were saddened by the news that Ian Brady passed away on 9 November 2022.
+
+ATA member Jim Wells delivered the eulogy at Ian’s Memorial Service on 23 November.  In it he quoted from the sympathy we sent to Ian’s wife Barbara.  “Ian was a dedicated member of the Association for over 16 years.  In that time he endeared himself to many members who enjoyed his company and his enthusiastic interest in timetables.  He willingly passed on his knowledge and experience to those who wished to get a greater understanding of how our train and tram systems worked.  At the same time he remained keen to improve his own knowledge of the new operating systems that were constantly being introduced”.
+
+Ian has been a prolific contributor to ATA projects from as far back as 2017, and probably earlier than this.  Much of his timetable collection has been bequeathed to National Timetable Collection over the years, and for this we are very grateful.
+
+He had a vast collection of railway working timetables, not only for Australia but also from overseas.  He had a particular interest in German railway timetables.  We will always remember him for his generous donation to ATA of the last printed Deutsche Bahn 2009 Railway Working Timetable, a magnificent box set  4-volume, 6048 page publication with gold lettering and gilt edges, weighing 10kg.  This extremely valuable publication will be retained in the ATA archives.
+
+Ian was keenly interested in the London Underground Working Timetables.  He pursued many avenues to obtain them.  When he could only get the digital versions, he would print them and get them bound.  He studied these fascinating timetables in great detail.
+
+Despite Ian’s ill-health and limited mobility in recent years he always retained his keen interest in timetables, and it was a pleasure to talk with him.  Every time he provided more interesting information from his comprehensive background knowledge.  Ian will be greatly missed.
+
+### ATA Committee Meeting 16 November 2022
+
+Apart from the usual things discussed at Committee meetings, there was discussion about the 40th anniversary of the founding of the Australian Association of Timetable Collectors, the forerunner of ATA, in September 1983.  Suggestions were made that commemorative articles will be included in The Times during 2023, and it may be possible to organise a commemorative event.
+
+A special effort is being made to complete the upgrade of ATA’s website, with the aim of launching it early in 2023. There are also some discussions underway about the ATA’s social media presence, it’s value to the ATA and its future form. Part of this will include a review of the parameters within which the social media channels will be managed.
+
+<p style="text-align:center">*On behalf of the ATA Committee may I wish you all a very Happy Christmas and all the best for the New Year.*</p>
+
+<p style="text-align:center">*Thank you for your support and encouragement during 2022.*</p>
+
+<p style="text-align:right">**Andrew James**\
+**President**</p>
+
+### National Timetable Collection at CAVAL
+
+<p style="text-align:center">![](membnews20221201.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">Richard May uses the safety equipment to access the
+Collection</p>
+
+<p style="text-align:center">![](membnews20221202.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">The Collection of 385 bins and boxes occupies 6 bays each with 9 shelves.</p>
+
+<p style="text-align:center">![](membnews20221203.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">![](membnews20221204.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">David Hennell and Richard May work on sorting timetables for the Collection</p>
+
+<p style="text-align:center">![](membnews20221205.jpg){style="max-width:100%;"}</p>
+
+<p style="text-align:center">At Steven Haby’s garage in Hughesdale,
+Richard Talbot sorts the Association’s collection of overseas timetables, books and magazines.</p>
+
 ## November 2022
 
 ### 2022 Annual General Meeting, Sydney Tramway Museum, Sunday 16 October 2022
