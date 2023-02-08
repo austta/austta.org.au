@@ -3,7 +3,7 @@ layout: page
 title: Members News
 ---
 
-Here is member's news for 2022.
+Here is member's news for the current year.
 Other years member news may be
 found at:
 
@@ -17,6 +17,91 @@ found at:
 * [2016](membnews2016.html)
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
+
+## February 2023
+
+Hello everyone, and welcome to the February 2023 ATA Members News.
+ 
+### Farewell event for ATA President Andrew James
+
+Our esteemed President Andrew James has accepted the high-profile KiwiRail position of Network Control Manager at the Auckland Integrated Rail Management Centre.  We offer Andrew our sincere congratulations.
+
+Andrew has vacated his position as a Train Controller at Melbourne Metro and moves to Auckland, his home town, on 19 February 2023.
+
+Andrew was elected President of ATA in October 2022.  He will retain this position after he moves to New Zealand.  This is feasible given that most of our management functions are now conducted on-line.
+
+A function to recognise Andrew’s significant contributions to ATA will be held in Melbourne at 6.00pm on Monday evening 13 February 2023.  All ATA members are invited to attend with their partners and friends.
+
+The function will be an evening meal in a dining room at the Auburn Hotel, 85 Auburn Rd, Hawthorn East very close to Auburn Station.  The table booking has been made in the name of Richard May.
+
+The arrangement is that you buy your own drinks at the bar.  The bill for the meals will be paid by ATA.   You are asked to pay ATA for your meal.   This can be done by:
+
+* Cash on the night
+* EFT deposit to the ATA bank account on the night
+* EFT deposit to the ATA bank account as soon as you get home
+* Deduction from your ATA credit account.
+
+Here are ATA’s Bendigo Bank account details: BSB 633-000 Account 1925 46489.
+
+For catering purposes, if you can come, can you please send an email to Richard May, secretary@timetable.org.au  or phone 0438 364 568, before Friday 10 February.
+
+If you wish to contact Andrew, his email address is president@timetable.org.au.
+
+If there is sufficient interest, arrangements can be made for members to inspect ATA’s National Timetable Collection facility at CAVAL in the grounds of La Trobe University, Bundoora, on the next day, Tuesday 14 February.  For security protocols, please advise Richard May before Friday 10 February if you are interested in this inspection.
+
+We hope that you may be able to join us for this special event on 13 February 2023 where you can meet Andrew, our President, and other ATA members.
+
+### New Members
+
+We welcome two new members to ATA:
+
+* Leigh Zaghet, Seven Hills, Sydney
+* David Bowman, Mount Waverley, Melbourne.
+
+We look forward to working with Leigh and David and help them with their interests in timetables. 
+
+### National Timetable Collection at CAVAL
+
+The National Timetable Collection (NTC) is now well established at CAVAL which is on grounds of La Trobe University at Bundoora in Melbourne.
+
+All the boxes containing the timetables are now stacked and labelled in order of transport mode within each State, so it is easy to find the timetables for any locality or region.  The work routines for processing the timetables are now well established and we are keen to attract more members to join the team of workers on this challenging project.
+
+ATA’s name for the facility at CAVAL is Mern Merna, after the next station beyond Hookina on the old narrow-gauge Central Australian Railway.
+
+The ATA computer has been set up permanently at Mern Merna and can be used not only for the NTC  project but also for other ATA management tasks.
+
+There are many tasks to be done, and these can be tailored to individual members needs and capabilities.
+
+* The timetables need to be sorted when they are initially received.
+* Timetables need to be separated from maps, guides and information, and from material that is more suited to the ATA’s archives.
+* The new timetables need to be merged with timetables already received.
+* Timetables from collections in large heavy boxes need to be repacked into smaller lighter boxes.
+* Duplicate copies of timetables need to be separated and filed in the ‘duplicates’ boxes.
+* Batches of timetables need to be selected from the duplicates for Auction catalogues.
+* Timetables for the core Collection need to be sorted and bundled into date order.
+* Sorted timetables need to be catalogued in Excel for the State Library.  This is best done with two people working together.
+* The catalogued timetables need to be coded, checked, packed and labelled ready to be deposited at the State Library.
+
+Workers can take on particular tasks of their choice, and they can work on these tasks on each of their visits to Mern Merna.   At present, we are working usually on Thursdays each week at Mern Merna, but this can be varied to meet member’s needs.
+
+As more workers become in involved, it may be possible for small teams to work at CAVAL on more days each week.  The Association’s stocks of overseas timetables and transport books are currently stored in Steven Haby’s garage at Hughesdale.  There is a lot of sorting, labelling and filing to be done there, and this work is done on Saturdays for the time being.
+
+ATA’s name for the storage at Hughesdale is Federation, after the name of the street where it is located.
+
+If you are interested and able to work on any of these tasks, you will be very welcome.  If you are able to work only occasionally, you are still welcome.  It is a major task that the Association has undertaken, and all the help that can be given will improve the results that can be achieved.
+
+There are security protocols for working in Mern Merna at CAVAL.  There are no formalities for working at Federation.
+
+To discuss your interests in being involved with the National Timetable Collection and the Association’s archives, please contact Archives Officer Len Regan on archives@timetable.org.au, or phone 0409&nbsp;209&nbsp;114.
+
+### Map Memories
+
+The NTC’s collection scope does include public transport maps and guides.  The following treasure was discovered when Steven Haby was sorting through a collection of brochures. Note the bus stops marked on the map and the Queenscliff ferry route which included a stop at Portsea.  
+
+![Broadbent's map No. 241 Sorrento & Portsea](membnews20230201.jpg){maxwidth="100%"}
+
+<p style="text-align:right">***Steven Haby\
+Vice President***</p>
 
 ## January 2023
 
