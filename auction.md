@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 156 December 2022]({{ site.named_cdn_url }}/auctioncatalog202212issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian and overseas airline timetables.
+* [Auction 157 January 2023]({{ site.named_cdn_url }}/auctioncatalog202301issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is British and Irish railways working timetables.
 
 ## Previous catalogues
 
+* [Auction 156 December 2022]({{ site.named_cdn_url }}/auctioncatalog202212issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian and overseas airline timetables.
 * [Auction 155 November 2022]({{ site.named_cdn_url }}/auctioncatalog202211issue.pdf) (224kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Overseas rail and bus networks: maps and guides.
 * [Auction 154 October 2022]({{ site.named_cdn_url }}/auctioncatalog202210issue.pdf) (84kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway books. Book covers may be viewed, [lots&nbsp;1-21]({{ site.named_cdn_url }}/auctioncatalog20221001app.pdf) (8.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)) and [lots&nbsp;22-42]({{ site.named_cdn_url }}/auctioncatalog20221002app.pdf) (7.5MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg))
 * [Auction 153 September 2022]({{ site.named_cdn_url }}/auctioncatalog202209issue.pdf) (112kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Adelaide working and public bus and tram timetables.

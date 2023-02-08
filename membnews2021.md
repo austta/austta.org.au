@@ -7,7 +7,8 @@ Here is member's news for 2021.
 Other years member news may be
 found at:
 
-* [2022](membnews.html)
+* [2023](membnews.html)
+* [2022](membnews2022.html)
 * 2021
 * [2020](membnews2020.html)
 * [2019](membnews2019.html)

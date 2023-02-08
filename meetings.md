@@ -5,7 +5,6 @@ title: Division Meetings - Calendar and Reports
 ## Adelaide
 
 Enquiries to Robert Field <fieldfro9@adam.com.au> or [(08)&nbsp;8339&nbsp;2065](tel:+61883392065).
-At the moment no meeting has been scheduled.
 
 ## Brisbane
 
@@ -30,4 +29,3 @@ at David Hennell’s place, 3/29 Croydon Rd Surrey Hills. [(03)&nbsp;9830&nbsp;1
 ## Sydney
 
 Convener's position is vacant.
-At the moment no meeting has been scheduled.
