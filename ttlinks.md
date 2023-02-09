@@ -18,10 +18,15 @@ title: Links to on-line Transport Timetables
 ### International
 
 * [RailEurope](http://www.raileurope.com/)
-* [United Kingdom (Railtrack plc)](http://www.rail.co.uk/ukrail/planner/planner.htm)
 * [Kiwi Rail - New Zealand Railways](http://www.kiwirail.co.nz)
 * [Duncan Peattie's Chinese Railway Timetable Home Page](http://www.chinatt.org)
 * [Hyperdia - Japanese Rail/Aviation Timetable Information](http://www.hyperdia.com/)
+
+#### United Kingdom
+
+* National Rail [Journey Planner](https://www.nationalrail.co.uk) operated by the the train companies collectively
+* Network Rail [National Electronic rail timetable](https://www.networkrail.co.uk/running-the-railway/the-timetable/electronic-national-rail-timetable/), updated six monthly, (public timetable pages as updated during the timetable year can be fournd at [https://timetables.fabdigital.uk/nrt](ttps://timetables.fabdigital.uk/nrt/) and select the directory for the relevant period e.g. [https://timetables.fabdigital.uk/nrt/dec2022](https://timetables.fabdigital.uk/nrt/dec2022))
+* Network Rail [Working timetables](https://www.networkrail.co.uk/running-the-railway/the-timetable/working-timetable/)
 
 ## Airlines
 
