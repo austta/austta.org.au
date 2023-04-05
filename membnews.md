@@ -18,6 +18,44 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## April 2023
+
+Hello everyone, and welcome to the April 2023 ATA Members News.
+
+### UPDATE ON OUR PRESIDENT ANDREW JAMES’ MOVE TO NEW ZEALAND
+
+Andrew has just finished the Train Control school, managing to obtain the second highest overall score out of the school of seven, despite having to complete a 10 week course in 4.5 weeks.  He is now starting on-the-job training for his position as Network Control Manager, KiwiRail.
+
+His house is still condemned after damage caused by the recent cyclone.  He has found somewhere else to live for at least the next year, a 19th century villa in Greenlane.   Resolution of the cyclone damage may take about 12 months.  He has still been unable to get access to the contents in his damaged house.
+
+### WORKERS FOR THE CHALLENGES AHEAD
+
+In recent years, membership of ATA has remained strong, and we have been able to keep going with our activities and projects.  But as we all grow older, we need to encourage more participation by members, using the many varied skills, expertise and interests that we share.  Here are some of the activities where members are encouraged to consider becoming involved.
+
+* Writing articles for The Times  In this, our fortieth year, we would like to publish articles in The Times  from long-time members of the Association about their memories and experiences in the Association.  Please contact Geoff Lambert at <thetimes@timetable.org.au> or 0437&nbsp;854&nbsp;025.
+* Updating the history of ATA  The last ATA history was written by Victor Isaacs 15 years ago.  It now needs to be updated in time for the 40th year anniversary issue of The Times  in September this year.  Access to archive records is available.  Geoff Lambert would keenly like to hear from you if you are interested.
+* National Timetable Collection  With over 500 boxes of timetables stored in easily accessible order at CAVAL in Bundoora, Melbourne, work on sorting, culling and cataloguing the Collection is interesting, challenging and enjoyable.  One team of members works at CAVAL each Thursday, but another team could work on Tuesdays, doubling the progress on getting timetables deposited in the State Library.  This work is varied and satisfying.  Please contact Len Regan at <archives@timetable.org.au> or 0409&nbsp;209&nbsp;114 to find out more details.
+* Book sales  ATA has well over $1000 worth of quality second-hand transport books it has received from donations.  The immediate task is to compile a list of them which can be placed on the new website.  Later, we need someone to manage the sale of these books.  They are currently stored in a garage at Hughesdale in Melbourne.  Len Regan is the person to contact if you might be interested in this project.
+* Website Some of the content of the new website has still to written.  But then all of it has to be converted into Wordpress before it can be uploaded.  If you are competent with Wordpress and have some spare time in the next few weeks, your help with this project would be very much appreciated.  Please contact Richard May, <secretary@timetable.org.au>  or 0438&nbsp;364&nbsp;568.
+* Sydney Division Meetings  Duncan MacAuslan has made available a room at the Sydney Bus Museum in Leichhardt for ATA meetings.  All we need now is a Sydney member to liaise with Duncan to organise meetings and notify members.  Not a difficult job, and a very rewarding one.  Please contact Richard May if this might be your contribution to ATA activities.
+
+### ARCHIVAL COPIES OF DISTRIBUTON LISTS
+
+The ATA archives have print and digital copies of the Distributions Lists only as far back as January 2005.  We would certainly like to have Distribution Lists in our archives for many years prior to that.  The Distribution Lists have been a staple feature of the Association and it is fascinating to explore how they developed over the years, including the range of content and the payment systems.
+
+If you have kept Distribution Lists prior to 2005, we would certainly like to hear from you.  We could discuss a number of options ranging from a donation to ATA archives up to a loan of them so that we can scan them.  If you can contribute anything for this project, can you please contact Len Regan, Archives Officer, on <archives@timetable.org.au>  or 0409&nbsp;209&nbsp;114.
+
+### OLD MAGAZINES
+
+Following the item in Members News March 2023, an ATA member has donated a full set of *Transit Australia* magazines from February 2015 inclusive up to June 2018.  For this we are very grateful.
+
+### ANNUAL GENERAL MEETING 2023
+
+This year’s AGM will be held in Melbourne with a special 40^th^ Anniversary celebration.  The ‘usual’ date would be Saturday 21 October.  Please contact Secretary Richard May if you are aware of any conflicts with this date.  We will confirm the date in the next issue of Members News.
+
+<p style="text-align:right">***Len Regan\
+Membership Officer***</p>
+
 ## March 2023
 
 Hello everyone, and welcome to the March 2023 ATA Members News.
