@@ -8,10 +8,11 @@ Unless noted bids close on the 20th of the month, e.g. the April 2017 auction cl
 
 ## Current catalogue
 
-* [Auction 160 April 2023]({{ site.named_cdn_url }}/auctioncatalog202304issue.pdf) (76kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Perth bus, ferry and train timetables.
+* [Auction 161 May 2023]({{ site.named_cdn_url }}/auctioncatalog202305issue.pdf) (64kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Tasmanian bus and coach timetables and maps.
 
 ## Previous catalogues
 
+* [Auction 160 April 2023]({{ site.named_cdn_url }}/auctioncatalog202304issue.pdf) (76kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Perth bus, ferry and train timetables.
 * [Auction 159 March 2023]({{ site.named_cdn_url }}/auctioncatalog202303issue.pdf) (76kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is Australian railway books. Book covers are [available for viewing]({{ site.named_cdn_url }}/auctioncatalog20230301app.pdf) (5.6MB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)).
 * [Auction 158 February 2023]({{ site.named_cdn_url }}/auctioncatalog202302issue.pdf) (68kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is public transport maps and guides.
 * [Auction 157 January 2023]({{ site.named_cdn_url }}/auctioncatalog202301issue.pdf) (88kB ![PDF]({{ site.secure_cdn_url }}/pdficon.svg)), theme is British and Irish railways working timetables.

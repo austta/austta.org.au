@@ -18,6 +18,65 @@ found at:
 
 Please note, links in member news are not maintained in general, they remain as a record of what was sent to members.
 
+## May 2023
+
+Hello everyone, and welcome to the May 2023 ATA Members News.
+
+### Firstly, a word of thanks
+
+You will doubtless be aware that I have been largely inactive in my role of President over the last few months.  My relocation to New Zealand has not been anywhere near as smooth as I had hoped following the events of Cyclone Gabrielle, a week before my relocation.  We have fortunately moved into another home in Auckland, while engineering assessments are undertaken, along with eventual remediation of our home.  I expect this process will take at least the next twelve months, maybe more.  However, as things are a lot more stable here for us, I’m becoming increasingly active again. I’d like to extend my thanks to the Executive Team for keeping the ship afloat while my attention was diverted elsewhere, and to you, our members for your understanding while this was happening.
+
+### Partnership with ARHS
+
+The ATA has received a draft Memorandum of Understanding with the ARHS, NSW branch for consideration.  This MOU aims to allow both organisations to pool and share their resources for our mutual shared objectives, and hopefully fill some gaps in the collections of both organisations.  We hope to have this signed soon, and will share more when we can.
+
+### Membership Renewals 2023
+
+Personalised Membership Renewal forms are being included with the May 2023 mailout.  The print mailouts include a printed Membership Renewal form.  For the members with only digital mailouts, an individual Membership Renewal form will be sent by email during the first week of May 2023.
+
+The annual Membership Fees remain the same as last year.
+
+| | |
+|:-|-:|
+Australian Member – receiving printed mailout by post | $72
+Australian Member – receiving only digital mailout by email | $66
+Australian Student Member (aged under 25 Years) | $36
+International Member – receiving printed mailout by airmail post | $108
+International Member – receiving only digital mailout by e-mail | $66
+
+We earnestly hope that you will be able to renew you ATA membership prior to 30 June 2023.  This saves us a lot of effort in sending out reminder notices.
+
+If you are paying by EFT, please make sure that you include your name, or at least your membership number, in the description.
+
+Please also check that you have updated your payee details.  The previous ATA account at Westpac is now closed, and our only account is now the one at Bendigo Bank.
+
+Now that we have permanent storage for the National Timetable Collection at CAVAL (La Trobe University) we are committed to substantial expenses each year.
+
+We appreciate greatly the generous donations last year that enabled us to set up the Collection at CAVAL, and we hope that you will be able to continue these donations.
+
+### Australian Railway Enthusiasts Society (ARE)
+
+Members will likely be aware that the ARE are in the process of winding their organisation up.  This has also seen the closure of the Railfan Shop in Mont Albert, VIC.  With the support of the ARE, the ATA are offering ARE members the ability to join our organisation for a one off, discounted membership fee.  The ATA have provided a flyer for this, and it has been included in the ARE’s most recent mailout.  The ARE are encouraging their membership to join our organisation.  We have expressed our appreciation to the ARE, and hope that this initiative will be successful.
+
+### 2023 AGM
+
+The date for this year’s AGM in Melbourne will be discussed at the next Committee meeting, and will be advised to members in the June Members News, in order to allow sufficient time for members to plan and be able to attend.  We hope to see as many of you as possible for this year’s AGM, the 40th held since the ATA was inaugurated.
+
+### Sydney Convenor
+
+The ATA still requires a convenor for the Sydney Division.  The ATA has been offered space at the Sydney Bus Museum in which to hold their division meetings, but we need someone to take the lead for the Division.  Please get in touch if you will be willing to assist.
+
+### ATA Website
+
+The ATA is in the final stages of preparations for the launch of the new Website, which has been built for us with the kind assistance of Transit Graphics.  The text for most pages is now being uploaded, and files attached to the old website are being transferred to the new website.  It is hoped to go live soon.
+
+### National Timetable Collection
+
+There has been a lull in activity over the Easter period, however progress on the collection continues steadily, and another batch of the collection will be deposited with the State Library of Victoria soon. The ATA will shortly take delivery of the collection of Victor Isaacs, totalling some 50 boxes of material.  Agnes, Victor’s widow has devoted a significant amount of work in sorting and cataloguing his collection for the ATA, for which we extend our sincere thanks.  We also thank the five ATA members in Canberra who greatly assisted Agnes with the cataloguing tasks.
+
+<p style="text-align:right">***Andrew James***\
+***President***</p>
+
 ## April 2023
 
 Hello everyone, and welcome to the April 2023 ATA Members News.
